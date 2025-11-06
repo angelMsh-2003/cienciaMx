@@ -1,0 +1,2118 @@
+
+------REPO 0: Aggregator of Repositorio Nacional
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/68
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/87
+OK -> ID oai:conacyt.repositorioinstitucional.mx:1000/76
+OK -> ID oai:conacyt.repositorioinstitucional.mx:1000/103
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/78
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/63
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/24
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/62
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/20
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/64
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/67
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/57
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/33
+OK -> ID oai:conacyt.repositorioinstitucional.mx:1000/75
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/52
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/60
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/90
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/48
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/50
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/26
+
+------REPO 1: Repositorio Institucional de INFOTEC
+- Numero de elementos 637
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:infotec.repositorioinstitucional.mx:1027/794
+OK -> ID oai:infotec.repositorioinstitucional.mx:1027/433
+OK -> ID oai:infotec.repositorioinstitucional.mx:1027/46
+OK -> ID oai:infotec.repositorioinstitucional.mx:1027/595
+OK -> ID oai:infotec.repositorioinstitucional.mx:1027/302
+OK -> ID oai:infotec.repositorioinstitucional.mx:1027/551
+OK -> ID oai:infotec.repositorioinstitucional.mx:1027/449
+OK -> ID oai:infotec.repositorioinstitucional.mx:1027/203
+OK -> ID oai:infotec.repositorioinstitucional.mx:1027/386
+OK -> ID oai:infotec.repositorioinstitucional.mx:1027/109
+OK -> ID oai:infotec.repositorioinstitucional.mx:1027/534
+OK -> ID oai:infotec.repositorioinstitucional.mx:1027/476
+OK -> ID oai:infotec.repositorioinstitucional.mx:1027/806
+OK -> ID oai:infotec.repositorioinstitucional.mx:1027/564
+OK -> ID oai:infotec.repositorioinstitucional.mx:1027/288
+OK -> ID oai:infotec.repositorioinstitucional.mx:1027/488
+OK -> ID oai:infotec.repositorioinstitucional.mx:1027/158
+OK -> ID oai:infotec.repositorioinstitucional.mx:1027/172
+OK -> ID oai:infotec.repositorioinstitucional.mx:1027/652
+OK -> ID oai:infotec.repositorioinstitucional.mx:1027/83
+
+------REPO 2: Repositorio Digital CIDE
+- Numero de elementos 947
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/508
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/839
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/917
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/890
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/373
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/993
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/431
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/913
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/105
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/81
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/904
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/709
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/689
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/643
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/170
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/252
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/254
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/635
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/677
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/613
+
+------REPO 3: Ameyalli - Repositorio Universitario Especializado en Comunicaci�n P�blica de la Ciencia
+- Numero de elementos 19
+- Numero de muestras 20
+Resultados: 
+Ajustando num_samples a 18 (tam maximo posible)
+Failed -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/72
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/457
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/71
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/73
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/169
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/74
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/258
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/202
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/76
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/201
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/77
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/70
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/461
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/459
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/460
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/414
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/582
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/75
+
+------REPO 4: REPOSITORIO INSTITUCIONAL DEL CIESAS
+- Numero de elementos 1864
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:ciesas.repositorioinstitucional.mx:1015/1015
+OK -> ID oai:ciesas.repositorioinstitucional.mx:1015/1028
+OK -> ID oai:ciesas.repositorioinstitucional.mx:1015/1882
+OK -> ID oai:ciesas.repositorioinstitucional.mx:1015/1586
+OK -> ID oai:ciesas.repositorioinstitucional.mx:1015/1689
+OK -> ID oai:ciesas.repositorioinstitucional.mx:1015/584
+OK -> ID oai:ciesas.repositorioinstitucional.mx:1015/381
+OK -> ID oai:ciesas.repositorioinstitucional.mx:1015/376
+OK -> ID oai:ciesas.repositorioinstitucional.mx:1015/1435
+OK -> ID oai:ciesas.repositorioinstitucional.mx:1015/1080
+OK -> ID oai:ciesas.repositorioinstitucional.mx:1015/699
+OK -> ID oai:ciesas.repositorioinstitucional.mx:1015/1539
+OK -> ID oai:ciesas.repositorioinstitucional.mx:1015/1205
+OK -> ID oai:ciesas.repositorioinstitucional.mx:1015/1270
+OK -> ID oai:ciesas.repositorioinstitucional.mx:1015/1167
+OK -> ID oai:ciesas.repositorioinstitucional.mx:1015/1674
+OK -> ID oai:ciesas.repositorioinstitucional.mx:1015/702
+OK -> ID oai:ciesas.repositorioinstitucional.mx:1015/509
+OK -> ID oai:ciesas.repositorioinstitucional.mx:1015/1704
+OK -> ID oai:ciesas.repositorioinstitucional.mx:1015/1101
+
+------REPO 5: Repositorio Institucional CIATEC
+- Numero de elementos 223
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:ciatec.repositorioinstitucional.mx:1019/120
+OK -> ID oai:ciatec.repositorioinstitucional.mx:1019/157
+OK -> ID oai:ciatec.repositorioinstitucional.mx:1019/14
+OK -> ID oai:ciatec.repositorioinstitucional.mx:1019/108
+OK -> ID oai:ciatec.repositorioinstitucional.mx:1019/69
+OK -> ID oai:ciatec.repositorioinstitucional.mx:1019/249
+OK -> ID oai:ciatec.repositorioinstitucional.mx:1019/82
+OK -> ID oai:ciatec.repositorioinstitucional.mx:1019/144
+OK -> ID oai:ciatec.repositorioinstitucional.mx:1019/63
+OK -> ID oai:ciatec.repositorioinstitucional.mx:1019/257
+OK -> ID oai:ciatec.repositorioinstitucional.mx:1019/128
+OK -> ID oai:ciatec.repositorioinstitucional.mx:1019/205
+OK -> ID oai:ciatec.repositorioinstitucional.mx:1019/167
+OK -> ID oai:ciatec.repositorioinstitucional.mx:1019/162
+OK -> ID oai:ciatec.repositorioinstitucional.mx:1019/254
+OK -> ID oai:ciatec.repositorioinstitucional.mx:1019/207
+OK -> ID oai:ciatec.repositorioinstitucional.mx:1019/68
+OK -> ID oai:ciatec.repositorioinstitucional.mx:1019/158
+OK -> ID oai:ciatec.repositorioinstitucional.mx:1019/55
+OK -> ID oai:ciatec.repositorioinstitucional.mx:1019/100
+
+------REPO 6: Repositorio IPICYT
+- Numero de elementos 2087
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/1052
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/1706
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/2548
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/1167
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/2285
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/960
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/1220
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/1204
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/2132
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/1464
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/516
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/944
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/1982
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/2170
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/2237
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/1305
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/1427
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/2536
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/1833
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/2191
+
+------REPO 7: Repositorio COLSAN
+- Numero de elementos 1682
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:colsan.repositorioinstitucional.mx:1013/728
+OK -> ID oai:colsan.repositorioinstitucional.mx:1013/967
+OK -> ID oai:colsan.repositorioinstitucional.mx:1013/883
+OK -> ID oai:colsan.repositorioinstitucional.mx:1013/1884
+OK -> ID oai:colsan.repositorioinstitucional.mx:1013/861
+OK -> ID oai:colsan.repositorioinstitucional.mx:1013/235
+OK -> ID oai:colsan.repositorioinstitucional.mx:1013/813
+OK -> ID oai:colsan.repositorioinstitucional.mx:1013/1400
+OK -> ID oai:colsan.repositorioinstitucional.mx:1013/1761
+OK -> ID oai:colsan.repositorioinstitucional.mx:1013/677
+OK -> ID oai:colsan.repositorioinstitucional.mx:1013/1543
+OK -> ID oai:colsan.repositorioinstitucional.mx:1013/1091
+OK -> ID oai:colsan.repositorioinstitucional.mx:1013/1751
+OK -> ID oai:colsan.repositorioinstitucional.mx:1013/1215
+OK -> ID oai:colsan.repositorioinstitucional.mx:1013/427
+OK -> ID oai:colsan.repositorioinstitucional.mx:1013/1168
+OK -> ID oai:colsan.repositorioinstitucional.mx:1013/1618
+OK -> ID oai:colsan.repositorioinstitucional.mx:1013/784
+OK -> ID oai:colsan.repositorioinstitucional.mx:1013/1095
+OK -> ID oai:colsan.repositorioinstitucional.mx:1013/1087
+
+------REPO 8: Repositorio Institucional INECOL
+- Numero de elementos 895
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:inecol.repositorioinstitucional.mx:1005/214
+OK -> ID oai:inecol.repositorioinstitucional.mx:1005/530
+OK -> ID oai:inecol.repositorioinstitucional.mx:1005/72
+OK -> ID oai:inecol.repositorioinstitucional.mx:1005/238
+OK -> ID oai:inecol.repositorioinstitucional.mx:1005/180
+OK -> ID oai:inecol.repositorioinstitucional.mx:1005/887
+OK -> ID oai:inecol.repositorioinstitucional.mx:1005/84
+OK -> ID oai:inecol.repositorioinstitucional.mx:1005/767
+OK -> ID oai:inecol.repositorioinstitucional.mx:1005/288
+OK -> ID oai:inecol.repositorioinstitucional.mx:1005/307
+OK -> ID oai:inecol.repositorioinstitucional.mx:1005/522
+OK -> ID oai:inecol.repositorioinstitucional.mx:1005/557
+OK -> ID oai:inecol.repositorioinstitucional.mx:1005/476
+OK -> ID oai:inecol.repositorioinstitucional.mx:1005/196
+OK -> ID oai:inecol.repositorioinstitucional.mx:1005/695
+OK -> ID oai:inecol.repositorioinstitucional.mx:1005/241
+OK -> ID oai:inecol.repositorioinstitucional.mx:1005/837
+OK -> ID oai:inecol.repositorioinstitucional.mx:1005/389
+OK -> ID oai:inecol.repositorioinstitucional.mx:1005/897
+OK -> ID oai:inecol.repositorioinstitucional.mx:1005/87
+
+------REPO 9: Repositorio Institucional CICY
+- Numero de elementos 3271
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:cicy.repositorioinstitucional.mx:1003/1596
+OK -> ID oai:cicy.repositorioinstitucional.mx:1003/3062
+OK -> ID oai:cicy.repositorioinstitucional.mx:1003/1598
+OK -> ID oai:cicy.repositorioinstitucional.mx:1003/1977
+OK -> ID oai:cicy.repositorioinstitucional.mx:1003/2910
+OK -> ID oai:cicy.repositorioinstitucional.mx:1003/1576
+OK -> ID oai:cicy.repositorioinstitucional.mx:1003/573
+OK -> ID oai:cicy.repositorioinstitucional.mx:1003/1028
+OK -> ID oai:cicy.repositorioinstitucional.mx:1003/1708
+OK -> ID oai:cicy.repositorioinstitucional.mx:1003/3003
+OK -> ID oai:cicy.repositorioinstitucional.mx:1003/3006
+OK -> ID oai:cicy.repositorioinstitucional.mx:1003/1284
+OK -> ID oai:cicy.repositorioinstitucional.mx:1003/1359
+OK -> ID oai:cicy.repositorioinstitucional.mx:1003/3195
+OK -> ID oai:cicy.repositorioinstitucional.mx:1003/1790
+OK -> ID oai:cicy.repositorioinstitucional.mx:1003/2665
+OK -> ID oai:cicy.repositorioinstitucional.mx:1003/1987
+OK -> ID oai:cicy.repositorioinstitucional.mx:1003/733
+OK -> ID oai:cicy.repositorioinstitucional.mx:1003/2268
+OK -> ID oai:cicy.repositorioinstitucional.mx:1003/3051
+
+------REPO 10: Repositorio MORA
+- Numero de elementos 837
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:mora.repositorioinstitucional.mx:1018/586
+OK -> ID oai:mora.repositorioinstitucional.mx:1018/74
+OK -> ID oai:mora.repositorioinstitucional.mx:1018/37
+OK -> ID oai:mora.repositorioinstitucional.mx:1018/479
+OK -> ID oai:mora.repositorioinstitucional.mx:1018/332
+OK -> ID oai:mora.repositorioinstitucional.mx:1018/145
+OK -> ID oai:mora.repositorioinstitucional.mx:1018/662
+OK -> ID oai:mora.repositorioinstitucional.mx:1018/661
+OK -> ID oai:mora.repositorioinstitucional.mx:1018/156
+OK -> ID oai:mora.repositorioinstitucional.mx:1018/651
+OK -> ID oai:mora.repositorioinstitucional.mx:1018/409
+OK -> ID oai:mora.repositorioinstitucional.mx:1018/179
+OK -> ID oai:mora.repositorioinstitucional.mx:1018/663
+OK -> ID oai:mora.repositorioinstitucional.mx:1018/869
+OK -> ID oai:mora.repositorioinstitucional.mx:1018/593
+OK -> ID oai:mora.repositorioinstitucional.mx:1018/148
+OK -> ID oai:mora.repositorioinstitucional.mx:1018/91
+OK -> ID oai:mora.repositorioinstitucional.mx:1018/395
+OK -> ID oai:mora.repositorioinstitucional.mx:1018/108
+OK -> ID oai:mora.repositorioinstitucional.mx:1018/807
+
+------REPO 11: Aggregator of Repositorio Nacional
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:conacyt.repositorioinstitucional.mx:1000/73
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/92
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/53
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/38
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/36
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/24
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/54
+OK -> ID oai:conacyt.repositorioinstitucional.mx:1000/103
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/83
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/81
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/82
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/95
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/36
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/30
+OK -> ID oai:conacyt.repositorioinstitucional.mx:1000/91
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/37
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/28
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/80
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/67
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/89
+
+------REPO 12: Repositorio Institucional del Centro de Investigaci�n en Qu�mica Aplicada
+- Numero de elementos 755
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:ciqa.repositorioinstitucional.mx:1025/503
+OK -> ID oai:ciqa.repositorioinstitucional.mx:1025/703
+OK -> ID oai:ciqa.repositorioinstitucional.mx:1025/84
+OK -> ID oai:ciqa.repositorioinstitucional.mx:1025/463
+OK -> ID oai:ciqa.repositorioinstitucional.mx:1025/107
+OK -> ID oai:ciqa.repositorioinstitucional.mx:1025/251
+OK -> ID oai:ciqa.repositorioinstitucional.mx:1025/641
+OK -> ID oai:ciqa.repositorioinstitucional.mx:1025/194
+OK -> ID oai:ciqa.repositorioinstitucional.mx:1025/671
+OK -> ID oai:ciqa.repositorioinstitucional.mx:1025/186
+OK -> ID oai:ciqa.repositorioinstitucional.mx:1025/691
+OK -> ID oai:ciqa.repositorioinstitucional.mx:1025/346
+OK -> ID oai:ciqa.repositorioinstitucional.mx:1025/161
+OK -> ID oai:ciqa.repositorioinstitucional.mx:1025/572
+OK -> ID oai:ciqa.repositorioinstitucional.mx:1025/650
+OK -> ID oai:ciqa.repositorioinstitucional.mx:1025/42
+OK -> ID oai:ciqa.repositorioinstitucional.mx:1025/578
+OK -> ID oai:ciqa.repositorioinstitucional.mx:1025/477
+OK -> ID oai:ciqa.repositorioinstitucional.mx:1025/208
+OK -> ID oai:ciqa.repositorioinstitucional.mx:1025/730
+
+------REPO 13: Repositorio Institucional de CIATEJ
+Algo FALLO en find_listRecords
+Error en el repositorio: 
+
+------REPO 14: Repositorio Institucional del INAOE
+- Numero de elementos 2674
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:inaoe.repositorioinstitucional.mx:1009/304
+OK -> ID oai:inaoe.repositorioinstitucional.mx:1009/645
+OK -> ID oai:inaoe.repositorioinstitucional.mx:1009/1899
+OK -> ID oai:inaoe.repositorioinstitucional.mx:1009/1920
+OK -> ID oai:inaoe.repositorioinstitucional.mx:1009/1916
+OK -> ID oai:inaoe.repositorioinstitucional.mx:1009/686
+OK -> ID oai:inaoe.repositorioinstitucional.mx:1009/1088
+OK -> ID oai:inaoe.repositorioinstitucional.mx:1009/53
+OK -> ID oai:inaoe.repositorioinstitucional.mx:1009/758
+OK -> ID oai:inaoe.repositorioinstitucional.mx:1009/1496
+OK -> ID oai:inaoe.repositorioinstitucional.mx:1009/1673
+OK -> ID oai:inaoe.repositorioinstitucional.mx:1009/2124
+OK -> ID oai:inaoe.repositorioinstitucional.mx:1009/1300
+OK -> ID oai:inaoe.repositorioinstitucional.mx:1009/575
+OK -> ID oai:inaoe.repositorioinstitucional.mx:1009/1315
+OK -> ID oai:inaoe.repositorioinstitucional.mx:1009/452
+OK -> ID oai:inaoe.repositorioinstitucional.mx:1009/72
+OK -> ID oai:inaoe.repositorioinstitucional.mx:1009/2032
+OK -> ID oai:inaoe.repositorioinstitucional.mx:1009/2192
+OK -> ID oai:inaoe.repositorioinstitucional.mx:1009/2717
+
+------REPO 15: Repositorio Institucional FLACSO M�xico
+- Numero de elementos 481
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:flacso.repositorioinstitucional.mx:1026/131
+OK -> ID oai:flacso.repositorioinstitucional.mx:1026/313
+OK -> ID oai:flacso.repositorioinstitucional.mx:1026/185
+OK -> ID oai:flacso.repositorioinstitucional.mx:1026/77
+OK -> ID oai:flacso.repositorioinstitucional.mx:1026/316
+OK -> ID oai:flacso.repositorioinstitucional.mx:1026/411
+OK -> ID oai:flacso.repositorioinstitucional.mx:1026/287
+OK -> ID oai:flacso.repositorioinstitucional.mx:1026/166
+OK -> ID oai:flacso.repositorioinstitucional.mx:1026/361
+OK -> ID oai:flacso.repositorioinstitucional.mx:1026/458
+OK -> ID oai:flacso.repositorioinstitucional.mx:1026/245
+OK -> ID oai:flacso.repositorioinstitucional.mx:1026/42
+OK -> ID oai:flacso.repositorioinstitucional.mx:1026/237
+OK -> ID oai:flacso.repositorioinstitucional.mx:1026/483
+OK -> ID oai:flacso.repositorioinstitucional.mx:1026/170
+OK -> ID oai:flacso.repositorioinstitucional.mx:1026/28
+OK -> ID oai:flacso.repositorioinstitucional.mx:1026/60
+OK -> ID oai:flacso.repositorioinstitucional.mx:1026/432
+OK -> ID oai:flacso.repositorioinstitucional.mx:1026/193
+OK -> ID oai:flacso.repositorioinstitucional.mx:1026/447
+
+------REPO 16: COMIMSA
+- Numero de elementos 382
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:comimsa.repositorioinstitucional.mx:1022/17
+OK -> ID oai:comimsa.repositorioinstitucional.mx:1022/119
+OK -> ID oai:comimsa.repositorioinstitucional.mx:1022/50
+OK -> ID oai:comimsa.repositorioinstitucional.mx:1022/53
+OK -> ID oai:comimsa.repositorioinstitucional.mx:1022/291
+OK -> ID oai:comimsa.repositorioinstitucional.mx:1022/275
+OK -> ID oai:comimsa.repositorioinstitucional.mx:1022/140
+OK -> ID oai:comimsa.repositorioinstitucional.mx:1022/410
+OK -> ID oai:comimsa.repositorioinstitucional.mx:1022/287
+OK -> ID oai:comimsa.repositorioinstitucional.mx:1022/87
+OK -> ID oai:comimsa.repositorioinstitucional.mx:1022/21
+OK -> ID oai:comimsa.repositorioinstitucional.mx:1022/127
+OK -> ID oai:comimsa.repositorioinstitucional.mx:1022/78
+OK -> ID oai:comimsa.repositorioinstitucional.mx:1022/7
+OK -> ID oai:comimsa.repositorioinstitucional.mx:1022/419
+OK -> ID oai:comimsa.repositorioinstitucional.mx:1022/171
+OK -> ID oai:comimsa.repositorioinstitucional.mx:1022/231
+OK -> ID oai:comimsa.repositorioinstitucional.mx:1022/52
+OK -> ID oai:comimsa.repositorioinstitucional.mx:1022/224
+OK -> ID oai:comimsa.repositorioinstitucional.mx:1022/58
+
+------REPO 17: Fuente de Objetos Cient�ficos Open Access
+- Numero de elementos 2657
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:cimav.repositorioinstitucional.mx:1004/1837
+OK -> ID oai:cimav.repositorioinstitucional.mx:1004/1120
+OK -> ID oai:cimav.repositorioinstitucional.mx:1004/53
+OK -> ID oai:cimav.repositorioinstitucional.mx:1004/668
+OK -> ID oai:cimav.repositorioinstitucional.mx:1004/254
+OK -> ID oai:cimav.repositorioinstitucional.mx:1004/2180
+OK -> ID oai:cimav.repositorioinstitucional.mx:1004/50
+OK -> ID oai:cimav.repositorioinstitucional.mx:1004/1825
+OK -> ID oai:cimav.repositorioinstitucional.mx:1004/164
+OK -> ID oai:cimav.repositorioinstitucional.mx:1004/884
+OK -> ID oai:cimav.repositorioinstitucional.mx:1004/1762
+OK -> ID oai:cimav.repositorioinstitucional.mx:1004/2124
+OK -> ID oai:cimav.repositorioinstitucional.mx:1004/71
+OK -> ID oai:cimav.repositorioinstitucional.mx:1004/1520
+OK -> ID oai:cimav.repositorioinstitucional.mx:1004/2699
+OK -> ID oai:cimav.repositorioinstitucional.mx:1004/439
+OK -> ID oai:cimav.repositorioinstitucional.mx:1004/1010
+OK -> ID oai:cimav.repositorioinstitucional.mx:1004/1334
+OK -> ID oai:cimav.repositorioinstitucional.mx:1004/930
+OK -> ID oai:cimav.repositorioinstitucional.mx:1004/133
+
+------REPO 18: Repositorio Institucional CICESE
+Algo FALLO en find_listRecords
+Error en el repositorio: 
+
+------REPO 19: Repositorio Institucional CIDESI
+- Numero de elementos 322
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:cidesi.repositorioinstitucional.mx:1024/455
+OK -> ID oai:cidesi.repositorioinstitucional.mx:1024/123
+OK -> ID oai:cidesi.repositorioinstitucional.mx:1024/446
+OK -> ID oai:cidesi.repositorioinstitucional.mx:1024/384
+OK -> ID oai:cidesi.repositorioinstitucional.mx:1024/258
+OK -> ID oai:cidesi.repositorioinstitucional.mx:1024/232
+OK -> ID oai:cidesi.repositorioinstitucional.mx:1024/466
+OK -> ID oai:cidesi.repositorioinstitucional.mx:1024/405
+OK -> ID oai:cidesi.repositorioinstitucional.mx:1024/323
+OK -> ID oai:cidesi.repositorioinstitucional.mx:1024/385
+OK -> ID oai:cidesi.repositorioinstitucional.mx:1024/312
+OK -> ID oai:cidesi.repositorioinstitucional.mx:1024/190
+OK -> ID oai:cidesi.repositorioinstitucional.mx:1024/225
+OK -> ID oai:cidesi.repositorioinstitucional.mx:1024/176
+OK -> ID oai:cidesi.repositorioinstitucional.mx:1024/147
+OK -> ID oai:cidesi.repositorioinstitucional.mx:1024/240
+OK -> ID oai:cidesi.repositorioinstitucional.mx:1024/396
+OK -> ID oai:cidesi.repositorioinstitucional.mx:1024/329
+OK -> ID oai:cidesi.repositorioinstitucional.mx:1024/315
+OK -> ID oai:cidesi.repositorioinstitucional.mx:1024/178
+
+------REPO 20: REPOSITORIO INSTITUCIONAL CIDETEQ
+- Numero de elementos 479
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:cideteq.repositorioinstitucional.mx:1021/444
+OK -> ID oai:cideteq.repositorioinstitucional.mx:1021/134
+OK -> ID oai:cideteq.repositorioinstitucional.mx:1021/439
+OK -> ID oai:cideteq.repositorioinstitucional.mx:1021/372
+OK -> ID oai:cideteq.repositorioinstitucional.mx:1021/193
+OK -> ID oai:cideteq.repositorioinstitucional.mx:1021/286
+OK -> ID oai:cideteq.repositorioinstitucional.mx:1021/183
+OK -> ID oai:cideteq.repositorioinstitucional.mx:1021/513
+OK -> ID oai:cideteq.repositorioinstitucional.mx:1021/432
+OK -> ID oai:cideteq.repositorioinstitucional.mx:1021/358
+OK -> ID oai:cideteq.repositorioinstitucional.mx:1021/471
+OK -> ID oai:cideteq.repositorioinstitucional.mx:1021/363
+OK -> ID oai:cideteq.repositorioinstitucional.mx:1021/296
+OK -> ID oai:cideteq.repositorioinstitucional.mx:1021/450
+OK -> ID oai:cideteq.repositorioinstitucional.mx:1021/325
+OK -> ID oai:cideteq.repositorioinstitucional.mx:1021/135
+OK -> ID oai:cideteq.repositorioinstitucional.mx:1021/393
+OK -> ID oai:cideteq.repositorioinstitucional.mx:1021/336
+OK -> ID oai:cideteq.repositorioinstitucional.mx:1021/125
+OK -> ID oai:cideteq.repositorioinstitucional.mx:1021/564
+
+------REPO 21: Repositorio Institucional CIBNOR
+Algo FALLO en find_listRecords
+Error en el repositorio: 
+
+------REPO 22: Aggregator of Repositorio Nacional
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/84
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/61
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/77
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/68
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/49
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/29
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/88
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/43
+OK -> ID oai:conacyt.repositorioinstitucional.mx:1000/93
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/71
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/35
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/81
+OK -> ID oai:conacyt.repositorioinstitucional.mx:1000/102
+OK -> ID oai:conacyt.repositorioinstitucional.mx:1000/15
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/58
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/86
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/45
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/89
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/76
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/39
+
+------REPO 23: Repositorio Institucional de COLMICH
+- Numero de elementos 1471
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:colmich.repositorioinstitucional.mx:1016/1301
+OK -> ID oai:colmich.repositorioinstitucional.mx:1016/37
+OK -> ID oai:colmich.repositorioinstitucional.mx:1016/650
+OK -> ID oai:colmich.repositorioinstitucional.mx:1016/1161
+OK -> ID oai:colmich.repositorioinstitucional.mx:1016/1155
+OK -> ID oai:colmich.repositorioinstitucional.mx:1016/1515
+OK -> ID oai:colmich.repositorioinstitucional.mx:1016/757
+OK -> ID oai:colmich.repositorioinstitucional.mx:1016/139
+OK -> ID oai:colmich.repositorioinstitucional.mx:1016/145
+OK -> ID oai:colmich.repositorioinstitucional.mx:1016/611
+OK -> ID oai:colmich.repositorioinstitucional.mx:1016/729
+OK -> ID oai:colmich.repositorioinstitucional.mx:1016/46
+OK -> ID oai:colmich.repositorioinstitucional.mx:1016/1210
+OK -> ID oai:colmich.repositorioinstitucional.mx:1016/808
+OK -> ID oai:colmich.repositorioinstitucional.mx:1016/1041
+OK -> ID oai:colmich.repositorioinstitucional.mx:1016/442
+OK -> ID oai:colmich.repositorioinstitucional.mx:1016/200
+OK -> ID oai:colmich.repositorioinstitucional.mx:1016/1327
+OK -> ID oai:colmich.repositorioinstitucional.mx:1016/1109
+OK -> ID oai:colmich.repositorioinstitucional.mx:1016/1137
+
+------REPO 24: Repositorio Institucional de CENTROGEO
+- Numero de elementos 310
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:centrogeo.repositorioinstitucional.mx:1012/110
+OK -> ID oai:centrogeo.repositorioinstitucional.mx:1012/191
+OK -> ID oai:centrogeo.repositorioinstitucional.mx:1012/25
+OK -> ID oai:centrogeo.repositorioinstitucional.mx:1012/87
+OK -> ID oai:centrogeo.repositorioinstitucional.mx:1012/258
+OK -> ID oai:centrogeo.repositorioinstitucional.mx:1012/80
+OK -> ID oai:centrogeo.repositorioinstitucional.mx:1012/107
+OK -> ID oai:centrogeo.repositorioinstitucional.mx:1012/222
+OK -> ID oai:centrogeo.repositorioinstitucional.mx:1012/268
+OK -> ID oai:centrogeo.repositorioinstitucional.mx:1012/276
+OK -> ID oai:centrogeo.repositorioinstitucional.mx:1012/156
+OK -> ID oai:centrogeo.repositorioinstitucional.mx:1012/164
+OK -> ID oai:centrogeo.repositorioinstitucional.mx:1012/242
+OK -> ID oai:centrogeo.repositorioinstitucional.mx:1012/263
+OK -> ID oai:centrogeo.repositorioinstitucional.mx:1012/179
+OK -> ID oai:centrogeo.repositorioinstitucional.mx:1012/312
+OK -> ID oai:centrogeo.repositorioinstitucional.mx:1012/185
+OK -> ID oai:centrogeo.repositorioinstitucional.mx:1012/65
+OK -> ID oai:centrogeo.repositorioinstitucional.mx:1012/51
+OK -> ID oai:centrogeo.repositorioinstitucional.mx:1012/77
+
+------REPO 25: REPOSITORIO INSTITUCIONAL DEL CIO
+- Numero de elementos 1091
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:cio.repositorioinstitucional.mx:1002/385
+OK -> ID oai:cio.repositorioinstitucional.mx:1002/992
+OK -> ID oai:cio.repositorioinstitucional.mx:1002/1285
+OK -> ID oai:cio.repositorioinstitucional.mx:1002/651
+OK -> ID oai:cio.repositorioinstitucional.mx:1002/1338
+OK -> ID oai:cio.repositorioinstitucional.mx:1002/461
+OK -> ID oai:cio.repositorioinstitucional.mx:1002/543
+OK -> ID oai:cio.repositorioinstitucional.mx:1002/1351
+OK -> ID oai:cio.repositorioinstitucional.mx:1002/1158
+OK -> ID oai:cio.repositorioinstitucional.mx:1002/993
+OK -> ID oai:cio.repositorioinstitucional.mx:1002/1097
+OK -> ID oai:cio.repositorioinstitucional.mx:1002/786
+OK -> ID oai:cio.repositorioinstitucional.mx:1002/1015
+OK -> ID oai:cio.repositorioinstitucional.mx:1002/1125
+OK -> ID oai:cio.repositorioinstitucional.mx:1002/615
+OK -> ID oai:cio.repositorioinstitucional.mx:1002/1348
+OK -> ID oai:cio.repositorioinstitucional.mx:1002/984
+OK -> ID oai:cio.repositorioinstitucional.mx:1002/355
+OK -> ID oai:cio.repositorioinstitucional.mx:1002/1272
+OK -> ID oai:cio.repositorioinstitucional.mx:1002/508
+
+------REPO 26: Repositorio Institucional CIMAT
+- Numero de elementos 1141
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:cimat.repositorioinstitucional.mx:1008/899
+OK -> ID oai:cimat.repositorioinstitucional.mx:1008/93
+OK -> ID oai:cimat.repositorioinstitucional.mx:1008/791
+OK -> ID oai:cimat.repositorioinstitucional.mx:1008/823
+OK -> ID oai:cimat.repositorioinstitucional.mx:1008/458
+OK -> ID oai:cimat.repositorioinstitucional.mx:1008/787
+OK -> ID oai:cimat.repositorioinstitucional.mx:1008/903
+OK -> ID oai:cimat.repositorioinstitucional.mx:1008/299
+OK -> ID oai:cimat.repositorioinstitucional.mx:1008/1134
+OK -> ID oai:cimat.repositorioinstitucional.mx:1008/966
+OK -> ID oai:cimat.repositorioinstitucional.mx:1008/1014
+OK -> ID oai:cimat.repositorioinstitucional.mx:1008/199
+OK -> ID oai:cimat.repositorioinstitucional.mx:1008/717
+OK -> ID oai:cimat.repositorioinstitucional.mx:1008/38
+OK -> ID oai:cimat.repositorioinstitucional.mx:1008/1081
+OK -> ID oai:cimat.repositorioinstitucional.mx:1008/583
+OK -> ID oai:cimat.repositorioinstitucional.mx:1008/1018
+OK -> ID oai:cimat.repositorioinstitucional.mx:1008/497
+OK -> ID oai:cimat.repositorioinstitucional.mx:1008/13
+OK -> ID oai:cimat.repositorioinstitucional.mx:1008/1068
+
+------REPO 27: Repositorio Institucional de ECOSUR
+- Numero de elementos 2720
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:ecosur.repositorioinstitucional.mx:1017/2831
+OK -> ID oai:ecosur.repositorioinstitucional.mx:1017/1094
+OK -> ID oai:ecosur.repositorioinstitucional.mx:1017/2352
+OK -> ID oai:ecosur.repositorioinstitucional.mx:1017/646
+OK -> ID oai:ecosur.repositorioinstitucional.mx:1017/1091
+OK -> ID oai:ecosur.repositorioinstitucional.mx:1017/1520
+OK -> ID oai:ecosur.repositorioinstitucional.mx:1017/458
+OK -> ID oai:ecosur.repositorioinstitucional.mx:1017/2126
+OK -> ID oai:ecosur.repositorioinstitucional.mx:1017/90
+OK -> ID oai:ecosur.repositorioinstitucional.mx:1017/384
+OK -> ID oai:ecosur.repositorioinstitucional.mx:1017/1602
+OK -> ID oai:ecosur.repositorioinstitucional.mx:1017/1754
+OK -> ID oai:ecosur.repositorioinstitucional.mx:1017/2277
+OK -> ID oai:ecosur.repositorioinstitucional.mx:1017/798
+OK -> ID oai:ecosur.repositorioinstitucional.mx:1017/1276
+OK -> ID oai:ecosur.repositorioinstitucional.mx:1017/536
+OK -> ID oai:ecosur.repositorioinstitucional.mx:1017/2677
+OK -> ID oai:ecosur.repositorioinstitucional.mx:1017/1404
+OK -> ID oai:ecosur.repositorioinstitucional.mx:1017/839
+OK -> ID oai:ecosur.repositorioinstitucional.mx:1017/51
+
+------REPO 28: Repositorio institucional del CIAD, A.C.
+- Numero de elementos 1363
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:ciad.repositorioinstitucional.mx:1006/1282
+OK -> ID oai:ciad.repositorioinstitucional.mx:1006/274
+OK -> ID oai:ciad.repositorioinstitucional.mx:1006/935
+OK -> ID oai:ciad.repositorioinstitucional.mx:1006/916
+OK -> ID oai:ciad.repositorioinstitucional.mx:1006/893
+OK -> ID oai:ciad.repositorioinstitucional.mx:1006/611
+OK -> ID oai:ciad.repositorioinstitucional.mx:1006/719
+OK -> ID oai:ciad.repositorioinstitucional.mx:1006/70
+OK -> ID oai:ciad.repositorioinstitucional.mx:1006/468
+OK -> ID oai:ciad.repositorioinstitucional.mx:1006/897
+OK -> ID oai:ciad.repositorioinstitucional.mx:1006/727
+OK -> ID oai:ciad.repositorioinstitucional.mx:1006/343
+OK -> ID oai:ciad.repositorioinstitucional.mx:1006/931
+OK -> ID oai:ciad.repositorioinstitucional.mx:1006/521
+OK -> ID oai:ciad.repositorioinstitucional.mx:1006/1379
+OK -> ID oai:ciad.repositorioinstitucional.mx:1006/99
+OK -> ID oai:ciad.repositorioinstitucional.mx:1006/630
+OK -> ID oai:ciad.repositorioinstitucional.mx:1006/689
+OK -> ID oai:ciad.repositorioinstitucional.mx:1006/1303
+OK -> ID oai:ciad.repositorioinstitucional.mx:1006/1259
+
+------REPO 29: Repositorio Institucional de El Colegio de la Frontera Norte
+- Numero de elementos 634
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:colef.repositorioinstitucional.mx:1014/450
+OK -> ID oai:colef.repositorioinstitucional.mx:1014/400
+OK -> ID oai:colef.repositorioinstitucional.mx:1014/69
+OK -> ID oai:colef.repositorioinstitucional.mx:1014/361
+OK -> ID oai:colef.repositorioinstitucional.mx:1014/308
+OK -> ID oai:colef.repositorioinstitucional.mx:1014/566
+OK -> ID oai:colef.repositorioinstitucional.mx:1014/584
+OK -> ID oai:colef.repositorioinstitucional.mx:1014/198
+OK -> ID oai:colef.repositorioinstitucional.mx:1014/220
+OK -> ID oai:colef.repositorioinstitucional.mx:1014/380
+OK -> ID oai:colef.repositorioinstitucional.mx:1014/284
+OK -> ID oai:colef.repositorioinstitucional.mx:1014/592
+OK -> ID oai:colef.repositorioinstitucional.mx:1014/75
+OK -> ID oai:colef.repositorioinstitucional.mx:1014/263
+OK -> ID oai:colef.repositorioinstitucional.mx:1014/294
+OK -> ID oai:colef.repositorioinstitucional.mx:1014/471
+OK -> ID oai:colef.repositorioinstitucional.mx:1014/497
+OK -> ID oai:colef.repositorioinstitucional.mx:1014/377
+OK -> ID oai:colef.repositorioinstitucional.mx:1014/139
+OK -> ID oai:colef.repositorioinstitucional.mx:1014/238
+
+------REPO 30: CIATEQ Digital
+- Numero de elementos 690
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:ciateq.repositorioinstitucional.mx:1020/716
+OK -> ID oai:ciateq.repositorioinstitucional.mx:1020/160
+OK -> ID oai:ciateq.repositorioinstitucional.mx:1020/525
+OK -> ID oai:ciateq.repositorioinstitucional.mx:1020/487
+OK -> ID oai:ciateq.repositorioinstitucional.mx:1020/669
+OK -> ID oai:ciateq.repositorioinstitucional.mx:1020/86
+OK -> ID oai:ciateq.repositorioinstitucional.mx:1020/461
+OK -> ID oai:ciateq.repositorioinstitucional.mx:1020/167
+OK -> ID oai:ciateq.repositorioinstitucional.mx:1020/70
+OK -> ID oai:ciateq.repositorioinstitucional.mx:1020/666
+OK -> ID oai:ciateq.repositorioinstitucional.mx:1020/450
+OK -> ID oai:ciateq.repositorioinstitucional.mx:1020/349
+OK -> ID oai:ciateq.repositorioinstitucional.mx:1020/188
+OK -> ID oai:ciateq.repositorioinstitucional.mx:1020/451
+OK -> ID oai:ciateq.repositorioinstitucional.mx:1020/552
+OK -> ID oai:ciateq.repositorioinstitucional.mx:1020/407
+OK -> ID oai:ciateq.repositorioinstitucional.mx:1020/245
+OK -> ID oai:ciateq.repositorioinstitucional.mx:1020/531
+OK -> ID oai:ciateq.repositorioinstitucional.mx:1020/544
+OK -> ID oai:ciateq.repositorioinstitucional.mx:1020/645
+
+------REPO 31: Ameyalli - Repositorio Universitario Especializado en Comunicaci�n P�blica de la Ciencia de la DGDC, UNAM
+- Numero de elementos 19
+- Numero de muestras 20
+Resultados: 
+Ajustando num_samples a 18 (tam maximo posible)
+Failed -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/72
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/258
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/76
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/461
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/70
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/74
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/201
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/457
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/239
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/71
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/459
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/582
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/77
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/75
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/202
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/169
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/414
+OK -> ID oai:ru.ameyalli.dgdc.unam.mx:123456789/460
+
+------REPO 32: Athenea Digital FFyL
+Algo FALLO en find_listRecords
+Error en el repositorio: 
+
+------REPO 33: Aggregator of Repositorio Nacional
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/88
+OK -> ID oai:conacyt.repositorioinstitucional.mx:1000/10
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/95
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/29
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/36
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/76
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/42
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/33
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/31
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/36
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/93
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/27
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/30
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/48
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/37
+OK -> ID oai:conacyt.repositorioinstitucional.mx:1000/74
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/20
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/61
+OK -> ID oai:conacyt.repositorioinstitucional.mx:1000/103
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/89
+
+------REPO 34: Repositorio Institucional de la Universidad Aut�noma de Ciudad Ju�rez
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-1114
+OK -> ID oai:uacj.mx:oai:elibros.uacj.mx:publicationFormat-83
+OK -> ID oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-3623
+OK -> ID oai:uacj.mx:oai:omp.omp.uacj.mx:publicationFormat-60
+OK -> ID oai:uacj.mx:oai:omp.omp.uacj.mx:publicationFormat-16
+OK -> ID oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-3279
+OK -> ID oai:uacj.mx:oai:ojs.148.210.21.112:article-657
+OK -> ID oai:uacj.mx:oai:elibros.uacj.mx:publicationFormat-112
+OK -> ID oai:uacj.mx:oai:omp.omp.uacj.mx:publicationFormat-56
+OK -> ID oai:uacj.mx:oai:cathi.uacj.mx:20.500.11961ir-10193
+OK -> ID oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-1116
+OK -> ID oai:uacj.mx:oai:omp.omp.uacj.mx:publicationFormat-10
+OK -> ID oai:uacj.mx:oai:omp.omp.uacj.mx:publicationFormat-70
+OK -> ID oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-1420
+OK -> ID oai:uacj.mx:oai:omp.omp.uacj.mx:publicationFormat-12
+OK -> ID oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-4445
+OK -> ID oai:uacj.mx:oai:ojs.148.210.21.112:article-706
+OK -> ID oai:uacj.mx:oai:omp.omp.uacj.mx:publicationFormat-21
+OK -> ID oai:uacj.mx:oai:ojs.148.210.21.112:article-343
+OK -> ID oai:uacj.mx:oai:ojs.148.210.21.112:article-191
+
+------REPO 35: Repositorio Institucional de la Universidad Aut�noma de Tamaulipas
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:riuat.uat.edu.mx:123456789/1427
+OK -> ID oai:riuat.uat.edu.mx:123456789/1387
+OK -> ID oai:riuat.uat.edu.mx:123456789/1241
+OK -> ID oai:riuat.uat.edu.mx:123456789/1401
+OK -> ID oai:riuat.uat.edu.mx:123456789/1261
+OK -> ID oai:riuat.uat.edu.mx:123456789/1423
+OK -> ID oai:riuat.uat.edu.mx:123456789/1251
+OK -> ID oai:riuat.uat.edu.mx:123456789/1381
+OK -> ID oai:riuat.uat.edu.mx:123456789/1424
+OK -> ID oai:riuat.uat.edu.mx:123456789/1238
+OK -> ID oai:riuat.uat.edu.mx:123456789/1390
+OK -> ID oai:riuat.uat.edu.mx:123456789/1375
+OK -> ID oai:riuat.uat.edu.mx:123456789/1245
+OK -> ID oai:riuat.uat.edu.mx:123456789/1249
+OK -> ID oai:riuat.uat.edu.mx:123456789/1445
+OK -> ID oai:riuat.uat.edu.mx:123456789/1385
+OK -> ID oai:riuat.uat.edu.mx:123456789/1256
+OK -> ID oai:riuat.uat.edu.mx:123456789/1438
+OK -> ID oai:riuat.uat.edu.mx:123456789/1454
+OK -> ID oai:riuat.uat.edu.mx:123456789/1386
+
+------REPO 36: Repositorio Institucional Aramara
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:dspace.uan.mx:123456789/229
+OK -> ID oai:dspace.uan.mx:123456789/104
+OK -> ID oai:dspace.uan.mx:123456789/65
+OK -> ID oai:dspace.uan.mx:123456789/54
+OK -> ID oai:dspace.uan.mx:123456789/68
+OK -> ID oai:dspace.uan.mx:123456789/318
+OK -> ID oai:dspace.uan.mx:123456789/288
+OK -> ID oai:dspace.uan.mx:123456789/217
+OK -> ID oai:dspace.uan.mx:123456789/207
+OK -> ID oai:dspace.uan.mx:123456789/152
+OK -> ID oai:dspace.uan.mx:123456789/423
+OK -> ID oai:dspace.uan.mx:123456789/78
+OK -> ID oai:dspace.uan.mx:123456789/76
+OK -> ID oai:dspace.uan.mx:123456789/368
+OK -> ID oai:dspace.uan.mx:123456789/134
+OK -> ID oai:dspace.uan.mx:123456789/316
+OK -> ID oai:dspace.uan.mx:123456789/161
+OK -> ID oai:dspace.uan.mx:123456789/390
+OK -> ID oai:dspace.uan.mx:123456789/189
+OK -> ID oai:dspace.uan.mx:123456789/210
+
+------REPO 37: Repositorio del Instituto Nacional de Pediatr�a
+Algo FALLO en find_listRecords
+Error en el repositorio: 
+
+------REPO 38: Repositorio Institucional de la Universidad de Guanajuato
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:repositorio.ugto.mx:20.500.12059/2084
+OK -> ID oai:repositorio.ugto.mx:20.500.12059/1685
+OK -> ID oai:repositorio.ugto.mx:20.500.12059/1788
+OK -> ID oai:repositorio.ugto.mx:20.500.12059/1758
+OK -> ID oai:repositorio.ugto.mx:20.500.12059/2685
+OK -> ID oai:repositorio.ugto.mx:20.500.12059/1955
+OK -> ID oai:repositorio.ugto.mx:20.500.12059/750
+OK -> ID oai:repositorio.ugto.mx:20.500.12059/4549
+OK -> ID oai:repositorio.ugto.mx:20.500.12059/672
+OK -> ID oai:repositorio.ugto.mx:20.500.12059/3871
+OK -> ID oai:repositorio.ugto.mx:20.500.12059/902
+OK -> ID oai:repositorio.ugto.mx:20.500.12059/1913
+OK -> ID oai:repositorio.ugto.mx:20.500.12059/3674
+OK -> ID oai:repositorio.ugto.mx:20.500.12059/7122
+OK -> ID oai:repositorio.ugto.mx:20.500.12059/1640
+OK -> ID oai:repositorio.ugto.mx:20.500.12059/1723
+OK -> ID oai:repositorio.ugto.mx:20.500.12059/3907
+OK -> ID oai:repositorio.ugto.mx:20.500.12059/2444
+OK -> ID oai:repositorio.ugto.mx:20.500.12059/3220
+OK -> ID oai:repositorio.ugto.mx:20.500.12059/641
+
+------REPO 39: Repositorio del Instituto Nacional de Psiquiatr�a Ram�n de la Fuente Mu�iz
+Algo FALLO en find_listRecords
+Error en el repositorio: 
+
+------REPO 40: Repositorio Institucional Caxc�n
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:http://ricaxcan.uaz.edu.mx:20.500.11845/3046
+OK -> ID oai:http://ricaxcan.uaz.edu.mx:20.500.11845/801
+OK -> ID oai:http://ricaxcan.uaz.edu.mx:20.500.11845/2342
+OK -> ID oai:http://ricaxcan.uaz.edu.mx:20.500.11845/2724
+OK -> ID oai:http://ricaxcan.uaz.edu.mx:20.500.11845/492
+OK -> ID oai:http://ricaxcan.uaz.edu.mx:20.500.11845/896
+OK -> ID oai:http://ricaxcan.uaz.edu.mx:20.500.11845/1746
+OK -> ID oai:http://ricaxcan.uaz.edu.mx:20.500.11845/1117
+OK -> ID oai:http://ricaxcan.uaz.edu.mx:20.500.11845/2861
+OK -> ID oai:http://ricaxcan.uaz.edu.mx:20.500.11845/2463
+OK -> ID oai:http://ricaxcan.uaz.edu.mx:20.500.11845/1774
+OK -> ID oai:http://ricaxcan.uaz.edu.mx:20.500.11845/1393
+OK -> ID oai:http://ricaxcan.uaz.edu.mx:20.500.11845/2217
+OK -> ID oai:http://ricaxcan.uaz.edu.mx:20.500.11845/1328
+OK -> ID oai:http://ricaxcan.uaz.edu.mx:20.500.11845/1174
+OK -> ID oai:http://ricaxcan.uaz.edu.mx:20.500.11845/3141
+OK -> ID oai:http://ricaxcan.uaz.edu.mx:20.500.11845/1826
+OK -> ID oai:http://ricaxcan.uaz.edu.mx:20.500.11845/1571
+OK -> ID oai:http://ricaxcan.uaz.edu.mx:20.500.11845/680
+OK -> ID oai:http://ricaxcan.uaz.edu.mx:20.500.11845/2977
+
+------REPO 41: Repositorio de informaci�n acad�mica, cient�fica tecnol�gica y de innovaci�n RIACTis UANL
+- Numero de elementos 81
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:riacti.uanl.mx:133
+OK -> ID oai:riacti.uanl.mx:116
+OK -> ID oai:riacti.uanl.mx:30
+OK -> ID oai:riacti.uanl.mx:31
+OK -> ID oai:riacti.uanl.mx:135
+OK -> ID oai:riacti.uanl.mx:59
+OK -> ID oai:riacti.uanl.mx:118
+OK -> ID oai:riacti.uanl.mx:64
+OK -> ID oai:riacti.uanl.mx:131
+OK -> ID oai:riacti.uanl.mx:61
+OK -> ID oai:riacti.uanl.mx:123
+OK -> ID oai:riacti.uanl.mx:11
+OK -> ID oai:riacti.uanl.mx:35
+OK -> ID oai:riacti.uanl.mx:53
+OK -> ID oai:riacti.uanl.mx:29
+OK -> ID oai:riacti.uanl.mx:127
+OK -> ID oai:riacti.uanl.mx:45
+OK -> ID oai:riacti.uanl.mx:108
+OK -> ID oai:riacti.uanl.mx:69
+OK -> ID oai:riacti.uanl.mx:137
+
+------REPO 42: Aggregator of Repositorio Nacional
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:conacyt.repositorioinstitucional.mx:1000/102
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/52
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/41
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/92
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/48
+OK -> ID oai:conacyt.repositorioinstitucional.mx:1000/15
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/81
+OK -> ID oai:conacyt.repositorioinstitucional.mx:1000/76
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/78
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/20
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/72
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/88
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/149
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/94
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/35
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/30
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/33
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/26
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/27
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/34
+
+------REPO 43: COLECCIONES DIGITALES COLMEX
+- Numero de elementos 182
+- Numero de muestras 20
+Resultados: 
+OK -> ID cc08hg12h
+OK -> ID 2r36tz12f
+OK -> ID sf268563d
+OK -> ID q237hs438
+OK -> ID qn59q450f
+OK -> ID 9p2909841
+OK -> ID 5h73pw68t
+OK -> ID bc386j86f
+OK -> ID gt54kn533
+OK -> ID v405s962n
+OK -> ID 9k41zf07g
+OK -> ID 2514nk75x
+OK -> ID 7m01bm312
+OK -> ID 5712m6745
+OK -> ID cn69m482z
+OK -> ID 6969z1495
+OK -> ID bn9997188
+OK -> ID gh93gz975
+OK -> ID wh246s63r
+OK -> ID qr46r1039
+
+------REPO 44: MEJORA Y ADECUACI�N DEL REPOSITORIO INSTITUCIONAL DE LA UNIVERSIDAD AUT�NOMA DE QUER�TARO
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:ri-ng.uaq.mx:123456789/441
+OK -> ID oai:ri-ng.uaq.mx:123456789/451
+OK -> ID oai:ri-ng.uaq.mx:123456789/10390
+OK -> ID oai:ri-ng.uaq.mx:123456789/681
+OK -> ID oai:ri-ng.uaq.mx:123456789/9874
+OK -> ID oai:ri-ng.uaq.mx:123456789/10814
+OK -> ID oai:ri-ng.uaq.mx:123456789/1046
+OK -> ID oai:ri-ng.uaq.mx:123456789/720
+OK -> ID oai:ri-ng.uaq.mx:123456789/230
+OK -> ID oai:ri-ng.uaq.mx:123456789/8965
+OK -> ID oai:ri-ng.uaq.mx:123456789/291
+OK -> ID oai:ri-ng.uaq.mx:123456789/1488
+OK -> ID oai:ri-ng.uaq.mx:123456789/332
+OK -> ID oai:ri-ng.uaq.mx:123456789/1112
+OK -> ID oai:ri-ng.uaq.mx:123456789/913
+OK -> ID oai:ri-ng.uaq.mx:123456789/528
+OK -> ID oai:ri-ng.uaq.mx:123456789/9423
+OK -> ID oai:ri-ng.uaq.mx:123456789/448
+OK -> ID oai:ri-ng.uaq.mx:123456789/1020
+OK -> ID oai:ri-ng.uaq.mx:123456789/3409
+
+------REPO 45: Repositorio Institucional Abierto de Conocimiento en Salud P�blica
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:repositorio.insp.mx:20.500.12096/6936
+OK -> ID oai:repositorio.insp.mx:20.500.12096/7817
+OK -> ID oai:repositorio.insp.mx:20.500.12096/7804
+OK -> ID oai:repositorio.insp.mx:20.500.12096/8136
+OK -> ID oai:repositorio.insp.mx:20.500.12096/7760
+OK -> ID oai:repositorio.insp.mx:20.500.12096/6981
+OK -> ID oai:repositorio.insp.mx:20.500.12096/7690
+OK -> ID oai:repositorio.insp.mx:20.500.12096/7095
+OK -> ID oai:repositorio.insp.mx:20.500.12096/6896
+OK -> ID oai:repositorio.insp.mx:20.500.12096/8198
+OK -> ID oai:repositorio.insp.mx:20.500.12096/7652
+OK -> ID oai:repositorio.insp.mx:20.500.12096/7784
+OK -> ID oai:repositorio.insp.mx:20.500.12096/8085
+OK -> ID oai:repositorio.insp.mx:20.500.12096/8229
+OK -> ID oai:repositorio.insp.mx:20.500.12096/7789
+OK -> ID oai:repositorio.insp.mx:20.500.12096/13
+OK -> ID oai:repositorio.insp.mx:20.500.12096/7757
+OK -> ID oai:repositorio.insp.mx:20.500.12096/7125
+OK -> ID oai:repositorio.insp.mx:20.500.12096/7944
+OK -> ID oai:repositorio.insp.mx:20.500.12096/7956
+
+------REPO 46: Repositorio Institucional de Acceso Abierto de la Universidad Aut�noma del Estado de Morelos
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:https://riaa.uaem.mx:20.500.12055/4915
+OK -> ID oai:https://riaa.uaem.mx:20.500.12055/3634
+OK -> ID oai:https://riaa.uaem.mx:20.500.12055/1993
+OK -> ID oai:https://riaa.uaem.mx:20.500.12055/1828
+OK -> ID oai:https://riaa.uaem.mx:20.500.12055/2571
+OK -> ID oai:https://riaa.uaem.mx:20.500.12055/1648
+OK -> ID oai:https://riaa.uaem.mx:20.500.12055/996
+OK -> ID oai:https://riaa.uaem.mx:20.500.12055/103
+OK -> ID oai:https://riaa.uaem.mx:20.500.12055/2095
+OK -> ID oai:https://riaa.uaem.mx:20.500.12055/1568
+OK -> ID oai:https://riaa.uaem.mx:20.500.12055/1496
+OK -> ID oai:https://riaa.uaem.mx:20.500.12055/4886
+OK -> ID oai:https://riaa.uaem.mx:20.500.12055/2586
+OK -> ID oai:https://riaa.uaem.mx:20.500.12055/4334
+OK -> ID oai:https://riaa.uaem.mx:20.500.12055/671
+OK -> ID oai:https://riaa.uaem.mx:20.500.12055/309
+OK -> ID oai:https://riaa.uaem.mx:20.500.12055/1273
+OK -> ID oai:https://riaa.uaem.mx:20.500.12055/4414
+OK -> ID oai:https://riaa.uaem.mx:20.500.12055/2804
+OK -> ID oai:https://riaa.uaem.mx:20.500.12055/1121
+
+------REPO 47: Repositorio  Institucional de datos cient�ficos geoespaciales del Centro de Ciencias de la Atm�sfera de la UNAM
+- Numero de elementos 10
+- Numero de muestras 20
+Resultados: 
+Ajustando num_samples a 9 (tam maximo posible)
+OK -> ID f5d87019-3867-48de-9c47-cf946fcf6bc9
+OK -> ID 3b52c504-9383-498d-9131-833006567206
+OK -> ID a0fc485c-1b62-448f-853b-b3f7dac479a4
+OK -> ID 2bea2444-657b-4904-a20f-201d5eacaa30
+OK -> ID be247b52-5813-4088-b5c1-70b6b0e77f19
+OK -> ID 4a33a84d-5daa-4e83-813d-352472ca34bc
+OK -> ID c775571d-f0ed-47f8-9d3f-ef37802ef7b9
+OK -> ID a69f2fc0-1226-409f-ab73-69a61fbc42e1
+OK -> ID fc5a9283-bc7c-4504-8355-61111d4ae4cc
+
+------REPO 48: Repositorio de datos ecol�gicos
+Algo FALLO en find_listRecords
+Error en el repositorio: 
+
+------REPO 49: Aggregator of Repositorio Nacional
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/21
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/83
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/27
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/28
+OK -> ID oai:conacyt.repositorioinstitucional.mx:1000/76
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/48
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/64
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/53
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/52
+OK -> ID oai:conacyt.repositorioinstitucional.mx:1000/103
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/32
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/36
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/88
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/85
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/20
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/29
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/81
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/55
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/90
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/32
+
+------REPO 50: Concentraci�n de Recursos de Informaci�n Cient�fica y Acad�mica, UAM Cuajimalpa
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:ilitia.cua.uam.mx:123456789/1253
+OK -> ID oai:ilitia.cua.uam.mx:123456789/1212
+OK -> ID oai:ilitia.cua.uam.mx:123456789/890
+OK -> ID oai:ilitia.cua.uam.mx:123456789/354
+OK -> ID oai:ilitia.cua.uam.mx:123456789/480
+OK -> ID oai:ilitia.cua.uam.mx:123456789/275
+OK -> ID oai:ilitia.cua.uam.mx:123456789/362
+OK -> ID oai:ilitia.cua.uam.mx:123456789/687
+OK -> ID oai:ilitia.cua.uam.mx:123456789/901
+OK -> ID oai:ilitia.cua.uam.mx:123456789/1043
+OK -> ID oai:ilitia.cua.uam.mx:123456789/651
+OK -> ID oai:ilitia.cua.uam.mx:123456789/414
+OK -> ID oai:ilitia.cua.uam.mx:123456789/1160
+OK -> ID oai:ilitia.cua.uam.mx:123456789/624
+OK -> ID oai:ilitia.cua.uam.mx:123456789/607
+OK -> ID oai:ilitia.cua.uam.mx:123456789/715
+OK -> ID oai:ilitia.cua.uam.mx:123456789/386
+OK -> ID oai:ilitia.cua.uam.mx:123456789/67
+OK -> ID oai:ilitia.cua.uam.mx:123456789/1000
+OK -> ID oai:ilitia.cua.uam.mx:123456789/370
+
+------REPO 51: Repositorio Digital CID-UAAAN
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:repositorio.uaaan.mx:123456789/2069
+OK -> ID oai:repositorio.uaaan.mx:123456789/43696
+OK -> ID oai:repositorio.uaaan.mx:123456789/48173
+OK -> ID oai:repositorio.uaaan.mx:123456789/3409
+OK -> ID oai:repositorio.uaaan.mx:123456789/2212
+OK -> ID oai:repositorio.uaaan.mx:123456789/43243
+OK -> ID oai:repositorio.uaaan.mx:123456789/45373
+OK -> ID oai:repositorio.uaaan.mx:123456789/3037
+OK -> ID oai:repositorio.uaaan.mx:123456789/44639
+OK -> ID oai:repositorio.uaaan.mx:123456789/49539
+OK -> ID oai:repositorio.uaaan.mx:123456789/48825
+OK -> ID oai:repositorio.uaaan.mx:123456789/46504
+OK -> ID oai:repositorio.uaaan.mx:123456789/6477
+OK -> ID oai:repositorio.uaaan.mx:123456789/49128
+OK -> ID oai:repositorio.uaaan.mx:123456789/5711
+OK -> ID oai:repositorio.uaaan.mx:123456789/7810
+OK -> ID oai:repositorio.uaaan.mx:123456789/3684
+OK -> ID oai:repositorio.uaaan.mx:123456789/6083
+OK -> ID oai:repositorio.uaaan.mx:123456789/44748
+OK -> ID oai:repositorio.uaaan.mx:123456789/3061
+
+------REPO 52: Memoria Institucional CISAN, Repositorio Institucional, UNAM
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:ru.micisan.unam.mx:123456789/19043
+OK -> ID oai:ru.micisan.unam.mx:123456789/19818
+OK -> ID oai:ru.micisan.unam.mx:123456789/17111
+OK -> ID oai:ru.micisan.unam.mx:123456789/19547
+OK -> ID oai:ru.micisan.unam.mx:123456789/17649
+OK -> ID oai:ru.micisan.unam.mx:123456789/20120
+OK -> ID oai:ru.micisan.unam.mx:123456789/1152
+OK -> ID oai:ru.micisan.unam.mx:123456789/21749
+OK -> ID oai:ru.micisan.unam.mx:123456789/17352
+OK -> ID oai:ru.micisan.unam.mx:123456789/346
+OK -> ID oai:ru.micisan.unam.mx:123456789/589
+OK -> ID oai:ru.micisan.unam.mx:123456789/991
+OK -> ID oai:ru.micisan.unam.mx:123456789/19172
+OK -> ID oai:ru.micisan.unam.mx:123456789/20491
+OK -> ID oai:ru.micisan.unam.mx:123456789/17850
+OK -> ID oai:ru.micisan.unam.mx:123456789/21500
+OK -> ID oai:ru.micisan.unam.mx:123456789/18036
+OK -> ID oai:ru.micisan.unam.mx:123456789/775
+OK -> ID oai:ru.micisan.unam.mx:123456789/20833
+OK -> ID oai:ru.micisan.unam.mx:123456789/19922
+
+------REPO 53: Repositorio Institucional COLSON
+Algo FALLO en find_listRecords
+Error en el repositorio: 
+
+------REPO 54: XOGI REPOSITORIO INSTITUCIONAL UAM LERMA
+- Numero de elementos 200
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:xogi.ler.uam.mx:20.500.12222/168
+OK -> ID oai:xogi.ler.uam.mx:20.500.12222/81
+OK -> ID oai:xogi.ler.uam.mx:20.500.12222/321
+OK -> ID oai:xogi.ler.uam.mx:20.500.12222/213
+OK -> ID oai:xogi.ler.uam.mx:20.500.12222/190
+OK -> ID oai:xogi.ler.uam.mx:20.500.12222/329
+OK -> ID oai:xogi.ler.uam.mx:20.500.12222/437
+OK -> ID oai:xogi.ler.uam.mx:20.500.12222/94
+OK -> ID oai:xogi.ler.uam.mx:20.500.12222/150
+OK -> ID oai:xogi.ler.uam.mx:20.500.12222/125
+OK -> ID oai:xogi.ler.uam.mx:20.500.12222/54
+OK -> ID oai:xogi.ler.uam.mx:20.500.12222/205
+OK -> ID oai:xogi.ler.uam.mx:20.500.12222/436
+OK -> ID oai:xogi.ler.uam.mx:20.500.12222/33
+OK -> ID oai:xogi.ler.uam.mx:20.500.12222/250
+OK -> ID oai:xogi.ler.uam.mx:20.500.12222/133
+OK -> ID oai:xogi.ler.uam.mx:20.500.12222/80
+OK -> ID oai:xogi.ler.uam.mx:20.500.12222/103
+OK -> ID oai:xogi.ler.uam.mx:20.500.12222/167
+OK -> ID oai:xogi.ler.uam.mx:20.500.12222/149
+
+------REPO 55: COLPOS DIGITAL
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:colposdigital.colpos.mx:10521/4146
+OK -> ID oai:colposdigital.colpos.mx:10521/3367
+OK -> ID oai:colposdigital.colpos.mx:10521/3098
+OK -> ID oai:colposdigital.colpos.mx:10521/2675
+OK -> ID oai:colposdigital.colpos.mx:10521/3890
+OK -> ID oai:colposdigital.colpos.mx:10521/3126
+OK -> ID oai:colposdigital.colpos.mx:10521/2545
+OK -> ID oai:colposdigital.colpos.mx:10521/4013
+OK -> ID oai:colposdigital.colpos.mx:10521/4238
+OK -> ID oai:colposdigital.colpos.mx:10521/3155
+OK -> ID oai:colposdigital.colpos.mx:10521/1820
+OK -> ID oai:colposdigital.colpos.mx:10521/3720
+OK -> ID oai:colposdigital.colpos.mx:10521/2588
+OK -> ID oai:colposdigital.colpos.mx:10521/1906
+OK -> ID oai:colposdigital.colpos.mx:10521/415
+OK -> ID oai:colposdigital.colpos.mx:10521/4038
+OK -> ID oai:colposdigital.colpos.mx:10521/2657
+OK -> ID oai:colposdigital.colpos.mx:10521/3920
+OK -> ID oai:colposdigital.colpos.mx:10521/3727
+OK -> ID oai:colposdigital.colpos.mx:10521/4034
+
+------REPO 56: Aggregator of Repositorio Nacional
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/27
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/20
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/62
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/43
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/39
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/32
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/28
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/65
+OK -> ID oai:conacyt.repositorioinstitucional.mx:1000/75
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/30
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/80
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/35
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/50
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/58
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/73
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/76
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/88
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/31
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/84
+OK -> ID oai:conacyt.repositorioinstitucional.mx:1000/101
+
+------REPO 57: Repositorio Institucional de Datos y Software de Investigaci�n del CIMMYT
+- Numero de elementos 59
+- Numero de muestras 20
+Resultados: 
+Failed -> ID oai:hdl.handle.net/10883/35418
+Failed -> ID oai:hdl.handle.net/10883/35110
+Failed -> ID oai:hdl.handle.net/10883/35133
+Failed -> ID oai:hdl.handle.net/10883/35388
+Failed -> ID oai:hdl.handle.net/10883/35457
+Failed -> ID oai:hdl.handle.net/10883/35526
+Failed -> ID oai:hdl.handle.net/10883/35128
+Failed -> ID oai:hdl.handle.net/10883/35393
+Failed -> ID oai:hdl.handle.net/10883/35379
+Failed -> ID oai:hdl.handle.net/10883/35305
+Failed -> ID oai:hdl.handle.net/10883/35017
+Failed -> ID oai:hdl.handle.net/10883/35383
+Failed -> ID oai:hdl.handle.net/10883/35525
+Failed -> ID oai:hdl.handle.net/10883/35391
+Failed -> ID oai:hdl.handle.net/10883/35377
+Failed -> ID oai:hdl.handle.net/10883/35086
+Failed -> ID oai:hdl.handle.net/10883/35449
+Failed -> ID oai:hdl.handle.net/10883/35098
+Failed -> ID oai:hdl.handle.net/10883/35040
+Failed -> ID oai:hdl.handle.net/10883/35075
+
+------REPO 58: REPOSITORIO INSTITUCIONAL DE LA UAEM
+Algo FALLO en find_listRecords
+Error en el repositorio: 
+
+------REPO 59: Repositorio del Instituto de Qu�mica
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:rdu.iquimica.unam.mx:20.500.12214/877
+OK -> ID oai:rdu.iquimica.unam.mx:20.500.12214/679
+OK -> ID oai:rdu.iquimica.unam.mx:20.500.12214/1065
+OK -> ID oai:rdu.iquimica.unam.mx:20.500.12214/633
+OK -> ID oai:rdu.iquimica.unam.mx:20.500.12214/1059
+OK -> ID oai:rdu.iquimica.unam.mx:20.500.12214/622
+OK -> ID oai:rdu.iquimica.unam.mx:20.500.12214/910
+OK -> ID oai:rdu.iquimica.unam.mx:20.500.12214/1014
+OK -> ID oai:rdu.iquimica.unam.mx:20.500.12214/703
+OK -> ID oai:rdu.iquimica.unam.mx:20.500.12214/1125
+OK -> ID oai:rdu.iquimica.unam.mx:20.500.12214/1058
+OK -> ID oai:rdu.iquimica.unam.mx:20.500.12214/865
+OK -> ID oai:rdu.iquimica.unam.mx:20.500.12214/968
+OK -> ID oai:rdu.iquimica.unam.mx:20.500.12214/795
+OK -> ID oai:rdu.iquimica.unam.mx:20.500.12214/1103
+OK -> ID oai:rdu.iquimica.unam.mx:20.500.12214/841
+OK -> ID oai:rdu.iquimica.unam.mx:20.500.12214/972
+OK -> ID oai:rdu.iquimica.unam.mx:20.500.12214/838
+OK -> ID oai:rdu.iquimica.unam.mx:20.500.12214/850
+OK -> ID oai:rdu.iquimica.unam.mx:20.500.12214/826
+
+------REPO 60: Repositorio Institucional UDLAP: POHUA
+Algo FALLO en find_listRecords
+Error en el repositorio: 
+
+------REPO 61: Repositorio Institucional de Publicaciones Multimedia del CIMMYT
+- Numero de elementos 59
+- Numero de muestras 20
+Resultados: 
+Failed -> ID oai:hdl.handle.net/10883/35392
+Failed -> ID oai:hdl.handle.net/10883/35037
+Failed -> ID oai:hdl.handle.net/10883/35449
+Failed -> ID oai:hdl.handle.net/10883/35383
+Failed -> ID oai:hdl.handle.net/10883/35457
+Failed -> ID oai:hdl.handle.net/10883/35381
+Failed -> ID oai:hdl.handle.net/10883/35393
+Failed -> ID oai:hdl.handle.net/10883/35420
+Failed -> ID oai:hdl.handle.net/10883/35140
+Failed -> ID oai:hdl.handle.net/10883/35052
+Failed -> ID oai:hdl.handle.net/10883/35124
+Failed -> ID oai:hdl.handle.net/10883/35086
+Failed -> ID oai:hdl.handle.net/10883/35460
+Failed -> ID oai:hdl.handle.net/10883/35525
+OK -> ID None
+Failed -> ID oai:hdl.handle.net/10883/35139
+Failed -> ID oai:hdl.handle.net/10883/35106
+Failed -> ID oai:hdl.handle.net/10883/35098
+Failed -> ID oai:hdl.handle.net/10883/35378
+Failed -> ID oai:hdl.handle.net/10883/35391
+
+------REPO 62: Repositorio Institucional de la Universidad Ju�rez Aut�noma de Tabasco
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:ri.ujat.mx:200.500.12107/4588
+OK -> ID oai:ri.ujat.mx:200.500.12107/5266
+OK -> ID oai:ri.ujat.mx:200.500.12107/5780
+OK -> ID oai:ri.ujat.mx:200.500.12107/5702
+OK -> ID oai:ri.ujat.mx:200.500.12107/6082
+OK -> ID oai:ri.ujat.mx:200.500.12107/5957
+OK -> ID oai:ri.ujat.mx:200.500.12107/5011
+OK -> ID oai:ri.ujat.mx:20.500.12107/1697
+OK -> ID oai:ri.ujat.mx:20.500.12107/1453
+OK -> ID oai:ri.ujat.mx:20.500.12107/3593
+OK -> ID oai:ri.ujat.mx:200.500.12107/4417
+OK -> ID oai:ri.ujat.mx:20.500.12107/1238
+OK -> ID oai:ri.ujat.mx:200.500.12107/5334
+OK -> ID oai:ri.ujat.mx:200.500.12107/5255
+OK -> ID oai:ri.ujat.mx:200.500.12107/6549
+OK -> ID oai:ri.ujat.mx:200.500.12107/5510
+OK -> ID oai:ri.ujat.mx:20.500.12107/2258
+OK -> ID oai:ri.ujat.mx:200.500.12107/5836
+OK -> ID oai:ri.ujat.mx:200.500.12107/5574
+OK -> ID oai:ri.ujat.mx:200.500.12107/6468
+
+------REPO 63: Repositorio de datos del Servicio Sismol�gico Nacional
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/27274
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/21177
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/8858
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/11369
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/10680
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/2583
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/5062
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/16216
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/1731
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/2233
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/14239
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/24081
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/26703
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/15425
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/12467
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/11675
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/22221
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/24236
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/3220
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/16144
+
+------REPO 64: Aggregator of Repositorio Nacional
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/30
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/71
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/51
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/26
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/69
+OK -> ID oai:conacyt.repositorioinstitucional.mx:1000/92
+OK -> ID oai:conacyt.repositorioinstitucional.mx:1000/91
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/80
+OK -> ID oai:conacyt.repositorioinstitucional.mx:1000/93
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/85
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/41
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/68
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/30
+OK -> ID oai:conacyt.repositorioinstitucional.mx:1000/102
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/33
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/29
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/50
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/97
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/66
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/31
+
+------REPO 65: Repositorio Institucional del Centro de Ciencias de la Atm�sfera de la UNAM
+- Numero de elementos 10
+- Numero de muestras 20
+Resultados: 
+Ajustando num_samples a 9 (tam maximo posible)
+OK -> ID a0fc485c-1b62-448f-853b-b3f7dac479a4
+OK -> ID a69f2fc0-1226-409f-ab73-69a61fbc42e1
+OK -> ID 2bea2444-657b-4904-a20f-201d5eacaa30
+OK -> ID be247b52-5813-4088-b5c1-70b6b0e77f19
+OK -> ID fc5a9283-bc7c-4504-8355-61111d4ae4cc
+OK -> ID c775571d-f0ed-47f8-9d3f-ef37802ef7b9
+OK -> ID 4a33a84d-5daa-4e83-813d-352472ca34bc
+OK -> ID 3b52c504-9383-498d-9131-833006567206
+OK -> ID f5d87019-3867-48de-9c47-cf946fcf6bc9
+
+------REPO 66: Repositorio Digital Institucional de la Universidad Aut�noma de Yucat�n
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:redi.uady.mx:123456789/555
+OK -> ID oai:redi.uady.mx:123456789/480
+OK -> ID oai:redi.uady.mx:123456789/475
+OK -> ID oai:redi.uady.mx:123456789/459
+OK -> ID oai:redi.uady.mx:123456789/488
+OK -> ID oai:redi.uady.mx:123456789/598
+OK -> ID oai:redi.uady.mx:123456789/643
+OK -> ID oai:redi.uady.mx:123456789/517
+OK -> ID oai:redi.uady.mx:123456789/622
+OK -> ID oai:redi.uady.mx:123456789/457
+OK -> ID oai:redi.uady.mx:123456789/420
+OK -> ID oai:redi.uady.mx:123456789/523
+OK -> ID oai:redi.uady.mx:123456789/637
+OK -> ID oai:redi.uady.mx:123456789/635
+OK -> ID oai:redi.uady.mx:123456789/432
+OK -> ID oai:redi.uady.mx:123456789/595
+OK -> ID oai:redi.uady.mx:123456789/499
+OK -> ID oai:redi.uady.mx:123456789/641
+OK -> ID oai:redi.uady.mx:123456789/414
+OK -> ID oai:redi.uady.mx:123456789/603
+
+------REPO 67: Repositorio Institucional del Instituto de Investigaciones Bibliotecol�gicas y de la Informaci�n de la Universidad Nacional Aut�noma de M�xico
+Algo FALLO en find_listRecords
+Error en el repositorio: 
+
+------REPO 68: Repositorio Institucional de la Universidad Aut�noma Metropolitana Unidad Iztapalapa
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:bindani.izt.uam.mx:vd66w0093
+OK -> ID oai:bindani.izt.uam.mx:b5644r798
+OK -> ID oai:bindani.izt.uam.mx:tb09j5928
+OK -> ID oai:bindani.izt.uam.mx:08612n776
+OK -> ID oai:bindani.izt.uam.mx:bc386j413
+OK -> ID oai:bindani.izt.uam.mx:br86b374n
+OK -> ID oai:bindani.izt.uam.mx:8s45q899w
+OK -> ID oai:bindani.izt.uam.mx:02870w04d
+OK -> ID oai:bindani.izt.uam.mx:1r66j1395
+OK -> ID oai:bindani.izt.uam.mx:xp68kg42c
+OK -> ID oai:bindani.izt.uam.mx:3n203z262
+OK -> ID oai:bindani.izt.uam.mx:mk61rh07c
+OK -> ID oai:bindani.izt.uam.mx:5999n3481
+OK -> ID oai:bindani.izt.uam.mx:qf85nb48n
+OK -> ID oai:bindani.izt.uam.mx:mp48sc984
+OK -> ID oai:bindani.izt.uam.mx:vq27zn63h
+OK -> ID oai:bindani.izt.uam.mx:sf2685293
+OK -> ID oai:bindani.izt.uam.mx:2227mp97q
+OK -> ID oai:bindani.izt.uam.mx:c821gj96t
+OK -> ID oai:bindani.izt.uam.mx:g158bh51g
+
+------REPO 69: Repositorio Institucional del Instituto de Investigaciones en Matem�ticas Aplicadas y en Sistemas
+Algo FALLO en find_listRecords
+Error en el repositorio: 
+
+------REPO 70: REPOSITORIO INSTITUCIONAL DE CONOCIMIENTO GEN�MICO
+- Numero de elementos 500
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:hdl.handle.net/20.500.12148/3QRSQN
+OK -> ID oai:hdl.handle.net/20.500.12148/PBGFYF
+OK -> ID oai:hdl.handle.net/20.500.12148/WV74WG
+OK -> ID oai:hdl.handle.net/20.500.12148/KKMQSE
+OK -> ID oai:hdl.handle.net/20.500.12148/S98HKJ
+OK -> ID oai:hdl.handle.net/20.500.12148/AS29MM
+OK -> ID oai:hdl.handle.net/20.500.12148/EZDQ0O
+OK -> ID oai:hdl.handle.net/20.500.12148/ER9XER
+OK -> ID oai:hdl.handle.net/20.500.12148/S7IBQN
+OK -> ID oai:hdl.handle.net/20.500.12148/F3ONYQ
+OK -> ID oai:hdl.handle.net/20.500.12148/PFB9OX
+OK -> ID oai:hdl.handle.net/20.500.12148/HHHNIZ
+OK -> ID oai:hdl.handle.net/20.500.12148/FSCUZP
+OK -> ID oai:hdl.handle.net/20.500.12148/OYGFHS
+OK -> ID oai:hdl.handle.net/20.500.12148/MVVYHI
+OK -> ID oai:hdl.handle.net/20.500.12148/RNYS94
+OK -> ID oai:hdl.handle.net/20.500.12148/HVX4UD
+OK -> ID oai:hdl.handle.net/20.500.12148/ECE7NG
+OK -> ID oai:hdl.handle.net/20.500.12148/KXCNZP
+OK -> ID oai:hdl.handle.net/20.500.12148/FUV9NX
+
+------REPO 71: Repositorio Institucional del Tecnol�gico de Monterrey
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:repositorio.tec.mx:11285/676326
+OK -> ID oai:repositorio.tec.mx:11285/622324
+OK -> ID oai:repositorio.tec.mx:11285/701652
+OK -> ID oai:repositorio.tec.mx:11285/702028
+OK -> ID oai:repositorio.tec.mx:11285/585978
+OK -> ID oai:repositorio.tec.mx:11285/665134
+OK -> ID oai:repositorio.tec.mx:11285/584788
+OK -> ID oai:repositorio.tec.mx:11285/586656
+OK -> ID oai:repositorio.tec.mx:11285/679120
+OK -> ID oai:repositorio.tec.mx:11285/685929
+OK -> ID oai:repositorio.tec.mx:11285/588239
+OK -> ID oai:repositorio.tec.mx:11285/681231
+OK -> ID oai:repositorio.tec.mx:11285/672256
+OK -> ID oai:repositorio.tec.mx:11285/669459
+OK -> ID oai:repositorio.tec.mx:11285/684514
+OK -> ID oai:repositorio.tec.mx:11285/625338
+OK -> ID oai:repositorio.tec.mx:11285/681705
+OK -> ID oai:repositorio.tec.mx:11285/657833
+OK -> ID oai:repositorio.tec.mx:11285/696772
+OK -> ID oai:repositorio.tec.mx:11285/662066
+
+------REPO 72: Repositorio de Recursos Geot�rmicos para M�xico
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:rigeotermia.geofisica.unam.mx:geotermmx/5147
+OK -> ID oai:rigeotermia.geofisica.unam.mx:geotermmx/1398
+OK -> ID oai:rigeotermia.geofisica.unam.mx:geotermmx/684
+OK -> ID oai:rigeotermia.geofisica.unam.mx:geotermmx/827
+OK -> ID oai:rigeotermia.geofisica.unam.mx:geotermmx/5283
+OK -> ID oai:rigeotermia.geofisica.unam.mx:geotermmx/4216
+OK -> ID oai:rigeotermia.geofisica.unam.mx:geotermmx/3665
+OK -> ID oai:rigeotermia.geofisica.unam.mx:geotermmx/4406
+OK -> ID oai:rigeotermia.geofisica.unam.mx:geotermmx/5664
+OK -> ID oai:rigeotermia.geofisica.unam.mx:geotermmx/5939
+OK -> ID oai:rigeotermia.geofisica.unam.mx:geotermmx/2027
+OK -> ID oai:rigeotermia.geofisica.unam.mx:geotermmx/6080
+OK -> ID oai:rigeotermia.geofisica.unam.mx:geotermmx/2321
+OK -> ID oai:rigeotermia.geofisica.unam.mx:geotermmx/869
+OK -> ID oai:rigeotermia.geofisica.unam.mx:geotermmx/2545
+OK -> ID oai:rigeotermia.geofisica.unam.mx:geotermmx/1714
+OK -> ID oai:rigeotermia.geofisica.unam.mx:geotermmx/6348
+OK -> ID oai:rigeotermia.geofisica.unam.mx:geotermmx/923
+OK -> ID oai:rigeotermia.geofisica.unam.mx:geotermmx/3132
+OK -> ID oai:rigeotermia.geofisica.unam.mx:geotermmx/4894
+
+------REPO 73: Aggregator of Repositorio Nacional
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/70
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/80
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/32
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/86
+OK -> ID oai:conacyt.repositorioinstitucional.mx:1000/91
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/65
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/24
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/49
+OK -> ID oai:conacyt.repositorioinstitucional.mx:1000/110
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/52
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/98
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/34
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/82
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/94
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/30
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/88
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/81
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/39
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/68
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/56
+
+------REPO 74: Repositorio Institucional NINIVE
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:repositorioinstitucional.uaslp.mx:i/2678
+OK -> ID oai:repositorioinstitucional.uaslp.mx:i/2380
+OK -> ID oai:repositorioinstitucional.uaslp.mx:i/8880
+OK -> ID oai:repositorioinstitucional.uaslp.mx:i/9216
+OK -> ID oai:repositorioinstitucional.uaslp.mx:i/2730
+OK -> ID oai:repositorioinstitucional.uaslp.mx:i/5554
+OK -> ID oai:repositorioinstitucional.uaslp.mx:i/8395
+OK -> ID oai:repositorioinstitucional.uaslp.mx:i/7609
+OK -> ID oai:repositorioinstitucional.uaslp.mx:i/2113
+OK -> ID oai:repositorioinstitucional.uaslp.mx:i/1720
+OK -> ID oai:repositorioinstitucional.uaslp.mx:i/6020
+OK -> ID oai:repositorioinstitucional.uaslp.mx:i/5518
+OK -> ID oai:repositorioinstitucional.uaslp.mx:i/6059
+OK -> ID oai:repositorioinstitucional.uaslp.mx:i/4257
+OK -> ID oai:repositorioinstitucional.uaslp.mx:i/3598
+OK -> ID oai:repositorioinstitucional.uaslp.mx:i/7733
+OK -> ID oai:repositorioinstitucional.uaslp.mx:i/5638
+OK -> ID oai:repositorioinstitucional.uaslp.mx:i/9372
+OK -> ID oai:repositorioinstitucional.uaslp.mx:i/4754
+OK -> ID oai:repositorioinstitucional.uaslp.mx:i/3890
+
+------REPO 75: Repositorio universitario de prosa cient�fica y de divulgaci�n de la Facultad de Estudios Superiores Iztacala
+- Numero de elementos 50
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:ru.iztacala.unam.mx:37
+OK -> ID oai:ru.iztacala.unam.mx:7
+OK -> ID oai:ru.iztacala.unam.mx:6
+OK -> ID oai:ru.iztacala.unam.mx:41
+OK -> ID oai:ru.iztacala.unam.mx:12
+OK -> ID oai:ru.iztacala.unam.mx:18
+OK -> ID oai:ru.iztacala.unam.mx:9
+OK -> ID oai:ru.iztacala.unam.mx:28
+OK -> ID oai:ru.iztacala.unam.mx:29
+OK -> ID oai:ru.iztacala.unam.mx:30
+OK -> ID oai:ru.iztacala.unam.mx:25
+OK -> ID oai:ru.iztacala.unam.mx:21
+OK -> ID oai:ru.iztacala.unam.mx:23
+OK -> ID oai:ru.iztacala.unam.mx:55
+OK -> ID oai:ru.iztacala.unam.mx:16
+OK -> ID oai:ru.iztacala.unam.mx:10
+OK -> ID oai:ru.iztacala.unam.mx:38
+OK -> ID oai:ru.iztacala.unam.mx:4
+OK -> ID oai:ru.iztacala.unam.mx:48
+OK -> ID oai:ru.iztacala.unam.mx:34
+
+------REPO 76: Repositorio Institucional RUTIC
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:repositorio.tic.unam.mx:123456789/3704
+OK -> ID oai:repositorio.tic.unam.mx:123456789/3715
+OK -> ID oai:repositorio.tic.unam.mx:123456789/3475
+OK -> ID oai:repositorio.tic.unam.mx:123456789/3742
+OK -> ID oai:repositorio.tic.unam.mx:123456789/3750
+OK -> ID oai:repositorio.tic.unam.mx:123456789/3872
+OK -> ID oai:repositorio.tic.unam.mx:123456789/3798
+OK -> ID oai:repositorio.tic.unam.mx:123456789/3687
+OK -> ID oai:repositorio.tic.unam.mx:123456789/3720
+OK -> ID oai:repositorio.tic.unam.mx:123456789/3738
+OK -> ID oai:repositorio.tic.unam.mx:123456789/2749
+OK -> ID oai:repositorio.tic.unam.mx:123456789/3873
+OK -> ID oai:repositorio.tic.unam.mx:123456789/3694
+OK -> ID oai:repositorio.tic.unam.mx:123456789/3682
+OK -> ID oai:repositorio.tic.unam.mx:123456789/3692
+OK -> ID oai:repositorio.tic.unam.mx:123456789/3751
+OK -> ID oai:repositorio.tic.unam.mx:123456789/3677
+OK -> ID oai:repositorio.tic.unam.mx:123456789/3983
+OK -> ID oai:repositorio.tic.unam.mx:123456789/3915
+OK -> ID oai:repositorio.tic.unam.mx:123456789/3861
+
+------REPO 77: REPOSITORIO INSTITUCIONAL SCRIPTA DE LA UNIVERSIDAD PANAMERICANA
+Algo FALLO en find_listRecords
+Error en el repositorio: 
+
+------REPO 78: Repositorio Institucional SISBIUQROO
+Algo FALLO en find_listRecords
+Error en el repositorio: 
+
+------REPO 79: Repositorio Institucional UnADM
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:www.repositorio.unadmexico.mx:123456789/237
+OK -> ID oai:www.repositorio.unadmexico.mx:123456789/182
+OK -> ID oai:www.repositorio.unadmexico.mx:123456789/311
+OK -> ID oai:www.repositorio.unadmexico.mx:123456789/247
+OK -> ID oai:www.repositorio.unadmexico.mx:123456789/288
+OK -> ID oai:www.repositorio.unadmexico.mx:123456789/402
+OK -> ID oai:www.repositorio.unadmexico.mx:123456789/372
+OK -> ID oai:www.repositorio.unadmexico.mx:123456789/226
+OK -> ID oai:www.repositorio.unadmexico.mx:123456789/403
+OK -> ID oai:www.repositorio.unadmexico.mx:123456789/351
+OK -> ID oai:www.repositorio.unadmexico.mx:123456789/299
+OK -> ID oai:www.repositorio.unadmexico.mx:123456789/383
+OK -> ID oai:www.repositorio.unadmexico.mx:123456789/211
+OK -> ID oai:www.repositorio.unadmexico.mx:123456789/394
+OK -> ID oai:www.repositorio.unadmexico.mx:123456789/342
+OK -> ID oai:www.repositorio.unadmexico.mx:123456789/269
+OK -> ID oai:www.repositorio.unadmexico.mx:123456789/321
+OK -> ID oai:www.repositorio.unadmexico.mx:123456789/249
+OK -> ID oai:www.repositorio.unadmexico.mx:123456789/337
+OK -> ID oai:www.repositorio.unadmexico.mx:123456789/330
+
+------REPO 80: Repositorio de acceso abierto a la informaci�n cient�fica, tecnol�gica y de innovaci�n del centro de biotecnolog�a gen�mica del IPN: Doctorado en Ciencias en Biotecnolog�a en Red del IPN
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:rdcb.cbg.ipn.mx:20.500.12273/186
+OK -> ID oai:rdcb.cbg.ipn.mx:20.500.12273/257
+OK -> ID oai:rdcb.cbg.ipn.mx:20.500.12273/109
+OK -> ID oai:rdcb.cbg.ipn.mx:20.500.12273/177
+OK -> ID oai:rdcb.cbg.ipn.mx:20.500.12273/149
+OK -> ID oai:rdcb.cbg.ipn.mx:20.500.12273/163
+OK -> ID oai:rdcb.cbg.ipn.mx:20.500.12273/351
+OK -> ID oai:rdcb.cbg.ipn.mx:20.500.12273/456
+OK -> ID oai:rdcb.cbg.ipn.mx:20.500.12273/380
+OK -> ID oai:rdcb.cbg.ipn.mx:20.500.12273/485
+OK -> ID oai:rdcb.cbg.ipn.mx:20.500.12273/80
+OK -> ID oai:rdcb.cbg.ipn.mx:20.500.12273/582
+OK -> ID oai:rdcb.cbg.ipn.mx:20.500.12273/634
+OK -> ID oai:rdcb.cbg.ipn.mx:20.500.12273/535
+OK -> ID oai:rdcb.cbg.ipn.mx:20.500.12273/526
+OK -> ID oai:rdcb.cbg.ipn.mx:20.500.12273/116
+OK -> ID oai:rdcb.cbg.ipn.mx:20.500.12273/631
+OK -> ID oai:rdcb.cbg.ipn.mx:20.500.12273/613
+OK -> ID oai:rdcb.cbg.ipn.mx:20.500.12273/590
+OK -> ID oai:rdcb.cbg.ipn.mx:20.500.12273/566
+
+------REPO 81: Repositorio Institucional de la Universidad Michoacana de San Nicol�s de Hidalgo
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+Algo fallo: HTTPConnectionPool(host='bibliotecavirtual.dgb.umich.mx', port=8083): Read timed out. (read timeout=10)
+Algo fallo: HTTPConnectionPool(host='bibliotecavirtual.dgb.umich.mx', port=8083): Read timed out. (read timeout=10)
+Algo fallo: HTTPConnectionPool(host='bibliotecavirtual.dgb.umich.mx', port=8083): Read timed out. (read timeout=10)
+Algo fallo: HTTPConnectionPool(host='bibliotecavirtual.dgb.umich.mx', port=8083): Read timed out. (read timeout=10)
+Algo fallo: HTTPConnectionPool(host='bibliotecavirtual.dgb.umich.mx', port=8083): Read timed out. (read timeout=10)
+Algo fallo: HTTPConnectionPool(host='bibliotecavirtual.dgb.umich.mx', port=8083): Read timed out. (read timeout=10)
+Algo fallo: HTTPConnectionPool(host='bibliotecavirtual.dgb.umich.mx', port=8083): Read timed out. (read timeout=10)
+Algo fallo: HTTPConnectionPool(host='bibliotecavirtual.dgb.umich.mx', port=8083): Read timed out. (read timeout=10)
+Algo fallo: HTTPConnectionPool(host='bibliotecavirtual.dgb.umich.mx', port=8083): Read timed out. (read timeout=10)
+Algo fallo: HTTPConnectionPool(host='bibliotecavirtual.dgb.umich.mx', port=8083): Read timed out. (read timeout=10)
+Algo fallo: HTTPConnectionPool(host='bibliotecavirtual.dgb.umich.mx', port=8083): Read timed out. (read timeout=10)
+Algo fallo: HTTPConnectionPool(host='bibliotecavirtual.dgb.umich.mx', port=8083): Read timed out. (read timeout=10)
+OK -> ID oai:bibliotecavirtual.dgb.umich.mx:DGB_UMICH/269
+Algo fallo: HTTPConnectionPool(host='bibliotecavirtual.dgb.umich.mx', port=8083): Read timed out. (read timeout=10)
+Algo fallo: HTTPConnectionPool(host='bibliotecavirtual.dgb.umich.mx', port=8083): Read timed out. (read timeout=10)
+Algo fallo: HTTPConnectionPool(host='bibliotecavirtual.dgb.umich.mx', port=8083): Read timed out. (read timeout=10)
+Algo fallo: HTTPConnectionPool(host='bibliotecavirtual.dgb.umich.mx', port=8083): Read timed out. (read timeout=10)
+Algo fallo: HTTPConnectionPool(host='bibliotecavirtual.dgb.umich.mx', port=8083): Read timed out. (read timeout=10)
+Algo fallo: HTTPConnectionPool(host='bibliotecavirtual.dgb.umich.mx', port=8083): Read timed out. (read timeout=10)
+Algo fallo: HTTPConnectionPool(host='bibliotecavirtual.dgb.umich.mx', port=8083): Read timed out. (read timeout=10)
+
+------REPO 82: Repositorio Institucional de Acceso Abierto RIAA-BUAP
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:repositorioinstitucional.buap.mx:20.500.12371/14705
+OK -> ID oai:repositorioinstitucional.buap.mx:20.500.12371/2434
+OK -> ID oai:repositorioinstitucional.buap.mx:20.500.12371/14580
+OK -> ID oai:repositorioinstitucional.buap.mx:20.500.12371/19935
+OK -> ID oai:repositorioinstitucional.buap.mx:20.500.12371/10231
+OK -> ID oai:repositorioinstitucional.buap.mx:20.500.12371/29261
+OK -> ID oai:repositorioinstitucional.buap.mx:20.500.12371/12897
+OK -> ID oai:repositorioinstitucional.buap.mx:20.500.12371/10220
+OK -> ID oai:repositorioinstitucional.buap.mx:20.500.12371/2346
+OK -> ID oai:repositorioinstitucional.buap.mx:20.500.12371/9010
+OK -> ID oai:repositorioinstitucional.buap.mx:20.500.12371/2392
+OK -> ID oai:repositorioinstitucional.buap.mx:20.500.12371/6066
+OK -> ID oai:repositorioinstitucional.buap.mx:20.500.12371/27177
+OK -> ID oai:repositorioinstitucional.buap.mx:20.500.12371/16790
+OK -> ID oai:repositorioinstitucional.buap.mx:20.500.12371/17458
+OK -> ID oai:repositorioinstitucional.buap.mx:20.500.12371/28203
+OK -> ID oai:repositorioinstitucional.buap.mx:20.500.12371/15142
+OK -> ID oai:repositorioinstitucional.buap.mx:20.500.12371/4832
+OK -> ID oai:repositorioinstitucional.buap.mx:20.500.12371/6240
+OK -> ID oai:repositorioinstitucional.buap.mx:20.500.12371/15781
+
+------REPO 83: Aggregator of Repositorio Nacional
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/49
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/59
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/89
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/37
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/50
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/35
+OK -> ID oai:conacyt.repositorioinstitucional.mx:1000/101
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/93
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/96
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/33
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/51
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/27
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/43
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/24
+OK -> ID oai:conacyt.repositorioinstitucional.mx:1000/73
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/25
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/75
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/97
+OK -> ID oai:conacyt.repositorioinstitucional.mx:1000/107
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/79
+
+------REPO 84: Repositorio Institucional Universidad Iberoamericana Ciudad de M�xico
+Algo FALLO en find_listRecords
+Error en el repositorio: 
+
+------REPO 85: Repositorio Institucional de Ciencia Abierta de la Universidad Aut�noma de Guerrero
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:ri.uagro.mx:uagro/2904
+OK -> ID oai:ri.uagro.mx:uagro/1264
+OK -> ID oai:ri.uagro.mx:uagro/4835
+OK -> ID oai:ri.uagro.mx:uagro/2488
+OK -> ID oai:ri.uagro.mx:uagro/3537
+OK -> ID oai:ri.uagro.mx:uagro/801
+OK -> ID oai:ri.uagro.mx:uagro/3892
+OK -> ID oai:ri.uagro.mx:uagro/4868
+OK -> ID oai:ri.uagro.mx:uagro/3768
+OK -> ID oai:ri.uagro.mx:uagro/841
+OK -> ID oai:ri.uagro.mx:uagro/3287
+OK -> ID oai:ri.uagro.mx:uagro/820
+OK -> ID oai:ri.uagro.mx:uagro/1382
+OK -> ID oai:ri.uagro.mx:uagro/5169
+OK -> ID oai:ri.uagro.mx:uagro/3447
+OK -> ID oai:ri.uagro.mx:uagro/1081
+OK -> ID oai:ri.uagro.mx:uagro/4876
+OK -> ID oai:ri.uagro.mx:uagro/1841
+OK -> ID oai:ri.uagro.mx:uagro/1242
+OK -> ID oai:ri.uagro.mx:uagro/3448
+
+------REPO 86: Repositorio Institucional de Literatura del IPN-CIIDIR Unidad Oaxaca
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:literatura.ciidiroaxaca.ipn.mx:LITER_CIIDIROAX/129
+OK -> ID oai:literatura.ciidiroaxaca.ipn.mx:LITER_CIIDIROAX/399
+OK -> ID oai:literatura.ciidiroaxaca.ipn.mx:LITER_CIIDIROAX/674
+OK -> ID oai:literatura.ciidiroaxaca.ipn.mx:LITER_CIIDIROAX/687
+OK -> ID oai:literatura.ciidiroaxaca.ipn.mx:LITER_CIIDIROAX/162
+OK -> ID oai:literatura.ciidiroaxaca.ipn.mx:LITER_CIIDIROAX/572
+OK -> ID oai:literatura.ciidiroaxaca.ipn.mx:LITER_CIIDIROAX/72
+OK -> ID oai:literatura.ciidiroaxaca.ipn.mx:LITER_CIIDIROAX/20
+OK -> ID oai:literatura.ciidiroaxaca.ipn.mx:LITER_CIIDIROAX/23
+OK -> ID oai:literatura.ciidiroaxaca.ipn.mx:LITER_CIIDIROAX/97
+OK -> ID oai:literatura.ciidiroaxaca.ipn.mx:LITER_CIIDIROAX/170
+OK -> ID oai:literatura.ciidiroaxaca.ipn.mx:LITER_CIIDIROAX/254
+OK -> ID oai:literatura.ciidiroaxaca.ipn.mx:LITER_CIIDIROAX/47
+OK -> ID oai:literatura.ciidiroaxaca.ipn.mx:LITER_CIIDIROAX/417
+OK -> ID oai:literatura.ciidiroaxaca.ipn.mx:LITER_CIIDIROAX/434
+OK -> ID oai:literatura.ciidiroaxaca.ipn.mx:LITER_CIIDIROAX/364
+OK -> ID oai:literatura.ciidiroaxaca.ipn.mx:LITER_CIIDIROAX/327
+OK -> ID oai:literatura.ciidiroaxaca.ipn.mx:LITER_CIIDIROAX/132
+OK -> ID oai:literatura.ciidiroaxaca.ipn.mx:LITER_CIIDIROAX/268
+OK -> ID oai:literatura.ciidiroaxaca.ipn.mx:LITER_CIIDIROAX/616
+
+------REPO 87: Repositorio Institucional de Colecciones Cient�ficas del IPN-CIIDIR Unidad Oaxaca
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:colecciones.ciidiroaxaca.ipn.mx:COLEC_CIIDIROAX/159
+OK -> ID oai:colecciones.ciidiroaxaca.ipn.mx:COLEC_CIIDIROAX/127
+OK -> ID oai:colecciones.ciidiroaxaca.ipn.mx:COLEC_CIIDIROAX/246
+OK -> ID oai:colecciones.ciidiroaxaca.ipn.mx:COLEC_CIIDIROAX/317
+OK -> ID oai:colecciones.ciidiroaxaca.ipn.mx:COLEC_CIIDIROAX/190
+OK -> ID oai:colecciones.ciidiroaxaca.ipn.mx:COLEC_CIIDIROAX/255
+OK -> ID oai:colecciones.ciidiroaxaca.ipn.mx:COLEC_CIIDIROAX/151
+OK -> ID oai:colecciones.ciidiroaxaca.ipn.mx:COLEC_CIIDIROAX/187
+OK -> ID oai:colecciones.ciidiroaxaca.ipn.mx:COLEC_CIIDIROAX/156
+OK -> ID oai:colecciones.ciidiroaxaca.ipn.mx:COLEC_CIIDIROAX/120
+OK -> ID oai:colecciones.ciidiroaxaca.ipn.mx:COLEC_CIIDIROAX/196
+OK -> ID oai:colecciones.ciidiroaxaca.ipn.mx:COLEC_CIIDIROAX/269
+OK -> ID oai:colecciones.ciidiroaxaca.ipn.mx:COLEC_CIIDIROAX/87
+OK -> ID oai:colecciones.ciidiroaxaca.ipn.mx:COLEC_CIIDIROAX/147
+OK -> ID oai:colecciones.ciidiroaxaca.ipn.mx:COLEC_CIIDIROAX/113
+OK -> ID oai:colecciones.ciidiroaxaca.ipn.mx:COLEC_CIIDIROAX/310
+OK -> ID oai:colecciones.ciidiroaxaca.ipn.mx:COLEC_CIIDIROAX/382
+OK -> ID oai:colecciones.ciidiroaxaca.ipn.mx:COLEC_CIIDIROAX/146
+OK -> ID oai:colecciones.ciidiroaxaca.ipn.mx:COLEC_CIIDIROAX/124
+OK -> ID oai:colecciones.ciidiroaxaca.ipn.mx:COLEC_CIIDIROAX/153
+
+------REPO 88: Repositorio Institucional Zaloamati
+Algo FALLO en find_listRecords
+Error en el repositorio: 
+
+------REPO 89: Repositorio Institucional UTM
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:repositorio:123456789/220
+OK -> ID oai:repositorio:123456789/449
+OK -> ID oai:repositorio:123456789/140
+OK -> ID oai:repositorio:123456789/345
+OK -> ID oai:repositorio:123456789/361
+OK -> ID oai:repositorio:123456789/328
+OK -> ID oai:repositorio:123456789/336
+OK -> ID oai:repositorio:123456789/366
+OK -> ID oai:repositorio:123456789/313
+OK -> ID oai:repositorio:123456789/421
+OK -> ID oai:repositorio:123456789/312
+OK -> ID oai:repositorio:123456789/322
+OK -> ID oai:repositorio:123456789/194
+OK -> ID oai:repositorio:123456789/438
+OK -> ID oai:repositorio:123456789/319
+OK -> ID oai:repositorio:123456789/386
+OK -> ID oai:repositorio:123456789/74
+OK -> ID oai:repositorio:123456789/260
+OK -> ID oai:repositorio:123456789/138
+OK -> ID oai:repositorio:123456789/53
+
+------REPO 90: Repositorio Institucional Hist�ricas-UNAM
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:ru.historicas.unam.mx:20.500.12525/1078
+OK -> ID oai:ru.historicas.unam.mx:20.500.12525/218
+OK -> ID oai:ru.historicas.unam.mx:20.500.12525/3845
+OK -> ID oai:ru.historicas.unam.mx:20.500.12525/5748
+OK -> ID oai:ru.historicas.unam.mx:20.500.12525/1501
+OK -> ID oai:ru.historicas.unam.mx:20.500.12525/8275
+OK -> ID oai:ru.historicas.unam.mx:20.500.12525/8049
+OK -> ID oai:ru.historicas.unam.mx:20.500.12525/3129
+OK -> ID oai:ru.historicas.unam.mx:20.500.12525/3122
+OK -> ID oai:ru.historicas.unam.mx:20.500.12525/3370
+OK -> ID oai:ru.historicas.unam.mx:20.500.12525/4888
+OK -> ID oai:ru.historicas.unam.mx:20.500.12525/578
+OK -> ID oai:ru.historicas.unam.mx:20.500.12525/3854
+OK -> ID oai:ru.historicas.unam.mx:20.500.12525/5779
+OK -> ID oai:ru.historicas.unam.mx:20.500.12525/4744
+OK -> ID oai:ru.historicas.unam.mx:20.500.12525/5828
+OK -> ID oai:ru.historicas.unam.mx:20.500.12525/4932
+OK -> ID oai:ru.historicas.unam.mx:20.500.12525/646
+OK -> ID oai:ru.historicas.unam.mx:20.500.12525/8347
+OK -> ID oai:ru.historicas.unam.mx:20.500.12525/289
+
+------REPO 91: Repositorio Institucional de la Facultad de Medicina,UNAM.Departamento de Microbiologia y Parasitologia
+- Numero de elementos 0
+- Numero de muestras 20
+Resultados: 
+Ajustando num_samples a -1 (tam maximo posible)
+
+------REPO 92: Repositorio Nacional
+- Numero de elementos 16
+- Numero de muestras 20
+Resultados: 
+Ajustando num_samples a 15 (tam maximo posible)
+OK -> ID oai:conahcyt.repositorioinstitucional.mx:1000/48
+OK -> ID oai:conahcyt.repositorioinstitucional.mx:1000/42
+OK -> ID oai:conahcyt.repositorioinstitucional.mx:1000/53
+OK -> ID oai:conahcyt.repositorioinstitucional.mx:1000/44
+OK -> ID oai:conahcyt.repositorioinstitucional.mx:1000/40
+OK -> ID oai:conahcyt.repositorioinstitucional.mx:1000/52
+OK -> ID oai:conahcyt.repositorioinstitucional.mx:1000/54
+OK -> ID oai:conahcyt.repositorioinstitucional.mx:1000/47
+OK -> ID oai:conahcyt.repositorioinstitucional.mx:1000/51
+OK -> ID oai:conahcyt.repositorioinstitucional.mx:1000/39
+OK -> ID oai:conahcyt.repositorioinstitucional.mx:1000/46
+OK -> ID oai:conahcyt.repositorioinstitucional.mx:1000/38
+OK -> ID oai:conahcyt.repositorioinstitucional.mx:1000/55
+OK -> ID oai:conahcyt.repositorioinstitucional.mx:1000/43
+OK -> ID oai:conahcyt.repositorioinstitucional.mx:1000/45
+
+------REPO 93: Repositorio UNINMAR del Instituto de Ciencias del Mar y Limnolog�a
+Algo FALLO en find_listRecords
+Error en el repositorio: 
+
+------REPO 94: Aggregator of Repositorio Nacional
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/69
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/74
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/27
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/68
+OK -> ID oai:conacyt.repositorioinstitucional.mx:1000/103
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/34
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/81
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/60
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/37
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/51
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/70
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/73
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/97
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/71
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/78
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/36
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/43
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/149
+OK -> ID oai:cide.repositorioinstitucional.mx:1011/25
+OK -> ID oai:ipicyt.repositorioinstitucional.mx:1010/41
+
+------REPO 95: REPOSITORIO INSTITUCIONAL DEL TECNOLOGICO NACIONAL DE MEXICO
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:rinacional.tecnm.mx:TecNM/5239
+OK -> ID oai:rinacional.tecnm.mx:TecNM/4767
+OK -> ID oai:rinacional.tecnm.mx:TecNM/1210
+OK -> ID oai:rinacional.tecnm.mx:TecNM/5211
+OK -> ID oai:rinacional.tecnm.mx:TecNM/2565
+OK -> ID oai:rinacional.tecnm.mx:TecNM/5136
+OK -> ID oai:rinacional.tecnm.mx:TecNM/1569
+OK -> ID oai:rinacional.tecnm.mx:TecNM/3465
+OK -> ID oai:rinacional.tecnm.mx:TecNM/730
+OK -> ID oai:rinacional.tecnm.mx:TecNM/4222
+OK -> ID oai:rinacional.tecnm.mx:TecNM/2687
+OK -> ID oai:rinacional.tecnm.mx:TecNM/5024
+OK -> ID oai:rinacional.tecnm.mx:TecNM/1352
+OK -> ID oai:rinacional.tecnm.mx:TecNM/5349
+OK -> ID oai:rinacional.tecnm.mx:TecNM/4430
+OK -> ID oai:rinacional.tecnm.mx:TecNM/3686
+OK -> ID oai:rinacional.tecnm.mx:TecNM/4090
+OK -> ID oai:rinacional.tecnm.mx:TecNM/5535
+OK -> ID oai:rinacional.tecnm.mx:TecNM/2624
+OK -> ID oai:rinacional.tecnm.mx:TecNM/5147
+
+------REPO 96: RI-UPPue: repositorio institucional de la Universidad Polit�cnica de Puebla
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:repositorio.uppuebla.edu.mx:123456789/81
+OK -> ID oai:repositorio.uppuebla.edu.mx:123456789/363
+OK -> ID oai:repositorio.uppuebla.edu.mx:123456789/54
+OK -> ID oai:repositorio.uppuebla.edu.mx:123456789/324
+OK -> ID oai:repositorio.uppuebla.edu.mx:123456789/87
+OK -> ID oai:repositorio.uppuebla.edu.mx:123456789/325
+OK -> ID oai:repositorio.uppuebla.edu.mx:123456789/153
+OK -> ID oai:repositorio.uppuebla.edu.mx:123456789/378
+OK -> ID oai:repositorio.uppuebla.edu.mx:123456789/129
+OK -> ID oai:repositorio.uppuebla.edu.mx:123456789/103
+OK -> ID oai:repositorio.uppuebla.edu.mx:123456789/396
+OK -> ID oai:repositorio.uppuebla.edu.mx:123456789/355
+OK -> ID oai:repositorio.uppuebla.edu.mx:123456789/82
+OK -> ID oai:repositorio.uppuebla.edu.mx:123456789/345
+OK -> ID oai:repositorio.uppuebla.edu.mx:123456789/38
+OK -> ID oai:repositorio.uppuebla.edu.mx:123456789/65
+OK -> ID oai:repositorio.uppuebla.edu.mx:123456789/72
+OK -> ID oai:repositorio.uppuebla.edu.mx:123456789/230
+OK -> ID oai:repositorio.uppuebla.edu.mx:123456789/112
+OK -> ID oai:repositorio.uppuebla.edu.mx:123456789/223
+
+------REPO 97: Repositorio de la Facultad de Ciencias UNAM
+- Numero de elementos 0
+- Numero de muestras 20
+Resultados: 
+Ajustando num_samples a -1 (tam maximo posible)
+
+------REPO 98: Repositorio Institucional UNICACH
+- Numero de elementos 8
+- Numero de muestras 20
+Resultados: 
+Ajustando num_samples a 7 (tam maximo posible)
+OK -> ID oai:repositorio.unicach.mx:20.500.12753/4996
+OK -> ID oai:repositorio.unicach.mx:20.500.12753/1835
+OK -> ID oai:repositorio.unicach.mx:20.500.12753/1860
+OK -> ID oai:repositorio.unicach.mx:20.500.12753/1829
+OK -> ID oai:repositorio.unicach.mx:20.500.12753/1864
+OK -> ID oai:repositorio.unicach.mx:20.500.12753/1862
+OK -> ID oai:repositorio.unicach.mx:20.500.12753/1832
+
+------REPO 99: Cenotes de Yucatan
+- Numero de elementos 250
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:cenoteando.org:Cenotes/77
+OK -> ID oai:cenoteando.org:Cenotes/148
+OK -> ID oai:cenoteando.org:Cenotes/222
+OK -> ID oai:cenoteando.org:Cenotes/1088
+OK -> ID oai:cenoteando.org:Cenotes/220
+OK -> ID oai:cenoteando.org:Cenotes/1992
+OK -> ID oai:cenoteando.org:Cenotes/106
+OK -> ID oai:cenoteando.org:Cenotes/2057
+OK -> ID oai:cenoteando.org:Cenotes/29
+OK -> ID oai:cenoteando.org:Cenotes/60
+OK -> ID oai:cenoteando.org:Cenotes/175
+OK -> ID oai:cenoteando.org:Cenotes/157
+OK -> ID oai:cenoteando.org:Cenotes/174
+OK -> ID oai:cenoteando.org:Cenotes/91
+OK -> ID oai:cenoteando.org:Cenotes/214
+OK -> ID oai:cenoteando.org:Cenotes/225
+OK -> ID oai:cenoteando.org:Cenotes/134
+OK -> ID oai:cenoteando.org:Cenotes/83
+OK -> ID oai:cenoteando.org:Cenotes/169
+OK -> ID oai:cenoteando.org:Cenotes/25
+
+------REPO 100: Repositorio de Literatura del Servicio Sismol�gico Nacional
+- Numero de elementos 23
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/43
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/14563
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/14560
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/46
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/14564
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/39
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/31
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/45
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/14566
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/48
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/14562
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/14569
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/14568
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/41
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/47
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/14567
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/14570
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/44
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/14565
+OK -> ID oai:rigeofisica.ssn.unam.mx:ssnmx/42
+
+------REPO 101: XPLORA
+- Numero de elementos 100
+- Numero de muestras 20
+Resultados: 
+OK -> ID oai:rixplora.upn.mx:RIUPN/80
+OK -> ID oai:rixplora.upn.mx:RIUPN/77
+OK -> ID oai:rixplora.upn.mx:RIUPN/81
+OK -> ID oai:rixplora.upn.mx:RIUPN/45
+OK -> ID oai:rixplora.upn.mx:RIUPN/59
+OK -> ID oai:rixplora.upn.mx:RIUPN/47
+OK -> ID oai:rixplora.upn.mx:RIUPN/74
+OK -> ID oai:rixplora.upn.mx:RIUPN/75
+OK -> ID oai:rixplora.upn.mx:RIUPN/94
+OK -> ID oai:rixplora.upn.mx:RIUPN/17
+OK -> ID oai:rixplora.upn.mx:RIUPN/43
+OK -> ID oai:rixplora.upn.mx:RIUPN/73
+OK -> ID oai:rixplora.upn.mx:RIUPN/38
+OK -> ID oai:rixplora.upn.mx:RIUPN/111
+OK -> ID oai:rixplora.upn.mx:RIUPN/86
+OK -> ID oai:rixplora.upn.mx:RIUPN/72
+OK -> ID oai:rixplora.upn.mx:RIUPN/63
+OK -> ID oai:rixplora.upn.mx:RIUPN/109
+OK -> ID oai:rixplora.upn.mx:RIUPN/102
+OK -> ID oai:rixplora.upn.mx:RIUPN/97
+

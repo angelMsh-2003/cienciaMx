@@ -1,0 +1,27 @@
+venv/
+
+# Ignorar cachés y archivos temporales de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignorar archivos del entorno o variables
+.env
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar archivos de configuración de editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignorar archivos del sistema
+.DS_Store
+Thumbs.db
+
+
+# Ignorar otros archivos
+src/sandbox/
