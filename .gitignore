@@ -1,4 +1,5 @@
 venv/
+src/sandbox
 
 # Ignorar cachés y archivos temporales de Python
 __pycache__/

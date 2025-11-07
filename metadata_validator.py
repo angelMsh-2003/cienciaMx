@@ -6,7 +6,7 @@ from pathlib import Path
 from time import sleep
 
 # ==========================================================
-# Configuration
+# CONFIGURATION
 # ==========================================================
 INPUT_FILE = Path("csv/dataversion5.0.csv")
 OUTPUT_DIR = Path("json/repositories")
@@ -30,17 +30,15 @@ FIELDS_OBLIGATORY = {
     "dc:identifier",
     "dc:type",
     "dc:rights",
-    "dc:date",
-    "dc:publisher",
-    "dc:publicationYear",
-    "dc:relatedIdentifier"
+    "dc:date"
 }
 
 FIELDS_OBLIGATORY_WHEN_APPLICABLE = {
     "dc:source",
     "dc:coverage",
     "dc:relation",
-    "dc:contributor"
+    "dc:contributor",
+    "dc:language"
 }
 
 FIELDS_RECOMMENDED = {
@@ -82,22 +80,137 @@ def get_records(oai_url, max_records=None):
 
     return records
 
-
+# ==========================================================
+# Metadata extraction
+# ==========================================================
 def extract_metadata_fields(record):
-    """Extract metadata fields from one record as dictionary."""
-    metadata = {}
+    """
+    Extract metadata fields from one record.
+    - Single values: stored as string or dict
+    - Multiple values: stored as list
+    - dc:rights is ALWAYS a list of dictionaries
+    """
+    # Temporary storage with lists
+    temp_metadata = {
+        "obligatory": {},
+        "obligatory_when_applicable": {},
+        "recommended": {},
+        "optional": {},
+        "others": {}
+    }
+
+    access_levels = ["closedAccess", "openAccess", "restrictedAccess", "embargoedAccess"]
+
     for element in record.findall(".//dc:*", NAMESPACES):
         tag = element.tag.split("}", 1)[1]
         value = element.text.strip() if element.text else ""
-        metadata.setdefault(f"dc:{tag}", []).append(value)
-    return metadata
+        attrs = element.attrib
+        key = f"dc:{tag}"
 
+        # Determine category
+        if key in FIELDS_OBLIGATORY:
+            category = "obligatory"
+        elif key in FIELDS_OBLIGATORY_WHEN_APPLICABLE:
+            category = "obligatory_when_applicable"
+        elif key in FIELDS_RECOMMENDED:
+            category = "recommended"
+        elif key.startswith("dc:"):
+            category = "optional"
+        else:
+            category = "others"
+
+        # Special handling by field type
+        if tag in ["creator", "contributor"]:
+            # Dictionary format
+            entry = {"name": value}
+            # Extraer TODOS los atributos sin filtrar
+            for attr_key, attr_value in attrs.items():
+                # Limpiar el namespace del nombre del atributo si existe
+                clean_key = attr_key.split("}", 1)[-1] if "}" in attr_key else attr_key
+                entry[clean_key] = attr_value
+            
+            # Validar si el ID es real o es un placeholder vacío
+            if "id" in entry:
+                id_value = entry["id"].lower()
+                # Detectar placeholders vacíos
+                invalid_patterns = [
+                    "sin_identificador",
+                    "sin identificador", 
+                    "without_identifier",
+                    "no_identifier",
+                    "unknown",
+                    "n/a",
+                    "null"
+                ]
+                if any(pattern in id_value for pattern in invalid_patterns):
+                    entry["id"] = "unknown"
+            else:
+                entry["id"] = "unknown"
+
+        elif tag == "rights":
+            # Dictionary format with access_level and licence_condition
+            rights_entry = {}
+            
+            # Check value for access level and licence
+            if value:
+                for level in access_levels:
+                    if level.lower() in value.lower():
+                        rights_entry["access_level"] = level
+                        break
+                if value.startswith("http"):
+                    rights_entry["licence_condition"] = value
+            
+            # Check attributes (limpiando namespaces)
+            for attr_key, attr_value in attrs.items():
+                # Limpiar namespace del atributo
+                clean_key = attr_key.split("}", 1)[-1] if "}" in attr_key else attr_key
+                
+                for level in access_levels:
+                    if level.lower() in attr_value.lower():
+                        rights_entry["access_level"] = level
+                        break
+                if attr_value.startswith("http"):
+                    rights_entry["licence_condition"] = attr_value
+            
+            entry = rights_entry
+
+        else:
+            # Regular string value
+            entry = value
+
+        # Add to temp storage (always as list)
+        if key not in temp_metadata[category]:
+            temp_metadata[category][key] = []
+        temp_metadata[category][key].append(entry)
+
+    # Convert to final format: single items as direct values, multiple as lists
+    # EXCEPTION: dc:rights is ALWAYS a list
+    metadata = {
+        "obligatory": {},
+        "obligatory_when_applicable": {},
+        "recommended": {},
+        "optional": {},
+        "others": {}
+    }
+
+    for category in temp_metadata:
+        for key, values in temp_metadata[category].items():
+            if key == "dc:rights":
+                # dc:rights is ALWAYS a list
+                metadata[category][key] = values
+            elif len(values) == 1:
+                # Single value: store directly
+                metadata[category][key] = values[0]
+            else:
+                # Multiple values: keep as list
+                metadata[category][key] = values
+
+    return metadata
 
 # ==========================================================
 # Repository analysis
 # ==========================================================
 def analyze_repository(name, oai_url, max_records=None):
-    """Extract and classify all metadata for a repository."""
     print(f"\nAnalyzing repository: {name}")
     records = get_records(oai_url, max_records=max_records)
     if not records:
@@ -110,35 +223,74 @@ def analyze_repository(name, oai_url, max_records=None):
         "records": []
     }
 
-    all_detected_fields = set()
     record_count = 0
     complete_obligatory = 0
     missing_records = []
+    
+    # Track all metadata fields found across all records
+    all_fields_found = {
+        "obligatory": set(),
+        "obligatory_when_applicable": set(),
+        "recommended": set(),
+        "optional": set(),
+        "others": set()
+    }
+    
+    # NUEVO: Capturar TODOS los campos directamente del XML
+    all_metadata_fields_raw = set()
 
     for rec in records:
         header = rec.find(".//oai:header", NAMESPACES)
         meta_block = extract_metadata_fields(rec)
 
-        # Categorize fields
-        obligatory = {k: v for k, v in meta_block.items() if k in FIELDS_OBLIGATORY}
-        obligatory_when_applicable = {k: v for k, v in meta_block.items() if k in FIELDS_OBLIGATORY_WHEN_APPLICABLE}
-        recommended = {k: v for k, v in meta_block.items() if k in FIELDS_RECOMMENDED}
-        optional = {
-            k: v for k, v in meta_block.items()
-            if k not in FIELDS_OBLIGATORY
-            and k not in FIELDS_OBLIGATORY_WHEN_APPLICABLE
-            and k not in FIELDS_RECOMMENDED
-            and k.startswith("dc:")
-        }
-        others = {
-            k: v for k, v in meta_block.items() if not k.startswith("dc:")
-        }
+        # Collect all fields found in this record (para clasificación)
+        for category in all_fields_found:
+            all_fields_found[category].update(meta_block[category].keys())
+        
+        # NUEVO: Capturar TODOS los elementos dc:* directamente del XML
+        for element in rec.findall(".//dc:*", NAMESPACES):
+            tag = element.tag.split("}", 1)[1]
+            all_metadata_fields_raw.add(f"dc:{tag}")
 
-        all_detected_fields.update(meta_block.keys())
         record_count += 1
-
-        missing_fields = sorted(FIELDS_OBLIGATORY - meta_block.keys())
-        if not missing_fields:
+        missing_fields = sorted(FIELDS_OBLIGATORY - meta_block["obligatory"].keys())
+        
+        # Validación adicional: verificar si dc:creator o dc:contributor tienen id válido
+        validation_failed = False
+        
+        # Verificar dc:creator
+        if "dc:creator" in meta_block["obligatory"]:
+            creator = meta_block["obligatory"]["dc:creator"]
+            # Si es un dict (un solo creator)
+            if isinstance(creator, dict) and creator.get("id") == "unknown":
+                validation_failed = True
+                if "dc:creator (id missing)" not in missing_fields:
+                    missing_fields.append("dc:creator (id missing)")
+            # Si es una lista (múltiples creators)
+            elif isinstance(creator, list):
+                if all(c.get("id") == "unknown" for c in creator if isinstance(c, dict)):
+                    validation_failed = True
+                    if "dc:creator (id missing)" not in missing_fields:
+                        missing_fields.append("dc:creator (id missing)")
+        
+        # Verificar dc:contributor si existe
+        if "dc:contributor" in meta_block["obligatory_when_applicable"]:
+            contributor = meta_block["obligatory_when_applicable"]["dc:contributor"]
+            # Si es un dict
+            if isinstance(contributor, dict) and contributor.get("id") == "unknown":
+                validation_failed = True
+                if "dc:contributor (id missing)" not in missing_fields:
+                    missing_fields.append("dc:contributor (id missing)")
+            # Si es una lista
+            elif isinstance(contributor, list):
+                if all(c.get("id") == "unknown" for c in contributor if isinstance(c, dict)):
+                    validation_failed = True
+                    if "dc:contributor (id missing)" not in missing_fields:
+                        missing_fields.append("dc:contributor (id missing)")
+        
+        missing_fields = sorted(missing_fields)
+        
+        if not missing_fields and not validation_failed:
             complete_obligatory += 1
         else:
             missing_records.append({
@@ -149,24 +301,35 @@ def analyze_repository(name, oai_url, max_records=None):
         record_data = {
             "identifier": header.findtext("oai:identifier", default="", namespaces=NAMESPACES),
             "datestamp": header.findtext("oai:datestamp", default="", namespaces=NAMESPACES),
-            "metadata": {
-                "obligatory": obligatory,
-                "obligatory_when_applicable": obligatory_when_applicable,
-                "recommended": recommended,
-                "optional": optional,
-                "others": others
-            }
+            "metadata": meta_block
         }
 
         repo_data["records"].append(record_data)
 
-    # Save records JSON
+    # Save JSON
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     repo_filename = OUTPUT_DIR / f"{name.replace(' ', '_').lower()}_items.json"
     with open(repo_filename, "w", encoding="utf-8") as f:
         json.dump(repo_data, f, ensure_ascii=False, indent=4)
 
-    # Build repository summary
+    # Build metadata fields catalog - CAPTURA TODOS LOS CAMPOS
+    fields_catalog = {
+        "repository_name": name,
+        "url": oai_url,
+        "total_records_analyzed": record_count,
+        "metadata_fields_found": sorted(list(all_metadata_fields_raw)),  # TODOS los campos del XML
+        "obligatory_fields_status": {
+            "required": sorted(list(FIELDS_OBLIGATORY)),
+            "found": sorted(list(all_fields_found["obligatory"])),
+            "missing": sorted(list(FIELDS_OBLIGATORY - all_fields_found["obligatory"]))
+        }
+    }
+    
+    fields_filename = OUTPUT_DIR / f"{name.replace(' ', '_').lower()}_metadata_fields.json"
+    with open(fields_filename, "w", encoding="utf-8") as f:
+        json.dump(fields_catalog, f, ensure_ascii=False, indent=4)
+
+    # Build summary
     summary_data = {
         "repository_name": name,
         "total_records": record_count,
@@ -181,24 +344,21 @@ def analyze_repository(name, oai_url, max_records=None):
         json.dump(summary_data, f, ensure_ascii=False, indent=4)
 
     print(f" - Saved: {repo_filename}")
+    print(f" - Metadata fields catalog saved: {fields_filename}")
     print(f" - Summary saved: {summary_filename}")
     print(f" - Records with all obligatory fields: {complete_obligatory}/{record_count}")
 
     return summary_data
 
-
 # ==========================================================
 # Execution modes
 # ==========================================================
 def run_test_mode():
-    """Run test mode: analyze one repository only."""
-    TEST_NAME = "Repositorio Digital CIDE"
+    TEST_NAME = "CIDE Digital Repository"
     TEST_URL = "https://cide.repositorioinstitucional.mx/oai/request"
     analyze_repository(TEST_NAME, TEST_URL, max_records=MAX_RECORDS)
 
-
 def run_full_mode():
-    """Run full mode: analyze all repositories in CSV."""
     df = pd.read_csv(INPUT_FILE)
     for index, row in df.iterrows():
         name = row.get("NAME") or row.get("name") or row.get("nombre") or "Unknown"
@@ -209,10 +369,9 @@ def run_full_mode():
         analyze_repository(name.strip(), oai_url.strip(), max_records=None)
         sleep(SLEEP_BETWEEN_REQUESTS)
 
-
+# ==========================================================
 # MAIN
-
+# ==========================================================
 if __name__ == "__main__":
-  
-    run_test_mode()   # <-- TEST mode (single repository)
-    # run_full_mode()  # <-- FULL mode (all repositories from CSV)
+    # run_test_mode()   # TEST mode
+    run_full_mode()  # FULL mode

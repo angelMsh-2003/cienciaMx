@@ -1,0 +1,3 @@
+{
+    "error": "HTTPSConnectionPool(host='ru.atheneadigital.filos.unam.mx', port=443): Max retries exceeded with url: /oai/request?verb=ListRecords&metadataPrefix=oai_dc (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+}
