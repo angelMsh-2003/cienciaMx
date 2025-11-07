@@ -1,6 +1,7 @@
 import os
 import json
 import csv
+from src.stats.stats import Stats  
 
 DATA_FOLDER = "data"
 OUTPUT_CSV = "MetaValidatorReport.csv"
@@ -60,8 +61,19 @@ for filename in os.listdir(DATA_FOLDER):
         else:
             records_complete += 1
 
+    # ✅ Usamos la clase Stats para analizar el JSON actual
+    st = Stats(file_path)
+    data_loaded = st.load_data()
+
+    oldest_item = st.get_oldest_item(data_loaded)
+    newest_item = st.get_newest_item(data_loaded)
+    language_summary = st.get_item_language(data_loaded)
+
     combined_rows.append({
         "json_file": filename,
+        "oldest_item": oldest_item,
+        "newest_item": newest_item,
+        "language_summary": json.dumps(language_summary, ensure_ascii=False),
         "total_records": total_records,
         "deleted_records": deleted_records,
         "records_with_errors": records_with_errors,
@@ -70,11 +82,21 @@ for filename in os.listdir(DATA_FOLDER):
         "mandatory_fields": " | ".join(missing_fields_info) if missing_fields_info else "All mandatory fields present"
     })
 
-# Write CSV
 with open(OUTPUT_CSV, "w", newline="", encoding="utf-8") as f:
-    fieldnames = ["json_file","total_records","deleted_records","records_with_errors","records_complete","metadata_fields","mandatory_fields"]
+    fieldnames = [
+        "json_file",
+        "oldest_item",
+        "newest_item",
+        "language_summary",
+        "total_records",
+        "deleted_records",
+        "records_with_errors",
+        "records_complete",
+        "metadata_fields",
+        "mandatory_fields"
+    ]
     writer = csv.DictWriter(f, fieldnames=fieldnames)
     writer.writeheader()
     writer.writerows(combined_rows)
 
-print(f"CSV report generated: {OUTPUT_CSV}")
+print(f"CSV report generated successfully: {OUTPUT_CSV}")
