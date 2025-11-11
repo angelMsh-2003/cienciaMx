@@ -1,0 +1,722 @@
+{
+    "OAI-PMH": {
+        "@xmlns": "http://www.openarchives.org/OAI/2.0/",
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd",
+        "responseDate": "2025-11-11T04:01:49Z",
+        "request": {
+            "@verb": "ListRecords",
+            "@metadataPrefix": "oai_dc",
+            "#text": "https://ru.ameyalli.dgdc.unam.mx/oai/request"
+        },
+        "ListRecords": {
+            "record": [
+                {
+                    "header": {
+                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/72",
+                        "datestamp": "2019-03-20T16:30:25Z",
+                        "setSpec": [
+                            "com_123456789_1",
+                            "col_123456789_69"
+                        ]
+                    },
+                    "metadata": {
+                        "oai_dc:dc": {
+                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+                            "@xmlns:doc": "http://www.lyncode.com/xoai",
+                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                            "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                            "dc:title": "Towards a taxonomy for public communication of science activities",
+                            "dc:creator": {
+                                "@id": "info:eu-repo/dai/mx/cvu/217235",
+                                "#text": "MARIA DEL CARMEN SANCHEZ MORA"
+                            },
+                            "dc:subject": [
+                                "info:eu-repo/classification/cti/5",
+                                "info:eu-repo/classification/librunam/Ciencia -- Obras de divulgación"
+                            ],
+                            "dc:description": "Publicación eletrónica. Volumen 15 número 02, 2016",
+                            "dc:date": "2016-03-17",
+                            "dc:type": "info:eu-repo/semantics/article",
+                            "dc:identifier": "https://ru.ameyalli.dgdc.unam.mx/handle/123456789/72",
+                            "dc:language": "eng",
+                            "dc:rights": [
+                                "http://creativecommons.org/licenses/by-nc-nd/4.0",
+                                "info:eu-repo/semantics/openAccess"
+                            ],
+                            "dc:format": "application/pdf",
+                            "dc:publisher": "International School for Advanced Studies",
+                            "dc:audience": [
+                                "researchers",
+                                "teachers",
+                                "students"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "header": {
+                        "@status": "deleted",
+                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/258",
+                        "datestamp": "2019-07-29T18:35:24Z",
+                        "setSpec": [
+                            "com_123456789_91",
+                            "com_123456789_1",
+                            "col_123456789_94"
+                        ]
+                    }
+                },
+                {
+                    "header": {
+                        "@status": "deleted",
+                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/461",
+                        "datestamp": "2022-06-28T01:36:26Z",
+                        "setSpec": [
+                            "com_123456789_78",
+                            "col_123456789_456"
+                        ]
+                    }
+                },
+                {
+                    "header": {
+                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/169",
+                        "datestamp": "2021-06-12T00:17:18Z",
+                        "setSpec": [
+                            "com_123456789_1",
+                            "col_123456789_69"
+                        ]
+                    },
+                    "metadata": {
+                        "oai_dc:dc": {
+                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+                            "@xmlns:doc": "http://www.lyncode.com/xoai",
+                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                            "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                            "dc:title": "Efectos sobre el aprendizaje informal de la evolución biológica como resultado de la mediación museal",
+                            "dc:subject": [
+                                "info:eu-repo/classification/cti/4",
+                                "info:eu-repo/classification/librunam/Aprendizaje informal -- Mediación -- Museos interactivos -- Evolución biológica -- Profesorado"
+                            ],
+                            "dc:description": "Publicación electrónica. Volumen 13 número 2, 2016",
+                            "dc:date": "2016-01-08",
+                            "dc:type": "info:eu-repo/semantics/article",
+                            "dc:identifier": "https://ru.ameyalli.dgdc.unam.mx/handle/123456789/169",
+                            "dc:language": "spa",
+                            "dc:rights": [
+                                "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+                                "info:eu-repo/semantics/OpenAcces"
+                            ],
+                            "dc:format": "application/pdf",
+                            "dc:publisher": "Revista Eureka sobre Enseñanza y Divulgación de las Ciencias, Universidad de Cádiz",
+                            "dc:audience": [
+                                "Researchers",
+                                "Teachers",
+                                "Students"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "header": {
+                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/71",
+                        "datestamp": "2019-03-20T16:31:02Z",
+                        "setSpec": [
+                            "com_123456789_1",
+                            "col_123456789_69"
+                        ]
+                    },
+                    "metadata": {
+                        "oai_dc:dc": {
+                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+                            "@xmlns:doc": "http://www.lyncode.com/xoai",
+                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                            "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                            "dc:title": "Science communication practices at the National Autonomous University of Mexico",
+                            "dc:creator": [
+                                {
+                                    "@id": "info:eu-repo/dai/mx/cvu/96198",
+                                    "#text": "ANA CLAUDIA NEPOTE GONZALEZ"
+                                },
+                                {
+                                    "@id": "info:eu-repo/dai/mx/cvu/282375",
+                                    "#text": "ELAINE REYNOSO HAYNES"
+                                }
+                            ],
+                            "dc:subject": [
+                                "info:eu-repo/classification/cti/5",
+                                "info:eu-repo/classification/librunam/Ciencia -- Obras de divulgación"
+                            ],
+                            "dc:description": "Publicación eletrónica. Volumen 16 número 05, 2017",
+                            "dc:date": "2017-12-13",
+                            "dc:type": "info:eu-repo/semantics/article",
+                            "dc:identifier": "https://ru.ameyalli.dgdc.unam.mx/handle/123456789/71",
+                            "dc:language": "eng",
+                            "dc:rights": [
+                                "http://creativecommons.org/licenses/by-nc-nd/4.0",
+                                "info:eu-repo/semantics/openAccess"
+                            ],
+                            "dc:format": "application/pdf",
+                            "dc:publisher": "International School for Advanced Studies",
+                            "dc:audience": [
+                                "researchers",
+                                "teachers",
+                                "students"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "header": {
+                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/414",
+                        "datestamp": "2021-12-10T20:58:16Z",
+                        "setSpec": [
+                            "com_123456789_410",
+                            "com_123456789_90",
+                            "col_123456789_411"
+                        ]
+                    },
+                    "metadata": {
+                        "oai_dc:dc": {
+                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+                            "@xmlns:doc": "http://www.lyncode.com/xoai",
+                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                            "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                            "dc:title": "Propuesta metodológica para el análisis hermenéutico de documentales de divulgación científica",
+                            "dc:creator": {
+                                "@id": "info:eu-repo/dai/mx/ca/1343629",
+                                "#text": "Marcela Martínez Rodríguez"
+                            },
+                            "dc:contributor": {
+                                "@id": "info:eu-repo/dai/mx/cvu/217235",
+                                "@role": "asesorTesis",
+                                "#text": "MARIA DEL CARMEN SANCHEZ MORA"
+                            },
+                            "dc:subject": [
+                                "info:eu-repo/classification/cti/5",
+                                "info:eu-repo/classification/librunam/Ciencia -- Obras de divulgación"
+                            ],
+                            "dc:description": "Tesis para obtener el grado de Doctorado en Filosofía de la Ciencia",
+                            "dc:date": "2020-05",
+                            "dc:type": "info:eu-repo/semantics/doctoralThesis",
+                            "dc:identifier": "https://ru.ameyalli.dgdc.unam.mx/handle/123456789/414",
+                            "dc:language": "spa",
+                            "dc:rights": [
+                                "http://creativecommons.org/licenses/by-nc-nd/4.0",
+                                "info:eu-repo/semantics/openAccess"
+                            ],
+                            "dc:format": "application/pdf",
+                            "dc:publisher": "Consejo Nacional de Ciencia y Tecnología",
+                            "dc:audience": [
+                                "students",
+                                "researchers",
+                                "teachers"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "header": {
+                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/239",
+                        "datestamp": "2019-06-26T15:54:09Z",
+                        "setSpec": [
+                            "com_123456789_1",
+                            "col_123456789_69"
+                        ]
+                    },
+                    "metadata": {
+                        "oai_dc:dc": {
+                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+                            "@xmlns:doc": "http://www.lyncode.com/xoai",
+                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                            "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                            "dc:title": "El fin de la divulgación",
+                            "dc:subject": [
+                                "info:eu-repo/classification/cti/5",
+                                "info:eu-repo/classification/librunam/Desarrollo profesional y formación en divulgación de la ciencia",
+                                "info:eu-repo/classification/librunam/Ciencia y tecnología, arte y literatura",
+                                "info:eu-repo/classification/librunam/Comunicación científica: teoría y modelos"
+                            ],
+                            "dc:description": "Ensayo",
+                            "dc:date": "2019-05-27",
+                            "dc:type": "info:eu-repo/semantics/article",
+                            "dc:identifier": "https://ru.ameyalli.dgdc.unam.mx/handle/123456789/239",
+                            "dc:language": "spa",
+                            "dc:rights": [
+                                "https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es",
+                                "info:eu-repo/semantics/OpenAccess"
+                            ],
+                            "dc:format": "application/pdf",
+                            "dc:publisher": "Journal of Science Communication (JCOM)- América Latina",
+                            "dc:audience": [
+                                "Researchers",
+                                "Teachers",
+                                "Students"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "header": {
+                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/73",
+                        "datestamp": "2019-03-20T16:30:02Z",
+                        "setSpec": [
+                            "com_123456789_1",
+                            "col_123456789_69"
+                        ]
+                    },
+                    "metadata": {
+                        "oai_dc:dc": {
+                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+                            "@xmlns:doc": "http://www.lyncode.com/xoai",
+                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                            "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                            "dc:title": "Hacia una taxonomía de las actividades de comunicación pública de la ciencia",
+                            "dc:creator": {
+                                "@id": "info:eu-repo/dai/mx/cvu/217235",
+                                "#text": "MARIA DEL CARMEN SANCHEZ MORA"
+                            },
+                            "dc:subject": [
+                                "info:eu-repo/classification/cti/5",
+                                "info:eu-repo/classification/librunam/Ciencia -- Obras de divulgación"
+                            ],
+                            "dc:description": "Publicación eletrónica. Volumen 15 número 02, 2016",
+                            "dc:date": "2016-03-17",
+                            "dc:type": "info:eu-repo/semantics/article",
+                            "dc:identifier": "https://ru.ameyalli.dgdc.unam.mx/handle/123456789/73",
+                            "dc:language": "spa",
+                            "dc:rights": [
+                                "http://creativecommons.org/licenses/by-nc-nd/4.0",
+                                "info:eu-repo/semantics/openAccess"
+                            ],
+                            "dc:format": "application/pdf",
+                            "dc:publisher": "International School for Advanced Studies",
+                            "dc:audience": [
+                                "researchers",
+                                "teachers",
+                                "students"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "header": {
+                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/74",
+                        "datestamp": "2019-03-20T16:29:27Z",
+                        "setSpec": [
+                            "com_123456789_1",
+                            "col_123456789_69"
+                        ]
+                    },
+                    "metadata": {
+                        "oai_dc:dc": {
+                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+                            "@xmlns:doc": "http://www.lyncode.com/xoai",
+                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                            "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                            "dc:title": "Science communication postgraduate studies in Latin America: a map and some food for thought",
+                            "dc:creator": [
+                                {
+                                    "@id": "info:eu-repo/dai/mx/ca/1226276",
+                                    "#text": "Luisa Massarani"
+                                },
+                                {
+                                    "@id": "info:eu-repo/dai/mx/cvu/282375",
+                                    "#text": "ELAINE REYNOSO HAYNES"
+                                },
+                                {
+                                    "@id": "info:eu-repo/dai/mx/ca/1234365",
+                                    "#text": "Sandra Murrielo"
+                                },
+                                {
+                                    "@id": "info:eu-repo/dai/mx/ca/1234366",
+                                    "#text": "Ayelen Castillo"
+                                }
+                            ],
+                            "dc:subject": [
+                                "info:eu-repo/classification/cti/5",
+                                "info:eu-repo/classification/librunam/Ciencia -- Obras de divulgación"
+                            ],
+                            "dc:description": "Publicación eletrónica. Volumen 15 número 05, 2016",
+                            "dc:date": "2016-09-16",
+                            "dc:type": "info:eu-repo/semantics/article",
+                            "dc:identifier": "https://ru.ameyalli.dgdc.unam.mx/handle/123456789/74",
+                            "dc:language": "eng",
+                            "dc:rights": [
+                                "http://creativecommons.org/licenses/by-nc-nd/4.0",
+                                "info:eu-repo/semantics/openAccess"
+                            ],
+                            "dc:format": "application/pdf",
+                            "dc:publisher": "International School for Advanced Studies",
+                            "dc:audience": [
+                                "researchers",
+                                "teachers",
+                                "students"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "header": {
+                        "@status": "deleted",
+                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/457",
+                        "datestamp": "2022-06-27T20:26:55Z",
+                        "setSpec": [
+                            "com_123456789_78",
+                            "col_123456789_456"
+                        ]
+                    }
+                },
+                {
+                    "header": {
+                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/70",
+                        "datestamp": "2019-03-20T16:31:28Z",
+                        "setSpec": [
+                            "com_123456789_1",
+                            "col_123456789_69"
+                        ]
+                    },
+                    "metadata": {
+                        "oai_dc:dc": {
+                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+                            "@xmlns:doc": "http://www.lyncode.com/xoai",
+                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                            "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                            "dc:title": "Evolution of evaluation in science museums and centres",
+                            "dc:creator": {
+                                "@id": "info:eu-repo/dai/mx/cvu/217235",
+                                "#text": "MARIA DEL CARMEN SANCHEZ MORA"
+                            },
+                            "dc:subject": [
+                                "info:eu-repo/classification/cti/5",
+                                "info:eu-repo/classification/librunam/Museos de ciencias"
+                            ],
+                            "dc:description": "Publicación eletrónica. Volumen 13 número 01, 2014",
+                            "dc:date": "2014-03-13",
+                            "dc:type": "info:eu-repo/semantics/article",
+                            "dc:identifier": "https://ru.ameyalli.dgdc.unam.mx/handle/123456789/70",
+                            "dc:language": "eng",
+                            "dc:rights": [
+                                "http://creativecommons.org/licenses/by-nc-nd/4.0",
+                                "info:eu-repo/semantics/openAccess"
+                            ],
+                            "dc:format": "application/pdf",
+                            "dc:publisher": "International School for Advanced Studies",
+                            "dc:audience": [
+                                "researchers",
+                                "teachers",
+                                "students"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "header": {
+                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/76",
+                        "datestamp": "2019-03-20T16:26:15Z",
+                        "setSpec": [
+                            "com_123456789_1",
+                            "col_123456789_69"
+                        ]
+                    },
+                    "metadata": {
+                        "oai_dc:dc": {
+                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+                            "@xmlns:doc": "http://www.lyncode.com/xoai",
+                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                            "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                            "dc:title": "RedPOP: 25 years of a Science Communication Network in Latin America",
+                            "dc:creator": [
+                                {
+                                    "@id": "info:eu-repo/dai/mx/ca/1226276",
+                                    "#text": "Luisa Massarani"
+                                },
+                                {
+                                    "@id": "info:eu-repo/dai/mx/cvu/532171",
+                                    "#text": "CLAUDIA AGUIRRE GARNICA"
+                                },
+                                {
+                                    "@id": "info:eu-repo/dai/mx/ca/1234367",
+                                    "#text": "Constanza Pedersoli"
+                                },
+                                {
+                                    "@id": "info:eu-repo/dai/mx/cvu/282375",
+                                    "#text": "ELAINE REYNOSO HAYNES"
+                                },
+                                {
+                                    "@id": "info:eu-repo/dai/mx/ca/1234368",
+                                    "#text": "Luz Marina Lindegaard"
+                                }
+                            ],
+                            "dc:subject": [
+                                "info:eu-repo/classification/cti/5",
+                                "info:eu-repo/classification/librunam/Ciencia -- Obras de divulgación -- Historia"
+                            ],
+                            "dc:description": "Publicación eletrónica. Volumen 14 número 03, 2015",
+                            "dc:date": "2015-09-29",
+                            "dc:type": "info:eu-repo/semantics/article",
+                            "dc:identifier": "https://ru.ameyalli.dgdc.unam.mx/handle/123456789/76",
+                            "dc:language": "eng",
+                            "dc:rights": [
+                                "http://creativecommons.org/licenses/by-nc-nd/4.0",
+                                "info:eu-repo/semantics/openAccess"
+                            ],
+                            "dc:format": "application/pdf",
+                            "dc:publisher": "International School for Advanced Studies",
+                            "dc:audience": [
+                                "researchers",
+                                "teachers",
+                                "students"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "header": {
+                        "@status": "deleted",
+                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/582",
+                        "datestamp": "2022-06-29T18:44:01Z",
+                        "setSpec": [
+                            "com_123456789_78",
+                            "col_123456789_456"
+                        ]
+                    }
+                },
+                {
+                    "header": {
+                        "@status": "deleted",
+                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/460",
+                        "datestamp": "2022-06-28T01:00:40Z",
+                        "setSpec": [
+                            "com_123456789_78",
+                            "col_123456789_456"
+                        ]
+                    }
+                },
+                {
+                    "header": {
+                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/202",
+                        "datestamp": "2021-06-12T00:20:28Z",
+                        "setSpec": [
+                            "com_123456789_1",
+                            "col_123456789_69"
+                        ]
+                    },
+                    "metadata": {
+                        "oai_dc:dc": {
+                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+                            "@xmlns:doc": "http://www.lyncode.com/xoai",
+                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                            "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                            "dc:title": "La interacción entre maestros y guías en los museos de ciencia: un asunto de comunicación",
+                            "dc:subject": [
+                                "info:eu-repo/classification/cti/5",
+                                "info:eu-repo/classification/librunam/Museos de ciencia",
+                                "info:eu-repo/classification/librunam/Guías de museo",
+                                "info:eu-repo/classification/librunam/Visita escolar",
+                                "info:eu-repo/classification/librunam/Grupos de enfoque"
+                            ],
+                            "dc:description": "Publicación electrónica. Edición no. 88, 2014",
+                            "dc:date": "2013-10-14",
+                            "dc:type": "info:eu-repo/semantics/article",
+                            "dc:identifier": "https://ru.ameyalli.dgdc.unam.mx/handle/123456789/202",
+                            "dc:language": "spa",
+                            "dc:rights": [
+                                "https://creativecommons.org/licenses/by-nc/2.5/es/",
+                                "info:eu-repo/semantics/Open Access"
+                            ],
+                            "dc:format": "application/pdf",
+                            "dc:publisher": "Diálogos de la comunicación. Revista académica de la Federación Latinoamericana de Facultades de Comunicación Social (FELACS)",
+                            "dc:audience": [
+                                "Researchers",
+                                "Teachers",
+                                "Students"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "header": {
+                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/201",
+                        "datestamp": "2019-06-26T15:53:00Z",
+                        "setSpec": [
+                            "com_123456789_1",
+                            "col_123456789_69"
+                        ]
+                    },
+                    "metadata": {
+                        "oai_dc:dc": {
+                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+                            "@xmlns:doc": "http://www.lyncode.com/xoai",
+                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                            "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                            "dc:title": "Valor y potencial de los museos y centros de ciencias",
+                            "dc:subject": [
+                                "info:eu-repo/classification/cti/5",
+                                "info:eu-repo/classification/librunam/Ciencia y sociedad",
+                                "info:eu-repo/classification/librunam/Centros y museos de ciencia"
+                            ],
+                            "dc:description": "Reseña crítica del libro \"Los museos de ciencias. Universum, 25 años de experiencia\"",
+                            "dc:date": "2019-04-17",
+                            "dc:type": "info:eu-repo/semantics/article",
+                            "dc:identifier": "https://ru.ameyalli.dgdc.unam.mx/handle/123456789/201",
+                            "dc:language": "spa",
+                            "dc:rights": [
+                                "https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es",
+                                "info:eu-repo/semantics/OpenAccess"
+                            ],
+                            "dc:format": "application/pdf",
+                            "dc:publisher": "Journal of Science Communication (JCOM)- América Latina",
+                            "dc:audience": [
+                                "Researchers",
+                                "Teachers",
+                                "Students"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "header": {
+                        "@status": "deleted",
+                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/459",
+                        "datestamp": "2022-06-28T00:09:22Z",
+                        "setSpec": [
+                            "com_123456789_78",
+                            "col_123456789_456"
+                        ]
+                    }
+                },
+                {
+                    "header": {
+                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/75",
+                        "datestamp": "2019-03-20T16:28:51Z",
+                        "setSpec": [
+                            "com_123456789_1",
+                            "col_123456789_69"
+                        ]
+                    },
+                    "metadata": {
+                        "oai_dc:dc": {
+                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+                            "@xmlns:doc": "http://www.lyncode.com/xoai",
+                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                            "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                            "dc:title": "Posgrado en Comunicación de la Ciencia en América Latina: un mapa y algunas reflexiones",
+                            "dc:creator": [
+                                {
+                                    "@id": "info:eu-repo/dai/mx/ca/1226276",
+                                    "#text": "Luisa Massarani"
+                                },
+                                {
+                                    "@id": "info:eu-repo/dai/mx/cvu/282375",
+                                    "#text": "ELAINE REYNOSO HAYNES"
+                                },
+                                {
+                                    "@id": "info:eu-repo/dai/mx/ca/1234365",
+                                    "#text": "Sandra Murrielo"
+                                },
+                                {
+                                    "@id": "info:eu-repo/dai/mx/ca/1234366",
+                                    "#text": "Ayelen Castillo"
+                                }
+                            ],
+                            "dc:subject": [
+                                "info:eu-repo/classification/cti/5",
+                                "info:eu-repo/classification/librunam/Ciencia -- Obras de divulgación"
+                            ],
+                            "dc:description": "Publicación eletrónica. Volumen 15 número 05, 2016",
+                            "dc:date": "2016-09-16",
+                            "dc:type": "info:eu-repo/semantics/article",
+                            "dc:identifier": "https://ru.ameyalli.dgdc.unam.mx/handle/123456789/75",
+                            "dc:language": "spa",
+                            "dc:rights": [
+                                "http://creativecommons.org/licenses/by-nc-nd/4.0",
+                                "info:eu-repo/semantics/openAccess"
+                            ],
+                            "dc:format": "application/pdf",
+                            "dc:publisher": "International School for Advanced Studies",
+                            "dc:audience": [
+                                "researchers",
+                                "teachers",
+                                "students"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "header": {
+                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/77",
+                        "datestamp": "2019-03-20T16:24:47Z",
+                        "setSpec": [
+                            "com_123456789_1",
+                            "col_123456789_69"
+                        ]
+                    },
+                    "metadata": {
+                        "oai_dc:dc": {
+                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+                            "@xmlns:doc": "http://www.lyncode.com/xoai",
+                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                            "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                            "dc:title": "RedPOP: 25 años de Red en Comunicación de la Ciencia en América Latina",
+                            "dc:creator": [
+                                {
+                                    "@id": "info:eu-repo/dai/mx/ca/1226276",
+                                    "#text": "Luisa Massarani"
+                                },
+                                {
+                                    "@id": "info:eu-repo/dai/mx/cvu/532171",
+                                    "#text": "CLAUDIA AGUIRRE GARNICA"
+                                },
+                                {
+                                    "@id": "info:eu-repo/dai/mx/ca/1234367",
+                                    "#text": "Constanza Pedersoli"
+                                },
+                                {
+                                    "@id": "info:eu-repo/dai/mx/cvu/282375",
+                                    "#text": "ELAINE REYNOSO HAYNES"
+                                },
+                                {
+                                    "@id": "info:eu-repo/dai/mx/ca/1234368",
+                                    "#text": "Luz Marina Lindegaard"
+                                }
+                            ],
+                            "dc:subject": [
+                                "info:eu-repo/classification/cti/5",
+                                "info:eu-repo/classification/librunam/Ciencia -- Obras de divulgación -- Historia"
+                            ],
+                            "dc:description": "Publicación eletrónica. Volumen 14 número 03, 2015",
+                            "dc:date": "2015-09-29",
+                            "dc:type": "info:eu-repo/semantics/article",
+                            "dc:identifier": "https://ru.ameyalli.dgdc.unam.mx/handle/123456789/77",
+                            "dc:language": "spa",
+                            "dc:rights": [
+                                "http://creativecommons.org/licenses/by-nc-nd/4.0",
+                                "info:eu-repo/semantics/openAccess"
+                            ],
+                            "dc:format": "application/pdf",
+                            "dc:publisher": "International School for Advanced Studies",
+                            "dc:audience": [
+                                "researchers",
+                                "teachers",
+                                "students"
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}
