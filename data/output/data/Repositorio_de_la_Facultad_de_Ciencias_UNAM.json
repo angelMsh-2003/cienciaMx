@@ -1,0 +1,20 @@
+{
+    "error": "Invalid OAI-PMH response, ListRecords not found",
+    "data": {
+        "OAI-PMH": {
+            "@xmlns": "http://www.openarchives.org/OAI/2.0/",
+            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+            "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd",
+            "responseDate": "2025-11-11T04:07:39Z",
+            "request": {
+                "@verb": "ListRecords",
+                "@metadataPrefix": "oai_dc",
+                "#text": "http://uniciencias.fciencias.unam.mx:8080/oai/request"
+            },
+            "error": {
+                "@code": "cannotDisseminateFormat",
+                "#text": "Unknown metadata format"
+            }
+        }
+    }
+}
