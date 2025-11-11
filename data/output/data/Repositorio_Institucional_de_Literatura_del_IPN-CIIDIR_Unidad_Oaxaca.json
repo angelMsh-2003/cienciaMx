@@ -1,0 +1,4 @@
+{
+    "error": "XML parsing error on the first page: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))",
+    "xml_text": "No response"
+}
