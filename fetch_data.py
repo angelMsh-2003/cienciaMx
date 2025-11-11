@@ -1,12 +1,15 @@
-import os
 import re
 import json
+from pathlib import Path
+
 import pandas as pd
+import requests
 from dspace_client import DSpaceClient
+from xml.parsers.expat import ExpatError
 
 try:
     import xmltodict
-except Exception:
+except ImportError:
     xmltodict = None
 
 
@@ -20,14 +23,24 @@ def safe_filename(name: str) -> str:
     return name
 
 
-# Ensure data directory exists
-os.makedirs('data', exist_ok=True)
+# Ensure data directory exists (relative to this file)
+BASE_DIR = Path(__file__).resolve().parent
+DATA_DIR = BASE_DIR / 'data'
+CSV_DIR = BASE_DIR / 'csv'
+DATA_DIR.mkdir(exist_ok=True)
 
 # Read the CSV file
-df = pd.read_csv(r'paths/WORKING REPORT (repositorios_proof_of_life) - repositorios_proof_of_life.csv')
+csv_path = CSV_DIR / 'WORKING REPORT (repositorios_proof_of_life) - repositorios_proof_of_life.csv'
+df = pd.read_csv(csv_path)
 
 # Filter for DSpace version 5 repositories
-df_dspace5 = df[(df['software'] == 'DSpace') & (df['version'].str.startswith('6')) & (df['oai_url'].notna())]
+software_series = df['software'].fillna('').astype(str).str.strip().str.lower()
+version_series = df['version'].fillna('').astype(str).str.strip()
+df_dspace5 = df[
+    (software_series == 'dspace')
+    & version_series.str.startswith('5')
+    & df['oai_url'].notna()
+]
 
 for index, row in df_dspace5.iterrows():
     repo_name = row.iloc[0]  # First column is the repository name
@@ -43,7 +56,7 @@ for index, row in df_dspace5.iterrows():
     try:
         records = client.get_records()
         data = records
-    except Exception as e:
+    except requests.RequestException as e:
         data = {'error': str(e)}
 
     # If the client returned XML (dict with key 'xml'), try converting to JSON using xmltodict
@@ -56,7 +69,7 @@ for index, row in df_dspace5.iterrows():
             try:
                 parsed = xmltodict.parse(data['xml'])
                 output = parsed
-            except Exception as e:
+            except (ExpatError, ValueError) as e:
                 output = {'error': f'xml parsing error: {e}'}
     else:
         # Not XML — write whatever the client returned
@@ -64,6 +77,6 @@ for index, row in df_dspace5.iterrows():
 
     # Safe filename and write JSON (one file per source)
     filename = safe_filename(str(repo_name)) or f'repo_{index}'
-    out_path = os.path.join('data', f"{filename}.json")
+    out_path = DATA_DIR / f"{filename}.json"
     with open(out_path, 'w', encoding='utf-8') as f:
         json.dump(output, f, indent=4, ensure_ascii=False)

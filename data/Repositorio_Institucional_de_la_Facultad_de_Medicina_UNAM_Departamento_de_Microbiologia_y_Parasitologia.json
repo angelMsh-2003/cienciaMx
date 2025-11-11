@@ -1,0 +1,17 @@
+{
+    "OAI-PMH": {
+        "@xmlns": "http://www.openarchives.org/OAI/2.0/",
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd",
+        "responseDate": "2025-11-11T01:13:35Z",
+        "request": {
+            "@verb": "ListRecords",
+            "@metadataPrefix": "oai_dc",
+            "#text": "https://ru.facmed.unam.mx/oai/openaire"
+        },
+        "error": {
+            "@code": "noRecordsMatch",
+            "#text": "No matches for the query"
+        }
+    }
+}

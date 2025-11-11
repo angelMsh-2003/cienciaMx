@@ -1,31 +1,29 @@
 {
-    "OAI-PMH": {
-        "@xmlns": "http://www.openarchives.org/OAI/2.0/",
+    "ns0:OAI-PMH": {
+        "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+        "@xmlns:ns0": "http://www.openarchives.org/OAI/2.0/",
+        "@xmlns:ns2": "http://www.openarchives.org/OAI/2.0/oai_dc/",
         "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
         "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd",
-        "responseDate": "2025-11-06T14:40:20Z",
-        "request": {
+        "ns0:responseDate": "2025-11-11T01:17:32Z",
+        "ns0:request": {
             "@verb": "ListRecords",
             "@metadataPrefix": "oai_dc",
             "#text": "https://conahcyt.repositorioinstitucional.mx/oai/request"
         },
-        "ListRecords": {
-            "record": [
+        "ns0:ListRecords": {
+            "ns0:record": [
                 {
-                    "header": {
-                        "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/38",
-                        "datestamp": "2024-05-29T22:16:14Z",
-                        "setSpec": [
+                    "ns0:header": {
+                        "ns0:identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/38",
+                        "ns0:datestamp": "2024-05-29T22:16:14Z",
+                        "ns0:setSpec": [
                             "col_1000_37",
                             "com_1000_36"
                         ]
                     },
-                    "metadata": {
-                        "oai_dc:dc": {
-                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
-                            "@xmlns:doc": "http://www.lyncode.com/xoai",
-                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "ns0:metadata": {
+                        "ns2:dc": {
                             "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
                             "dc:title": "Pronaces Agua",
                             "dc:creator": {
@@ -60,20 +58,16 @@
                     }
                 },
                 {
-                    "header": {
-                        "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/39",
-                        "datestamp": "2024-05-29T22:18:18Z",
-                        "setSpec": [
+                    "ns0:header": {
+                        "ns0:identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/39",
+                        "ns0:datestamp": "2024-05-29T22:18:18Z",
+                        "ns0:setSpec": [
                             "col_1000_37",
                             "com_1000_36"
                         ]
                     },
-                    "metadata": {
-                        "oai_dc:dc": {
-                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
-                            "@xmlns:doc": "http://www.lyncode.com/xoai",
-                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "ns0:metadata": {
+                        "ns2:dc": {
                             "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
                             "dc:title": "Especial Ciencia de Frontera",
                             "dc:creator": {
@@ -106,20 +100,16 @@
                     }
                 },
                 {
-                    "header": {
-                        "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/40",
-                        "datestamp": "2024-05-29T22:20:08Z",
-                        "setSpec": [
+                    "ns0:header": {
+                        "ns0:identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/40",
+                        "ns0:datestamp": "2024-05-29T22:20:08Z",
+                        "ns0:setSpec": [
                             "col_1000_37",
                             "com_1000_36"
                         ]
                     },
-                    "metadata": {
-                        "oai_dc:dc": {
-                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
-                            "@xmlns:doc": "http://www.lyncode.com/xoai",
-                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "ns0:metadata": {
+                        "ns2:dc": {
                             "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
                             "dc:title": "Nuestros mares y océanos: el golfo de México",
                             "dc:creator": {
@@ -155,20 +145,16 @@
                     }
                 },
                 {
-                    "header": {
-                        "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/41",
-                        "datestamp": "2024-05-29T22:22:41Z",
-                        "setSpec": [
+                    "ns0:header": {
+                        "ns0:identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/41",
+                        "ns0:datestamp": "2024-05-29T22:22:41Z",
+                        "ns0:setSpec": [
                             "col_1000_37",
                             "com_1000_36"
                         ]
                     },
-                    "metadata": {
-                        "oai_dc:dc": {
-                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
-                            "@xmlns:doc": "http://www.lyncode.com/xoai",
-                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "ns0:metadata": {
+                        "ns2:dc": {
                             "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
                             "dc:title": "Pronaces Salud I: Transformación de la investigación en salud",
                             "dc:creator": {
@@ -201,20 +187,16 @@
                     }
                 },
                 {
-                    "header": {
-                        "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/42",
-                        "datestamp": "2024-05-29T22:24:17Z",
-                        "setSpec": [
+                    "ns0:header": {
+                        "ns0:identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/42",
+                        "ns0:datestamp": "2024-05-29T22:24:17Z",
+                        "ns0:setSpec": [
                             "col_1000_37",
                             "com_1000_36"
                         ]
                     },
-                    "metadata": {
-                        "oai_dc:dc": {
-                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
-                            "@xmlns:doc": "http://www.lyncode.com/xoai",
-                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "ns0:metadata": {
+                        "ns2:dc": {
                             "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
                             "dc:title": "Pronaces Salud II: Rumbo a la investigación con incidencia",
                             "dc:creator": {
@@ -247,20 +229,16 @@
                     }
                 },
                 {
-                    "header": {
-                        "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/43",
-                        "datestamp": "2024-05-29T22:26:06Z",
-                        "setSpec": [
+                    "ns0:header": {
+                        "ns0:identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/43",
+                        "ns0:datestamp": "2024-05-29T22:26:06Z",
+                        "ns0:setSpec": [
                             "col_1000_37",
                             "com_1000_36"
                         ]
                     },
-                    "metadata": {
-                        "oai_dc:dc": {
-                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
-                            "@xmlns:doc": "http://www.lyncode.com/xoai",
-                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "ns0:metadata": {
+                        "ns2:dc": {
                             "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
                             "dc:title": "Soberanía Alimentaria",
                             "dc:creator": {
@@ -293,20 +271,16 @@
                     }
                 },
                 {
-                    "header": {
-                        "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/44",
-                        "datestamp": "2024-05-29T22:28:17Z",
-                        "setSpec": [
+                    "ns0:header": {
+                        "ns0:identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/44",
+                        "ns0:datestamp": "2024-05-29T22:28:17Z",
+                        "ns0:setSpec": [
                             "col_1000_37",
                             "com_1000_36"
                         ]
                     },
-                    "metadata": {
-                        "oai_dc:dc": {
-                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
-                            "@xmlns:doc": "http://www.lyncode.com/xoai",
-                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "ns0:metadata": {
+                        "ns2:dc": {
                             "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
                             "dc:title": "Transición Energética y Cambio Climático",
                             "dc:creator": {
@@ -339,20 +313,16 @@
                     }
                 },
                 {
-                    "header": {
-                        "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/45",
-                        "datestamp": "2024-05-29T22:28:58Z",
-                        "setSpec": [
+                    "ns0:header": {
+                        "ns0:identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/45",
+                        "ns0:datestamp": "2024-05-29T22:28:58Z",
+                        "ns0:setSpec": [
                             "col_1000_37",
                             "com_1000_36"
                         ]
                     },
-                    "metadata": {
-                        "oai_dc:dc": {
-                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
-                            "@xmlns:doc": "http://www.lyncode.com/xoai",
-                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "ns0:metadata": {
+                        "ns2:dc": {
                             "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
                             "dc:title": "Hacía una reforma educativa integral",
                             "dc:creator": {
@@ -388,20 +358,16 @@
                     }
                 },
                 {
-                    "header": {
-                        "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/46",
-                        "datestamp": "2024-05-29T22:29:42Z",
-                        "setSpec": [
+                    "ns0:header": {
+                        "ns0:identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/46",
+                        "ns0:datestamp": "2024-05-29T22:29:42Z",
+                        "ns0:setSpec": [
                             "col_1000_37",
                             "com_1000_36"
                         ]
                     },
-                    "metadata": {
-                        "oai_dc:dc": {
-                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
-                            "@xmlns:doc": "http://www.lyncode.com/xoai",
-                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "ns0:metadata": {
+                        "ns2:dc": {
                             "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
                             "dc:title": "Memoria histórica",
                             "dc:creator": {
@@ -437,20 +403,16 @@
                     }
                 },
                 {
-                    "header": {
-                        "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/47",
-                        "datestamp": "2024-05-29T22:30:27Z",
-                        "setSpec": [
+                    "ns0:header": {
+                        "ns0:identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/47",
+                        "ns0:datestamp": "2024-05-29T22:30:27Z",
+                        "ns0:setSpec": [
                             "col_1000_37",
                             "com_1000_36"
                         ]
                     },
-                    "metadata": {
-                        "oai_dc:dc": {
-                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
-                            "@xmlns:doc": "http://www.lyncode.com/xoai",
-                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "ns0:metadata": {
+                        "ns2:dc": {
                             "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
                             "dc:title": "Especial: Agentes tóxicos y procesos contaminantes",
                             "dc:creator": {
@@ -486,20 +448,16 @@
                     }
                 },
                 {
-                    "header": {
-                        "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/48",
-                        "datestamp": "2024-05-29T22:31:10Z",
-                        "setSpec": [
+                    "ns0:header": {
+                        "ns0:identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/48",
+                        "ns0:datestamp": "2024-05-29T22:31:10Z",
+                        "ns0:setSpec": [
                             "col_1000_37",
                             "com_1000_36"
                         ]
                     },
-                    "metadata": {
-                        "oai_dc:dc": {
-                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
-                            "@xmlns:doc": "http://www.lyncode.com/xoai",
-                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "ns0:metadata": {
+                        "ns2:dc": {
                             "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
                             "dc:title": "Sistemas Socioecológicos",
                             "dc:creator": {
@@ -535,20 +493,16 @@
                     }
                 },
                 {
-                    "header": {
-                        "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/51",
-                        "datestamp": "2024-06-05T17:29:35Z",
-                        "setSpec": [
+                    "ns0:header": {
+                        "ns0:identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/51",
+                        "ns0:datestamp": "2024-06-05T17:29:35Z",
+                        "ns0:setSpec": [
                             "col_1000_50",
                             "com_1000_36"
                         ]
                     },
-                    "metadata": {
-                        "oai_dc:dc": {
-                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
-                            "@xmlns:doc": "http://www.lyncode.com/xoai",
-                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "ns0:metadata": {
+                        "ns2:dc": {
                             "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
                             "dc:title": "El agua en nuestras manos",
                             "dc:creator": {
@@ -584,20 +538,16 @@
                     }
                 },
                 {
-                    "header": {
-                        "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/52",
-                        "datestamp": "2024-06-05T17:31:03Z",
-                        "setSpec": [
+                    "ns0:header": {
+                        "ns0:identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/52",
+                        "ns0:datestamp": "2024-06-05T17:31:03Z",
+                        "ns0:setSpec": [
                             "col_1000_50",
                             "com_1000_36"
                         ]
                     },
-                    "metadata": {
-                        "oai_dc:dc": {
-                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
-                            "@xmlns:doc": "http://www.lyncode.com/xoai",
-                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "ns0:metadata": {
+                        "ns2:dc": {
                             "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
                             "dc:title": "La migración mexicana altamente calificada de cara al siglo XXI: problemática y desafíos",
                             "dc:creator": [
@@ -642,20 +592,16 @@
                     }
                 },
                 {
-                    "header": {
-                        "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/53",
-                        "datestamp": "2024-06-05T17:32:40Z",
-                        "setSpec": [
+                    "ns0:header": {
+                        "ns0:identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/53",
+                        "ns0:datestamp": "2024-06-05T17:32:40Z",
+                        "ns0:setSpec": [
                             "col_1000_50",
                             "com_1000_36"
                         ]
                     },
-                    "metadata": {
-                        "oai_dc:dc": {
-                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
-                            "@xmlns:doc": "http://www.lyncode.com/xoai",
-                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "ns0:metadata": {
+                        "ns2:dc": {
                             "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
                             "dc:title": "Problemas del agua en México. ¿Cómo abordarlos?",
                             "dc:creator": [
@@ -694,20 +640,16 @@
                     }
                 },
                 {
-                    "header": {
-                        "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/54",
-                        "datestamp": "2024-06-05T17:34:12Z",
-                        "setSpec": [
+                    "ns0:header": {
+                        "ns0:identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/54",
+                        "ns0:datestamp": "2024-06-05T17:34:12Z",
+                        "ns0:setSpec": [
                             "col_1000_50",
                             "com_1000_36"
                         ]
                     },
-                    "metadata": {
-                        "oai_dc:dc": {
-                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
-                            "@xmlns:doc": "http://www.lyncode.com/xoai",
-                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "ns0:metadata": {
+                        "ns2:dc": {
                             "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
                             "dc:title": "Aprendiendo más sobre el frijol y su importancia",
                             "dc:creator": {
@@ -785,20 +727,16 @@
                     }
                 },
                 {
-                    "header": {
-                        "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/55",
-                        "datestamp": "2024-06-05T17:34:37Z",
-                        "setSpec": [
+                    "ns0:header": {
+                        "ns0:identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/55",
+                        "ns0:datestamp": "2024-06-05T17:34:37Z",
+                        "ns0:setSpec": [
                             "col_1000_50",
                             "com_1000_36"
                         ]
                     },
-                    "metadata": {
-                        "oai_dc:dc": {
-                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
-                            "@xmlns:doc": "http://www.lyncode.com/xoai",
-                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "ns0:metadata": {
+                        "ns2:dc": {
                             "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
                             "dc:title": "La política pública en ciencia",
                             "dc:creator": [

@@ -1,31 +1,29 @@
 {
-    "OAI-PMH": {
-        "@xmlns": "http://www.openarchives.org/OAI/2.0/",
+    "ns0:OAI-PMH": {
+        "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+        "@xmlns:ns0": "http://www.openarchives.org/OAI/2.0/",
+        "@xmlns:ns2": "http://www.openarchives.org/OAI/2.0/oai_dc/",
         "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
         "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd",
-        "responseDate": "2025-11-06T19:16:41Z",
-        "request": {
+        "ns0:responseDate": "2025-11-11T01:09:24Z",
+        "ns0:request": {
             "@verb": "ListRecords",
             "@metadataPrefix": "oai_dc",
             "#text": "https://ru.ameyalli.dgdc.unam.mx/oai/request"
         },
-        "ListRecords": {
-            "record": [
+        "ns0:ListRecords": {
+            "ns0:record": [
                 {
-                    "header": {
-                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/72",
-                        "datestamp": "2019-03-20T16:30:25Z",
-                        "setSpec": [
+                    "ns0:header": {
+                        "ns0:identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/72",
+                        "ns0:datestamp": "2019-03-20T16:30:25Z",
+                        "ns0:setSpec": [
                             "com_123456789_1",
                             "col_123456789_69"
                         ]
                     },
-                    "metadata": {
-                        "oai_dc:dc": {
-                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
-                            "@xmlns:doc": "http://www.lyncode.com/xoai",
-                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "ns0:metadata": {
+                        "ns2:dc": {
                             "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
                             "dc:title": "Towards a taxonomy for public communication of science activities",
                             "dc:creator": {
@@ -56,11 +54,11 @@
                     }
                 },
                 {
-                    "header": {
+                    "ns0:header": {
                         "@status": "deleted",
-                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/258",
-                        "datestamp": "2019-07-29T18:35:24Z",
-                        "setSpec": [
+                        "ns0:identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/258",
+                        "ns0:datestamp": "2019-07-29T18:35:24Z",
+                        "ns0:setSpec": [
                             "com_123456789_91",
                             "com_123456789_1",
                             "col_123456789_94"
@@ -68,31 +66,27 @@
                     }
                 },
                 {
-                    "header": {
+                    "ns0:header": {
                         "@status": "deleted",
-                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/461",
-                        "datestamp": "2022-06-28T01:36:26Z",
-                        "setSpec": [
+                        "ns0:identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/461",
+                        "ns0:datestamp": "2022-06-28T01:36:26Z",
+                        "ns0:setSpec": [
                             "com_123456789_78",
                             "col_123456789_456"
                         ]
                     }
                 },
                 {
-                    "header": {
-                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/169",
-                        "datestamp": "2021-06-12T00:17:18Z",
-                        "setSpec": [
+                    "ns0:header": {
+                        "ns0:identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/169",
+                        "ns0:datestamp": "2021-06-12T00:17:18Z",
+                        "ns0:setSpec": [
                             "com_123456789_1",
                             "col_123456789_69"
                         ]
                     },
-                    "metadata": {
-                        "oai_dc:dc": {
-                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
-                            "@xmlns:doc": "http://www.lyncode.com/xoai",
-                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "ns0:metadata": {
+                        "ns2:dc": {
                             "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
                             "dc:title": "Efectos sobre el aprendizaje informal de la evolución biológica como resultado de la mediación museal",
                             "dc:subject": [
@@ -119,20 +113,16 @@
                     }
                 },
                 {
-                    "header": {
-                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/71",
-                        "datestamp": "2019-03-20T16:31:02Z",
-                        "setSpec": [
+                    "ns0:header": {
+                        "ns0:identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/71",
+                        "ns0:datestamp": "2019-03-20T16:31:02Z",
+                        "ns0:setSpec": [
                             "com_123456789_1",
                             "col_123456789_69"
                         ]
                     },
-                    "metadata": {
-                        "oai_dc:dc": {
-                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
-                            "@xmlns:doc": "http://www.lyncode.com/xoai",
-                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "ns0:metadata": {
+                        "ns2:dc": {
                             "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
                             "dc:title": "Science communication practices at the National Autonomous University of Mexico",
                             "dc:creator": [
@@ -169,21 +159,17 @@
                     }
                 },
                 {
-                    "header": {
-                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/414",
-                        "datestamp": "2021-12-10T20:58:16Z",
-                        "setSpec": [
+                    "ns0:header": {
+                        "ns0:identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/414",
+                        "ns0:datestamp": "2021-12-10T20:58:16Z",
+                        "ns0:setSpec": [
                             "com_123456789_410",
                             "com_123456789_90",
                             "col_123456789_411"
                         ]
                     },
-                    "metadata": {
-                        "oai_dc:dc": {
-                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
-                            "@xmlns:doc": "http://www.lyncode.com/xoai",
-                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "ns0:metadata": {
+                        "ns2:dc": {
                             "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
                             "dc:title": "Propuesta metodológica para el análisis hermenéutico de documentales de divulgación científica",
                             "dc:creator": {
@@ -219,20 +205,16 @@
                     }
                 },
                 {
-                    "header": {
-                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/239",
-                        "datestamp": "2019-06-26T15:54:09Z",
-                        "setSpec": [
+                    "ns0:header": {
+                        "ns0:identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/239",
+                        "ns0:datestamp": "2019-06-26T15:54:09Z",
+                        "ns0:setSpec": [
                             "com_123456789_1",
                             "col_123456789_69"
                         ]
                     },
-                    "metadata": {
-                        "oai_dc:dc": {
-                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
-                            "@xmlns:doc": "http://www.lyncode.com/xoai",
-                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "ns0:metadata": {
+                        "ns2:dc": {
                             "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
                             "dc:title": "El fin de la divulgación",
                             "dc:subject": [
@@ -261,20 +243,16 @@
                     }
                 },
                 {
-                    "header": {
-                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/73",
-                        "datestamp": "2019-03-20T16:30:02Z",
-                        "setSpec": [
+                    "ns0:header": {
+                        "ns0:identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/73",
+                        "ns0:datestamp": "2019-03-20T16:30:02Z",
+                        "ns0:setSpec": [
                             "com_123456789_1",
                             "col_123456789_69"
                         ]
                     },
-                    "metadata": {
-                        "oai_dc:dc": {
-                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
-                            "@xmlns:doc": "http://www.lyncode.com/xoai",
-                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "ns0:metadata": {
+                        "ns2:dc": {
                             "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
                             "dc:title": "Hacia una taxonomía de las actividades de comunicación pública de la ciencia",
                             "dc:creator": {
@@ -305,20 +283,16 @@
                     }
                 },
                 {
-                    "header": {
-                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/74",
-                        "datestamp": "2019-03-20T16:29:27Z",
-                        "setSpec": [
+                    "ns0:header": {
+                        "ns0:identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/74",
+                        "ns0:datestamp": "2019-03-20T16:29:27Z",
+                        "ns0:setSpec": [
                             "com_123456789_1",
                             "col_123456789_69"
                         ]
                     },
-                    "metadata": {
-                        "oai_dc:dc": {
-                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
-                            "@xmlns:doc": "http://www.lyncode.com/xoai",
-                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "ns0:metadata": {
+                        "ns2:dc": {
                             "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
                             "dc:title": "Science communication postgraduate studies in Latin America: a map and some food for thought",
                             "dc:creator": [
@@ -363,31 +337,27 @@
                     }
                 },
                 {
-                    "header": {
+                    "ns0:header": {
                         "@status": "deleted",
-                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/457",
-                        "datestamp": "2022-06-27T20:26:55Z",
-                        "setSpec": [
+                        "ns0:identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/457",
+                        "ns0:datestamp": "2022-06-27T20:26:55Z",
+                        "ns0:setSpec": [
                             "com_123456789_78",
                             "col_123456789_456"
                         ]
                     }
                 },
                 {
-                    "header": {
-                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/70",
-                        "datestamp": "2019-03-20T16:31:28Z",
-                        "setSpec": [
+                    "ns0:header": {
+                        "ns0:identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/70",
+                        "ns0:datestamp": "2019-03-20T16:31:28Z",
+                        "ns0:setSpec": [
                             "com_123456789_1",
                             "col_123456789_69"
                         ]
                     },
-                    "metadata": {
-                        "oai_dc:dc": {
-                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
-                            "@xmlns:doc": "http://www.lyncode.com/xoai",
-                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "ns0:metadata": {
+                        "ns2:dc": {
                             "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
                             "dc:title": "Evolution of evaluation in science museums and centres",
                             "dc:creator": {
@@ -418,20 +388,16 @@
                     }
                 },
                 {
-                    "header": {
-                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/76",
-                        "datestamp": "2019-03-20T16:26:15Z",
-                        "setSpec": [
+                    "ns0:header": {
+                        "ns0:identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/76",
+                        "ns0:datestamp": "2019-03-20T16:26:15Z",
+                        "ns0:setSpec": [
                             "com_123456789_1",
                             "col_123456789_69"
                         ]
                     },
-                    "metadata": {
-                        "oai_dc:dc": {
-                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
-                            "@xmlns:doc": "http://www.lyncode.com/xoai",
-                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "ns0:metadata": {
+                        "ns2:dc": {
                             "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
                             "dc:title": "RedPOP: 25 years of a Science Communication Network in Latin America",
                             "dc:creator": [
@@ -480,42 +446,38 @@
                     }
                 },
                 {
-                    "header": {
+                    "ns0:header": {
                         "@status": "deleted",
-                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/582",
-                        "datestamp": "2022-06-29T18:44:01Z",
-                        "setSpec": [
+                        "ns0:identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/582",
+                        "ns0:datestamp": "2022-06-29T18:44:01Z",
+                        "ns0:setSpec": [
                             "com_123456789_78",
                             "col_123456789_456"
                         ]
                     }
                 },
                 {
-                    "header": {
+                    "ns0:header": {
                         "@status": "deleted",
-                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/460",
-                        "datestamp": "2022-06-28T01:00:40Z",
-                        "setSpec": [
+                        "ns0:identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/460",
+                        "ns0:datestamp": "2022-06-28T01:00:40Z",
+                        "ns0:setSpec": [
                             "com_123456789_78",
                             "col_123456789_456"
                         ]
                     }
                 },
                 {
-                    "header": {
-                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/202",
-                        "datestamp": "2021-06-12T00:20:28Z",
-                        "setSpec": [
+                    "ns0:header": {
+                        "ns0:identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/202",
+                        "ns0:datestamp": "2021-06-12T00:20:28Z",
+                        "ns0:setSpec": [
                             "com_123456789_1",
                             "col_123456789_69"
                         ]
                     },
-                    "metadata": {
-                        "oai_dc:dc": {
-                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
-                            "@xmlns:doc": "http://www.lyncode.com/xoai",
-                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "ns0:metadata": {
+                        "ns2:dc": {
                             "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
                             "dc:title": "La interacción entre maestros y guías en los museos de ciencia: un asunto de comunicación",
                             "dc:subject": [
@@ -545,20 +507,16 @@
                     }
                 },
                 {
-                    "header": {
-                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/201",
-                        "datestamp": "2019-06-26T15:53:00Z",
-                        "setSpec": [
+                    "ns0:header": {
+                        "ns0:identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/201",
+                        "ns0:datestamp": "2019-06-26T15:53:00Z",
+                        "ns0:setSpec": [
                             "com_123456789_1",
                             "col_123456789_69"
                         ]
                     },
-                    "metadata": {
-                        "oai_dc:dc": {
-                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
-                            "@xmlns:doc": "http://www.lyncode.com/xoai",
-                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "ns0:metadata": {
+                        "ns2:dc": {
                             "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
                             "dc:title": "Valor y potencial de los museos y centros de ciencias",
                             "dc:subject": [
@@ -586,31 +544,27 @@
                     }
                 },
                 {
-                    "header": {
+                    "ns0:header": {
                         "@status": "deleted",
-                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/459",
-                        "datestamp": "2022-06-28T00:09:22Z",
-                        "setSpec": [
+                        "ns0:identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/459",
+                        "ns0:datestamp": "2022-06-28T00:09:22Z",
+                        "ns0:setSpec": [
                             "com_123456789_78",
                             "col_123456789_456"
                         ]
                     }
                 },
                 {
-                    "header": {
-                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/75",
-                        "datestamp": "2019-03-20T16:28:51Z",
-                        "setSpec": [
+                    "ns0:header": {
+                        "ns0:identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/75",
+                        "ns0:datestamp": "2019-03-20T16:28:51Z",
+                        "ns0:setSpec": [
                             "com_123456789_1",
                             "col_123456789_69"
                         ]
                     },
-                    "metadata": {
-                        "oai_dc:dc": {
-                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
-                            "@xmlns:doc": "http://www.lyncode.com/xoai",
-                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "ns0:metadata": {
+                        "ns2:dc": {
                             "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
                             "dc:title": "Posgrado en Comunicación de la Ciencia en América Latina: un mapa y algunas reflexiones",
                             "dc:creator": [
@@ -655,20 +609,16 @@
                     }
                 },
                 {
-                    "header": {
-                        "identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/77",
-                        "datestamp": "2019-03-20T16:24:47Z",
-                        "setSpec": [
+                    "ns0:header": {
+                        "ns0:identifier": "oai:ru.ameyalli.dgdc.unam.mx:123456789/77",
+                        "ns0:datestamp": "2019-03-20T16:24:47Z",
+                        "ns0:setSpec": [
                             "com_123456789_1",
                             "col_123456789_69"
                         ]
                     },
-                    "metadata": {
-                        "oai_dc:dc": {
-                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
-                            "@xmlns:doc": "http://www.lyncode.com/xoai",
-                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "ns0:metadata": {
+                        "ns2:dc": {
                             "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
                             "dc:title": "RedPOP: 25 años de Red en Comunicación de la Ciencia en América Latina",
                             "dc:creator": [
