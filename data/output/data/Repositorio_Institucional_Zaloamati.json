@@ -1,0 +1,4 @@
+{
+    "error": "XML parsing error on the first page: 401 Client Error: Unauthorized for url: https://zaloamati.azc.uam.mx/server/oai/request?verb=ListRecords&metadataPrefix=oai_dc",
+    "xml_text": "<html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body>\r\n<center><h1>401 Authorization Required</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
+}

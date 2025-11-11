@@ -1,0 +1,428 @@
+{
+    "OAI-PMH": {
+        "@xmlns": "http://www.openarchives.org/OAI/2.0/",
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd",
+        "responseDate": "2025-11-11T04:08:11Z",
+        "request": {
+            "@verb": "ListRecords",
+            "@metadataPrefix": "oai_dc",
+            "#text": "https://repositorio.unicach.mx/oai/conacyt"
+        },
+        "ListRecords": {
+            "record": [
+                {
+                    "header": {
+                        "identifier": "oai:repositorio.unicach.mx:20.500.12753/1829",
+                        "datestamp": "2021-04-22T15:58:56Z",
+                        "setSpec": [
+                            "com_20.500.12753_21",
+                            "com_20.500.12753_13",
+                            "col_20.500.12753_22"
+                        ]
+                    },
+                    "metadata": {
+                        "oai_dc:dc": {
+                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+                            "@xmlns:doc": "http://www.lyncode.com/xoai",
+                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                            "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                            "dc:title": "Epidendrum incomptoides Ames, F.T. Hubb. & C. Schweinf. (1935): orquídea rara y en peligro de extinción encontrada en Laguna Bélgica, Chiapas, México",
+                            "dc:creator": {
+                                "@id": "info:eu-repo/dai/mx/ca/1345892",
+                                "#text": "Carlos Beutelspacher Baigts"
+                            },
+                            "dc:subject": [
+                                "Epidendrum incomptoidesLaguna BélgicaendémicaEpidendrum incomptoidesLaguna Bélgicaendemic",
+                                "info:eu-repo/classification/dgbunam/Biología",
+                                "info:eu-repo/classification/cti/2"
+                            ],
+                            "dc:description": [
+                                "Epidendrum incomptoides Ames, F. T. Hubb. &. C. Schweinf. (1935), es una orquídea endémica de Chiapas que se cono- cía únicamente del ejemplar tipo proveniente del rancho El Fénix, en el municipio de Cintalapa. Debido a la escasez de información biológica y a la rareza de la especie, fue incluida en la NOM-059-SEMARNAT-2001 en la categoría de Sujeta a Protección Especial (Pr). Recientemente, la especie fue registrada en la reserva estatal Laguna Bélgica, en el municipio de Ocozocoautla de Espinosa, Chiapas. El hallazgo confirmó que E. incomptoides es una especie que crece en bosques de Quercus y en su transición con otros tipos de vegetación, en las partes altas de cerros donde el viento y el aporte de humedad son muy frecuentes.",
+                                "Epidendrum incomptoides Ames, F. T. Hubb. &. C. Schweinf. (1935), is an orchid native to Chiapas was known only from the type specimen from the rancho The Phoenix in the town of Cintalapa. Due to the scarcity of biological information and the rarity of the species, was included in the NOM- 059-SEMARNAT-2001 in the category subject to special protection (Pr). Recently, the species was recorded in the state reserve Laguna Belgium, in the municipality of Ocozocoautla de Espinosa, Chiapas. The finding confirmed that E. incomptoides is a species that grows in oak forests and in their transition to other types of vegetation in the upper parts of hills where the wind and moisture supply are common."
+                            ],
+                            "dc:date": "2010-06",
+                            "dc:type": "info:eu-repo/semantics/article",
+                            "dc:identifier": "https://hdl.handle.net/20.500.12753/1829",
+                            "dc:language": "spa",
+                            "dc:rights": [
+                                "info:eu-repo/semantics/openAccess",
+                                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+                            ],
+                            "dc:format": "application/pdf",
+                            "dc:audience": "generalPublic",
+                            "dc:publisher": "Universidad de Ciencias y Artes de Chiapas"
+                        }
+                    }
+                },
+                {
+                    "header": {
+                        "identifier": "oai:repositorio.unicach.mx:20.500.12753/1867",
+                        "datestamp": "2021-04-23T00:30:07Z",
+                        "setSpec": [
+                            "com_20.500.12753_21",
+                            "com_20.500.12753_13",
+                            "col_20.500.12753_22"
+                        ]
+                    },
+                    "metadata": {
+                        "oai_dc:dc": {
+                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+                            "@xmlns:doc": "http://www.lyncode.com/xoai",
+                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                            "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                            "dc:title": "Microzonificación sísmica de las laderas de Tuxtla Gutiérrez, Chiapas, México",
+                            "dc:creator": [
+                                {
+                                    "@id": "info:eu-repo/dai/mx/cvu/213769",
+                                    "#text": "RAUL GONZALEZ HERRERA"
+                                },
+                                {
+                                    "@id": "info:eu-repo/dai/mx/cvu/480302",
+                                    "#text": "JOSE PIÑA FLORES"
+                                }
+                            ],
+                            "dc:subject": [
+                                "microtremorruido sísmicoperiodo natural de vibracióntécnica Nakamurazonificación sísmicamicrotremorseismic noisenatural period of vibrationNakamura technique, seismic zoning",
+                                "info:eu-repo/classification/dgbunam/Ingeniería",
+                                "info:eu-repo/classification/cti/7"
+                            ],
+                            "dc:description": [
+                                "En la ciudad de Tuxtla Gutiérrez se realizó un estudio de microzo- nificación sísmica con el objetivo de identificar los niveles de peligro sísmico en la ciudad y estar en posibilidad de desarrollar propuestas para una reglamentación con respecto a las aceleraciones sísmicas que experimentaran las construcciones. En este artículo se presenta la parte del estudio que corresponde a las laderas de la ciudad, donde se empleó la técnica de Nakamura (1989). Esta técnica utiliza ruido ambiental (microtremores), la cual, permite estimar el periodo na- tural de vibración del suelo, a partir de estos resultados se obtiene un mapa de isoperiodos para observar las características dinámicas del suelo de la ciudad y así determinar espectros de diseño sísmico para cada zona.",
+                                "In the city of Tuxtla Gutierrez a study of seismic microzoning with the aim of identifying the levels of seismic hazard in the city is realized and being in possibility of developing proposals for a regulation with respect to the seismic accelerations that underwent the constructions. In this paper shows the study that corresponds to slopes of the city, where the technique of Nakamura (1989) was used. This technique uses environmental noise (microtremores), which, allows to consider the natural period of vibration of the ground, from these results a map of isoperiodos is obtained to ob- serve the dynamic characteristics of the ground of the city and thus to determine seismic spectrums design for each zone."
+                            ],
+                            "dc:date": "2011-06",
+                            "dc:type": "info:eu-repo/semantics/article",
+                            "dc:identifier": "https://hdl.handle.net/20.500.12753/1867",
+                            "dc:language": "spa",
+                            "dc:rights": [
+                                "info:eu-repo/semantics/openAccess",
+                                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+                            ],
+                            "dc:format": "application/pdf",
+                            "dc:audience": "generalPublic",
+                            "dc:publisher": "Universidad de Ciencias y Artes de Chiapas"
+                        }
+                    }
+                },
+                {
+                    "header": {
+                        "identifier": "oai:repositorio.unicach.mx:20.500.12753/1835",
+                        "datestamp": "2021-04-22T00:30:09Z",
+                        "setSpec": [
+                            "com_20.500.12753_21",
+                            "com_20.500.12753_13",
+                            "col_20.500.12753_22"
+                        ]
+                    },
+                    "metadata": {
+                        "oai_dc:dc": {
+                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+                            "@xmlns:doc": "http://www.lyncode.com/xoai",
+                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                            "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                            "dc:title": "Herpetofauna de la zona sujeta a conservación ecológica El Cabildo, Amatal, Chiapas, México",
+                            "dc:creator": {
+                                "@id": "info:eu-repo/dai/mx/cvu/504565",
+                                "#text": "GUILLERMO ENRIQUE SANCHEZ AGUILAR"
+                            },
+                            "dc:subject": [
+                                "herpetofaunacomposición taxonómicaEl Cabildo, Amatal, Chiapas.riquezataxonomic compositionrichness",
+                                "info:eu-repo/classification/dgbunam/Biología",
+                                "info:eu-repo/classification/cti/2"
+                            ],
+                            "dc:description": [
+                                "Se analizó la composición taxonómica y riqueza de la herpeto- fauna por tipos de vegetación en la Zona Sujeta a Conservación Ecológica El Cabildo, Amatal, Chiapas, México. Se registraron en total 12 especies de anfibios y 31 de reptiles, de estos últimos, 16 especies son serpientes. Trece especies se encuentran incluidas en alguna categoría de riesgo en la Norma Oficial Mexicana (NOM- 059-Semarnat-2001), nueve están sujetas a Protección Especial (Pr) y cuatro están Amenazadas (A). El tipo de vegetación que presentó la mayor riqueza de especies de anfibios y reptiles fue el palmar. Es vital preservar las zonas de manglar ya que contienen un número considerable de especies exclusivas a este tipo de vegetación.",
+                                "In this study we analyzed the taxonomic composition and richness of the herpetofauna by vegetation types in the Area Sujeta a Con- servacion Ecologica El Cabildo, Amatal, Chiapas, Mexico. There were in total 12 species of amphibians and 31 reptiles, 16 species are snakes. Thirteen species are included in some risk category in the Official Mexican Standard (NOM-059-Semarnat-2001), nine are subject to special protection (Pr), and four are threatened (A). The highest species richness of amphibians and reptiles were recorded in the palm groves. It is vital to preserve the mangrove swamp areas as they contain a considerable number of species unique to this vegetation type."
+                            ],
+                            "dc:date": "2011-06",
+                            "dc:type": "info:eu-repo/semantics/article",
+                            "dc:identifier": "https://hdl.handle.net/20.500.12753/1835",
+                            "dc:language": "spa",
+                            "dc:rights": [
+                                "info:eu-repo/semantics/openAccess",
+                                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+                            ],
+                            "dc:format": "application/pdf",
+                            "dc:audience": "generalPublic",
+                            "dc:publisher": "Universidad de Ciencias y Artes de Chiapas"
+                        }
+                    }
+                },
+                {
+                    "header": {
+                        "identifier": "oai:repositorio.unicach.mx:20.500.12753/4996",
+                        "datestamp": "2023-12-06T06:30:09Z",
+                        "setSpec": [
+                            "com_20.500.12753_59",
+                            "com_20.500.12753_58",
+                            "col_20.500.12753_60"
+                        ]
+                    },
+                    "metadata": {
+                        "oai_dc:dc": {
+                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+                            "@xmlns:doc": "http://www.lyncode.com/xoai",
+                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                            "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                            "dc:title": "Permanencia y olvido. El culto a los cerros-agua y cruces en Ocozocoautla Chiapas, desde sus orígenes prehispánicos a la actualidad, 2022",
+                            "dc:creator": {
+                                "@id": "info:eu-repo/dai/mx/cvu/1098993",
+                                "#text": "KEVIN ELOY OVANDO HERNÁNDEZ"
+                            },
+                            "dc:contributor": {
+                                "@id": "info:eu-repo/dai/mx/cvu/202741",
+                                "@role": "asesorTesis",
+                                "#text": "ISABELLE SOPHIA PINCEMIN DELIBEROS"
+                            },
+                            "dc:subject": [
+                                "ZoquesCerros-AguaCrucesPeregrinacionesCosmovisiónPrehispánicoContemporáneoMemoria socialIdentidad",
+                                "info:eu-repo/classification/dgbunam/Historia",
+                                "info:eu-repo/classification/cti/5"
+                            ],
+                            "dc:description": [
+                                "CONAHCyT",
+                                "Las múltiples representaciones culturales que se manifiestan en el México actual son el resultados de diversos procesos históricos, étnicos y culturales presentes a lo largo de la historia. Chiapas, como otros de los estados de la República Mexicana tiene profundas raíces históricas considerando su esencia desde la época prehispánica, colonial y contemporánea. Para el caso mexicano la presencia de materiales arqueológicos en cuevas, cerros-montañas, ojos de agua etc. dan indicio de como los antiguos moradores conformaron su creencias y territorios a través de la veneración y culto a estos espacios y elementos de la naturaleza, en este sentido, el presente trabajo hace énfasis en la importancia que estos espacios tenían para los antiguos zoques en la Depresión Central de Chiapas y en particular para el municipio de Ocozocoautla cuya resignificación en la práctica social se siguen realizando ceremonias y peregrinaciones entorno a la fiesta de la Santa Cruz el día 03 de mayo, asociados fuertemente a marcadores culturales de orígenes prehispánicos que son clave de la permanencia y la identidad cultural."
+                            ],
+                            "dc:date": "2023-11-10",
+                            "dc:type": "info:eu-repo/semantics/masterThesis",
+                            "dc:identifier": "https://hdl.handle.net/20.500.12753/4996",
+                            "dc:language": "spa",
+                            "dc:rights": [
+                                "info:eu-repo/semantics/openAccess",
+                                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+                            ],
+                            "dc:format": "application/pdf",
+                            "dc:audience": "generalPublic",
+                            "dc:publisher": "Universidad de Ciencias y Artes de Chiapas"
+                        }
+                    }
+                },
+                {
+                    "header": {
+                        "identifier": "oai:repositorio.unicach.mx:20.500.12753/1832",
+                        "datestamp": "2021-04-22T00:30:09Z",
+                        "setSpec": [
+                            "com_20.500.12753_21",
+                            "com_20.500.12753_13",
+                            "col_20.500.12753_22"
+                        ]
+                    },
+                    "metadata": {
+                        "oai_dc:dc": {
+                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+                            "@xmlns:doc": "http://www.lyncode.com/xoai",
+                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                            "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                            "dc:title": "Rayas (Piscis: Batoidea) de la Plataforma Continental de la Región Soconusco, Chiapas, México",
+                            "dc:creator": [
+                                {
+                                    "@id": "info:eu-repo/dai/mx/cvu/552772",
+                                    "#text": "ORLANDO LAM GORDILLO"
+                                },
+                                {
+                                    "@id": "info:eu-repo/dai/mx/cvu/206288",
+                                    "#text": "GUSTAVO RIVERA VELAZQUEZ"
+                                },
+                                {
+                                    "@id": "info:eu-repo/dai/mx/cvu/9504",
+                                    "#text": "MARGARITO TAPIA GARCIA"
+                                },
+                                {
+                                    "@id": "info:eu-repo/dai/mx/cvu/174849",
+                                    "#text": "LUIS GIBRAN JUAREZ HERNANDEZ"
+                                }
+                            ],
+                            "dc:subject": [
+                                "Piscis BatoidearayasPlataforma Continental Soconusco, Chiapas, México.Piscis BatoideaRaysSoconusco continental platform, Chiapas, Mexico.",
+                                "info:eu-repo/classification/dgbunam/Biología",
+                                "info:eu-repo/classification/cti/2"
+                            ],
+                            "dc:description": [
+                                "Se elaboró un listado taxonómico de las rayas (Piscis: Batoidea), en la Plataforma Continental de la región Soconusco, Chiapas, México. Esta información se obtuvo de colectas realizadas en enero desde 2002 hasta noviembre de 2010. De 48 ejemplares analizados, se encontró un total de cuatro órdenes, 10 familias, 10 géneros y 11 especies. Los resultados demuestran que el orden mejor representado fue Myliobatiformes. Las familias mejor representadas fueron Myliobatidae y Narcinidae con dos géneros respectivamente y el género mejor representado fue Narcine con dos especies. La presente información sirve como antecedente para investigaciones o estudios que incidan en la región.",
+                                "A preliminary taxonomic list was realized and contributes informa- tion about the Rays in the continental platform of the Soconusco region, Chiapas, Mexico. The information was obtained by realized exits to field of January 2002 to November 2010. From a total of 48 analyzed speciments, we found a total of four orders, 10 families, 10 genus and 11 species. The results demonstrate that the order better represented was Myliobatiformes. The families better represented were Myliobatidae and Narcidniae with two genuses respectively. The genus better represented was Narcine with two species. The contributed data serve like study base for projects of investigation of the region."
+                            ],
+                            "dc:date": "2011-06",
+                            "dc:type": "info:eu-repo/semantics/article",
+                            "dc:identifier": "https://hdl.handle.net/20.500.12753/1832",
+                            "dc:language": "spa",
+                            "dc:rights": [
+                                "info:eu-repo/semantics/openAccess",
+                                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+                            ],
+                            "dc:format": "application/pdf",
+                            "dc:audience": "generalPublic",
+                            "dc:publisher": "Universidad de Ciencias y Artes de Chiapas"
+                        }
+                    }
+                },
+                {
+                    "header": {
+                        "identifier": "oai:repositorio.unicach.mx:20.500.12753/1862",
+                        "datestamp": "2021-04-22T00:30:12Z",
+                        "setSpec": [
+                            "com_20.500.12753_21",
+                            "com_20.500.12753_13",
+                            "col_20.500.12753_22"
+                        ]
+                    },
+                    "metadata": {
+                        "oai_dc:dc": {
+                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+                            "@xmlns:doc": "http://www.lyncode.com/xoai",
+                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                            "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                            "dc:title": "Nueva evidencia de Panthera atrox (Mammalia, Felidae) en el Pleistoceno Tardío de Chiapas",
+                            "dc:creator": [
+                                {
+                                    "@id": "info:eu-repo/dai/mx/cvu/892510",
+                                    "#text": "LUIS ENRIQUE GOMEZ PEREZ"
+                                },
+                                {
+                                    "@id": "info:eu-repo/dai/mx/cvu/291739",
+                                    "#text": "GERARDO FABIO CARBOT CHANONA"
+                                }
+                            ],
+                            "dc:subject": [
+                                "Pleistoceno TardíoMegafaunaPanthera atroxLate Pleistocene",
+                                "info:eu-repo/classification/dgbunam/Biología",
+                                "info:eu-repo/classification/cti/2"
+                            ],
+                            "dc:description": [
+                                "El león americano Panthera atrox, fue un importante componente de la megafauna del Pleistoceno Tardío en América del Norte. Aquí documentamos un nuevo registro de P. atrox para Chiapas con base en un M1 izquierdo parcialmente completo, rescatado de la localidad La Simpatía, en el munici- pio de Villa Corzo. Con este nuevo ejemplar se contabilizan tres registros para el estado, constatando que P. atrox fue un depredador común en esta región de México durante el Pleistoceno Tardío.",
+                                "The American lion Panthera atrox, was an important component of the late Pleistocene megafauna in North America. Here we document a new record of P. atrox from Chiapas, based on a partially complete left M1, collected from La Simpatia locality, Villa Corzo municipality. With this new specimen there are accounted three records for Chiapas, which evidence that P. atrox was a common predator in this region of Mexico during the Late Pleistocene."
+                            ],
+                            "dc:date": "2014-12",
+                            "dc:type": "info:eu-repo/semantics/article",
+                            "dc:identifier": "https://hdl.handle.net/20.500.12753/1862",
+                            "dc:language": "spa",
+                            "dc:rights": [
+                                "info:eu-repo/semantics/openAccess",
+                                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+                            ],
+                            "dc:format": "application/pdf",
+                            "dc:audience": "generalPublic",
+                            "dc:publisher": "Universidad de Ciencias y Artes de Chiapas"
+                        }
+                    }
+                },
+                {
+                    "header": {
+                        "identifier": "oai:repositorio.unicach.mx:20.500.12753/1860",
+                        "datestamp": "2021-04-22T00:30:10Z",
+                        "setSpec": [
+                            "com_20.500.12753_21",
+                            "com_20.500.12753_13",
+                            "col_20.500.12753_22"
+                        ]
+                    },
+                    "metadata": {
+                        "oai_dc:dc": {
+                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+                            "@xmlns:doc": "http://www.lyncode.com/xoai",
+                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                            "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                            "dc:title": "Los procesos de remoción en masa en Chiapas: una revisión de los últimos cinco años (2006-2011)",
+                            "dc:creator": [
+                                {
+                                    "@id": "info:eu-repo/dai/mx/cvu/341964",
+                                    "#text": "JORGE ANTONIO PAZ TENORIO"
+                                },
+                                {
+                                    "@id": "info:eu-repo/dai/mx/cvu/872441",
+                                    "#text": "MARIO GOMEZ RAMIREZ"
+                                }
+                            ],
+                            "dc:subject": [
+                                "laderadesastretaludremoción en masasloperdisasterrelieflandslide",
+                                "info:eu-repo/classification/dgbunam/Antropología",
+                                "info:eu-repo/classification/cti/4"
+                            ],
+                            "dc:description": [
+                                "Los procesos de remoción en masa son fenómenos naturales que por sí mismos generan otras formas del relieve; sin embargo, la carencia de políticas de ordenamiento y la falta de estudios locales han permitido el establecimiento de obra civil y centros de población en espacios con fuertes pendientes, en donde se han acumulado ma- teriales inestables que son perturbados directamente por la actividad humana. La eliminación de la cubierta vegetal, alteración de los flu- jos de agua subterránea, la construcción sin las técnicas apropiadas, son algunos elementos que sumados a lluvias intensas, propician estos procesos, manifestándose en un daño al patrimonio, vías de comunicación y terrenos de cultivo, con un impacto económico considerable. En este trabajo se describen siete eventos ocurridos en el estado de Chiapas entre 2006 y 2011. La información se recopiló a través de comunicados oficiales del Gobierno del Estado, notas periodísticas y recorridos en campo, de lo cual se integró un mapa.",
+                                "The processes of landslide are natural phenomena that by themselves generate other forms of the relief; nevertheless, the deficiency of ordering policies and the lack of local studies have allowed to the construction’s establishment in spaces with pending forts, where accumulated unstable materials are had that are disturbed directly by the human activity. The elimination of the vegetal cover, alte- ration of the underground water flows, the construction without the appropriate techniques, is some elements that added to intense rains, cause these processes, pronouncing themselves in damage to the patrimony, communication channels and lands of culture, with considerable economic impact. In this paper seven events happened in the state of Chiapas between 2006 and 2011 are described. The information was compiled through official notices of the Gover- nment of the State, journalistic notes and field work, of which a map was integrated."
+                            ],
+                            "dc:date": "2011-06",
+                            "dc:type": "info:eu-repo/semantics/article",
+                            "dc:identifier": "https://hdl.handle.net/20.500.12753/1860",
+                            "dc:language": "spa",
+                            "dc:rights": [
+                                "info:eu-repo/semantics/openAccess",
+                                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+                            ],
+                            "dc:format": "application/pdf",
+                            "dc:audience": "generalPublic",
+                            "dc:publisher": "Universidad de Ciencias y Artes de Chiapas"
+                        }
+                    }
+                },
+                {
+                    "header": {
+                        "identifier": "oai:repositorio.unicach.mx:20.500.12753/1864",
+                        "datestamp": "2021-04-22T00:30:11Z",
+                        "setSpec": [
+                            "com_20.500.12753_21",
+                            "com_20.500.12753_13",
+                            "col_20.500.12753_22"
+                        ]
+                    },
+                    "metadata": {
+                        "oai_dc:dc": {
+                            "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+                            "@xmlns:doc": "http://www.lyncode.com/xoai",
+                            "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                            "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                            "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+                            "dc:title": "Uso o desperdicio de agua, estudio en sanitarios de la Universidad de Ciencias y Artes de Chiapas, México",
+                            "dc:creator": [
+                                {
+                                    "@id": "info:eu-repo/dai/mx/cvu/439744",
+                                    "#text": "PEDRO VERA TOLEDO"
+                                },
+                                {
+                                    "@id": "info:eu-repo/dai/mx/cvu/746800",
+                                    "#text": "FREDDY ERNESTO MELCHOR MIMIAGA"
+                                },
+                                {
+                                    "@id": "info:eu-repo/dai/mx/cvu/825428",
+                                    "#text": "CARLOS MANUEL GARCIA LARA"
+                                },
+                                {
+                                    "@id": "info:eu-repo/dai/mx/cvu/213769",
+                                    "#text": "RAUL GONZALEZ HERRERA"
+                                }
+                            ],
+                            "dc:subject": [
+                                "UsoDesperdicioSanitariosAguaUNICACHUseWasteToiletsWater",
+                                "info:eu-repo/classification/dgbunam/Ingeniería",
+                                "info:eu-repo/classification/cti/7"
+                            ],
+                            "dc:description": [
+                                "Se presenta un estudio y sus resultados sobre el uso y desperdicio del agua en los sanitarios del edificio número 3 de la UNICACH, se formuló y aplicó encuestas de opinión enfocadas a educación ambiental y el uso o desperdicio del agua. Se encontró que alrededor del 70% de encuestados dice tener conocimientos sobre el cuidado y uso correcto de los recursos en este caso el agua, sin embargo las conductas de los usuarios del vital líquido, evidencian lo contrario, aunado a un mal diseño de las instalaciones y pobre mantenimiento dan como resultado desperdicio del agua.",
+                                "Presents a study and its results on the use and waste of water in the toilets of the building number 3 of the UNICACH, was formulated and applied opinion surveys focused on environmental education and use or waste of water, it was found that around 70% of respondents says having knowledge about the care and proper use of resources in this case water, however the behavior of the users of the vital liquid, demonstrate otherwise, coupled with a poor design of the facilities and poor maintenance are as a result waste of water."
+                            ],
+                            "dc:date": "2013-06",
+                            "dc:type": "info:eu-repo/semantics/article",
+                            "dc:identifier": "https://hdl.handle.net/20.500.12753/1864",
+                            "dc:language": "spa",
+                            "dc:rights": [
+                                "info:eu-repo/semantics/openAccess",
+                                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+                            ],
+                            "dc:format": "application/pdf",
+                            "dc:audience": "generalPublic",
+                            "dc:publisher": "Universidad de Ciencias y Artes de Chiapas"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}
