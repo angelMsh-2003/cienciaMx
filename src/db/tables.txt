@@ -1,0 +1,27 @@
+CREATE TABLE repositories (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+	url VARCHAR(255) NOT NULL,
+    last_update DATE,
+    alive BOOLEAN
+);
+CREATE TABLE items (
+    id SERIAL PRIMARY KEY,
+    id_repository INT NOT NULL,
+    title TEXT,
+    creator TEXT,
+    subject TEXT,
+    description TEXT,
+    publisher TEXT,
+    contributor TEXT,
+    date DATE,
+    type TEXT,
+    format TEXT,
+    identifier TEXT,
+    source TEXT,
+    language TEXT,
+    relation TEXT,
+    coverage TEXT,
+    rights TEXT,
+    FOREIGN KEY (id_repository) REFERENCES repositories(id)
+);

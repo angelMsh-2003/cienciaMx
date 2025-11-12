@@ -32,9 +32,32 @@ project/
 │   ├── analytics/
 │   │   ├── data_analizer:service.py    # Verifies the obligatory metadata fields
 │   │   ├── metadata_validator.py       # Validates the metadata in 3 categories (obligatory, obligatory when applicable, recommended)
-│   │   ├── 
-│   │   ├── 
-│   ├── query/
+│   ├── db/                          
+│   │   ├── db_connector.py             # Manage database connection
+│   │   ├── insert_item_from_reposityory.py # Insert the items and reositories into de DB
+│   │   ├── item_DTO.py                 # Dataclass for items table objects
+│   │   ├── repository_DTO.py           # Dataclass for repositories table objects
 │   ├── stats/
 │   ├── others/
+```
+---
+
+## Database 
+
+### Database Diagram (Prototype)
+
+![img.png](img.png)
+
+
+### Database Connection
+
+Create a `.env` file with the right database credentials in `src/query/`
+
+**.env content:**
+```
+DB_HOST=localhost or host address
+DB_PORT=5432
+DB_NAMES=Database name
+DB_USER=postgres or username
+DB_PASS=secret password
 ```
