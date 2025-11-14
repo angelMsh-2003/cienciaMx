@@ -1,0 +1,23 @@
+services:
+  meilisearch:
+    image: getmeili/meilisearch:latest
+    ports:
+      - "7700:7700"
+    volumes:
+      - ./meili_data:/meili_data
+    environment:
+      - MEILI_ENV=development
+      - MEILI_DB_PATH=/meili_data
+    # environment:
+    #   - MEILI_MASTER_KEY=your_master_key_here  # Descomenta y configura para producción
+
+  app:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./prod_data:/app/prod_data:ro
+    depends_on:
+      - meilisearch
+    environment:
+      - MEILISEARCH_URL=http://meilisearch:7700

@@ -26,3 +26,7 @@ Thumbs.db
 
 # Ignorar otros archivos
 src/sandbox/
+
+# Meilisearch 
+meilisearch/meili_data/
+meilisearch/data/

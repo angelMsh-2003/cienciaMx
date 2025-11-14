@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to FastAPI",
+    "content": "FastAPI is a modern web framework for building APIs with Python."
+  },
+  {
+    "id": 2,
+    "title": "MeiliSearch Overview",
+    "content": "MeiliSearch is a powerful search engine that is easy to use and integrate."
+  },
+  {
+    "id": 3,
+    "title": "Python Programming",
+    "content": "Python is a versatile programming language used for web development, data science, and more."
+  },
+  {
+    "id": 4,
+    "title": "API Development",
+    "content": "Building APIs allows different applications to communicate with each other."
+  },
+  {
+    "id": 5,
+    "title": "Search Engines",
+    "content": "Search engines help users find information quickly and efficiently.",
+    "nueva_prop": "Este es un valor de prueba"
+  },
+  {
+    "id": 6,
+    "title": "Data Loading",
+    "content": "Loading data into search engines is crucial for enabling search functionality.",
+    "nueva_prop": {"sub_prop": "Valor anidado de prueba" }
+  }
+]
