@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 26,
+    "name": "Repositorio Institucional de ECOSUR",
+    "machine_name": "repositorio_institucional_de_ecosur",
+    "url": "https://ecosur.repositorioinstitucional.mx/oai/request",
+    "dspace_version": "5.4",
+    "number_of_items": 2720
+  },
+  "collection_info": {
+    "timestamp": "20251113_200813",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/20251113_200813/Repositorio_Institucional_de_ECOSUR_ID_26/page_001.json"
+  ]
+}

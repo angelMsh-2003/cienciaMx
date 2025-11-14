@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 81,
+    "name": "REPOSITORIO INSTITUCIONAL DEL TECNOLÓGICO NACIONAL DE MÉXICO",
+    "machine_name": "repositorio_institucional_del_tecnolo_gico_nacional_de_me_xico",
+    "url": "https://rinacional.tecnm.mx/oai/conacyt",
+    "dspace_version": "6.3",
+    "number_of_items": 2550
+  },
+  "collection_info": {
+    "timestamp": "20251111_014020",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/try1/20251111_014020_REPOSITORIO_INSTITUCIONAL_DEL_TECNOLO_GICO_NACIONAL_DE_ME_XICO_ID_81_json/page_001.json"
+  ]
+}

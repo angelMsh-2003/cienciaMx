@@ -1,0 +1,1483 @@
+{
+  "endpoints": [
+    {
+      "id": 1,
+      "url": "https://oai-pmh.repositorionacionalcti.mx/resource/oai-pmh",
+      "name": "Aggregator of Repositorio Nacional",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:11:05.972079+00:00",
+      "error_count": 0,
+      "dspace_version": "7.x",
+      "number_of_items": null,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842779.1287308
+      },
+      "machine_name": "aggregator_of_repositorio_nacional"
+    },
+    {
+      "url": "https://infotec.repositorioinstitucional.mx/oai/request",
+      "name": "Repositorio Institucional de INFOTEC",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:08:16.895976+00:00",
+      "error_count": 0,
+      "id": 2,
+      "dspace_version": "5.4",
+      "number_of_items": 638,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842783.1899827
+      },
+      "machine_name": "repositorio_institucional_de_infotec"
+    },
+    {
+      "url": "https://cide.repositorioinstitucional.mx/oai/request",
+      "name": "Repositorio Digital CIDE",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:08:24.981710+00:00",
+      "error_count": 0,
+      "id": 3,
+      "dspace_version": "5.4",
+      "number_of_items": 947,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842783.6710627
+      },
+      "machine_name": "repositorio_digital_cide"
+    },
+    {
+      "url": "https://ru.ameyalli.dgdc.unam.mx/oai/request",
+      "name": "Ameyalli - Repositorio Universitario Especializado en Comunicación Pública de la Ciencia",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-11T07:39:58.804511+00:00",
+      "error_count": 0,
+      "id": 4,
+      "dspace_version": "6.2",
+      "number_of_items": 19,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842783.8530276
+      },
+      "machine_name": "ameyalli_repositorio_universitario_especializado_en_comunicaci_n_p_blica_de_la_ciencia"
+    },
+    {
+      "url": "https://ciesas.repositorioinstitucional.mx/oai/request",
+      "name": "REPOSITORIO INSTITUCIONAL DEL CIESAS",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:08:32.953996+00:00",
+      "error_count": 0,
+      "id": 5,
+      "dspace_version": "5.4",
+      "number_of_items": 1864,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842784.380313
+      },
+      "machine_name": "repositorio_institucional_del_ciesas"
+    },
+    {
+      "url": "https://ciatec.repositorioinstitucional.mx/oai/request",
+      "name": "Repositorio Institucional CIATEC",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:08:34.428984+00:00",
+      "error_count": 0,
+      "id": 6,
+      "dspace_version": "5.4",
+      "number_of_items": 224,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842784.8764572
+      },
+      "machine_name": "repositorio_institucional_ciatec"
+    },
+    {
+      "url": "https://ipicyt.repositorioinstitucional.mx/oai/request",
+      "name": "Repositorio IPICYT",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:08:41.743889+00:00",
+      "error_count": 0,
+      "id": 7,
+      "dspace_version": "5.4",
+      "number_of_items": 2087,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842785.3152387
+      },
+      "machine_name": "repositorio_ipicyt"
+    },
+    {
+      "url": "https://colsan.repositorioinstitucional.mx/oai/request",
+      "name": "Repositorio COLSAN",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:08:48.179618+00:00",
+      "error_count": 0,
+      "id": 8,
+      "dspace_version": "5.4",
+      "number_of_items": 1682,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842785.765285
+      },
+      "machine_name": "repositorio_colsan"
+    },
+    {
+      "url": "https://inecol.repositorioinstitucional.mx/oai/request",
+      "name": "Repositorio Institucional INECOL",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:08:55.387786+00:00",
+      "error_count": 0,
+      "id": 9,
+      "dspace_version": "5.4",
+      "number_of_items": 895,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842786.1979017
+      },
+      "machine_name": "repositorio_institucional_inecol"
+    },
+    {
+      "url": "https://cicy.repositorioinstitucional.mx/oai/request",
+      "name": "Repositorio Institucional CICY",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:09:14.705741+00:00",
+      "error_count": 0,
+      "id": 10,
+      "dspace_version": "5.4",
+      "number_of_items": 3271,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842786.6539795
+      },
+      "machine_name": "repositorio_institucional_cicy"
+    },
+    {
+      "url": "https://mora.repositorioinstitucional.mx/oai/request",
+      "name": "Repositorio MORA",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:09:18.204294+00:00",
+      "error_count": 0,
+      "id": 11,
+      "dspace_version": "5.4",
+      "number_of_items": 837,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842787.0659475
+      },
+      "machine_name": "repositorio_mora"
+    },
+    {
+      "url": "https://oai-pmh.repositorionacionalcti.mx/resource/oai-pmh",
+      "name": "Aggregator of Repositorio Nacional",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": null,
+      "error_count": 0,
+      "id": 12,
+      "dspace_version": "Unknown",
+      "number_of_items": null,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842787.9026144
+      },
+      "machine_name": "aggregator_of_repositorio_nacional_12"
+    },
+    {
+      "url": "https://ciqa.repositorioinstitucional.mx/oai/request",
+      "name": "Repositorio Institucional del Centro de Investigación en Química Aplicada",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:09:22.324566+00:00",
+      "error_count": 0,
+      "id": 13,
+      "dspace_version": "5.4",
+      "number_of_items": 755,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842788.3383482
+      },
+      "machine_name": "repositorio_institucional_del_centro_de_investigaci_n_en_qu_mica_aplicada"
+    },
+    {
+      "url": "https://inaoe.repositorioinstitucional.mx/oai/request",
+      "name": "Repositorio Institucional del INAOE",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:09:30.739632+00:00",
+      "error_count": 0,
+      "id": 14,
+      "dspace_version": "5.4",
+      "number_of_items": 2675,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842788.8255377
+      },
+      "machine_name": "repositorio_institucional_del_inaoe"
+    },
+    {
+      "url": "https://flacso.repositorioinstitucional.mx/oai/request",
+      "name": "Repositorio Institucional FLACSO México",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:09:33.242025+00:00",
+      "error_count": 0,
+      "id": 15,
+      "dspace_version": "5.4",
+      "number_of_items": 481,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842789.2521086
+      },
+      "machine_name": "repositorio_institucional_flacso_m_xico"
+    },
+    {
+      "url": "https://comimsa.repositorioinstitucional.mx/oai/request",
+      "name": "COMIMSA",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:09:35.351538+00:00",
+      "error_count": 0,
+      "id": 16,
+      "dspace_version": "5.4",
+      "number_of_items": 382,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842789.650136
+      },
+      "machine_name": "comimsa"
+    },
+    {
+      "url": "https://cimav.repositorioinstitucional.mx/oai/request",
+      "name": "Fuente de Objetos Científicos Open Access",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:09:42.987198+00:00",
+      "error_count": 0,
+      "id": 17,
+      "dspace_version": "5.4",
+      "number_of_items": 2657,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842790.0664086
+      },
+      "machine_name": "fuente_de_objetos_cient_ficos_open_access"
+    },
+    {
+      "url": "https://cicese.repositorioinstitucional.mx/oai/request",
+      "name": "Repositorio Institucional CICESE",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:09:58.066724+00:00",
+      "error_count": 0,
+      "id": 18,
+      "dspace_version": "5.4",
+      "number_of_items": 4008,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842790.5168645
+      },
+      "machine_name": "repositorio_institucional_cicese"
+    },
+    {
+      "url": "https://cidesi.repositorioinstitucional.mx/oai/request",
+      "name": "Repositorio Institucional CIDESI",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:00.090902+00:00",
+      "error_count": 0,
+      "id": 19,
+      "dspace_version": "5.4",
+      "number_of_items": 327,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842790.998538
+      },
+      "machine_name": "repositorio_institucional_cidesi"
+    },
+    {
+      "url": "https://cideteq.repositorioinstitucional.mx/oai/request",
+      "name": "REPOSITORIO INSTITUCIONAL CIDETEQ",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:02.766449+00:00",
+      "error_count": 0,
+      "id": 20,
+      "dspace_version": "5.4",
+      "number_of_items": 479,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842791.392682
+      },
+      "machine_name": "repositorio_institucional_cideteq"
+    },
+    {
+      "url": "https://oai-pmh.repositorionacionalcti.mx/resource/oai-pmh",
+      "name": "Aggregator of Repositorio Nacional",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": null,
+      "error_count": 0,
+      "id": 21,
+      "dspace_version": "Unknown",
+      "number_of_items": null,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842792.1802454
+      },
+      "machine_name": "aggregator_of_repositorio_nacional_21"
+    },
+    {
+      "url": "https://colmich.repositorioinstitucional.mx/oai/request",
+      "name": "Repositorio Institucional de COLMICH",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:09.416458+00:00",
+      "error_count": 0,
+      "id": 22,
+      "dspace_version": "5.4",
+      "number_of_items": 1472,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842792.5814176
+      },
+      "machine_name": "repositorio_institucional_de_colmich"
+    },
+    {
+      "url": "https://centrogeo.repositorioinstitucional.mx/oai/request",
+      "name": "Repositorio Institucional de CENTROGEO",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:13.569247+00:00",
+      "error_count": 0,
+      "id": 23,
+      "dspace_version": "5.4",
+      "number_of_items": 310,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842793.0350149
+      },
+      "machine_name": "repositorio_institucional_de_centrogeo"
+    },
+    {
+      "url": "https://cio.repositorioinstitucional.mx/oai/request",
+      "name": "REPOSITORIO INSTITUCIONAL DEL CIO",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:17.672640+00:00",
+      "error_count": 0,
+      "id": 24,
+      "dspace_version": "5.4",
+      "number_of_items": 1091,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842793.4609394
+      },
+      "machine_name": "repositorio_institucional_del_cio"
+    },
+    {
+      "url": "https://cimat.repositorioinstitucional.mx/oai/request",
+      "name": "Repositorio Institucional CIMAT",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:21.333243+00:00",
+      "error_count": 0,
+      "id": 25,
+      "dspace_version": "5.4",
+      "number_of_items": 1141,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842793.8712363
+      },
+      "machine_name": "repositorio_institucional_cimat"
+    },
+    {
+      "url": "https://ecosur.repositorioinstitucional.mx/oai/request",
+      "name": "Repositorio Institucional de ECOSUR",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:29.645256+00:00",
+      "error_count": 0,
+      "id": 26,
+      "dspace_version": "5.4",
+      "number_of_items": 2720,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842794.3456242
+      },
+      "machine_name": "repositorio_institucional_de_ecosur"
+    },
+    {
+      "url": "https://ciad.repositorioinstitucional.mx/oai/request",
+      "name": "Repositorio institucional del CIAD, A.C.",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:34.935173+00:00",
+      "error_count": 0,
+      "id": 27,
+      "dspace_version": "5.4",
+      "number_of_items": 1363,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842794.7284193
+      },
+      "machine_name": "repositorio_institucional_del_ciad_a_c"
+    },
+    {
+      "url": "https://colef.repositorioinstitucional.mx/oai/request",
+      "name": "Repositorio Institucional de El Colegio de la Frontera Norte",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:37.813625+00:00",
+      "error_count": 0,
+      "id": 28,
+      "dspace_version": "5.4",
+      "number_of_items": 634,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842795.1714416
+      },
+      "machine_name": "repositorio_institucional_de_el_colegio_de_la_frontera_norte"
+    },
+    {
+      "url": "https://ciateq.repositorioinstitucional.mx/oai/request",
+      "name": "CIATEQ Digital",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:40.861155+00:00",
+      "error_count": 0,
+      "id": 29,
+      "dspace_version": "5.4",
+      "number_of_items": 690,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842795.6194384
+      },
+      "machine_name": "ciateq_digital"
+    },
+    {
+      "url": "https://ru.ameyalli.dgdc.unam.mx/oai/request",
+      "name": "Ameyalli - Repositorio Universitario Especializado en Comunicación Pública de la Ciencia de la DGDC, UNAM",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": null,
+      "error_count": 0,
+      "id": 30,
+      "dspace_version": "6.2",
+      "number_of_items": 19,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842795.8252892
+      },
+      "machine_name": "ameyalli_repositorio_universitario_especializado_en_comunicaci_n_p_blica_de_la_ciencia_de_la_dgdc_unam"
+    },
+    {
+      "url": "https://ru.atheneadigital.filos.unam.mx/oai/request",
+      "name": "Athenea Digital FFyL",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": null,
+      "error_count": 0,
+      "id": 31,
+      "dspace_version": "6.3",
+      "number_of_items": 14602,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842796.07199
+      },
+      "machine_name": "athenea_digital_ffyl"
+    },
+    {
+      "url": "https://oai-pmh.repositorionacionalcti.mx/resource/oai-pmh",
+      "name": "Aggregator of Repositorio Nacional",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": null,
+      "error_count": 0,
+      "id": 32,
+      "dspace_version": "Unknown",
+      "number_of_items": null,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842796.9246387
+      },
+      "machine_name": "aggregator_of_repositorio_nacional_32"
+    },
+    {
+      "url": "http://ri.uacj.mx/vufind/OAI/conacyt",
+      "name": "Repositorio Institucional de la Universidad Autónoma de Ciudad Juárez",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:42.108518+00:00",
+      "error_count": 0,
+      "id": 33,
+      "dspace_version": "7.x",
+      "number_of_items": 3196,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842797.1620405
+      },
+      "machine_name": "repositorio_institucional_de_la_universidad_aut_noma_de_ciudad_ju_rez"
+    },
+    {
+      "url": "https://riuat.uat.edu.mx/oai/conacyt",
+      "name": "Repositorio Institucional de la Universidad Autónoma de Tamaulipas",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:42.780157+00:00",
+      "error_count": 0,
+      "id": 34,
+      "dspace_version": "5.6",
+      "number_of_items": 543,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842797.5481806
+      },
+      "machine_name": "repositorio_institucional_de_la_universidad_aut_noma_de_tamaulipas"
+    },
+    {
+      "url": "http://aramara.uan.mx:8080/oai/conacyt",
+      "name": "Repositorio Institucional Aramara",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:43.493828+00:00",
+      "error_count": 0,
+      "id": 35,
+      "dspace_version": "5.5",
+      "number_of_items": 830,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842797.8012106
+      },
+      "machine_name": "repositorio_institucional_aramara"
+    },
+    {
+      "url": "http://ricaxcan.uaz.edu.mx/oai/conacyt",
+      "name": "Repositorio Institucional Caxcán",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:45.015732+00:00",
+      "error_count": 0,
+      "id": 36,
+      "dspace_version": "6.4",
+      "number_of_items": 2926,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842798.0272648
+      },
+      "machine_name": "repositorio_institucional_caxc_n"
+    },
+    {
+      "url": "http://riacti.uanl.mx/cgi/oai2",
+      "name": "Repositorio de información académica, científica tecnológica y de innovación RIACTis UANL",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:45.903380+00:00",
+      "error_count": 0,
+      "id": 37,
+      "dspace_version": "3.3.15",
+      "number_of_items": 81,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842798.2111206
+      },
+      "machine_name": "repositorio_de_informaci_n_acad_mica_cient_fica_tecnol_gica_y_de_innovaci_n_riactis_uanl"
+    },
+    {
+      "url": "https://oai-pmh.repositorionacionalcti.mx/resource/oai-pmh",
+      "name": "Aggregator of Repositorio Nacional",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": null,
+      "error_count": 0,
+      "id": 38,
+      "dspace_version": "Unknown",
+      "number_of_items": null,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842798.9683945
+      },
+      "machine_name": "aggregator_of_repositorio_nacional_38"
+    },
+    {
+      "url": "https://repositorio.colmex.mx/conacyt/oai/oai2.php",
+      "name": "COLECCIONES DIGITALES COLMEX",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:46.730748+00:00",
+      "error_count": 0,
+      "id": 39,
+      "dspace_version": "7.x",
+      "number_of_items": 2913,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842799.1242115
+      },
+      "machine_name": "colecciones_digitales_colmex"
+    },
+    {
+      "url": "http://repositorio.insp.mx:8080/oai/request",
+      "name": "Repositorio Institucional Abierto de Conocimiento en Salud Pública",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:47.089666+00:00",
+      "error_count": 0,
+      "id": 40,
+      "dspace_version": "6",
+      "number_of_items": 985,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842799.2669063
+      },
+      "machine_name": "repositorio_institucional_abierto_de_conocimiento_en_salud_p_blica"
+    },
+    {
+      "url": "http://riaa.uaem.mx:8080/oai/request",
+      "name": "Repositorio Institucional de Acceso Abierto de la Universidad Autónoma del Estado de Morelos",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:47.469547+00:00",
+      "error_count": 0,
+      "id": 41,
+      "dspace_version": "6.1",
+      "number_of_items": 3681,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842799.4639916
+      },
+      "machine_name": "repositorio_institucional_de_acceso_abierto_de_la_universidad_aut_noma_del_estado_de_morelos"
+    },
+    {
+      "url": "https://ri.atmosfera.unam.mx:8284/acdm/srv/eng/oaipmh",
+      "name": "Repositorio  Institucional de datos científicos geoespaciales del Centro de Ciencias de la Atmósfera de la UNAM",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:55.402786+00:00",
+      "error_count": 0,
+      "id": 42,
+      "dspace_version": "7.x",
+      "number_of_items": 126,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842799.7628126
+      },
+      "machine_name": "repositorio_institucional_de_datos_cient_ficos_geoespaciales_del_centro_de_ciencias_de_la_atm_sfera_de_la_unam"
+    },
+    {
+      "url": "https://repositorio-socioecologia.conahcyt.mx/oai/request",
+      "name": "Repositorio de datos ecológicos",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:49.519832+00:00",
+      "error_count": 0,
+      "id": 43,
+      "dspace_version": "5.4",
+      "number_of_items": 234,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842800.3460574
+      },
+      "machine_name": "repositorio_de_datos_ecol_gicos"
+    },
+    {
+      "url": "https://oai-pmh.repositorionacionalcti.mx/resource/oai-pmh",
+      "name": "Aggregator of Repositorio Nacional",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": null,
+      "error_count": 0,
+      "id": 44,
+      "dspace_version": "Unknown",
+      "number_of_items": null,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842801.339533
+      },
+      "machine_name": "aggregator_of_repositorio_nacional_44"
+    },
+    {
+      "url": "http://ilitia.cua.uam.mx:8080/oai/request",
+      "name": "Concentración de Recursos de Información Científica y Académica, UAM Cuajimalpa",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:50.254805+00:00",
+      "error_count": 0,
+      "id": 45,
+      "dspace_version": "6.2",
+      "number_of_items": 1225,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842801.4301066
+      },
+      "machine_name": "concentraci_n_de_recursos_de_informaci_n_cient_fica_y_acad_mica_uam_cuajimalpa"
+    },
+    {
+      "url": "https://repositorio.uaaan.mx/oai/request",
+      "name": "Repositorio Digital CID-UAAAN",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:51.227825+00:00",
+      "error_count": 0,
+      "id": 46,
+      "dspace_version": "6.4",
+      "number_of_items": 16301,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842802.9688933
+      },
+      "machine_name": "repositorio_digital_cid_uaaan"
+    },
+    {
+      "url": "http://ru.micisan.unam.mx/oai/request",
+      "name": "Memoria Institucional CISAN, Repositorio Institucional, UNAM",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:51.726965+00:00",
+      "error_count": 0,
+      "id": 47,
+      "dspace_version": "6.3",
+      "number_of_items": 6860,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842803.2564507
+      },
+      "machine_name": "memoria_institucional_cisan_repositorio_institucional_unam"
+    },
+    {
+      "url": "https://repositorio.colson.edu.mx/server/oai/request",
+      "name": "Repositorio Institucional COLSON",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:52.418080+00:00",
+      "error_count": 0,
+      "id": 48,
+      "dspace_version": "7.6.2",
+      "number_of_items": 1564,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842803.5669825
+      },
+      "machine_name": "repositorio_institucional_colson"
+    },
+    {
+      "url": "https://xogi.ler.uam.mx:8080/server/oai/request",
+      "name": "XOGI REPOSITORIO INSTITUCIONAL UAM LERMA",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": null,
+      "error_count": 0,
+      "id": 49,
+      "dspace_version": "Unknown",
+      "number_of_items": 231,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842803.8926501
+      },
+      "machine_name": "xogi_repositorio_institucional_uam_lerma"
+    },
+    {
+      "url": "http://colposdigital.colpos.mx:8080/oai/conacyt",
+      "name": "COLPOS DIGITAL",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:53.297782+00:00",
+      "error_count": 0,
+      "id": 50,
+      "dspace_version": "6.4",
+      "number_of_items": 3119,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842804.1733994
+      },
+      "machine_name": "colpos_digital"
+    },
+    {
+      "url": "https://oai-pmh.repositorionacionalcti.mx/resource/oai-pmh",
+      "name": "Aggregator of Repositorio Nacional",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": null,
+      "error_count": 0,
+      "id": 51,
+      "dspace_version": "Unknown",
+      "number_of_items": null,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842805.1956022
+      },
+      "machine_name": "aggregator_of_repositorio_nacional_51"
+    },
+    {
+      "url": "https://ri.ujat.mx/server/oai/request",
+      "name": "Repositorio Institucional de la Universidad Juárez Autónoma de Tabasco",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:54.461210+00:00",
+      "error_count": 0,
+      "id": 52,
+      "dspace_version": "9.1",
+      "number_of_items": 4642,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842805.4521418
+      },
+      "machine_name": "repositorio_institucional_de_la_universidad_ju_rez_aut_noma_de_tabasco"
+    },
+    {
+      "url": "http://rigeofisica.ssn.unam.mx/oai/request",
+      "name": "Repositorio de datos del Servicio Sismológico Nacional",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:54.625007+00:00",
+      "error_count": 0,
+      "id": 53,
+      "dspace_version": "6.2",
+      "number_of_items": 26788,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842805.5801525
+      },
+      "machine_name": "repositorio_de_datos_del_servicio_sismol_gico_nacional"
+    },
+    {
+      "url": "https://oai-pmh.repositorionacionalcti.mx/resource/oai-pmh",
+      "name": "Aggregator of Repositorio Nacional",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": null,
+      "error_count": 0,
+      "id": 54,
+      "dspace_version": "Unknown",
+      "number_of_items": null,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842806.5682397
+      },
+      "machine_name": "aggregator_of_repositorio_nacional_54"
+    },
+    {
+      "url": "https://ri.atmosfera.unam.mx:8284/acdm/srv/eng/oaipmh",
+      "name": "Repositorio Institucional del Centro de Ciencias de la Atmósfera de la UNAM",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": null,
+      "error_count": 0,
+      "id": 55,
+      "dspace_version": "Unknown",
+      "number_of_items": 126,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842806.8448436
+      },
+      "machine_name": "repositorio_institucional_del_centro_de_ciencias_de_la_atm_sfera_de_la_unam"
+    },
+    {
+      "url": "http://redi.uady.mx/oai/openaire",
+      "name": "Repositorio Digital Institucional de la Universidad Autónoma de Yucatán",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:56.072047+00:00",
+      "error_count": 0,
+      "id": 56,
+      "dspace_version": "5.6",
+      "number_of_items": 1600,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842807.043882
+      },
+      "machine_name": "repositorio_digital_institucional_de_la_universidad_aut_noma_de_yucat_n"
+    },
+    {
+      "url": "https://ru.iibi.unam.mx/oai/request",
+      "name": "Repositorio Institucional del Instituto de Investigaciones Bibliotecológicas y de la Información de la Universidad Nacional Autónoma de México",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": null,
+      "error_count": 0,
+      "id": 57,
+      "dspace_version": "6.3",
+      "number_of_items": 3704,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842807.333458
+      },
+      "machine_name": "repositorio_institucional_del_instituto_de_investigaciones_bibliotecol_gicas_y_de_la_informaci_n_de_la_universidad_nacional_aut_noma_de_m_xico"
+    },
+    {
+      "url": "http://bindani.izt.uam.mx/catalog/oai",
+      "name": "Repositorio Institucional de la Universidad Autónoma Metropolitana Unidad Iztapalapa",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:57.206415+00:00",
+      "error_count": 0,
+      "id": 58,
+      "dspace_version": "7.x",
+      "number_of_items": 12677,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842807.8014958
+      },
+      "machine_name": "repositorio_institucional_de_la_universidad_aut_noma_metropolitana_unidad_iztapalapa"
+    },
+    {
+      "url": "http://www.riimas.unam.mx/oai/request",
+      "name": "Repositorio Institucional del Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:57.415561+00:00",
+      "error_count": 0,
+      "id": 59,
+      "dspace_version": "Unknown",
+      "number_of_items": 42,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842807.9000988
+      },
+      "machine_name": "repositorio_institucional_del_instituto_de_investigaciones_en_matem_ticas_aplicadas_y_en_sistemas"
+    },
+    {
+      "url": "http://132.248.34.155:8088/oai/provider",
+      "name": "REPOSITORIO INSTITUCIONAL DE CONOCIMIENTO GENÓMICO",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:57.750669+00:00",
+      "error_count": 0,
+      "id": 60,
+      "dspace_version": "7.x",
+      "number_of_items": 7432,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842808.0481453
+      },
+      "machine_name": "repositorio_institucional_de_conocimiento_gen_mico"
+    },
+    {
+      "url": "https://repositorio.tec.mx/server/oai/request",
+      "name": "Repositorio Institucional del Tecnológico de Monterrey",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:58.512074+00:00",
+      "error_count": 0,
+      "id": 61,
+      "dspace_version": "8",
+      "number_of_items": 85026,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842808.5937726
+      },
+      "machine_name": "repositorio_institucional_del_tecnol_gico_de_monterrey"
+    },
+    {
+      "url": "http://rigeotermia.geofisica.unam.mx/oai/request",
+      "name": "Repositorio de Recursos Geotérmicos para México",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:58.823989+00:00",
+      "error_count": 0,
+      "id": 62,
+      "dspace_version": "6.3",
+      "number_of_items": 6196,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842808.7264874
+      },
+      "machine_name": "repositorio_de_recursos_geot_rmicos_para_m_xico"
+    },
+    {
+      "url": "https://oai-pmh.repositorionacionalcti.mx/resource/oai-pmh",
+      "name": "Aggregator of Repositorio Nacional",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": null,
+      "error_count": 0,
+      "id": 63,
+      "dspace_version": "Unknown",
+      "number_of_items": null,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842809.9166083
+      },
+      "machine_name": "aggregator_of_repositorio_nacional_63"
+    },
+    {
+      "url": "https://ninive.uaslp.mx/oai/request",
+      "name": "Repositorio Institucional NINIVE",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:10:59.663443+00:00",
+      "error_count": 0,
+      "id": 64,
+      "dspace_version": "6.4",
+      "number_of_items": 5263,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842810.2255502
+      },
+      "machine_name": "repositorio_institucional_ninive"
+    },
+    {
+      "url": "https://ru.iztacala.unam.mx/oai-pmh-repository/request",
+      "name": "Repositorio universitario de prosa científica y de divulgación de la Facultad de Estudios Superiores Iztacala",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-11T07:40:15.938719+00:00",
+      "error_count": 0,
+      "id": 65,
+      "dspace_version": "7.x",
+      "number_of_items": 50,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842810.435721
+      },
+      "machine_name": "repositorio_universitario_de_prosa_cient_fica_y_de_divulgaci_n_de_la_facultad_de_estudios_superiores_iztacala"
+    },
+    {
+      "url": "https://repositorio.tic.unam.mx/oai/request",
+      "name": "Repositorio Institucional RUTIC",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-11T07:26:37.610241+00:00",
+      "error_count": 0,
+      "id": 66,
+      "dspace_version": "6.3",
+      "number_of_items": 512,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842810.6315365
+      },
+      "machine_name": "repositorio_institucional_rutic"
+    },
+    {
+      "url": "https://risisbi.uqroo.mx/server/oai/request",
+      "name": "Repositorio Institucional SISBIUQROO",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:11:01.175872+00:00",
+      "error_count": 0,
+      "id": 67,
+      "dspace_version": "9.1",
+      "number_of_items": 4614,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842810.9345782
+      },
+      "machine_name": "repositorio_institucional_sisbiuqroo"
+    },
+    {
+      "url": "http://www.repositorio.unadmexico.mx:8080/oai/request",
+      "name": "Repositorio Institucional UnADM",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:11:01.508391+00:00",
+      "error_count": 0,
+      "id": 68,
+      "dspace_version": "6.3",
+      "number_of_items": 237,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842811.0718381
+      },
+      "machine_name": "repositorio_institucional_unadm"
+    },
+    {
+      "url": "https://repositorioinstitucional.buap.mx/oai/conacyt",
+      "name": "Repositorio Institucional de Acceso Abierto RIAA-BUAP",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:11:02.287841+00:00",
+      "error_count": 0,
+      "id": 69,
+      "dspace_version": "7.6",
+      "number_of_items": 10309,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842811.519424
+      },
+      "machine_name": "repositorio_institucional_de_acceso_abierto_riaa_buap"
+    },
+    {
+      "url": "https://oai-pmh.repositorionacionalcti.mx/resource/oai-pmh",
+      "name": "Aggregator of Repositorio Nacional",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": null,
+      "error_count": 0,
+      "id": 70,
+      "dspace_version": "Unknown",
+      "number_of_items": null,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842812.5117054
+      },
+      "machine_name": "aggregator_of_repositorio_nacional_70"
+    },
+    {
+      "url": "https://ri.ibero.mx/oai/request",
+      "name": "Repositorio Institucional Universidad Iberoamericana Ciudad de México",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": null,
+      "error_count": 0,
+      "id": 71,
+      "dspace_version": "6.2",
+      "number_of_items": 5383,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842812.7629395
+      },
+      "machine_name": "repositorio_institucional_universidad_iberoamericana_ciudad_de_m_xico"
+    },
+    {
+      "url": "http://ri.uagro.mx/oai/conacyt",
+      "name": "Repositorio Institucional de Ciencia Abierta de la Universidad Autónoma de Guerrero",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:11:03.126366+00:00",
+      "error_count": 0,
+      "id": 72,
+      "dspace_version": "6.3",
+      "number_of_items": 1718,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842813.1125968
+      },
+      "machine_name": "repositorio_institucional_de_ciencia_abierta_de_la_universidad_aut_noma_de_guerrero"
+    },
+    {
+      "url": "http://literatura.ciidiroaxaca.ipn.mx/oai/request",
+      "name": "Repositorio Institucional de Literatura del IPN-CIIDIR Unidad Oaxaca",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": null,
+      "error_count": 0,
+      "id": 73,
+      "dspace_version": "6.2",
+      "number_of_items": 625,
+      "health_status": {
+        "status": "unhealthy",
+        "last_checked": 1762843178.6866112
+      },
+      "machine_name": "repositorio_institucional_de_literatura_del_ipn_ciidir_unidad_oaxaca"
+    },
+    {
+      "url": "http://colecciones.ciidiroaxaca.ipn.mx/oai/request",
+      "name": "Repositorio Institucional de Colecciones Científicas del IPN-CIIDIR Unidad Oaxaca",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": null,
+      "error_count": 0,
+      "id": 74,
+      "dspace_version": "6.2",
+      "number_of_items": 376,
+      "health_status": {
+        "status": "unhealthy",
+        "last_checked": 1762843178.8713965
+      },
+      "machine_name": "repositorio_institucional_de_colecciones_cient_ficas_del_ipn_ciidir_unidad_oaxaca"
+    },
+    {
+      "url": "https://zaloamati.azc.uam.mx/server/oai/request",
+      "name": "Repositorio Institucional Zaloamati",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:11:03.772362+00:00",
+      "error_count": 0,
+      "id": 75,
+      "dspace_version": "8",
+      "number_of_items": 11945,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762843179.0746331
+      },
+      "machine_name": "repositorio_institucional_zaloamati"
+    },
+    {
+      "url": "http://repositorio.utm.mx/oai/conacyt",
+      "name": "Repositorio Institucional UTM",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:11:04.390691+00:00",
+      "error_count": 0,
+      "id": 76,
+      "dspace_version": "6.4",
+      "number_of_items": 378,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842814.0097804
+      },
+      "machine_name": "repositorio_institucional_utm"
+    },
+    {
+      "url": "https://ru.historicas.unam.mx/oai/conacyt",
+      "name": "Repositorio Institucional Históricas-UNAM",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:11:04.780397+00:00",
+      "error_count": 0,
+      "id": 77,
+      "dspace_version": "6.4",
+      "number_of_items": 3822,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842814.2150466
+      },
+      "machine_name": "repositorio_institucional_hist_ricas_unam"
+    },
+    {
+      "url": "http://ru.facmed.unam.mx/oai/openaire",
+      "name": "Repositorio Institucional de la Facultad de Medicina,UNAM.Departamento de Microbiologia y Parasitologia",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:11:05.083221+00:00",
+      "error_count": 0,
+      "id": 78,
+      "dspace_version": "6.4",
+      "number_of_items": 0,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842814.6196623
+      },
+      "machine_name": "repositorio_institucional_de_la_facultad_de_medicina_unam_departamento_de_microbiologia_y_parasitologia"
+    },
+    {
+      "url": "https://conahcyt.repositorioinstitucional.mx/oai/request",
+      "name": "Repositorio Nacional",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-11T07:40:20.562224+00:00",
+      "error_count": 0,
+      "id": 79,
+      "dspace_version": "5.4",
+      "number_of_items": 16,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842815.1222827
+      },
+      "machine_name": "repositorio_nacional"
+    },
+    {
+      "url": "https://oai-pmh.repositorionacionalcti.mx/resource/oai-pmh",
+      "name": "Aggregator of Repositorio Nacional",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": null,
+      "error_count": 0,
+      "id": 80,
+      "dspace_version": "Unknown",
+      "number_of_items": null,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842816.1482341
+      },
+      "machine_name": "aggregator_of_repositorio_nacional_80"
+    },
+    {
+      "url": "https://rinacional.tecnm.mx/oai/conacyt",
+      "name": "REPOSITORIO INSTITUCIONAL DEL TECNOLÓGICO NACIONAL DE MÉXICO",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:11:06.744019+00:00",
+      "error_count": 0,
+      "id": 81,
+      "dspace_version": "6.3",
+      "number_of_items": 2550,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842816.614369
+      },
+      "machine_name": "repositorio_institucional_del_tecnolo_gico_nacional_de_me_xico"
+    },
+    {
+      "url": "http://repositorio.uppuebla.edu.mx:8080/oai/request",
+      "name": "RI-UPPue: repositorio institucional de la Universidad Politécnica de Puebla",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:11:07.315670+00:00",
+      "error_count": 0,
+      "id": 82,
+      "dspace_version": "6.2",
+      "number_of_items": 361,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842816.795884
+      },
+      "machine_name": "ri_uppue_repositorio_institucional_de_la_universidad_polit_cnica_de_puebla"
+    },
+    {
+      "url": "http://uniciencias.fciencias.unam.mx/oai/request",
+      "name": "Repositorio de la Facultad de Ciencias UNAM",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:11:07.445941+00:00",
+      "error_count": 0,
+      "id": 83,
+      "dspace_version": "6.3",
+      "number_of_items": 0,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842816.9426858
+      },
+      "machine_name": "repositorio_de_la_facultad_de_ciencias_unam"
+    },
+    {
+      "url": "https://repositorio.unicach.mx/oai/conacyt",
+      "name": "Repositorio Institucional UNICACH",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:11:07.845416+00:00",
+      "error_count": 0,
+      "id": 84,
+      "dspace_version": "6.3",
+      "number_of_items": 100,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842817.2476127
+      },
+      "machine_name": "repositorio_institucional_unicach"
+    },
+    {
+      "url": "https://cenoteando.org/oai/request",
+      "name": "Cenotes de Yucatan",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:11:08.736226+00:00",
+      "error_count": 0,
+      "id": 85,
+      "dspace_version": "Unknown",
+      "number_of_items": null,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842817.6530678
+      },
+      "machine_name": "cenotes_de_yucatan"
+    },
+    {
+      "url": "http://rigeofisica.ssn.unam.mx/oai/literatura",
+      "name": "Repositorio de Literatura del Servicio Sismológico Nacional",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:11:08.825507+00:00",
+      "error_count": 0,
+      "id": 86,
+      "dspace_version": "6.2",
+      "number_of_items": 23,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842817.7924132
+      },
+      "machine_name": "repositorio_de_literatura_del_servicio_sismol_gico_nacional"
+    },
+    {
+      "url": "http://rixplora.upn.mx/oai/request",
+      "name": "XPLORA",
+      "description": null,
+      "active": true,
+      "added_at": null,
+      "last_crawled": "2025-11-14T02:11:10.312279+00:00",
+      "error_count": 0,
+      "id": 87,
+      "dspace_version": "5",
+      "number_of_items": 44231,
+      "health_status": {
+        "status": "healthy",
+        "last_checked": 1762842817.9175808
+      },
+      "machine_name": "xplora"
+    }
+  ]
+}

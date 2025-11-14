@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 64,
+    "name": "Repositorio Institucional NINIVE",
+    "machine_name": "repositorio_institucional_ninive",
+    "url": "https://ninive.uaslp.mx/oai/request",
+    "dspace_version": "6.4",
+    "number_of_items": 5263
+  },
+  "collection_info": {
+    "timestamp": "20251113_200813",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/20251113_200813/Repositorio_Institucional_NINIVE_ID_64/page_001.json"
+  ]
+}

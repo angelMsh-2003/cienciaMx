@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 4,
+    "name": "Ameyalli - Repositorio Universitario Especializado en Comunicación Pública de la Ciencia",
+    "machine_name": "ameyalli_repositorio_universitario_especializado_en_comunicaci_n_p_blica_de_la_ciencia",
+    "url": "https://ru.ameyalli.dgdc.unam.mx/oai/request",
+    "dspace_version": "6.2",
+    "number_of_items": 19
+  },
+  "collection_info": {
+    "timestamp": "20251111_013657",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/try1/20251111_013657_Ameyalli_-_Repositorio_Universitario_Especializado_en_Comunicaci_n_P_blica_de_la_Ciencia_ID_4_json/page_001.json"
+  ]
+}

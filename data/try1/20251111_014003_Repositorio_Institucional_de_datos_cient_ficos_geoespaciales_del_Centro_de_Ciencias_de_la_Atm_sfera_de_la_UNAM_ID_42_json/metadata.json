@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 42,
+    "name": "Repositorio  Institucional de datos científicos geoespaciales del Centro de Ciencias de la Atmósfera de la UNAM",
+    "machine_name": "repositorio_institucional_de_datos_cient_ficos_geoespaciales_del_centro_de_ciencias_de_la_atm_sfera_de_la_unam",
+    "url": "https://ri.atmosfera.unam.mx:8284/acdm/srv/eng/oaipmh",
+    "dspace_version": "7.x",
+    "number_of_items": 126
+  },
+  "collection_info": {
+    "timestamp": "20251111_014003",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/try1/20251111_014003_Repositorio_Institucional_de_datos_cient_ficos_geoespaciales_del_Centro_de_Ciencias_de_la_Atm_sfera_de_la_UNAM_ID_42_json/page_001.json"
+  ]
+}

@@ -1,0 +1,723 @@
+{
+  "OAI-PMH": {
+    "@xmlns": "http://www.openarchives.org/OAI/2.0/",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd",
+    "responseDate": "2025-11-14T02:10:42Z",
+    "request": {
+      "@verb": "ListRecords",
+      "@metadataPrefix": "oai_dc",
+      "#text": "http://ri.uacj.mx/vufind/OAI/conacyt"
+    },
+    "ListRecords": {
+      "record": [
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-2788",
+            "datestamp": "2022-02-24T20:31:43Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-1095",
+            "datestamp": "2022-02-24T21:06:03Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-1112",
+            "datestamp": "2022-02-24T21:06:03Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-1113",
+            "datestamp": "2022-02-24T21:06:03Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-1114",
+            "datestamp": "2022-02-24T21:06:04Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-1115",
+            "datestamp": "2022-02-24T21:06:04Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-1116",
+            "datestamp": "2022-02-24T21:06:04Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-1117",
+            "datestamp": "2022-02-24T21:06:05Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-1118",
+            "datestamp": "2022-02-24T21:06:05Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-1119",
+            "datestamp": "2022-02-24T21:06:05Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-1120",
+            "datestamp": "2022-02-24T21:06:06Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-1121",
+            "datestamp": "2022-02-24T21:06:06Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-1122",
+            "datestamp": "2022-02-24T21:06:06Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-1123",
+            "datestamp": "2022-02-24T21:06:07Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-1124",
+            "datestamp": "2022-02-24T21:06:07Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-1125",
+            "datestamp": "2022-02-24T21:06:07Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-1417",
+            "datestamp": "2022-02-24T21:06:08Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-1418",
+            "datestamp": "2022-02-24T21:06:08Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-1420",
+            "datestamp": "2022-02-24T21:06:09Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-1421",
+            "datestamp": "2022-02-24T21:06:09Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-1423",
+            "datestamp": "2022-02-24T21:06:09Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-1424",
+            "datestamp": "2022-02-24T21:06:10Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-1709",
+            "datestamp": "2022-02-24T21:06:10Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:ojs.148.210.21.112:article-1331",
+            "datestamp": "2022-02-24T21:06:10Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-1967",
+            "datestamp": "2022-02-24T21:06:11Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-2267",
+            "datestamp": "2022-02-24T21:06:11Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-2270",
+            "datestamp": "2022-02-24T21:06:11Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-2704",
+            "datestamp": "2022-02-24T21:06:12Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-3059",
+            "datestamp": "2022-02-24T21:06:12Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-3184",
+            "datestamp": "2022-02-24T21:06:12Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-3187",
+            "datestamp": "2022-02-24T21:06:13Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-3262",
+            "datestamp": "2022-02-24T21:06:13Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-3279",
+            "datestamp": "2022-02-24T21:06:13Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-3464",
+            "datestamp": "2022-02-24T21:06:14Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-100",
+            "datestamp": "2022-02-24T22:13:24Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-101",
+            "datestamp": "2022-02-24T22:13:24Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-102",
+            "datestamp": "2022-02-24T22:13:25Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-103",
+            "datestamp": "2022-02-24T22:13:25Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:ojs.148.210.21.112:article-315",
+            "datestamp": "2022-02-24T22:13:25Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:ojs.148.210.21.112:article-343",
+            "datestamp": "2022-02-24T22:13:25Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-1875",
+            "datestamp": "2022-02-24T22:13:26Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-2479",
+            "datestamp": "2022-02-24T22:13:26Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:ojs.148.210.21.112:article-581",
+            "datestamp": "2022-02-24T22:13:26Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-3113",
+            "datestamp": "2022-02-24T22:13:27Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-3114",
+            "datestamp": "2022-02-24T22:13:27Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-3122",
+            "datestamp": "2022-02-24T22:13:27Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-3123",
+            "datestamp": "2022-02-24T22:13:27Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:ojs.148.210.21.112:article-1188",
+            "datestamp": "2022-02-24T23:14:05Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:ojs.148.210.21.112:article-16",
+            "datestamp": "2022-02-24T23:21:31Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:ojs.148.210.21.112:article-17",
+            "datestamp": "2022-02-24T23:21:31Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:ojs.148.210.21.112:article-700",
+            "datestamp": "2022-02-24T23:21:31Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:ojs.148.210.21.112:article-701",
+            "datestamp": "2022-02-24T23:21:32Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:ojs.148.210.21.112:article-702",
+            "datestamp": "2022-02-24T23:21:32Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:ojs.148.210.21.112:article-703",
+            "datestamp": "2022-02-24T23:21:32Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:ojs.148.210.21.112:article-704",
+            "datestamp": "2022-02-24T23:21:33Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:ojs.148.210.21.112:article-706",
+            "datestamp": "2022-02-24T23:21:33Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:ojs.148.210.21.112:article-707",
+            "datestamp": "2022-02-24T23:21:33Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-1708",
+            "datestamp": "2022-02-24T23:31:50Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:ojs.148.210.21.112:article-190",
+            "datestamp": "2022-02-24T23:39:16Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:ojs.148.210.21.112:article-191",
+            "datestamp": "2022-02-24T23:39:16Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:ojs.148.210.21.112:article-221",
+            "datestamp": "2022-02-24T23:39:16Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:ojs.148.210.21.112:article-222",
+            "datestamp": "2022-02-24T23:39:16Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:ojs.148.210.21.112:article-223",
+            "datestamp": "2022-02-24T23:39:17Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:ojs.148.210.21.112:article-224",
+            "datestamp": "2022-02-24T23:39:17Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:ojs.148.210.21.112:article-225",
+            "datestamp": "2022-02-24T23:39:17Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-3623",
+            "datestamp": "2022-02-24T23:39:18Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:ojs.148.210.21.112:article-57",
+            "datestamp": "2022-02-24T23:39:18Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:ojs.148.210.21.112:article-657",
+            "datestamp": "2022-02-24T23:39:18Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:elibros.uacj.mx:publicationFormat-112",
+            "datestamp": "2022-02-25T00:03:59Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:elibros.uacj.mx:publicationFormat-146",
+            "datestamp": "2022-02-25T00:04:00Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:elibros.uacj.mx:publicationFormat-147",
+            "datestamp": "2022-02-25T00:04:00Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:elibros.uacj.mx:publicationFormat-83",
+            "datestamp": "2022-02-25T00:04:00Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:omp.omp.uacj.mx:publicationFormat-1",
+            "datestamp": "2022-02-25T00:04:01Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:omp.omp.uacj.mx:publicationFormat-10",
+            "datestamp": "2022-02-25T00:04:01Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:omp.omp.uacj.mx:publicationFormat-12",
+            "datestamp": "2022-02-25T00:04:01Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:omp.omp.uacj.mx:publicationFormat-15",
+            "datestamp": "2022-02-25T00:04:02Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:omp.omp.uacj.mx:publicationFormat-16",
+            "datestamp": "2022-02-25T00:04:02Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:omp.omp.uacj.mx:publicationFormat-21",
+            "datestamp": "2022-02-25T00:04:02Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:omp.omp.uacj.mx:publicationFormat-29",
+            "datestamp": "2022-02-25T00:04:02Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:omp.omp.uacj.mx:publicationFormat-53",
+            "datestamp": "2022-02-25T00:04:03Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:omp.omp.uacj.mx:publicationFormat-55",
+            "datestamp": "2022-02-25T00:04:03Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:omp.omp.uacj.mx:publicationFormat-56",
+            "datestamp": "2022-02-25T00:04:03Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:omp.omp.uacj.mx:publicationFormat-60",
+            "datestamp": "2022-02-25T00:04:04Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:omp.omp.uacj.mx:publicationFormat-61",
+            "datestamp": "2022-02-25T00:04:04Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:omp.omp.uacj.mx:publicationFormat-62",
+            "datestamp": "2022-02-25T00:04:04Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:omp.omp.uacj.mx:publicationFormat-63",
+            "datestamp": "2022-02-25T00:04:05Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:omp.omp.uacj.mx:publicationFormat-65",
+            "datestamp": "2022-02-25T00:04:05Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:omp.omp.uacj.mx:publicationFormat-69",
+            "datestamp": "2022-02-25T00:04:05Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:omp.omp.uacj.mx:publicationFormat-70",
+            "datestamp": "2022-02-25T00:04:06Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:omp.omp.uacj.mx:publicationFormat-75",
+            "datestamp": "2022-02-25T00:04:06Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:erecursos.uacj.mx:20.500.11961ir-2044",
+            "datestamp": "2022-02-25T00:42:39Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:erecursos.uacj.mx:20.500.11961ir-310",
+            "datestamp": "2022-02-25T00:42:39Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:erecursos.uacj.mx:20.500.11961ir-3859",
+            "datestamp": "2022-02-25T00:42:40Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:erecursos.uacj.mx:20.500.11961ir-514",
+            "datestamp": "2022-02-25T00:42:40Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-4156",
+            "datestamp": "2022-03-14T16:00:15Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:oai:erevistas.uacj.mx:article-4445",
+            "datestamp": "2022-06-07T18:00:24Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:cathi.uacj.mx:20.500.11961ir-10193",
+            "datestamp": "2022-06-10T21:09:32Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:cathi.uacj.mx:20.500.11961ir-15465",
+            "datestamp": "2022-06-10T21:09:33Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:cathi.uacj.mx:20.500.11961ir-16010",
+            "datestamp": "2022-06-10T21:09:33Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:uacj.mx:oai:cathi.uacj.mx:20.500.11961ir-21388",
+            "datestamp": "2022-06-10T21:09:33Z"
+          }
+        }
+      ],
+      "resumptionToken": {
+        "@cursor": "0",
+        "@expirationDate": "2025-11-14T19:10:42Z",
+        "@completeListSize": "3214",
+        "#text": "6398"
+      }
+    }
+  }
+}

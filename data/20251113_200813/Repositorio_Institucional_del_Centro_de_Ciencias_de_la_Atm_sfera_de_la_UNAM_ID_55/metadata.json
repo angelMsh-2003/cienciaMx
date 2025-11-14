@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 55,
+    "name": "Repositorio Institucional del Centro de Ciencias de la Atmósfera de la UNAM",
+    "machine_name": "repositorio_institucional_del_centro_de_ciencias_de_la_atm_sfera_de_la_unam",
+    "url": "https://ri.atmosfera.unam.mx:8284/acdm/srv/eng/oaipmh",
+    "dspace_version": "Unknown",
+    "number_of_items": 126
+  },
+  "collection_info": {
+    "timestamp": "20251113_200813",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/20251113_200813/Repositorio_Institucional_del_Centro_de_Ciencias_de_la_Atm_sfera_de_la_UNAM_ID_55/page_001.json"
+  ]
+}

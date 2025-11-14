@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 50,
+    "name": "COLPOS DIGITAL",
+    "machine_name": "colpos_digital",
+    "url": "http://colposdigital.colpos.mx:8080/oai/conacyt",
+    "dspace_version": "6.4",
+    "number_of_items": 3119
+  },
+  "collection_info": {
+    "timestamp": "20251111_014008",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/try1/20251111_014008_COLPOS_DIGITAL_ID_50_json/page_001.json"
+  ]
+}

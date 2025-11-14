@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 22,
+    "name": "Repositorio Institucional de COLMICH",
+    "machine_name": "repositorio_institucional_de_colmich",
+    "url": "https://colmich.repositorioinstitucional.mx/oai/request",
+    "dspace_version": "5.4",
+    "number_of_items": 1472
+  },
+  "collection_info": {
+    "timestamp": "20251111_013858",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/try1/20251111_013858_Repositorio_Institucional_de_COLMICH_ID_22_json/page_001.json"
+  ]
+}

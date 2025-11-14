@@ -2,7 +2,7 @@ import os
 import re
 import json
 import pandas as pd
-from dspace_client import DSpaceClient
+from crawler.dspace_client import DSpaceClient
 
 try:
     import xmltodict

@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 36,
+    "name": "Repositorio Institucional Caxcán",
+    "machine_name": "repositorio_institucional_caxc_n",
+    "url": "http://ricaxcan.uaz.edu.mx/oai/conacyt",
+    "dspace_version": "6.4",
+    "number_of_items": 2926
+  },
+  "collection_info": {
+    "timestamp": "20251113_200813",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/20251113_200813/Repositorio_Institucional_Caxc_n_ID_36/page_001.json"
+  ]
+}

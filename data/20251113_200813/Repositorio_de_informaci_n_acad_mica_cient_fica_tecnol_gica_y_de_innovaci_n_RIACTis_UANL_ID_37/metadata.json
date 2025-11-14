@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 37,
+    "name": "Repositorio de información académica, científica tecnológica y de innovación RIACTis UANL",
+    "machine_name": "repositorio_de_informaci_n_acad_mica_cient_fica_tecnol_gica_y_de_innovaci_n_riactis_uanl",
+    "url": "http://riacti.uanl.mx/cgi/oai2",
+    "dspace_version": "3.3.15",
+    "number_of_items": 81
+  },
+  "collection_info": {
+    "timestamp": "20251113_200813",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/20251113_200813/Repositorio_de_informaci_n_acad_mica_cient_fica_tecnol_gica_y_de_innovaci_n_RIACTis_UANL_ID_37/page_001.json"
+  ]
+}

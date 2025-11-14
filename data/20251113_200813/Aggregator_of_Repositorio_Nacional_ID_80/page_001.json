@@ -1,0 +1,721 @@
+{
+  "OAI-PMH": {
+    "@xmlns": "http://www.openarchives.org/OAI/2.0/",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd",
+    "responseDate": "2025-11-14T02:11:05.902Z",
+    "request": {
+      "@verb": "ListRecords",
+      "@metadataPrefix": "oai_dc",
+      "#text": "http://oai-pmh.repositorionacionalcti.mx/resource/oai-pmh"
+    },
+    "ListRecords": {
+      "record": [
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:cide.repositorioinstitucional.mx:1011/21",
+            "datestamp": "2017-12-31T05:24:55.982Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:cide.repositorioinstitucional.mx:1011/22",
+            "datestamp": "2017-12-31T05:24:56.136Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:cide.repositorioinstitucional.mx:1011/23",
+            "datestamp": "2017-12-31T05:24:56.203Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:cide.repositorioinstitucional.mx:1011/24",
+            "datestamp": "2017-12-31T05:24:56.272Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:cide.repositorioinstitucional.mx:1011/25",
+            "datestamp": "2017-12-31T05:24:56.285Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:cide.repositorioinstitucional.mx:1011/26",
+            "datestamp": "2017-12-31T05:24:56.352Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:cide.repositorioinstitucional.mx:1011/36",
+            "datestamp": "2017-12-31T05:24:56.434Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:cide.repositorioinstitucional.mx:1011/27",
+            "datestamp": "2017-12-31T05:24:56.508Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:cide.repositorioinstitucional.mx:1011/37",
+            "datestamp": "2017-12-31T05:24:56.564Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:cide.repositorioinstitucional.mx:1011/34",
+            "datestamp": "2017-12-31T05:24:56.624Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:cide.repositorioinstitucional.mx:1011/28",
+            "datestamp": "2017-12-31T05:24:56.635Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:cide.repositorioinstitucional.mx:1011/35",
+            "datestamp": "2017-12-31T05:24:56.669Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:cide.repositorioinstitucional.mx:1011/29",
+            "datestamp": "2017-12-31T05:24:56.684Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:cide.repositorioinstitucional.mx:1011/20",
+            "datestamp": "2017-12-31T05:24:56.709Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:cide.repositorioinstitucional.mx:1011/30",
+            "datestamp": "2017-12-31T05:24:56.720Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:cide.repositorioinstitucional.mx:1011/31",
+            "datestamp": "2017-12-31T05:24:56.748Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:cide.repositorioinstitucional.mx:1011/32",
+            "datestamp": "2017-12-31T05:24:56.761Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:cide.repositorioinstitucional.mx:1011/33",
+            "datestamp": "2017-12-31T05:24:56.796Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:cide.repositorioinstitucional.mx:1011/149",
+            "datestamp": "2017-12-31T05:24:58.333Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:conacyt.repositorioinstitucional.mx:1000/10",
+            "datestamp": "2018-01-11T01:20:24.195Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:conacyt.repositorioinstitucional.mx:1000/15",
+            "datestamp": "2018-01-11T01:20:24.371Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:conacyt.repositorioinstitucional.mx:1000/74",
+            "datestamp": "2018-01-11T01:20:24.443Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:conacyt.repositorioinstitucional.mx:1000/73",
+            "datestamp": "2018-01-11T01:20:24.516Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:conacyt.repositorioinstitucional.mx:1000/75",
+            "datestamp": "2018-01-11T01:20:24.572Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:conacyt.repositorioinstitucional.mx:1000/76",
+            "datestamp": "2018-01-11T01:20:24.611Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:conacyt.repositorioinstitucional.mx:1000/91",
+            "datestamp": "2018-01-11T01:20:24.722Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:conacyt.repositorioinstitucional.mx:1000/92",
+            "datestamp": "2018-01-11T01:20:24.770Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:conacyt.repositorioinstitucional.mx:1000/93",
+            "datestamp": "2018-01-11T01:20:25.049Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:conacyt.repositorioinstitucional.mx:1000/101",
+            "datestamp": "2018-01-11T01:20:25.130Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:conacyt.repositorioinstitucional.mx:1000/102",
+            "datestamp": "2018-01-11T01:20:25.673Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:conacyt.repositorioinstitucional.mx:1000/103",
+            "datestamp": "2018-01-11T01:20:26.039Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:conacyt.repositorioinstitucional.mx:1000/107",
+            "datestamp": "2018-01-11T01:20:26.160Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:conacyt.repositorioinstitucional.mx:1000/110",
+            "datestamp": "2018-01-11T01:20:26.202Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/30",
+            "datestamp": "2017-12-28T03:59:20.318Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/31",
+            "datestamp": "2017-12-28T03:59:20.343Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/32",
+            "datestamp": "2017-12-28T03:59:20.357Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/34",
+            "datestamp": "2017-12-28T03:59:20.367Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/43",
+            "datestamp": "2017-12-28T03:59:20.380Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/44",
+            "datestamp": "2017-12-28T03:59:20.405Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/35",
+            "datestamp": "2017-12-28T03:59:20.419Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/36",
+            "datestamp": "2017-12-28T03:59:20.424Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/37",
+            "datestamp": "2017-12-28T03:59:20.429Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/45",
+            "datestamp": "2017-12-28T03:59:20.434Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/38",
+            "datestamp": "2017-12-28T03:59:20.439Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/39",
+            "datestamp": "2017-12-28T03:59:20.445Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/41",
+            "datestamp": "2017-12-28T03:59:20.457Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/40",
+            "datestamp": "2017-12-28T03:59:20.461Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/46",
+            "datestamp": "2017-12-28T03:59:20.465Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/42",
+            "datestamp": "2017-12-28T03:59:20.472Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/63",
+            "datestamp": "2017-12-28T03:59:20.511Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/64",
+            "datestamp": "2017-12-28T03:59:20.519Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/65",
+            "datestamp": "2017-12-28T03:59:20.525Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/66",
+            "datestamp": "2017-12-28T03:59:20.536Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/67",
+            "datestamp": "2017-12-28T03:59:20.540Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/68",
+            "datestamp": "2017-12-28T03:59:20.545Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/69",
+            "datestamp": "2017-12-28T03:59:20.549Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/70",
+            "datestamp": "2017-12-28T03:59:20.572Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/48",
+            "datestamp": "2017-12-28T03:59:20.576Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/49",
+            "datestamp": "2017-12-28T03:59:20.586Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/50",
+            "datestamp": "2017-12-28T03:59:20.611Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/51",
+            "datestamp": "2017-12-28T03:59:20.634Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/52",
+            "datestamp": "2017-12-28T03:59:20.638Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/53",
+            "datestamp": "2017-12-28T03:59:20.669Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/54",
+            "datestamp": "2017-12-28T03:59:20.673Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/55",
+            "datestamp": "2017-12-28T03:59:20.677Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/56",
+            "datestamp": "2017-12-28T03:59:20.681Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/57",
+            "datestamp": "2017-12-28T03:59:20.687Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/58",
+            "datestamp": "2017-12-28T03:59:20.730Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/59",
+            "datestamp": "2017-12-28T03:59:20.735Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/60",
+            "datestamp": "2017-12-28T03:59:20.738Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/61",
+            "datestamp": "2017-12-28T03:59:20.743Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/62",
+            "datestamp": "2017-12-28T03:59:20.746Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/71",
+            "datestamp": "2017-12-28T03:59:20.769Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/72",
+            "datestamp": "2017-12-28T03:59:20.777Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/73",
+            "datestamp": "2017-12-28T03:59:20.784Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/74",
+            "datestamp": "2017-12-28T03:59:20.796Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/75",
+            "datestamp": "2017-12-28T03:59:20.800Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/76",
+            "datestamp": "2017-12-28T03:59:20.831Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/77",
+            "datestamp": "2017-12-28T03:59:20.867Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/78",
+            "datestamp": "2017-12-28T03:59:20.872Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/79",
+            "datestamp": "2017-12-28T03:59:20.891Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/86",
+            "datestamp": "2017-12-28T03:59:20.905Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/80",
+            "datestamp": "2017-12-28T03:59:20.909Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/81",
+            "datestamp": "2017-12-28T03:59:20.913Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/87",
+            "datestamp": "2017-12-28T03:59:20.918Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/82",
+            "datestamp": "2017-12-28T03:59:20.922Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/83",
+            "datestamp": "2017-12-28T03:59:20.926Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/84",
+            "datestamp": "2017-12-28T03:59:20.947Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/85",
+            "datestamp": "2017-12-28T03:59:20.971Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/88",
+            "datestamp": "2017-12-28T03:59:20.984Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/89",
+            "datestamp": "2017-12-28T03:59:21.004Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/90",
+            "datestamp": "2017-12-28T03:59:21.009Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/91",
+            "datestamp": "2017-12-28T03:59:21.013Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/92",
+            "datestamp": "2017-12-28T03:59:21.018Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/93",
+            "datestamp": "2017-12-28T03:59:21.052Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/94",
+            "datestamp": "2017-12-28T03:59:21.081Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/95",
+            "datestamp": "2017-12-28T03:59:21.098Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/96",
+            "datestamp": "2017-12-28T03:59:21.125Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/97",
+            "datestamp": "2017-12-28T03:59:21.148Z"
+          }
+        },
+        {
+          "header": {
+            "@status": "deleted",
+            "identifier": "oai:ipicyt.repositorioinstitucional.mx:1010/98",
+            "datestamp": "2017-12-28T03:59:21.165Z"
+          }
+        }
+      ],
+      "resumptionToken": {
+        "@expirationDate": "2025-11-14T10:11:05.902Z",
+        "#text": "28aaabb5-f6b2-4eac-9763-992b388c54d9"
+      }
+    }
+  }
+}

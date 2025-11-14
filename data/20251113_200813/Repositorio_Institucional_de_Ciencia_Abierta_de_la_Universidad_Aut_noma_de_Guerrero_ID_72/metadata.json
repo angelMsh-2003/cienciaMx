@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 72,
+    "name": "Repositorio Institucional de Ciencia Abierta de la Universidad Autónoma de Guerrero",
+    "machine_name": "repositorio_institucional_de_ciencia_abierta_de_la_universidad_aut_noma_de_guerrero",
+    "url": "http://ri.uagro.mx/oai/conacyt",
+    "dspace_version": "6.3",
+    "number_of_items": 1718
+  },
+  "collection_info": {
+    "timestamp": "20251113_200813",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/20251113_200813/Repositorio_Institucional_de_Ciencia_Abierta_de_la_Universidad_Aut_noma_de_Guerrero_ID_72/page_001.json"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 13,
+    "name": "Repositorio Institucional del Centro de Investigación en Química Aplicada",
+    "machine_name": "repositorio_institucional_del_centro_de_investigaci_n_en_qu_mica_aplicada",
+    "url": "https://ciqa.repositorioinstitucional.mx/oai/request",
+    "dspace_version": "5.4",
+    "number_of_items": 755
+  },
+  "collection_info": {
+    "timestamp": "20251113_200813",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/20251113_200813/Repositorio_Institucional_del_Centro_de_Investigaci_n_en_Qu_mica_Aplicada_ID_13/page_001.json"
+  ]
+}

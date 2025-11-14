@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 7,
+    "name": "Repositorio IPICYT",
+    "machine_name": "repositorio_ipicyt",
+    "url": "https://ipicyt.repositorioinstitucional.mx/oai/request",
+    "dspace_version": "5.4",
+    "number_of_items": 2087
+  },
+  "collection_info": {
+    "timestamp": "20251111_013707",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/try1/20251111_013707_Repositorio_IPICYT_ID_7_json/page_001.json"
+  ]
+}

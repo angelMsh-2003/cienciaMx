@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 78,
+    "name": "Repositorio Institucional de la Facultad de Medicina,UNAM.Departamento de Microbiologia y Parasitologia",
+    "machine_name": "repositorio_institucional_de_la_facultad_de_medicina_unam_departamento_de_microbiologia_y_parasitologia",
+    "url": "http://ru.facmed.unam.mx/oai/openaire",
+    "dspace_version": "6.4",
+    "number_of_items": 0
+  },
+  "collection_info": {
+    "timestamp": "20251111_014019",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/try1/20251111_014019_Repositorio_Institucional_de_la_Facultad_de_Medicina_UNAM_Departamento_de_Microbiologia_y_Parasitologia_ID_78_json/page_001.json"
+  ]
+}

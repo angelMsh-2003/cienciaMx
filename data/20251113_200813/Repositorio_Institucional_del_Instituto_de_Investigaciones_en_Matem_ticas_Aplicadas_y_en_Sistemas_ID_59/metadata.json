@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 59,
+    "name": "Repositorio Institucional del Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas",
+    "machine_name": "repositorio_institucional_del_instituto_de_investigaciones_en_matem_ticas_aplicadas_y_en_sistemas",
+    "url": "http://www.riimas.unam.mx/oai/request",
+    "dspace_version": "Unknown",
+    "number_of_items": 42
+  },
+  "collection_info": {
+    "timestamp": "20251113_200813",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/20251113_200813/Repositorio_Institucional_del_Instituto_de_Investigaciones_en_Matem_ticas_Aplicadas_y_en_Sistemas_ID_59/page_001.json"
+  ]
+}

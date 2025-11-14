@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 86,
+    "name": "Repositorio de Literatura del Servicio Sismológico Nacional",
+    "machine_name": "repositorio_de_literatura_del_servicio_sismol_gico_nacional",
+    "url": "http://rigeofisica.ssn.unam.mx/oai/literatura",
+    "dspace_version": "6.2",
+    "number_of_items": 23
+  },
+  "collection_info": {
+    "timestamp": "20251111_014023",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/try1/20251111_014023_Repositorio_de_Literatura_del_Servicio_Sismol_gico_Nacional_ID_86_json/page_001.json"
+  ]
+}

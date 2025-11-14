@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 82,
+    "name": "RI-UPPue: repositorio institucional de la Universidad Politécnica de Puebla",
+    "machine_name": "ri_uppue_repositorio_institucional_de_la_universidad_polit_cnica_de_puebla",
+    "url": "http://repositorio.uppuebla.edu.mx:8080/oai/request",
+    "dspace_version": "6.2",
+    "number_of_items": 361
+  },
+  "collection_info": {
+    "timestamp": "20251111_014021",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/try1/20251111_014021_RI-UPPue_repositorio_institucional_de_la_Universidad_Polit_cnica_de_Puebla_ID_82_json/page_001.json"
+  ]
+}

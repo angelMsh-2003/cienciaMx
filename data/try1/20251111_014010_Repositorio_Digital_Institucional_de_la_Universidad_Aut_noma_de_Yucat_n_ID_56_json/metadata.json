@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 56,
+    "name": "Repositorio Digital Institucional de la Universidad Autónoma de Yucatán",
+    "machine_name": "repositorio_digital_institucional_de_la_universidad_aut_noma_de_yucat_n",
+    "url": "http://redi.uady.mx/oai/openaire",
+    "dspace_version": "5.6",
+    "number_of_items": 1600
+  },
+  "collection_info": {
+    "timestamp": "20251111_014010",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/try1/20251111_014010_Repositorio_Digital_Institucional_de_la_Universidad_Aut_noma_de_Yucat_n_ID_56_json/page_001.json"
+  ]
+}

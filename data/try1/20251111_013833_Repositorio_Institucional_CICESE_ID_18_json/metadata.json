@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 18,
+    "name": "Repositorio Institucional CICESE",
+    "machine_name": "repositorio_institucional_cicese",
+    "url": "https://cicese.repositorioinstitucional.mx/oai/request",
+    "dspace_version": "5.4",
+    "number_of_items": 4008
+  },
+  "collection_info": {
+    "timestamp": "20251111_013833",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/try1/20251111_013833_Repositorio_Institucional_CICESE_ID_18_json/page_001.json"
+  ]
+}

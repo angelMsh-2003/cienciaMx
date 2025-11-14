@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 41,
+    "name": "Repositorio Institucional de Acceso Abierto de la Universidad Autónoma del Estado de Morelos",
+    "machine_name": "repositorio_institucional_de_acceso_abierto_de_la_universidad_aut_noma_del_estado_de_morelos",
+    "url": "http://riaa.uaem.mx:8080/oai/request",
+    "dspace_version": "6.1",
+    "number_of_items": 3681
+  },
+  "collection_info": {
+    "timestamp": "20251113_200813",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/20251113_200813/Repositorio_Institucional_de_Acceso_Abierto_de_la_Universidad_Aut_noma_del_Estado_de_Morelos_ID_41/page_001.json"
+  ]
+}

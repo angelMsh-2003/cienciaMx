@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 83,
+    "name": "Repositorio de la Facultad de Ciencias UNAM",
+    "machine_name": "repositorio_de_la_facultad_de_ciencias_unam",
+    "url": "http://uniciencias.fciencias.unam.mx/oai/request",
+    "dspace_version": "6.3",
+    "number_of_items": 0
+  },
+  "collection_info": {
+    "timestamp": "20251113_200813",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/20251113_200813/Repositorio_de_la_Facultad_de_Ciencias_UNAM_ID_83/page_001.json"
+  ]
+}

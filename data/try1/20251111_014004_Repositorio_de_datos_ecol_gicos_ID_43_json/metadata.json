@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 43,
+    "name": "Repositorio de datos ecológicos",
+    "machine_name": "repositorio_de_datos_ecol_gicos",
+    "url": "https://repositorio-socioecologia.conahcyt.mx/oai/request",
+    "dspace_version": "5.4",
+    "number_of_items": 234
+  },
+  "collection_info": {
+    "timestamp": "20251111_014004",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/try1/20251111_014004_Repositorio_de_datos_ecol_gicos_ID_43_json/page_001.json"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 25,
+    "name": "Repositorio Institucional CIMAT",
+    "machine_name": "repositorio_institucional_cimat",
+    "url": "https://cimat.repositorioinstitucional.mx/oai/request",
+    "dspace_version": "5.4",
+    "number_of_items": 1141
+  },
+  "collection_info": {
+    "timestamp": "20251111_013921",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/try1/20251111_013921_Repositorio_Institucional_CIMAT_ID_25_json/page_001.json"
+  ]
+}

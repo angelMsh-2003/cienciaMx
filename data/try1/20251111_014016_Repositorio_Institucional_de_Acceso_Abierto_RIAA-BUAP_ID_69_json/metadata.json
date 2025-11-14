@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 69,
+    "name": "Repositorio Institucional de Acceso Abierto RIAA-BUAP",
+    "machine_name": "repositorio_institucional_de_acceso_abierto_riaa_buap",
+    "url": "https://repositorioinstitucional.buap.mx/oai/conacyt",
+    "dspace_version": "7.6",
+    "number_of_items": 10309
+  },
+  "collection_info": {
+    "timestamp": "20251111_014016",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/try1/20251111_014016_Repositorio_Institucional_de_Acceso_Abierto_RIAA-BUAP_ID_69_json/page_001.json"
+  ]
+}

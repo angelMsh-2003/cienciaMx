@@ -1,0 +1,773 @@
+{
+  "OAI-PMH": {
+    "@xmlns": "http://www.openarchives.org/OAI/2.0/",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd",
+    "responseDate": "2025-11-11T01:40:04Z",
+    "request": {
+      "@metadataPrefix": "oai_dc",
+      "@verb": "ListRecords",
+      "#text": "https://ri.atmosfera.unam.mx:8284/acdm/srv/en/oaipmh"
+    },
+    "ListRecords": {
+      "record": [
+        {
+          "header": {
+            "identifier": "c775571d-f0ed-47f8-9d3f-ef37802ef7b9",
+            "datestamp": "2022-06-13T18:05:38Z",
+            "setSpec": "capas_base"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:gco": "http://www.isotc211.org/2005/gco",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:gmd": "http://www.isotc211.org/2005/gmd",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd  http://www.openarchives.org/OAI/2.0/provenance.xsd",
+              "dc:title": "Zona Económica Exclusiva",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0000-0001-5587-9188",
+                "#text": "Agustín Fernández Eguiarte"
+              },
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-sa/4.0"
+              ],
+              "dc:subject": [
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/2505",
+                "ZEE",
+                "Zona Económica Exclusiva",
+                "México",
+                "Norteamérica",
+                "Centroamérica",
+                "Caribe",
+                "Sudamérica"
+              ],
+              "dc:description": "Zona económica exclusiva de México y países adyacentes",
+              "dc:publisher": "Universidad Nacional Autónoma de México. Centro de Ciencias de la Atmósfera",
+              "dc:contributor": {
+                "@id": "info:eu-repo/dai/mx/orcid/0000-0001-8910-8023",
+                "@role": "editor",
+                "#text": "Carolina Ivonne Castelán Hernández"
+              },
+              "dc:date": "2017",
+              "dc:type": [
+                "info:eu-repo/semantics/book",
+                "Dataset",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:version": "2",
+              "dc:format": [
+                "image/tiff",
+                "text/csv"
+              ],
+              "dc:identifier": "http://132.248.8.190:8586/geonetwork/srv/spa/catalog.search#/metadata/c775571d-f0ed-47f8-9d3f-ef37802ef7b9",
+              "dc:language": "spa",
+              "dc:coverage": "northlimit= 50.004167; southlimit= -9.729166; westlimit= -41.870834; eastlimit= -127.239021",
+              "dc:audience": [
+                "researchers",
+                "students"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "568c4649-c27f-4809-890e-1d05a1fb58db",
+            "datestamp": "2022-06-13T18:05:39Z",
+            "setSpec": "aspectos_y_escenarios_socieconomicos"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:gco": "http://www.isotc211.org/2005/gco",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:gmd": "http://www.isotc211.org/2005/gmd",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd  http://www.openarchives.org/OAI/2.0/provenance.xsd",
+              "dc:title": "Densidad de población para el período 1990 - 2100 en intervalos de 10 años",
+              "dc:creator": [
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0001-5587-9188",
+                  "#text": "Agustín Fernández Eguiarte"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0002-2737-434X",
+                  "#text": "Jorge Zavala-Hidalgo"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0003-3840-5655",
+                  "#text": "Rosario Romero-Centeno"
+                }
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-sa/4.0"
+              ],
+              "dc:relation": "info:eu-repo/semantics/dataset/url/https://uniatmos.atmosfera.unam.mx/atlas/datosZip/social/pob/A2_DenPOB.zip",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/2507",
+                "Variable socieconómica",
+                "Densidad de población",
+                "México",
+                "Centroamérica",
+                "Sur de E.U.A"
+              ],
+              "dc:description": "Escenarios de datos socioeconómicos de densidad de población para el período 1990 - 2100 en intervaos de diez años, con resolución espacial de 0.5°",
+              "dc:publisher": "Universidad Nacional Autónoma de México. Centro de Ciencias de la Atmósfera. Unidad de Informática para las Ciencias Atmosféricas y Ambientales",
+              "dc:date": "2009",
+              "dc:type": [
+                "info:eu-repo/semantics/book",
+                "Dataset",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:version": "1",
+              "dc:format": [
+                "image/tiff",
+                "text/csv"
+              ],
+              "dc:size": "2 MB",
+              "dc:identifier": "http://132.248.8.190:8586/geonetwork/srv/spa/catalog.search#/metadata/568c4649-c27f-4809-890e-1d05a1fb58db",
+              "dc:language": "spa",
+              "dc:coverage": "northlimit= 35; southlimit= 5; westlimit= -75; eastlimit= -120.675",
+              "dc:audience": [
+                "researchers",
+                "students"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "a0fc485c-1b62-448f-853b-b3f7dac479a4",
+            "datestamp": "2022-06-13T18:05:39Z",
+            "setSpec": "capas_base"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:gco": "http://www.isotc211.org/2005/gco",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:gmd": "http://www.isotc211.org/2005/gmd",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd  http://www.openarchives.org/OAI/2.0/provenance.xsd",
+              "dc:title": "División política municipal",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0000-0001-5587-9188",
+                "#text": "Agustín Fernández Eguiarte"
+              },
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-sa/4.0"
+              ],
+              "dc:subject": [
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/2505",
+                "Municipios",
+                "División municipal",
+                "México"
+              ],
+              "dc:description": "Distribución geográfica de localidades urbanas, rurales y manzanas rurales en la República Mexicana.",
+              "dc:publisher": "Universidad Nacional Autónoma de México. Centro de Ciencias de la Atmósfera",
+              "dc:contributor": [
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0001-8910-8023",
+                  "@role": "editor",
+                  "#text": "Carolina Ivonne Castelán Hernández"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0003-2033-4406",
+                  "@role": "editor",
+                  "#text": "Ángel Bautista"
+                }
+              ],
+              "dc:date": "2017",
+              "dc:type": [
+                "info:eu-repo/semantics/book",
+                "Dataset",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:version": "1",
+              "dc:format": [
+                "image/tiff",
+                "text/csv"
+              ],
+              "dc:identifier": "http://132.248.8.190:8586/geonetwork/srv/spa/catalog.search#/metadata/a0fc485c-1b62-448f-853b-b3f7dac479a4",
+              "dc:language": "spa",
+              "dc:coverage": "northlimit= 32.7186; southlimit= 5.5; westlimit= -74.131358; eastlimit= -118.407653",
+              "dc:audience": [
+                "researchers",
+                "students"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "be247b52-5813-4088-b5c1-70b6b0e77f19",
+            "datestamp": "2022-06-13T18:05:39Z",
+            "setSpec": "aspectos_y_escenarios_socieconomicos"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:gco": "http://www.isotc211.org/2005/gco",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:gmd": "http://www.isotc211.org/2005/gmd",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd  http://www.openarchives.org/OAI/2.0/provenance.xsd",
+              "dc:title": "Población total para el período 1990 - 2100 en intervalos de 10 años",
+              "dc:creator": [
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0001-5587-9188",
+                  "#text": "Agustín Fernández Eguiarte"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0002-2737-434X",
+                  "#text": "Jorge Zavala-Hidalgo"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0003-3840-5655",
+                  "#text": "Rosario Romero-Centeno"
+                }
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-sa/4.0"
+              ],
+              "dc:relation": "info:eu-repo/semantics/dataset/url/https://uniatmos.atmosfera.unam.mx/atlas/datosZip/social/pob/A2_pobTOT.zip",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/2507",
+                "Variable socieconómica",
+                "Población total",
+                "México",
+                "Centroamérica",
+                "Sur de Estados Unidos"
+              ],
+              "dc:description": "Escenarios de datos socioeconómicos de población total para el período 1990 - 2100 en intervaos de diez años, con resolución espacial de 0.5°",
+              "dc:publisher": "Universidad Nacional Autónoma de México. Centro de Ciencias de la Atmósfera. Unidad de Informática para las Ciencias Atmosféricas y Ambientales",
+              "dc:date": "2009",
+              "dc:type": [
+                "info:eu-repo/semantics/book",
+                "Dataset",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:version": "1",
+              "dc:format": [
+                "image/tiff",
+                "text/csv"
+              ],
+              "dc:size": "2 MB",
+              "dc:identifier": "http://132.248.8.190:8586/geonetwork/srv/spa/catalog.search#/metadata/be247b52-5813-4088-b5c1-70b6b0e77f19",
+              "dc:language": "spa",
+              "dc:coverage": "northlimit= 35; southlimit= 5; westlimit= -75; eastlimit= -120.675",
+              "dc:audience": [
+                "researchers",
+                "students"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "f5d87019-3867-48de-9c47-cf946fcf6bc9",
+            "datestamp": "2022-06-13T18:05:40Z",
+            "setSpec": "parametros_bioclimaticos"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:gco": "http://www.isotc211.org/2005/gco",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:gmd": "http://www.isotc211.org/2005/gmd",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd  http://www.openarchives.org/OAI/2.0/provenance.xsd",
+              "dc:title": "Bioclimático 13. Precipitación del mes más lluvioso (mm)",
+              "dc:creator": [
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0001-5587-9188",
+                  "#text": "Agustín Fernández Eguiarte"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0002-2737-434X",
+                  "#text": "Jorge Zavala-Hidalgo"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0003-3840-5655",
+                  "#text": "Rosario Romero-Centeno"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0001-8346-1272",
+                  "#text": "René Lobato-Sánchez"
+                }
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-sa/4.0"
+              ],
+              "dc:relation": "info:eu-repo/semantics/dataset/url/https://uniatmos.atmosfera.unam.mx/atlas/datosZip/bioclimaticos/bio13.zip",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/250203",
+                "Parámetros Bioclimáticos",
+                "Precipitación del mes más lluvioso (mm)",
+                "México",
+                "Centroamérica",
+                "Sur de E.U.A"
+              ],
+              "dc:description": "Los parámetros bioclimáticos se derivan de las climatologías mensuales de temperatura y precipitación del Atlas Climático Digital de México versión 2.0. Se calcularon 19 parámetros bioclimáticos conforme a la metodología de la Australian National University y de WorldClim con el objeto de generar variables más significativas biológicamente. El dominio geográfico del presente metadato corresponde a la República Mexicana, Centroamérica y el sur de Estados Unidos: Bioclimático 13. Precipitación del mes más lluvioso (mm)",
+              "dc:publisher": "Universidad Nacional Autónoma de México. Centro de Ciencias de la Atmósfera",
+              "dc:contributor": [
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0001-8910-8023",
+                  "@role": "editor",
+                  "#text": "Carolina Ivonne Castelán Hernández"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0003-2033-4406",
+                  "@role": "editor",
+                  "#text": "Ángel Bautista"
+                }
+              ],
+              "dc:date": "2012",
+              "dc:type": [
+                "info:eu-repo/semantics/book",
+                "Dataset",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:version": "2",
+              "dc:format": [
+                "image/tiff",
+                "text/csv"
+              ],
+              "dc:size": "39 MB",
+              "dc:identifier": "http://132.248.8.190:8586/geonetwork/srv/spa/catalog.search#/metadata/f5d87019-3867-48de-9c47-cf946fcf6bc9",
+              "dc:language": "spa",
+              "dc:coverage": "northlimit= 35; southlimit= 5; westlimit= -75; eastlimit= -120.675",
+              "dc:audience": [
+                "researchers",
+                "students"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "4a33a84d-5daa-4e83-813d-352472ca34bc",
+            "datestamp": "2022-06-13T18:05:41Z",
+            "setSpec": "parametros_bioclimaticos"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:gco": "http://www.isotc211.org/2005/gco",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:gmd": "http://www.isotc211.org/2005/gmd",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd  http://www.openarchives.org/OAI/2.0/provenance.xsd",
+              "dc:title": "Bioclimático 2. Rango de temperatura media diurna (°C)",
+              "dc:creator": [
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0001-5587-9188",
+                  "#text": "Agustín Fernández Eguiarte"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0002-2737-434X",
+                  "#text": "Jorge Zavala-Hidalgo"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0003-3840-5655",
+                  "#text": "Rosario Romero-Centeno"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0001-8346-1272",
+                  "#text": "René Lobato-Sánchez"
+                }
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-sa/4.0"
+              ],
+              "dc:relation": "info:eu-repo/semantics/dataset/url/https://uniatmos.atmosfera.unam.mx/atlas/datosZip/bioclimaticos/bio2.zip",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/250203",
+                "Parámetros Bioclimáticos",
+                "Rango de Temperatura media diurna (°C)",
+                "México",
+                "Centroamérica",
+                "Sur de E.U.A"
+              ],
+              "dc:description": "Los parámetros bioclimáticos se derivan de las climatologías mensuales de temperatura y precipitación del Atlas Climático Digital de México versión 2.0. Se calcularon 19 parámetros bioclimáticos conforme a la metodología de la Australian National University y de WorldClim con el objeto de generar variables más significativas biológicamente. El dominio geográfico del presente metadato corresponde a la República Mexicana, Centroamérica y el sur de Estados Unidos: Bioclimático 2. Rango de temperatura media diurna (°C)",
+              "dc:publisher": "Universidad Nacional Autónoma de México. Centro de Ciencias de la Atmósfera",
+              "dc:contributor": [
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0001-8910-8023",
+                  "@role": "editor",
+                  "#text": "Carolina Ivonne Castelán Hernández"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0003-2033-4406",
+                  "@role": "editor",
+                  "#text": "Ángel Bautista"
+                }
+              ],
+              "dc:date": "2012",
+              "dc:type": [
+                "info:eu-repo/semantics/book",
+                "Dataset",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:version": "2.0",
+              "dc:format": [
+                "image/tiff",
+                "text/csv"
+              ],
+              "dc:size": "36 MB",
+              "dc:identifier": "http://132.248.8.190:8586/geonetwork/srv/spa/catalog.search#/metadata/4a33a84d-5daa-4e83-813d-352472ca34bc",
+              "dc:language": "spa",
+              "dc:coverage": "northlimit= 35; southlimit= 5; westlimit= -75; eastlimit= -120.675",
+              "dc:audience": [
+                "researchers",
+                "students"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "fc5a9283-bc7c-4504-8355-61111d4ae4cc",
+            "datestamp": "2022-06-13T18:05:42Z",
+            "setSpec": "parametros_bioclimaticos"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:gco": "http://www.isotc211.org/2005/gco",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:gmd": "http://www.isotc211.org/2005/gmd",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd  http://www.openarchives.org/OAI/2.0/provenance.xsd",
+              "dc:title": "Bioclimático 9. Temperatura promedio del trimestre más seco (°C)",
+              "dc:creator": [
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0001-5587-9188",
+                  "#text": "Agustín Fernández Eguiarte"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0002-2737-434X",
+                  "#text": "Jorge Zavala-Hidalgo"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0003-3840-5655",
+                  "#text": "Rosario Romero-Centeno"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0001-8346-1272",
+                  "#text": "René Lobato-Sánchez"
+                }
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-sa/4.0"
+              ],
+              "dc:relation": "info:eu-repo/semantics/dataset/url/https://uniatmos.atmosfera.unam.mx/atlas/datosZip/bioclimaticos/bio9.zip",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/250203",
+                "Parámetros Bioclimáticos",
+                "Temperatura promedio del trimestre más seco",
+                "México",
+                "Centroamérica",
+                "Sur de E.U.A"
+              ],
+              "dc:description": "Los parámetros bioclimáticos se derivan de las climatologías mensuales de temperatura y precipitación del Atlas Climático Digital de México versión 2.0. Se calcularon 19 parámetros bioclimáticos conforme a la metodología de la Australian National University y de WorldClim con el objeto de generar variables más significativas biológicamente. El dominio geográfico del presente metadato corresponde a la República Mexicana, Centroamérica y el sur de Estados Unidos: Bioclimático 9. Temperatura promedio del trimestre más seco (°C)",
+              "dc:publisher": "Universidad Nacional Autónoma de México. Centro de Ciencias de la Atmósfera",
+              "dc:contributor": [
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0001-8910-8023",
+                  "@role": "editor",
+                  "#text": "Carolina Ivonne Castelán Hernández"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0003-2033-4406",
+                  "@role": "editor",
+                  "#text": "Ángel Bautista"
+                }
+              ],
+              "dc:date": "2012",
+              "dc:type": [
+                "info:eu-repo/semantics/book",
+                "Dataset",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:version": "2.0",
+              "dc:format": [
+                "image/tiff",
+                "text/csv"
+              ],
+              "dc:size": "32 MB",
+              "dc:identifier": "http://132.248.8.190:8586/geonetwork/srv/spa/catalog.search#/metadata/fc5a9283-bc7c-4504-8355-61111d4ae4cc",
+              "dc:language": "spa",
+              "dc:coverage": "northlimit= 35; southlimit= 5; westlimit= -75; eastlimit= -120.675",
+              "dc:audience": [
+                "researchers",
+                "students"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "3b52c504-9383-498d-9131-833006567206",
+            "datestamp": "2022-06-13T18:05:42Z",
+            "setSpec": "reanalisis_promedio_mensual"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:gco": "http://www.isotc211.org/2005/gco",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:gmd": "http://www.isotc211.org/2005/gmd",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd  http://www.openarchives.org/OAI/2.0/provenance.xsd",
+              "dc:title": "Series de tiempo mensuales de reanálisis, para el periodo 1979-2009",
+              "dc:creator": [
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0001-5587-9188",
+                  "#text": "Agustín Fernández Eguiarte"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0002-2737-434X",
+                  "#text": "Jorge Zavala-Hidalgo"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0003-3840-5655",
+                  "#text": "Rosario Romero-Centeno"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0001-8346-1272",
+                  "#text": "René Lobato-Sánchez"
+                }
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-sa/4.0"
+              ],
+              "dc:subject": [
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/2502",
+                "Series de tiempo mensuales de reanálisis",
+                "México"
+              ],
+              "dc:description": "Series de tiempo mensuales de reanálisis de temperatura máxima y mínima para un período de 31 años (1979 - 2009) de la República Mexicana",
+              "dc:publisher": "Universidad Nacional Autónoma de México. Centro de Ciencias de la Atmósfera",
+              "dc:contributor": [
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0001-8910-8023",
+                  "@role": "editor",
+                  "#text": "Carolina Ivonne Castelán Hernández"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0003-2033-4406",
+                  "@role": "editor",
+                  "#text": "Ángel Bautista"
+                }
+              ],
+              "dc:date": "2012",
+              "dc:type": [
+                "info:eu-repo/semantics/book",
+                "Dataset",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:version": "2.0",
+              "dc:format": [
+                "image/tiff",
+                "text/csv"
+              ],
+              "dc:identifier": "http://132.248.8.190:8586/geonetwork/srv/spa/catalog.search#/metadata/3b52c504-9383-498d-9131-833006567206",
+              "dc:language": "spa",
+              "dc:coverage": "northlimit= 32.7166; southlimit= 14.5333; westlimit= -86.7166; eastlimit= -118.4553",
+              "dc:audience": [
+                "researchers",
+                "students"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "a69f2fc0-1226-409f-ab73-69a61fbc42e1",
+            "datestamp": "2022-06-13T18:05:42Z",
+            "setSpec": "parametros_bioclimaticos"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:gco": "http://www.isotc211.org/2005/gco",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:gmd": "http://www.isotc211.org/2005/gmd",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd  http://www.openarchives.org/OAI/2.0/provenance.xsd",
+              "dc:title": "Bioclimático 6. Temperatura mínima del mes más frío (°C)",
+              "dc:creator": [
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0001-5587-9188",
+                  "#text": "Agustín Fernández Eguiarte"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0002-2737-434X",
+                  "#text": "Jorge Zavala-Hidalgo"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0003-3840-5655",
+                  "#text": "Rosario Romero-Centeno"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0001-8346-1272",
+                  "#text": "René Lobato-Sánchez"
+                }
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-sa/4.0"
+              ],
+              "dc:relation": "info:eu-repo/semantics/dataset/url/https://uniatmos.atmosfera.unam.mx/atlas/datosZip/bioclimaticos/bio6.zip",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/250203",
+                "Parámetros Bioclimáticos",
+                "Temperatura mínima del mes más frío (°C)",
+                "México",
+                "Centroamérica",
+                "Sur de E.U.A"
+              ],
+              "dc:description": "Los parámetros bioclimáticos se derivan de las climatologías mensuales de temperatura y precipitación del Atlas Climático Digital de México versión 2.0. Se calcularon 19 parámetros bioclimáticos conforme a la metodología de la Australian National University y de WorldClim con el objeto de generar variables más significativas biológicamente. El dominio geográfico del presente metadato corresponde a la República Mexicana, Centroamérica y el sur de Estados Unidos: Bioclimático 6. Temperatura mínima del mes más frío (°C)",
+              "dc:publisher": "Universidad Nacional Autónoma de México. Centro de Ciencias de la Atmósfera",
+              "dc:contributor": [
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0001-8910-8023",
+                  "@role": "editor",
+                  "#text": "Carolina Ivonne Castelán Hernández"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0003-2033-4406",
+                  "@role": "editor",
+                  "#text": "Ángel Bautista"
+                }
+              ],
+              "dc:date": "2012",
+              "dc:type": [
+                "info:eu-repo/semantics/book",
+                "Dataset",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:version": "2.0",
+              "dc:format": [
+                "image/tiff",
+                "text/csv"
+              ],
+              "dc:size": "38 MB",
+              "dc:identifier": "http://132.248.8.190:8586/geonetwork/srv/spa/catalog.search#/metadata/a69f2fc0-1226-409f-ab73-69a61fbc42e1",
+              "dc:language": "spa",
+              "dc:coverage": "northlimit= 35; southlimit= 5; westlimit= -75; eastlimit= -120.675",
+              "dc:audience": [
+                "researchers",
+                "students"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "df9231f8-3e41-4331-85cb-f5b64f574b6c",
+            "datestamp": "2022-06-13T18:05:42Z",
+            "setSpec": "parametros_bioclimaticos"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:gco": "http://www.isotc211.org/2005/gco",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:gmd": "http://www.isotc211.org/2005/gmd",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd  http://www.openarchives.org/OAI/2.0/provenance.xsd",
+              "dc:title": "Bioclimático 18. Precipitación del trimestre más cálido (mm)",
+              "dc:creator": [
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0001-5587-9188",
+                  "#text": "Agustín Fernández Eguiarte"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0002-2737-434X",
+                  "#text": "Jorge Zavala-Hidalgo"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0003-3840-5655",
+                  "#text": "Rosario Romero-Centeno"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0001-8346-1272",
+                  "#text": "René Lobato-Sánchez"
+                }
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-sa/4.0"
+              ],
+              "dc:relation": "info:eu-repo/semantics/dataset/url/https://uniatmos.atmosfera.unam.mx/atlas/datosZip/bioclimaticos/bio18.zip",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/250203",
+                "Parámetros Bioclimáticos",
+                "Precipitación del trimestre más cálido (mm)",
+                "México",
+                "Centroamérica",
+                "Sur de E.U.A"
+              ],
+              "dc:description": "Los parámetros bioclimáticos se derivan de las climatologías mensuales de temperatura y precipitación del Atlas Climático Digital de México versión 2.0. Se calcularon 19 parámetros bioclimáticos conforme a la metodología de la Australian National University y de WorldClim con el objeto de generar variables más significativas biológicamente. El dominio geográfico del presente metadato corresponde a la República Mexicana, Centroamérica y el sur de Estados Unidos: Bioclimático 18. Precipitación del trimestre más cálido (mm)",
+              "dc:publisher": "Universidad Nacional Autónoma de México. Centro de Ciencias de la Atmósfera",
+              "dc:contributor": [
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0001-8910-8023",
+                  "@role": "editor",
+                  "#text": "Carolina Ivonne Castelán Hernández"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/orcid/0000-0003-2033-4406",
+                  "@role": "editor",
+                  "#text": "Ángel Bautista"
+                }
+              ],
+              "dc:date": "2012",
+              "dc:type": [
+                "info:eu-repo/semantics/book",
+                "Dataset",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:version": "2",
+              "dc:format": [
+                "image/tiff",
+                "text/csv"
+              ],
+              "dc:size": "41 MB",
+              "dc:identifier": "http://132.248.8.190:8586/geonetwork/srv/spa/catalog.search#/metadata/df9231f8-3e41-4331-85cb-f5b64f574b6c",
+              "dc:language": "spa",
+              "dc:coverage": "northlimit= 35; southlimit= 5; westlimit= -75; eastlimit= -120.675",
+              "dc:audience": [
+                "researchers",
+                "students"
+              ]
+            }
+          }
+        }
+      ],
+      "resumptionToken": {
+        "@expirationDate": "2025-11-11T08:40:04",
+        "#text": "/-/oai_dc/-//-//-/gxzyexydi40qnf030iaa2onvo/-/10"
+      }
+    }
+  }
+}

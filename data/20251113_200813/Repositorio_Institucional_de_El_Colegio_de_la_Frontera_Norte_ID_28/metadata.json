@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 28,
+    "name": "Repositorio Institucional de El Colegio de la Frontera Norte",
+    "machine_name": "repositorio_institucional_de_el_colegio_de_la_frontera_norte",
+    "url": "https://colef.repositorioinstitucional.mx/oai/request",
+    "dspace_version": "5.4",
+    "number_of_items": 634
+  },
+  "collection_info": {
+    "timestamp": "20251113_200813",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/20251113_200813/Repositorio_Institucional_de_El_Colegio_de_la_Frontera_Norte_ID_28/page_001.json"
+  ]
+}

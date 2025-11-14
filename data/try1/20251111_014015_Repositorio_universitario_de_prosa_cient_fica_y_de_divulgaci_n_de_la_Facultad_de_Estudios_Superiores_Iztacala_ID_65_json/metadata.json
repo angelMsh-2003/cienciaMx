@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 65,
+    "name": "Repositorio universitario de prosa científica y de divulgación de la Facultad de Estudios Superiores Iztacala",
+    "machine_name": "repositorio_universitario_de_prosa_cient_fica_y_de_divulgaci_n_de_la_facultad_de_estudios_superiores_iztacala",
+    "url": "https://ru.iztacala.unam.mx/oai-pmh-repository/request",
+    "dspace_version": "7.x",
+    "number_of_items": 50
+  },
+  "collection_info": {
+    "timestamp": "20251111_014015",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/try1/20251111_014015_Repositorio_universitario_de_prosa_cient_fica_y_de_divulgaci_n_de_la_Facultad_de_Estudios_Superiores_Iztacala_ID_65_json/page_001.json"
+  ]
+}

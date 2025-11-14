@@ -1,5 +1,9 @@
 venv/
+<<<<<<< Updated upstream
 src/sandbox
+=======
+.venv
+>>>>>>> Stashed changes
 
 # Ignorar cachés y archivos temporales de Python
 __pycache__/

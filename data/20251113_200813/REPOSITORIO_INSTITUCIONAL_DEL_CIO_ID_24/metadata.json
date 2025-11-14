@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 24,
+    "name": "REPOSITORIO INSTITUCIONAL DEL CIO",
+    "machine_name": "repositorio_institucional_del_cio",
+    "url": "https://cio.repositorioinstitucional.mx/oai/request",
+    "dspace_version": "5.4",
+    "number_of_items": 1091
+  },
+  "collection_info": {
+    "timestamp": "20251113_200813",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/20251113_200813/REPOSITORIO_INSTITUCIONAL_DEL_CIO_ID_24/page_001.json"
+  ]
+}

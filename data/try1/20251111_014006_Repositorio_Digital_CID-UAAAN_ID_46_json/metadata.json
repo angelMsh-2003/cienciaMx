@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 46,
+    "name": "Repositorio Digital CID-UAAAN",
+    "machine_name": "repositorio_digital_cid_uaaan",
+    "url": "https://repositorio.uaaan.mx/oai/request",
+    "dspace_version": "6.4",
+    "number_of_items": 16301
+  },
+  "collection_info": {
+    "timestamp": "20251111_014006",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/try1/20251111_014006_Repositorio_Digital_CID-UAAAN_ID_46_json/page_001.json"
+  ]
+}

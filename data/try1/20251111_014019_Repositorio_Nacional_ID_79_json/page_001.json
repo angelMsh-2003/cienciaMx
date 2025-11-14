@@ -1,0 +1,842 @@
+{
+  "OAI-PMH": {
+    "@xmlns": "http://www.openarchives.org/OAI/2.0/",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd",
+    "responseDate": "2025-11-11T07:40:20Z",
+    "request": {
+      "@verb": "ListRecords",
+      "@metadataPrefix": "oai_dc",
+      "#text": "https://conahcyt.repositorioinstitucional.mx/oai/request"
+    },
+    "ListRecords": {
+      "record": [
+        {
+          "header": {
+            "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/38",
+            "datestamp": "2024-05-29T22:16:14Z",
+            "setSpec": [
+              "col_1000_37",
+              "com_1000_36"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Pronaces Agua",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0009-0007-1157-9854",
+                "#text": "Consejo Nacional de Humanides, Ciencias y Tecnologías"
+              },
+              "dc:publisher": "Consejo Nacional de Ciencia y Tecnología",
+              "dc:date": "2021-07",
+              "dc:type": [
+                "info:eu-repo/semantics/report",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:description": "En esta primera entrega, cuyo tema central es el agua, se invitó a investigadores, artistas y luchadores sociales a escribir artículos sobre las problemáticas que enfrentamos a escala local y global. Los artículos exponen algunos de los ejes centrales y los avances del Programa Nacional Estratégico Agua (Pronaces Agua) y abordan temas como la gestión.",
+              "dc:coverage": "Ciencias y Humanidades",
+              "dc:audience": "generalPublic",
+              "dc:subject": [
+                "info:eu-repo/classification/LCSH/Ciencias",
+                "info:eu-repo/classification/LCSH/Humanidades",
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/cti/4"
+              ],
+              "dc:source": "https://conahcyt.mx/ciencias-y-humanidades-1/",
+              "dc:identifier": "http://conacyt.repositorioinstitucional.mx/jspui/handle/1000/38",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/reference/URL/https://conahcyt.mx/ciencias-y-humanidades-1/",
+              "dc:format": "application/pdf"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/39",
+            "datestamp": "2024-05-29T22:18:18Z",
+            "setSpec": [
+              "col_1000_37",
+              "com_1000_36"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Especial Ciencia de Frontera",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0009-0007-1157-9854",
+                "#text": "Consejo Nacional de Humanides, Ciencias y Tecnologías"
+              },
+              "dc:publisher": "Consejo Nacional de Ciencia y Tecnología",
+              "dc:date": "2022-10",
+              "dc:type": [
+                "info:eu-repo/semantics/report",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:description": "En esta edición se resumen algunas de las propuestas de ciencia de frontera que se han apoyado durante esta gestión. Los propios científicos responsables de los proyectos en marcha nos hablan acerca de sus fascinantes investigaciones en diversos campos de las ciencias físicas, químicas, biológicas y ambientales, médicas y de la salud, sociales o humanísticas.",
+              "dc:coverage": "Ciencias y Humanidades",
+              "dc:audience": "generalPublic",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/5",
+                "info:eu-repo/classification/cti/5"
+              ],
+              "dc:source": "https://conahcyt.mx/ciencias-y-humanidades-2/",
+              "dc:identifier": "http://conacyt.repositorioinstitucional.mx/jspui/handle/1000/39",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/reference/URL/https://conahcyt.mx/ciencias-y-humanidades-2/",
+              "dc:format": "application/pdf"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/40",
+            "datestamp": "2024-05-29T22:20:08Z",
+            "setSpec": [
+              "col_1000_37",
+              "com_1000_36"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Nuestros mares y océanos: el golfo de México",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0009-0007-1157-9854",
+                "#text": "Consejo Nacional de Humanides, Ciencias y Tecnologías"
+              },
+              "dc:publisher": "Consejo Nacional de Ciencia y Tecnología",
+              "dc:date": "2022-10",
+              "dc:type": [
+                "info:eu-repo/semantics/report",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:description": "Entre las aportaciones reunidas en este número de Ciencias y Humanidades, los colegas del CIGOM resumen los hallazgos en torno a la fascinante biodiversidad del Golfo de México, a las tortugas marinas, los crustáceos en la Plataforma de Yucatán, los moluscos del Cinturón Plegado Perdido y toda su diversidad bacteriana.",
+              "dc:coverage": "Ciencias y Humanidades",
+              "dc:audience": "generalPublic",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/2",
+                "info:eu-repo/classification/cti/24",
+                "info:eu-repo/classification/cti/2499",
+                "info:eu-repo/classification/cti/249999",
+                "info:eu-repo/classification/cti/249999"
+              ],
+              "dc:source": "https://conahcyt.mx/ciencias-y-humanidades-3/",
+              "dc:identifier": "http://conacyt.repositorioinstitucional.mx/jspui/handle/1000/40",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/reference/URL/https://conahcyt.mx/ciencias-y-humanidades-3/",
+              "dc:format": "application/pdf"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/41",
+            "datestamp": "2024-05-29T22:22:41Z",
+            "setSpec": [
+              "col_1000_37",
+              "com_1000_36"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Pronaces Salud I: Transformación de la investigación en salud",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0009-0007-1157-9854",
+                "#text": "Consejo Nacional de Humanides, Ciencias y Tecnologías"
+              },
+              "dc:publisher": "Consejo Nacional de Ciencia y Tecnología",
+              "dc:date": "2022-11",
+              "dc:type": [
+                "info:eu-repo/semantics/report",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:description": "Por la relevancia que tiene la compleja problemática de la salud, el Conacyt ha decidido dedicar dos números regulares de la revista Ciencias y Humanidades y uno especial a esta temática. Este número 4 se enfoca en algunos de los Pronaii del Pronaces Salud y sus resultados logrados hasta ahora.",
+              "dc:coverage": "Ciencias y Humanidades",
+              "dc:audience": "generalPublic",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/3",
+                "info:eu-repo/classification/cti/3"
+              ],
+              "dc:source": "https://conahcyt.mx/ciencias-y-humanidades-4/",
+              "dc:identifier": "http://conacyt.repositorioinstitucional.mx/jspui/handle/1000/41",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/reference/URL/https://conahcyt.mx/ciencias-y-humanidades-4/",
+              "dc:format": "application/pdf"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/42",
+            "datestamp": "2024-05-29T22:24:17Z",
+            "setSpec": [
+              "col_1000_37",
+              "com_1000_36"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Pronaces Salud II: Rumbo a la investigación con incidencia",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0009-0007-1157-9854",
+                "#text": "Consejo Nacional de Humanides, Ciencias y Tecnologías"
+              },
+              "dc:publisher": "Consejo Nacional de Ciencia y Tecnología",
+              "dc:date": "2022-12",
+              "dc:type": [
+                "info:eu-repo/semantics/report",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:description": "En este número 5 se discuten algunas iniciativas y retos de los sistemas de salud frente a enfermedades como el cáncery el sida.",
+              "dc:coverage": "Ciencias y Humanidades",
+              "dc:audience": "generalPublic",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/3",
+                "info:eu-repo/classification/cti/3"
+              ],
+              "dc:source": "https://conahcyt.mx/ciencias-y-humanidades-5/",
+              "dc:identifier": "http://conacyt.repositorioinstitucional.mx/jspui/handle/1000/42",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/reference/URL/https://conahcyt.mx/ciencias-y-humanidades-5/",
+              "dc:format": "application/pdf"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/43",
+            "datestamp": "2024-05-29T22:26:06Z",
+            "setSpec": [
+              "col_1000_37",
+              "com_1000_36"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Soberanía Alimentaria",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0009-0007-1157-9854",
+                "#text": "Consejo Nacional de Humanides, Ciencias y Tecnologías"
+              },
+              "dc:publisher": "Consejo Nacional de Ciencia y Tecnología",
+              "dc:date": "2023-03",
+              "dc:type": [
+                "info:eu-repo/semantics/report",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:description": "En este número 6 de la revista Ciencias y Humanidades se escuchan las voces de actoras y actores que tienen amplio conocimiento de las condiciones hegemónicas que hay que transformar y que han construido experiencias importantes sobre los caminos que convergen hacia la soberanía alimentaria nacional.",
+              "dc:coverage": "Ciencias y Humanidades",
+              "dc:audience": "generalPublic",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/5",
+                "info:eu-repo/classification/cti/5"
+              ],
+              "dc:source": "https://conahcyt.mx/ciencias-y-humanidades-6/",
+              "dc:identifier": "http://conacyt.repositorioinstitucional.mx/jspui/handle/1000/43",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/reference/URL/https://conahcyt.mx/ciencias-y-humanidades-6/",
+              "dc:format": "application/pdf"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/44",
+            "datestamp": "2024-05-29T22:28:17Z",
+            "setSpec": [
+              "col_1000_37",
+              "com_1000_36"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Transición Energética y Cambio Climático",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0009-0007-1157-9854",
+                "#text": "Consejo Nacional de Humanides, Ciencias y Tecnologías"
+              },
+              "dc:publisher": "Consejo Nacional de Humanidades, Ciencias y Tecnologías",
+              "dc:date": "2023-06",
+              "dc:type": [
+                "info:eu-repo/semantics/report",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:description": "En este número de Ciencias y Humanidades las y los lectores encontrarán una perspectiva humanística, científica y artística del cambio climático y la transición energética justa y sustentable para el bienestar del pueblo de México.",
+              "dc:coverage": "Ciencias y Humanidades",
+              "dc:audience": "generalPublic",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/7",
+                "info:eu-repo/classification/cti/7"
+              ],
+              "dc:source": "https://conahcyt.mx/ciencias-y-humanidades-7/",
+              "dc:identifier": "http://conacyt.repositorioinstitucional.mx/jspui/handle/1000/44",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/reference/URL/https://conahcyt.mx/ciencias-y-humanidades-7/",
+              "dc:format": "application/pdf"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/45",
+            "datestamp": "2024-05-29T22:28:58Z",
+            "setSpec": [
+              "col_1000_37",
+              "com_1000_36"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Hacía una reforma educativa integral",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0009-0007-1157-9854",
+                "#text": "Consejo Nacional de Humanides, Ciencias y Tecnologías"
+              },
+              "dc:publisher": "Consejo Nacional de Humanidades, Ciencias y Tecnologías",
+              "dc:date": "2023-09",
+              "dc:type": [
+                "info:eu-repo/semantics/report",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:description": "Esta edición de Ciencias y Humanidades está enfocada a encaminarnos hacia una reforma educativa integral, teniendo como base la transformación educativa en beneficio de las presentes y futuras generaciones.",
+              "dc:coverage": "Ciencias y Humanidades",
+              "dc:audience": "generalPublic",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/cti/4"
+              ],
+              "dc:source": "https://conahcyt.mx/ciencias-y-humanidades-8/",
+              "dc:identifier": "http://conacyt.repositorioinstitucional.mx/jspui/handle/1000/45",
+              "dc:relation": [
+                "info:eu-repo/semantics/altIdentifier/EISSN/2992-6882",
+                "info:eu-repo/semantics/reference/URL/https://conahcyt.mx/ciencias-y-humanidades-8/"
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:language": "spa",
+              "dc:format": "application/pdf"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/46",
+            "datestamp": "2024-05-29T22:29:42Z",
+            "setSpec": [
+              "col_1000_37",
+              "com_1000_36"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Memoria histórica",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0009-0007-1157-9854",
+                "#text": "Consejo Nacional de Humanides, Ciencias y Tecnologías"
+              },
+              "dc:publisher": "Consejo Nacional de Humanidades, Ciencias y Tecnologías",
+              "dc:date": "2023-11",
+              "dc:type": [
+                "info:eu-repo/semantics/report",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:description": "En el número que aquí presentamos de la revista Ciencias y Humanidades, se incluyen algunos ejemplos de contribuciones que nos permiten redimensionar, a partir de las investigaciones históricas, los sucesos invisibilizados y silenciados durante los gobiernos neoliberales.",
+              "dc:coverage": "Ciencias y Humanidades",
+              "dc:audience": "generalPublic",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/5",
+                "info:eu-repo/classification/cti/5"
+              ],
+              "dc:source": "https://conahcyt.mx/ciencias-y-humanidades-9/",
+              "dc:identifier": "http://conacyt.repositorioinstitucional.mx/jspui/handle/1000/46",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:language": "spa",
+              "dc:relation": [
+                "info:eu-repo/semantics/reference/ISSN/2992-6882",
+                "info:eu-repo/semantics/reference/URL/https://conahcyt.mx/ciencias-y-humanidades-9/"
+              ],
+              "dc:format": "application/pdf"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/47",
+            "datestamp": "2024-05-29T22:30:27Z",
+            "setSpec": [
+              "col_1000_37",
+              "com_1000_36"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Especial: Agentes tóxicos y procesos contaminantes",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0009-0007-1157-9854",
+                "#text": "Consejo Nacional de Humanides, Ciencias y Tecnologías"
+              },
+              "dc:publisher": "Consejo Nacional de Humanidades, Ciencias y Tecnologías",
+              "dc:date": "2023-12",
+              "dc:type": [
+                "info:eu-repo/semantics/report",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:description": "Este número reúne los principales avances y resultados que hasta hoy se tienen respecto a la investigación e incidencia para atender la compleja contaminación y crisis socioambiental que hoy enfrentamos, con base en la contundencia y el rigor científico que merece defender el derecho a una vida digna.",
+              "dc:coverage": "Ciencias y Humanidades",
+              "dc:audience": "generalPublic",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/2",
+                "info:eu-repo/classification/cti/2"
+              ],
+              "dc:source": "https://conahcyt.mx/ciencias-y-humanidades-9-especial/",
+              "dc:identifier": "http://conacyt.repositorioinstitucional.mx/jspui/handle/1000/47",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:language": "spa",
+              "dc:relation": [
+                "info:eu-repo/semantics/reference/ISSN/2992-6882",
+                "info:eu-repo/semantics/reference/URL/https://conahcyt.mx/ciencias-y-humanidades-9-especial/"
+              ],
+              "dc:format": "application/pdf"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/48",
+            "datestamp": "2024-05-29T22:31:10Z",
+            "setSpec": [
+              "col_1000_37",
+              "com_1000_36"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Sistemas Socioecológicos",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0009-0007-1157-9854",
+                "#text": "Consejo Nacional de Humanides, Ciencias y Tecnologías"
+              },
+              "dc:publisher": "Consejo Nacional de Humanidades, Ciencias y Tecnologías",
+              "dc:date": "2024-03",
+              "dc:type": [
+                "info:eu-repo/semantics/report",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:description": "El presente número está dedicado al Pronace Sistemas Socioecológicos y Sustentabilidad: de modo que presenta la visión, los caminos y las formas en las que se está sentando las bases de una nueva política pública ambiental. En este orden de ideas, encontraremos diversos textos que nos presentan algunas acciones y colaboraciones implementadas con diferentes sectores.",
+              "dc:coverage": "Ciencias y Humanidades",
+              "dc:audience": "generalPublic",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/2",
+                "info:eu-repo/classification/cti/2"
+              ],
+              "dc:source": "https://conahcyt.mx/ciencias-y-humanidades-10/",
+              "dc:identifier": "http://conacyt.repositorioinstitucional.mx/jspui/handle/1000/48",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:language": "spa",
+              "dc:relation": [
+                "info:eu-repo/semantics/reference/ISSN/2992-6882",
+                "info:eu-repo/semantics/reference/URL/https://conahcyt.mx/ciencias-y-humanidades-10/"
+              ],
+              "dc:format": "application/pdf"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/51",
+            "datestamp": "2024-06-05T17:29:35Z",
+            "setSpec": [
+              "col_1000_50",
+              "com_1000_36"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "El agua en nuestras manos",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/cvu/397999",
+                "#text": "PEDRO MOCTEZUMA BARRAGAN"
+              },
+              "dc:publisher": [
+                "Consejo Nacional de Humanidades, Ciencias y Tecnologías",
+                "Fondo de Cultura Económica"
+              ],
+              "dc:date": "2023",
+              "dc:type": [
+                "info:eu-repo/semantics/book",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:description": "La agudización de la crisis del agua en México nos hace topar de frente con la realidad de vivir una crisis civilizatoria que se agrava por los efectos del cambio climático, la pandemia mundial de Covid-19, las dificultades económicas, la impotencia de los modos dominantes de hacer y su inoperancia para satisfacer necesidades tan básicas como aliviar la sed, arrimar la tortilla o cuidar la salud humana.",
+              "dc:coverage": "Ciencias y Humanidades",
+              "dc:audience": "generalPublic",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/2",
+                "info:eu-repo/classification/cti/2"
+              ],
+              "dc:source": "https://conahcyt.mx/el-agua-en-nuestras-manos/",
+              "dc:identifier": "http://conacyt.repositorioinstitucional.mx/jspui/handle/1000/51",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/reference/ISBN/968-607-8273-33-1",
+              "dc:format": "application/pdf"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/52",
+            "datestamp": "2024-06-05T17:31:03Z",
+            "setSpec": [
+              "col_1000_50",
+              "com_1000_36"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "La migración mexicana altamente calificada de cara al siglo XXI: problemática y desafíos",
+              "dc:creator": [
+                {
+                  "@id": "info:eu-repo/dai/mx/cvu/10070",
+                  "#text": "Raúl Delgado  Wise"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/cvu/210300",
+                  "#text": "MONICA GUADALUPE CHAVEZ ELORZA"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/cvu/875399",
+                  "#text": "SELENE GASPAR OLVERA"
+                }
+              ],
+              "dc:publisher": [
+                "Fondo de Cultura Económica",
+                "Consejo Nacional de Ciencia y Tecnología"
+              ],
+              "dc:date": "2022",
+              "dc:type": [
+                "info:eu-repo/semantics/book",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:description": "De la migración internacional contemporánea, la movilidad de personas altamente calificadas representa el segmento más dinámico, entre otras causas por la creciente demanda que las principales empresas monopólicas del mundo hacen de este sector humano.",
+              "dc:coverage": "Ciencias y Humanidades",
+              "dc:audience": "generalPublic",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/5",
+                "info:eu-repo/classification/cti/5"
+              ],
+              "dc:source": "https://conahcyt.mx/la-migracion-mexicana-altamente-calificada-de-cara-al-siglo-xxi-problematicas-y-desafios/",
+              "dc:identifier": "http://conacyt.repositorioinstitucional.mx/jspui/handle/1000/52",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:language": "spa",
+              "dc:format": "application/pdf"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/53",
+            "datestamp": "2024-06-05T17:32:40Z",
+            "setSpec": [
+              "col_1000_50",
+              "com_1000_36"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Problemas del agua en México. ¿Cómo abordarlos?",
+              "dc:creator": [
+                {
+                  "@id": "info:eu-repo/dai/mx/cvu/11946",
+                  "#text": "JOSE RAUL GARCIA BARRIOS"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/ca/1372850",
+                  "#text": "Sayani Mozka Estrada"
+                }
+              ],
+              "dc:publisher": "Consejo Nacional de Ciencia y Tecnología",
+              "dc:date": "2022",
+              "dc:type": [
+                "info:eu-repo/semantics/book",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:description": "La crisis del agua afecta a millones de personas en todo el mundo. Este libro se enfoca en temas fundamentales relacionados con la dinámica social, política y económica de nuestro país: inequidad e inseguridad en la distribución del líquido, pasividad (y cautividad) de los sujetos sociales, prioridad a los jugosos contratos de concesión, falta de atención y despojo del recurso a las pequeñas comunidades, agotamiento de las cuencas naturales y sobrexplotación de las aguas profundas, así como una demanda creciente sin planes específicos para satisfacerla debidamente y sin incurrir en los desequilibrios e injusticias del pasado y del presente.",
+              "dc:coverage": "Ciencias y Humanidades",
+              "dc:audience": "generalPublic",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/2",
+                "info:eu-repo/classification/cti/2"
+              ],
+              "dc:source": "https://conahcyt.mx/problemas-del-agua-en-mexico-como-abordarlos/",
+              "dc:identifier": "http://conacyt.repositorioinstitucional.mx/jspui/handle/1000/53",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/reference/ISBN/978-607-16-7776-1",
+              "dc:format": "application/pdf"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/54",
+            "datestamp": "2024-06-05T17:34:12Z",
+            "setSpec": [
+              "col_1000_50",
+              "com_1000_36"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Aprendiendo más sobre el frijol y su importancia",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0009-0007-1157-9854",
+                "#text": "Consejo Nacional de Humanides, Ciencias y Tecnologías"
+              },
+              "dc:contributor": [
+                {
+                  "@id": "info:eu-repo/dai/mx/cvu/57433",
+                  "@role": "coordinador",
+                  "#text": "EUGENIA DEL CARMEN LUGO CERVANTES"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/cvu/15941",
+                  "@role": "coordinador",
+                  "#text": "Anne Christine Gschaedler Mathis"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/cvu/274400",
+                  "@role": "coordinador",
+                  "#text": "Elba Montserrat Alcázar Valle"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/cvu/224490",
+                  "@role": "coordinador",
+                  "#text": "SOLEDAD GARCIA MORALES"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/cvu/209681",
+                  "@role": "coordinador",
+                  "#text": "EVER SANCHEZ OSORIO"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/cvu/224343",
+                  "@role": "coordinador",
+                  "#text": "LUIS ALFONSO MOJICA CONTRERAS"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/cvu/160484",
+                  "@role": "coordinador",
+                  "#text": "JHONY NAVAT ENRIQUEZ VARA"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/cvu/98997",
+                  "@role": "coordinador",
+                  "#text": "María de Lourdes Flores López"
+                }
+              ],
+              "dc:publisher": [
+                "Centro de Investigación y Asistencia en Tecnologías y Diseño del Estado de Jalisco",
+                "Consejo Nacional de Ciencia y Tecnología"
+              ],
+              "dc:date": "2022",
+              "dc:type": [
+                "info:eu-repo/semantics/book",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:description": "Este libro está dirigido a niñas y niños de educación primaria. Surge de un encuentro con niñas y niños de la Escuela Primaria Bilingüe “El Porvenir”, turno matutino, de Xochistlahuaca Guerrero. Las niñas y los niños son el futuro de nuestras comunidades, con el presente libro buscamos abordar la preservación y defensa de lo propio.",
+              "dc:coverage": "Ciencias y Humanidades",
+              "dc:audience": "generalPublic",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/cti/4"
+              ],
+              "dc:source": "Consejo Nacional de Humanidades, Ciencias y Tecnologías",
+              "dc:identifier": "http://conacyt.repositorioinstitucional.mx/jspui/handle/1000/54",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/reference/ISBN/978-607-8734-47-4",
+              "dc:format": "application/pdf"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:conahcyt.repositorioinstitucional.mx:1000/55",
+            "datestamp": "2024-06-05T17:34:37Z",
+            "setSpec": [
+              "col_1000_50",
+              "com_1000_36"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "La política pública en ciencia",
+              "dc:creator": [
+                {
+                  "@id": "info:eu-repo/dai/mx/cvu/339475",
+                  "#text": "NILDA CECILIA ELIZONDO"
+                },
+                {
+                  "@id": "info:eu-repo/dai/mx/cvu/781850",
+                  "#text": "RAYMUNDO ESPINOZA HERNANDEZ"
+                }
+              ],
+              "dc:publisher": "Consejo Nacional de Humanides, Ciencias y Tecnologías",
+              "dc:date": "2023",
+              "dc:type": [
+                "info:eu-repo/semantics/book",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:description": "El libro ofrece un intercambio realmente virtuoso de conocimientos y saberes. En esta interacción se abordan diversos temas desde visiones como la filosofía, el derecho, la economía, la política y la antropología, por mencionar sólo algunas disciplinas.",
+              "dc:coverage": "Ciencias y Humanidades",
+              "dc:audience": "generalPublic",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/5",
+                "info:eu-repo/classification/cti/5"
+              ],
+              "dc:source": "https://conahcyt.mx/la-politica-publica-en-ciencia/",
+              "dc:identifier": "http://conacyt.repositorioinstitucional.mx/jspui/handle/1000/55",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/reference/ISBN/978-607-16-8230-7",
+              "dc:format": "application/pdf"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

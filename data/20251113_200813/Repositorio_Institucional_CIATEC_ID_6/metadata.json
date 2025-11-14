@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 6,
+    "name": "Repositorio Institucional CIATEC",
+    "machine_name": "repositorio_institucional_ciatec",
+    "url": "https://ciatec.repositorioinstitucional.mx/oai/request",
+    "dspace_version": "5.4",
+    "number_of_items": 224
+  },
+  "collection_info": {
+    "timestamp": "20251113_200813",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/20251113_200813/Repositorio_Institucional_CIATEC_ID_6/page_001.json"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 60,
+    "name": "REPOSITORIO INSTITUCIONAL DE CONOCIMIENTO GENÓMICO",
+    "machine_name": "repositorio_institucional_de_conocimiento_gen_mico",
+    "url": "http://132.248.34.155:8088/oai/provider",
+    "dspace_version": "7.x",
+    "number_of_items": 7432
+  },
+  "collection_info": {
+    "timestamp": "20251111_014012",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/try1/20251111_014012_REPOSITORIO_INSTITUCIONAL_DE_CONOCIMIENTO_GEN_MICO_ID_60_json/page_001.json"
+  ]
+}

@@ -1,0 +1,2640 @@
+{
+  "OAI-PMH": {
+    "@xmlns": "http://www.openarchives.org/OAI/2.0/",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd",
+    "responseDate": "2025-11-11T07:40:12Z",
+    "request": {
+      "@verb": "ListRecords",
+      "@metadataPrefix": "oai_dc",
+      "#text": "http://www.ru.iimas.unam.mx/oai/request"
+    },
+    "ListRecords": {
+      "record": [
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART27",
+            "datestamp": "2021-11-26T00:50:30Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "The combination of the functionalities of feedback circuits is determinant for the attractors’ number and size in pathway-like Boolean networks",
+              "dc:creator": [
+                "Azpeitia, Eugenio",
+                "Muñoz, Stalin",
+                "González-Tokman, Daniel",
+                "Martínez-Sánchez, Mariana Esther",
+                "Weinstein, Nathan",
+                "Álvarez-Buylla, Elena R.",
+                "Rosenblueth Laguette, David Arturo",
+                "Mendoza, Luis",
+                "Naldi, Aurélien"
+              ],
+              "dc:subject": [
+                "Biochemical networks",
+                "Computational models",
+                "Dynamic networks",
+                "Gene regulatory networks",
+                "Regulatory networks",
+                "Biología y Química",
+                "Ingeniería y Tecnología"
+              ],
+              "dc:description": "Molecular regulation was initially assumed to follow both a unidirectional and a hierarchical organization forming pathways. Regulatory processes, however, form highly interlinked networks with non-hierarchical and non-unidirectional structures that contain statistically overrepresented circuits or motifs. Here, we analyze the behavior of pathways containing non-unidirectional (i.e. bidirectional) and non-hierarchical interactions that create motifs. In comparison with unidirectional and hierarchical pathways, our pathways have a high diversity of behaviors, characterized by the size and number of attractors. Motifs have been studied individually showing that feedback circuit motifs regulate the number and size of attractors. It is less clear what happens in molecular networks that usually contain multiple feedbacks. Here, we find that the way feedback circuits couple to each other (i.e., the combination of the functionalities of feedback circuits) regulate both the number and size of the attractors. We show that the different expected results of epistasis analysis (a method to infer regulatory interactions) are produced by many non-hierarchical and non-unidirectional structures. Thus, these structures cannot be correctly inferred by epistasis analysis. Finally, we show that the combinations of functionalities, combined with other network properties, allow for a better characterization of regulatory structures",
+              "dc:date": [
+                "2021-11-12T00:20:34Z",
+                "2021-11-12T00:20:34Z",
+                "2017-02-10"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Azpeitia, E. et al. The combination of the functionalities of feedback circuits is determinant for the attractors’ number and size in pathway-like Boolean networks. Sci. Rep.7, 42023; doi: 10.1038/srep42023 (2017)",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART27",
+                "http://dx.doi.org/10.1038/srep42023"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://www.nature.com/srep/",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "Springer Nature",
+              "dc:source": "Scientific Reports (2045-2322) 7, Article number: 42023 (2017)"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART7",
+            "datestamp": "2021-11-19T03:59:09Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Improving public transportation systems with self-organization: A headway-based model and regulation of passenger alighting and boarding",
+              "dc:creator": [
+                "Carreón, Gustavo",
+                "Pineda, Luis Alberto",
+                "Gershenson, Carlos"
+              ],
+              "dc:subject": [
+                "headway-based model",
+                "public transportation systems",
+                "self-organization",
+                "Ingeniería y Tecnología"
+              ],
+              "dc:description": "The equal headway instability-the fact that a configuration with regular time intervals between vehicles tends to be volatile-is a common regulation problem in public transportation systems. An unsatisfactory regulation results in low efficiency and possible collapses of the service. Computational simulations have shown that self-organizing methods can regulate the headway adaptively beyond the theoretical optimum. In this work, we develop a computer simulation for metro systems fed with real data from the Mexico City Metro to test the current regulatory method with a novel self-organizing approach. The current model considers overall system's data such as minimum and maximum waiting times at stations, while the self-organizing method regulates the headway in a decentralized manner using local information such as the passenger's inflow and the positions of neighboring trains. The simulation shows that the self-organizing method improves the performance over the current one as it adapts to environmental changes at the timescale they occur. The correlation between the simulation of the current model and empirical observations carried out in the Mexico City Metro provides a base to calculate the expected performance of the self-organizing method in case it is implemented in the real system. We also performed a pilot study at the Balderas station to regulate the alighting and boarding of passengers through guide signs on platforms. The analysis of empirical data shows a delay reduction of the waiting time of trains at stations. Finally, we provide recommendations to improve public transportation systems.",
+              "dc:date": [
+                "2021-11-13T00:01:54Z",
+                "2021-11-13T00:01:54Z",
+                "2017-12-29"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Carreon, G., Gershenson, C., & Pineda, L. A. (2017). Improving public transportation systems with self-organization: A headway-based model and regulation of passenger alighting and boarding. Plos One, 12(12). doi:10.1371/journal.pone.0190100",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART7",
+                "http://dx.doi.org/10.1371/journal.pone.0190100"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://journals.plos.org/plosone/",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:publisher": "Public Library Science",
+              "dc:source": "PLoS ONE (1932-6203), Vol.12(12), e0190100, (2017)"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART19",
+            "datestamp": "2021-11-19T23:11:33Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Sensitivity to Social Contingency in Adults with High-Functioning Autism during Computer-Mediated Embodied Interaction",
+              "dc:creator": [
+                "Zapata-Fonseca, Leonardo",
+                "Froese, Tom",
+                "Schilbach, Leonhard",
+                "Vogeley, Kai",
+                "Timmermans, Bert"
+              ],
+              "dc:subject": [
+                "sensorimotor contingencies",
+                "intersubjectivity",
+                "autism spectrum disorder",
+                "embodied interaction",
+                "virtual reality",
+                "human-computer interface",
+                "Humanidades y Ciencias de la Conducta",
+                "Ingeniería y Tecnología"
+              ],
+              "dc:description": "Sensitivity to Social Contingency in Adults with High-Functioning Autism during Computer-Mediated Embodied Interaction",
+              "dc:date": [
+                "2021-11-19T23:11:33Z",
+                "2021-11-19T23:11:33Z",
+                "2018-02-08"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Zapata-Fonseca, L., Froese, T., Schilbach, L., Vogeley, K., & Timmermans, B. (2018). Sensitivity to Social Contingency in Adults with High-Functioning Autism during Computer-Mediated Embodied Interaction. Behavioral Sciences, 8(2). doi:10.3390/bs8020022",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART19",
+                "http://dx.doi.org/10.3390/bs8020022"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://www.mdpi.com/journal/behavsci",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "MDPI",
+              "dc:source": "Behavioral Sciences (2076-328X), Vol. 8(2), 22 (2018)."
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART33",
+            "datestamp": "2021-11-26T02:22:51Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "MEBS, a software platform to evaluate large (meta)genomic collections according to their metabolic machinery: unraveling the sulfur cycle.",
+              "dc:creator": [
+                "De Anda, Valerie",
+                "Zapata-Peñasco, Icoquih",
+                "Poot-Hernández, Augusto César",
+                "Eguiarte, Luis E.",
+                "Contreras-Moreira, Bruno",
+                "Souza, Valeria"
+              ],
+              "dc:subject": [
+                "metabolic machinery",
+                "metagenomics",
+                "omic-datasets",
+                "Pfam domains",
+                "relative entropy",
+                "sulfur cycle",
+                "multigenomic entropy-based score",
+                "Ingeniería y Tecnología"
+              ],
+              "dc:description": "The increasing number of metagenomic and genomic sequences has dramatically improved our understanding of microbial diversity, yet our ability to infer metabolic capabilities in such datasets remains challenging. We describe the Multigenomic Entropy Based Score pipeline (MEBS), a software platform designed to evaluate, compare, and infer complex metabolic pathways in large \"omic\" datasets, including entire biogeochemical cycles. MEBS is open source and available through https://github. com/eead-csic-compbio/metagenome Pfam score. To demonstrate its use, we modeled the sulfur cycle by exhaustively curating the molecular and ecological elements involved (compounds, genes, metabolic pathways, and microbial taxa). This information was reduced to a collection of 112 characteristic Pfam protein domains and a list of complete-sequenced sulfur genomes. Using the mathematical framework of relative entropy (H'), we quantitatively measured the enrichment of these domains among sulfur genomes. The entropy of each domain was used both to build up a final score that indicates whether a (meta) genomic sample contains the metabolic machinery of interest and to propose marker domains in metagenomic sequences such as DsrC (PF04358). MEBS was benchmarked with a dataset of 2107 non-redundant microbial genomes from RefSeq and 935 metagenomes from MG-RAST. Its performance, reproducibility, and robustness were evaluated using several approaches, including random sampling, linear regression models, receiver operator characteristic plots, and the area under the curve metric (AUC). Our results support the broad applicability of this algorithm to accurately classify (AUC = 0.985) hard-to-culture genomes (e.g., Candidatus Desulforudis audaxviator), previously characterized ones, and metagenomic environments such as hydrothermal vents, or deep-sea sediment. Our benchmark indicates that an entropy-based score can capture the metabolic machinery of interest and can be used to efficiently classify large genomic and metagenomic datasets, including uncultivated/unexplored taxa.",
+              "dc:date": [
+                "2021-11-17T03:32:21Z",
+                "2021-11-17T03:32:21Z",
+                "2017-10-23"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "De Anda, V., Zapata-Penasco, I., Poot-Hernandez, A. C., Eguiarte, L. E., Contreras-Moreira, B., & Souza, V. (2017). MEBS, a software platform to evaluate large (meta)genomic collections according to their metabolic machinery: unraveling the sulfur cycle. Gigascience, 6(11). doi:10.1093/gigascience/gix096",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART33",
+                "http://dx.doi.org/10.1093/gigascience/gix096"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://academic.oup.com/gigascience/issue/6/11",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "OXFORD UNIV PRESS",
+              "dc:source": "Gigascience (2047-217X), Vol. 6(11), 1-17 (2017)."
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART12",
+            "datestamp": "2021-11-19T23:11:31Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "P300 Detection Based on EEG Shape Features",
+              "dc:creator": [
+                "Alvarado-González, Montserrat",
+                "Garduño, Edgar",
+                "Bribiesca, Ernesto",
+                "Yáñez-Suárez, Oscar",
+                "Medina-Bañuelos, Verónica"
+              ],
+              "dc:subject": [
+                "Signal Processing",
+                "Image Processing",
+                "Physiological Data",
+                "Ingeniería y Tecnología"
+              ],
+              "dc:description": "We present a novel approach to describe a P300 by a shape-feature vector, which offers several advantages over the feature vector used by the BCI2000 system. Additionally, we present a calibration algorithm that reduces the dimensionality of the shape-feature vector, the number of trials, and the electrodes needed by a Brain Computer Interface to accurately detect P300s; we also define a method to find a template that best represents, for a given electrode, the subject’s P300 based on his/her own acquired signals. Our experiments with 21 subjects showed that the SWLDA’s performance using our shape-feature vector was , that is,  higher than the one obtained with BCI2000-feature’s vector. The shape-feature vector is 34-dimensional for every electrode; however, it is possible to significantly reduce its dimensionality while keeping a high sensitivity. The validation of the calibration algorithm showed an averaged area under the ROC (AUROC) curve of . Also, most of the subjects needed less than  trials to have an AUROC superior to . Finally, we found that the electrode C4 also leads to better classification..",
+              "dc:date": [
+                "2021-11-19T23:11:31Z",
+                "2021-11-19T23:11:31Z",
+                "2016-01-10"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Alvarado-González M.,Garduño E.,Bribiesca, E.,Yáñez-Suárez, O.,Medina-Bañuelos, V.(2016) P300 Detection Based on EEG Shape Features. Computational and Mathematical Methods in Medicine. doi:10.1155/2016/2029791 2016 2029791",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART12",
+                "http://dx.doi.org/10.1155/2016/2029791"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://www.hindawi.com/journals/cmmm/contents/year/2016/",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "Hindawi",
+              "dc:source": "Computational and Mathematical Methods in Medicine (1748-670X) ,Vol. 2016, Article ID 2029791, 14 pages, (2016)."
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART15",
+            "datestamp": "2021-11-19T23:11:32Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Fitting phase–type scale mixtures to heavy–tailed data and distributions",
+              "dc:creator": [
+                "Rojas-Nandayapa, Leonardo",
+                "Bladt, Mogens"
+              ],
+              "dc:subject": [
+                "Statistical inference",
+                "Heavy–tailed",
+                "Phase–type",
+                "Scale mixtures",
+                "Approximating distributions",
+                "EM algorithm",
+                "Ciencias Físico Matemáticas y Ciencias de la Tierra"
+              ],
+              "dc:description": "We consider the fitting of heavy tailed data and distributions with a special attention to distributions with a non–standard shape in the “body” of the distribution. To this end we consider a dense class of heavy tailed distributions introduced in Bladt et al. (Scand. Actuar. J., 573–591 2015), employing an EM algorithm for the maximum likelihood estimation of its parameters. We present methods for fitting to observed data, histograms, censored data, as well as to theoretical distributions. Numerical examples are provided with simulated data and a benchmark reinsurance dataset. Empirical examples show that the methods will in most cases adequately fit both body and tail simultaneously.",
+              "dc:date": [
+                "2021-11-19T23:11:32Z",
+                "2021-11-19T23:11:32Z",
+                "2018-01-17"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Bladt, M., Rojas-Nandayapa, L. Fitting phase–type scale mixtures to heavy–tailed data and distributions. Extremes 21, 285–313 (2018). doi:doi.org/10.1007/s10687-017-0306-4",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART15",
+                "http://dx.doi.org/10.1007/s10687-017-0306-4"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://www.springer.com/journal/10687",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "Springer",
+              "dc:source": "Extremes (1386-1999), Vol. 21(2), 285-313 (2018)."
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART8",
+            "datestamp": "2021-11-19T03:02:06Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Numerical study of the 3D-shape of a drop immersed in a fluid under an elongational flow with vorticity",
+              "dc:creator": [
+                "Sanjuan, Alfredo S.",
+                "Geffroy Aguilar, Enrique",
+                "Minzoni Alessio, Antonmaria",
+                "Reyes Huesca, Marco Antonio"
+              ],
+              "dc:subject": [
+                "drop deformation",
+                "elongational flow with vorticity",
+                "3D-shape",
+                "Fluid Mechanics",
+                "Ciencias Físico Matemáticas y Ciencias de la Tierra"
+              ],
+              "dc:description": "This work focuses on a three-dimensional analysis of the deformation of a drop — immersed in a Newtonian fluid— generated by a 2D elongational flow with vorticity. The study of steady-state deformations of the cross-section of the drop shows a prevalent non-circular shape. The axisymmetric idealization of the ellipsoid is not observed nor the linear dependency between capillary number and deformation of the drop, as Taylor and Cox theory predicted. Our numerical results are consistent with experiments and other numerical simulations. However, in the latter cases, measurements of the cross section of the drop are few while a limited class of flows is applied. In this work, deformations induced by general two-dimensional flows upon the 3D drop shape are presented with special emphasis about the length scale along the third axis —perpendicular to the plane of the applied flow field.",
+              "dc:date": [
+                "2021-11-13T00:01:54Z",
+                "2021-11-13T00:01:54Z",
+                "2017-02-08"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Sanjuan, A. S., Reyes, M. A. H., Minzoni, A. A., Geffroy, E., & Iop. (2017). Numerical study of the 3D-shape of a drop immersed in a fluid under an elongational flow with vorticity. In Viii International Congress of Engineering Physics (Vol. 792).",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART8",
+                "http://dx.doi.org/10.1088/1742-6596/792/1/012005"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://iopscience.iop.org/journal/1742-6596",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:publisher": "IOP PUBLISHING LTD",
+              "dc:source": "Journal of Physics: Conference Series (1742-6588), Vol. 792(012005), (2017)."
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART9",
+            "datestamp": "2021-11-19T03:17:30Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Abundance, diversity and domain architecture variability in prokaryotic DNA-binding transcription factors",
+              "dc:creator": [
+                "Perez-Rueda, Ernesto",
+                "Martinez Nuñez, Mario Alberto",
+                "Sánchez Domínguez, Israel",
+                "Ibarra, Jose Antonio",
+                "Hernandez-Guerrero, Rafael",
+                "Armenta-Medina, Dagoberto"
+              ],
+              "dc:subject": [
+                "prokaryotic DNA-binding",
+                "Gene regulation",
+                "transcription factors",
+                "Biología y Química"
+              ],
+              "dc:description": "Gene regulation at the transcriptional level is a central process in all organisms, and DNAbinding transcription factors, known as TFs, play a fundamental role. This class of proteins usually binds at specific DNA sequences, activating or repressing gene expression. In general, TFs are composed of two domains: the DNA-binding domain (DBD) and an extra domain, which in this work we have named companion domain (CD). This latter could be involved in one or more functions such as ligand binding, protein-protein interactions or even with enzymatic activity. In contrast to DBDs, which have been widely characterized both experimentally and bioinformatically, information on the abundance, distribution, variability and possible role of the CDs is scarce. Here, we investigated these issues associated with the domain architectures of TFs in prokaryotic genomes. To this end, 19 families of TFs in 761 non-redundant bacterial and archaeal genomes were evaluated. In this regard we found four main groups based on the abundance and distribution in the analyzed genomes: i) LysR and TetR/AcrR; ii) AraC/XylS, SinR, and others; iii) Lrp, Fis, ArsR, and others; and iv) a group that included only two families, ArgR and BirA. Based on a classification of the organisms according to the life-styles, a major abundance of regulatory families in free-living organisms, in contrast with pathogenic, extremophilic or intracellular organisms, was identified. Finally, the protein architecture diversity associated to the 19 families considering a weight score for domain promiscuity evidenced which regulatory families were characterized by either a large diversity of CDs, here named as promiscuous families given the elevated number of variable domains found in those TFs, or a low diversity of CDs. Altogether this information helped us to understand the diversity and distribution of the 19 Prokaryotes TF families. Moreover, initial steps were taken to comprehend the variability of the extra domain in those TFs, which eventually might assist in evolutionary and functional studies.",
+              "dc:date": [
+                "2021-11-13T00:01:54Z",
+                "2021-11-13T00:01:54Z",
+                "2018-03-04"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Perez-Rueda E, Hernandez-Guerrero R, Martinez-Nuñez MA, Armenta-Medina D, Sanchez I, Ibarra JA (2018) Abundance, diversity and domain architecture variability in prokaryotic DNA-binding transcription factors. PLoS ONE 13(4): e0195332. https://doi.org/10.1371/journal.pone.0195332",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART9",
+                "http://dx.doi.org/10.1371/journal.pone.0195332"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://journals.plos.org/plosone/",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "Public Library Science",
+              "dc:source": "PLoS ONE (1932-6203), Vol.13(4), e0195332, (2018)"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART37",
+            "datestamp": "2021-11-27T21:43:48Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Concept and Functional Structure of a Service Robot",
+              "dc:creator": [
+                "Pineda, Luis Alberto",
+                "Rodríguez, Arturo",
+                "Fuentes, Gibran",
+                "Rascon, Caleb",
+                "Meza, Ivan V."
+              ],
+              "dc:subject": [
+                "Service robots system levels",
+                "Concept of a service robot",
+                "Robotics' task structure",
+                "Conceptual model of service robots",
+                "Practical tasks",
+                "Structure of a general purpose service robot",
+                "RoboCup@Home competition",
+                "The Golem-II+ robot",
+                "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                "Ingeniería y Tecnología"
+              ],
+              "dc:description": "In this paper, we present a concept of service robot and a framework for its functional specification and implementation. The present discussion is grounded in Newell's system levels hierarchy which suggests organizing robotics research in three different layers, corresponding to Marr's computational, algorithmic and implementation levels, as follows: (1) the service robot proper, which is the subject of the present paper, (2) perception and action algorithms, and (3) the systems programming level. The concept of a service robot is articulated in practice through the introduction of a conceptual model for particular service robots; this consists of the specification of a set of basic robotic behaviours and a number of mechanisms for assembling such behaviours during the execution of complex tasks. The model involves an explicit representation of the task structure, allowing for deliberative reasoning and task management. The model also permits distinguishing between a robot's competence and performance, along the lines of Chomsky's corresponding distinction. We illustrate how this model can be realized in practice with two composition modes that we call static and dynamic; these are illustrated with the Restaurant Test and the General Purpose Service Robot Test of the RoboCup@Home competition, respectively. The present framework and methodology has been implemented in the robot Golem-II+, which is also described. The paper is concluded with an overall reflection upon the present concept of a service robot and its associated functional specifications, and the potential impact of such a conceptual model in the study, development and application of service robots in general.",
+              "dc:date": [
+                "2021-11-17T03:32:22Z",
+                "2021-11-17T03:32:22Z",
+                "2015-01-01"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Pineda, L. A., Rodriguez, A., Fuentes, G., Rascon, C., & Meza, I. V. (2015). Concept and Functional Structure of a Service Robot.International Journal of Advanced Robotic Systems, 12. doi:10.5772/60026",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART37",
+                "http://dx.doi.org/10.5772/60026"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://journals.sagepub.com/toc/arx/12/2",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "SAGE journals",
+              "dc:source": "International Journal of Advanced Robotic Systems (1729-8814), Vol 12(2), (2015)."
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART22",
+            "datestamp": "2021-11-27T21:36:15Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Horizontal transfer of code fragments between protocells can explain the origins of the genetic code without vertical descent",
+              "dc:creator": [
+                "Froese, Tom",
+                "Fujishima, Kosuke",
+                "Virgo, Nathaniel",
+                "Kiga, Daisuke",
+                "Campos, Jorge I."
+              ],
+              "dc:subject": [
+                "Communication and replication",
+                "Computational models",
+                "Emergence",
+                "Evolutionary theory",
+                "Chemical origin of life",
+                "Biología y Química"
+              ],
+              "dc:description": "Theories of the origin of the genetic code typically appeal to natural selection and/or mutation of hereditable traits to explain its regularities and error robustness, yet the present translation system presupposes high-fidelity replication. Woeses solution to this bootstrapping problem was to assume that code optimization had played a key role in reducing the effect of errors caused by the early translation system. He further conjectured that initially evolution was dominated by horizontal exchange of cellular components among loosely organized protocells (progenotes), rather than by vertical transmission of genes. Here we simulated such communal evolution based on horizontal transfer of code fragments, possibly involving pairs of tRNAs and their cognate aminoacyl tRNA synthetases or a precursor tRNA ribozyme capable of catalysing its own aminoacylation, by using an iterated learning model. This is the first model to confirm Woeses conjecture that regularity, optimality, and (near) universality could have emerged via horizontal interactions alone.",
+              "dc:date": [
+                "2021-11-16T15:24:54Z",
+                "2021-11-16T15:24:54Z",
+                "2018-02-23"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Froese, T., Campos, J.I., Fujishima, K. et al. Horizontal transfer of code fragments between protocells can explain the origins of the genetic code without vertical descent. Sci Rep 8, 3532 (2018). https://doi.org/10.1038/s41598-018-21973-y",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART22",
+                "http://dx.doi.org/10.1038/s41598-018-21973-y"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://www.nature.com/srep/",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "Springer Nature",
+              "dc:source": "Scientific Reports (2045-2322) 8, Article number: 3532 (2018)"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART30",
+            "datestamp": "2021-11-26T01:34:15Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Measuring the Complexity of Continuous Distributions",
+              "dc:creator": [
+                "Santamaria-Bonfil, Guillermo",
+                "Gershenson, Carlos",
+                "Fernández, Nelson"
+              ],
+              "dc:subject": [
+                "complexity",
+                "emergence",
+                "self-organization",
+                "information",
+                "differential entropy",
+                "probability distributions",
+                "Ciencias Físico Matemáticas y Ciencias de la Tierra"
+              ],
+              "dc:description": "We extend previously proposed measures of complexity, emergence, and self-organization to continuous distributions using differential entropy. Given that the measures were based on Shannon’s information, the novel continuous complexity measures describe how a system’s predictability changes in terms of the probability distribution parameters. This allows us to calculate the complexity of phenomena for which distributions are known. We find that a broad range of common parameters found in Gaussian and scale-free distributions present high complexity values. We also explore the relationship between our measure of complexity and information adaptation.",
+              "dc:date": [
+                "2021-11-17T03:32:20Z",
+                "2021-11-17T03:32:20Z",
+                "2016-02-26"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Santamaria-Bonfil, G., Fernandez, N., & Gershenson, C. (2016). Measuring the Complexity of Continuous Distributions. Entropy, 18(3). doi:10.3390/e18030072",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART30",
+                "http://dx.doi.org/10.3390/e18030072"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://www.mdpi.com/1099-4300/18/3",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "MDPI",
+              "dc:source": "Entropy (1099-4300), Vol. 18(3), (2016)"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART36",
+            "datestamp": "2021-11-27T21:41:12Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Promoting agency for social-ecological transformation: a transformation-lab in the Xochimilco social-ecological system",
+              "dc:creator": [
+                "Charli-Joseph, Lakshmi",
+                "Siqueiros-Garcia, Mario",
+                "Eakin, Hallie",
+                "Manuel-Navarrete, David",
+                "Shelton, Rebecca"
+              ],
+              "dc:subject": [
+                "social-ecological systems",
+                "sustainability",
+                "transformation",
+                "transformative space",
+                "urbanization",
+                "Xochimilco",
+                "agency",
+                "Biología y Química"
+              ],
+              "dc:description": "Experiments to create spaces for social-ecological transformation are multiplying. These experiments aim at transcending traditional spaces for rational deliberation, planning, and participatory decision-making. We present a methodological approach for triggering the emergence of \"transformation laboratories\" (T-labs), which are participatory spaces where new agency is activated in relation to a stagnant sustainability challenge to generate intentional bottom-up transformations. We applied a set of participatory research tools to elicit current perceptions and foster personal involvement in transforming the ongoing urbanization of a culturally and ecologically significant historical wetland in Mexico City. Given that the emergence of T-labs as genuine bottom-up transformative spaces involves changes at multiple levels (individual, collective, and social-ecological), our approach was designed to promote a safe space that stimulates openness and personal interaction. We posit that through enabling participants to reformulate their connections to the system, to others in the system, and to themselves, the system may be transformed from the inside out. We argue that transformation, in this sense, is essentially about how changes in perception about one's own role in the system's dynamics translate into changes in agency. Our T-lab brought in 19 agents involved in the use and management of the Xochimilco urban wetland. Through a set of research tools, we elicited and presented information that helped agents to see their social-ecological position and role and to identify the practices they share with others within specific social networks and spaces of action. We argue that the process of collaboration initiated by our application of these tools and communication of their results are key for advancing initiatives that seek to create conditions for endogenous transformations.",
+              "dc:date": [
+                "2021-11-17T03:32:22Z",
+                "2021-11-17T03:32:22Z",
+                "2018-06-01"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Charli-Joseph, L., Siqueiros-Garcia, J. M., Eakin, H., Manuel-Navarrete, D., & Shelton, R. (2018). Promoting agency for social-ecological transformation: a transformation-lab in the Xochimilco social-ecological system. Ecology and Society, 23(2). doi:10.5751/es-10214-230246",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART36",
+                "http://dx.doi.org/10.5751/ES-10214-230246"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://www.ecologyandsociety.org/vol23/iss2/",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by-nc/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "RESILIENCE ALLIANCE",
+              "dc:source": "Ecology and Society (1708-3087), Vol. 23(2), (2018)."
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART10",
+            "datestamp": "2021-11-19T03:35:06Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Improved Surface-Based Registration of CT and Intraoperative 3D Ultrasound of Bones",
+              "dc:creator": [
+                "Fanti, Zian",
+                "Torres, Fabian",
+                "Hazan-Lasri, Eric",
+                "Gastelum-Strozzi,Alfonso",
+                "Ruiz-Huerta, Leopoldo",
+                "Caballero-Ruiz, Alberto",
+                "Arámbula Cosío, Fernando"
+              ],
+              "dc:subject": [
+                "Surface-Based Registration of CT",
+                "Intraoperative 3D Ultrasound of Bones",
+                "Medicina y Ciencias de la Salud",
+                "Ingeniería y Tecnología"
+              ],
+              "dc:description": "The intraoperative registration of preoperative CT volumes is a key process of most computer-assisted orthopedic surgery (CAOS) systems. In this work, is reported a new method for automatic registration of long bones, based on the segmentation of the bone cortical in intraoperative 3D ultrasound images. A bone classifier was developed based on features, obtained from the principal component analysis of the Hessian matrix, of every voxel in an intraoperative ultrasound volume. 3D freehand ultrasound was used for the acquisition of the intraoperative ultrasound volumes. Corresponding bone surface segmentations in ultrasound and preoperative CT imaging were used for the intraoperative registration. Validation on a phantom of the tibia produced encouraging results, with a maximum mean segmentation error of 0.34mm (SD = 0.26mm) and a registration accuracy error of 0.64mm (SD = 0.49mm).",
+              "dc:date": [
+                "2021-11-13T00:01:52Z",
+                "2021-11-13T00:01:52Z",
+                "2018-06-03"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Fanti, Z., Torres, F., Hazan-Lasri, E., Gastelum-Strozzi, A., Ruiz-Huerta, L., Caballero-Ruiz, A., & Cosio, F. A. (2018). Improved Surface-Based Registration of CT and Intraoperative 3D Ultrasound of Bones. Journal of Healthcare Engineering. doi:10.1155/2018/2365178.",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART10",
+                "http://dx.doi.org/10.1155/2018/2365178"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://www.hindawi.com/journals/jhe/",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "Hindawi",
+              "dc:source": "Journal of Healthcare Engineering (2040-2295), Vol. 2018, Article ID 2365178, 11 pages (2018)."
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART35",
+            "datestamp": "2021-11-26T03:29:53Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Genome misclassification of Klebsiella variicola and Klebsiella quasipneumoniae isolated from plants, animals and humans",
+              "dc:creator": [
+                "Martinez-Romero, Esperanza",
+                "Rodríguez-Medina, Nadia",
+                "Beltrán-Rojel, Marilu",
+                "Silva-Sánchez, Jesús",
+                "Barrios-Camacho, Humberto",
+                "Perez-Rueda, Ernesto",
+                "Garza-Ramos, Ulises"
+              ],
+              "dc:subject": [
+                "bacterial infections",
+                "Gram-negative bacterial infections",
+                "Enterobacteriaceae infections",
+                "nitrogen fixation",
+                "Medicina y Ciencias de la Salud"
+              ],
+              "dc:description": "Objective. Due to the fact that K. variicola, K. quasipneumoniae and K. pneumoniae are closely related bacterial species, misclassification can occur due to mistakes either in normal biochemical tests or during submission to public databases. The objective of this work was to identify K. variicola and K. quasipneumoniae genomes misclassified in GenBank database. Materials and methods. Both rpoB phylogenies and average nucleotide identity (ANI) were used to identify a significant number of misclassified Klebsiella spp. genomes. Results. Here we report an update of K. variicola and K. Quasipneumoniae genomes correctly classified and a list of isolated genomes obtained from humans, plants, animals and insects, described originally as K. pneumoniae or K. variicola, but known now to be misclassified. Conclusions. This work contributes to recognize the extensive presence of K. variicola and K. quasipneumoniae isolates in diverse sites and samples.",
+              "dc:date": [
+                "2021-11-17T03:32:21Z",
+                "2021-11-17T03:32:21Z",
+                "2018-02-19"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Martinez-Romero, E., Rodriguez-Medina, N., Beltran-Rojel, M., Silva-Sanchez, J., Barrios-Camacho, H., Perez-Rueda, E., & Garza-Ramos, U. (2018). Genome misclassification of Klebsiella variicola and Klebsiella quasipneumoniae isolated from plants, animals and humans. Salud Publica De Mexico, 60(1), 56-62. doi:10.21149/8149",
+                "0036-3634",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART35",
+                "http://dx.doi.org/10.21149/8149"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://saludpublica.mx/index.php/spm/issue/view/503",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "Instituto Nacional de Salud Pública",
+              "dc:source": "Salud Pública de México (0036-3634), Vol. 60(1), (2018)."
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART16",
+            "datestamp": "2021-11-19T23:11:32Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "The Clinical Concept of Opioid Addiction Since 1877: Still Wanting After All These Years",
+              "dc:creator": [
+                "Schütz,Christian G.",
+                "Ramírez-Vizcaya, Susana",
+                "Froese, Tom"
+              ],
+              "dc:subject": [
+                "addiction",
+                "opioid use disorders",
+                "psychopathology",
+                "habits",
+                "4E cognition",
+                "enactivism",
+                "anosognosia",
+                "Medicina y Ciencias de la Salud"
+              ],
+              "dc:description": "In 1877, the psychiatrist Edward Levinstein authored the first monograph on opioid addiction. The prevalence of opioid addiction prior to his publication had risen in several countries including England, France and Germany. He was the first to call it an illness, but doubted that it was a mental illness because the impairment of volition appeared to be restricted to opioid use: it was not pervasive, since it did not extend to other aspects of the individuals' life. While there has been huge progress in understanding the underlying neurobiological mechanisms, there has been little progress in the clinical psychopathology of addiction and in understanding how it relates to these neurobiological mechanisms. A focus on cravings has limited the exploration of other important aspects such as anosognosia and addiction-related behaviors like smuggling opioids into treatment and supporting the continued provision of co-patients. These behaviors are usually considered secondary reactions, but in clinical practice they appear to be central to addiction, indicating that an improved understanding of the complexity of the disorder is needed. We propose to consider an approach that takes into account the embodied, situated, dynamic, and phenomenological aspects of mental processes. Addiction in this context can be conceptualized as a habit, understood as a distributed network of mental, behavioral, and social processes, which not only shapes the addict's perceptions and actions, but also has a tendency to self-maintain. Such an approach may help to develop and integrate psychopathological and neurobiological research and practice of addictions.",
+              "dc:date": [
+                "2021-11-19T23:11:32Z",
+                "2021-11-19T23:11:32Z",
+                "2018-10-16"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Schutz, C. G., Ramirez-Vizcaya, S., & Froese, T. (2018). The Clinical Concept of Opioid Addiction Since 1877: Still Wanting After All These Years. Frontiers in Psychiatry, 9. doi:10.3389/fpsyt.2018.00508",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART16",
+                "http://dx.doi.org/10.3389/fpsyt.2018.00508"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://www.frontiersin.org/journals/psychiatry",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "Frontiers Media S.A.",
+              "dc:source": "Frontiers in Psychiatry (1664-0640), Vol. 9(508), (2018)"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART24",
+            "datestamp": "2021-11-25T23:55:55Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Rank distributions: Frequency vs. Magnitude",
+              "dc:creator": [
+                "Velarde, Carlos",
+                "Robledo, Alberto"
+              ],
+              "dc:subject": [
+                "ranked data",
+                "Ciencias Físico Matemáticas y Ciencias de la Tierra"
+              ],
+              "dc:description": "We examine the relationship between two different types of ranked data, frequencies and magnitudes. We consider data that can be sorted out either way, through numbers of occurrences or size of the measures, as it is the case, say, of moon craters, earthquakes, billionaires, etc. We indicate that these two types of distributions are functional inverses of each other, and specify this link, first in terms of the assumed parent probability distribution that generates the data samples, and then in terms of an analog (deterministic) nonlinear iterated map that reproduces them. For the particular case of hyperbolic decay with rank the distributions are identical, that is, the classical Zipf plot, a pure power law. But their difference is largest when one displays logarithmic decay and its counterpart shows the inverse exponential decay, as it is the case of Benford law, or viceversa. For all intermediate decay rates generic differences appear not only between the power-law exponents for the midway rank decline but also for small and large rank. We extend the theoretical framework to include thermodynamic and statistical-mechanical concepts, such as entropies and configuration.",
+              "dc:date": [
+                "2021-11-16T15:24:55Z",
+                "2021-11-16T15:24:55Z",
+                "2017-10-05"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Velarde, C., & Robledo, A. (2017). Rank distributions: Frequency vs. magnitude. Plos One, 12(10). doi:10.1371/journal.pone.0186015",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART24",
+                "http://dx.doi.org/10.1371/journal.pone.0186015"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://journals.plos.org/plosone/",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "Public Library Science",
+              "dc:source": "Plos One (1932-6203), Vol. 12(10), (2018)"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART20",
+            "datestamp": "2021-11-27T21:34:16Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Threshold driven contagion on weighted networks",
+              "dc:creator": [
+                "Unicomb, Samuel",
+                "Karsai, Marton",
+                "Iñiguez González, Gerardo"
+              ],
+              "dc:subject": [
+                "Weighted networks",
+                "threshold dynamics",
+                "numerical and analytical tools",
+                "Ciencias Físico Matemáticas y Ciencias de la Tierra"
+              ],
+              "dc:description": "Weighted networks capture the structure of complex systems where interaction strength is meaningful. This information is essential to a large number of processes, such as threshold dynamics, where link weights reflect the amount of influence that neighbours have in determining a node's behaviour. Despite describing numerous cascading phenomena, such as neural firing or social contagion, the modelling of threshold dynamics on weighted networks has been largely overlooked. We fill this gap by studying a dynamical threshold model over synthetic and real weighted networks with numerical and analytical tools. We show that the time of cascade emergence depends non-monotonously on weight heterogeneities, which accelerate or decelerate the dynamics, and lead to non-trivial parameter spaces for various networks and weight distributions. Our methodology applies to arbitrary binary state processes and link properties, and may prove instrumental in understanding the role of edge heterogeneities in various natural and social phenomena.",
+              "dc:date": [
+                "2021-11-16T15:24:54Z",
+                "2021-11-16T15:24:54Z",
+                "2018-02-15"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Unicomb, S., Iñiguez, G. & Karsai, M. Threshold driven contagion on weighted networks. Sci Rep 8, 3094 (2018). https://doi.org/10.1038/s41598-018-21261-9",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART20",
+                "http://dx.doi.org/10.1038/s41598-018-21261-9"
+              ],
+              "dc:language": "eng",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "Springer Nature",
+              "dc:source": "Scientific Reports (2045-2322) 8, Article number: 3094(2018)"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART3",
+            "datestamp": "2021-11-18T22:49:54Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Design of a Fuzzy Networked Control Systems. Priority Exchange Scheduling Algorithm",
+              "dc:creator": [
+                "Benítez-Pérez, Hector",
+                "Ortega-Arjona, Jorge",
+                "Duran-Chavesti, Adrian",
+                "Rojas-Vargas, Jared Arturo"
+              ],
+              "dc:subject": [
+                "Fuzzy control",
+                "networked control system",
+                "time delay codesign",
+                "Ciencias Físico Matemáticas y Ciencias de la Tierra"
+              ],
+              "dc:description": "This work presents a supervisory control strategy for Networked Control Systems (NCSs). This shows the identification and control of the plant using fuzzy theory. The fuzzy model incorporates the delay dynamics within the fuzzy rules based upon a real-time hierarchical scheduling strategy. A hierarchical scheduling Priority Exchange algorithm is used based upon codesign strategy following mutual correlation among control and network algorithms in order to bounded time delays. A system of magnetic levitation is presented as a case study.",
+              "dc:date": [
+                "2021-11-12T00:20:34Z",
+                "2021-11-12T00:20:34Z",
+                "2016-04-01"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Benitez-Perez, H., Ortega-Arjona, J., Rojas-Vargas, J. A., & Duran-Chavesti, A. (2016). Design of a Fuzzy Networked Control Systems. Priority Exchange Scheduling Algorithm.International Journal of Computers Communications & Control, 11(2), 179-193.",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART3",
+                "http://dx.doi.org/10.15837/ijccc.2016.2.2440"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://doi.org/10.15837/ijccc.2016.2",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by-nc/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "CCC PUBL-AGOR",
+              "dc:source": "International Journal of Computers Communications & Control (1841-9836), Vol. 11(2), 179-193 (April 2016)."
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART41",
+            "datestamp": "2021-11-25T23:36:53Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": [
+                "Lo local y lo global de la colaboración científica: ¿qué significa, y cómo visualizarlo y medirlo?",
+                "The local and the global of scientific collaboration: what does it mean and how to visualize and measure it?"
+              ],
+              "dc:creator": [
+                "Jung, Nina",
+                "Ruiz León, Alejandro Arnulfo"
+              ],
+              "dc:subject": [
+                "academic networks",
+                "international collaboration",
+                "scientific practice",
+                "Ciencias Sociales",
+                "redes académicas",
+                "colaboración internacional",
+                "práctica científica"
+              ],
+              "dc:description": "In a context in which there is great interest in intensifying international collaboration within scientific practice, this paper presents an approach on how to measure and visualize international collaborative work at the institutional level. As a case study, the three areas in scientific research of the National Autonomous University of Mexico were considered. The information was obtained from the Web of Science database, Core Collection, and all production made with participation of foreign institutions (co-authorship) from 1981 until 2013 was also considered. In order of measuring the international collaboration, we built an index based on the number of collaborations per institution, weighting these links on the base of their consistency during the considered period. A second index was calculated taking into account foreign institutions and countries of origin. Visualizations were made with Pajek._x005F_x000D_\r\nC1 [Jung, Nina] Univ Nacl Autonoma Mexico, Inst Invest Univ & Educ, Mexico City, DF, Mexico.",
+              "dc:date": [
+                "2021-11-18T04:03:31Z",
+                "2021-11-18T04:03:31Z",
+                "2018-05-30"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Jung, N.; Ruiz-León, A. A. (2018). Lo local y lo global de la colaboración científica: ¿qué significa, y cómo visualizarlo y medirlo?. Revista Española de Documentación Científica, 41 (2): e203. https://doi.org/10.3989/redc.2018.2.1463",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART41",
+                "http://dx.doi.org/10.3989/redc.2018.2.1463"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "https://redc.revistas.csic.es/index.php/redc/issue/view/102",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "ES",
+              "dc:publisher": "CONSEJO SUPERIOR INVESTIGACIONES CIENTIFICAS-CSIC, INST GRASA",
+              "dc:source": "Revista Española de Documentación Científica (1988-4621), Vol. 41(2), e203. (2018)."
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART2",
+            "datestamp": "2021-11-18T22:48:07Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Effect of Nicotine on CYP2B1 Expression in a Glioma Animal Model and Analysis of CYP2B6 Expression in Pediatric Gliomas",
+              "dc:creator": [
+                "Nava-Salazar, Sonia",
+                "Gómez-Manzo, Saúl",
+                "Díaz-Avalos, Carlos",
+                "Marcial Quino, Jaime",
+                "Phillips-Farfan, Bryan",
+                "Vanoye-Carlo, America"
+              ],
+              "dc:subject": [
+                "CYP2B6",
+                "CYP2B1",
+                "glioma",
+                "cyclophosphamide",
+                "pediatric",
+                "brain",
+                "Biología y Química"
+              ],
+              "dc:description": "Cyclophosphamide (CPA) is a pro-drug commonly used in the chemotherapeutic schemes for glioma treatment but has high toxicity and the side effects include brain damage and even death. Since CPA is activated mainly by CY2B6, over-expression of the enzyme in the tumor cells has been proposed to enhance CPA activation. In this study, we explored the induction of the Cyp2b1 (homologous to CYP2B6) by nicotine in an animal rat model with glioma. Gene expression and protein levels were analyzed by RT-PCR and Western blot. Nicotine treatment increased CYP2B1 protein levels in the healthy animals' brain tissue. In the brain tissue of animals with glioma, the CYP2B1 showed a high expression, even before nicotine treatment. Nicotine did not increase significantly the CYP2B1 protein expression in the tumor, but increased its expression in the tumor vicinity, especially around blood vessels in the cortex. We also explored CY2B6 expression in glioma samples derived from pediatric patients. Tumor tissue showed a variable expression of the enzyme, which could depend on the tumor malignancy grade. Induction of the CYP2B6 in pediatric gliomas with lower expression of the enzyme, could be an alternative to improve the antitumoral effect of CPA treatment.",
+              "dc:date": [
+                "2021-11-12T00:20:34Z",
+                "2021-11-12T00:20:34Z",
+                "2018-06-16"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Nava-Salazar, S., Gomez-Manzo, S., Marcial-Quino, J., Marhx-Bracho, A., Phillips-Farfan, B. V., Diaz-Avalos, C., & Vanoye-Carlo, A. (2018). Effect of Nicotine on CYP2B1 Expression in a Glioma Animal Model and Analysis of CYP2B6 Expression in Pediatric Gliomas. International Journal of Molecular Sciences, 19(6). doi:10.3390/ijms19061790",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART2",
+                "http://dx.doi.org/10.3390/ijms19061790"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://www.mdpi.com/1422-0067/19/6",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "MDPI",
+              "dc:source": "International Journal of Molecular Sciences (1422-0067), Vol. 19(6), (2018)."
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART40",
+            "datestamp": "2021-11-27T21:48:44Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Combining the ADMM and mathematical homogenization for atmospherical pollutant dispersion modeling",
+              "dc:creator": [
+                "Pinto da Costa, Camila",
+                "Pérez-Fernández, Leslie Darien",
+                "Rui, Karine",
+                "Bravo-Castillero, Julián"
+              ],
+              "dc:subject": [
+                "modelagem da dispersão de poluentes na atmosfera",
+                "método multicamadas de advecção-difusão",
+                "homogeneização matemática",
+                "Ciencias Físico Matemáticas y Ciencias de la Tierra"
+              ],
+              "dc:description": "O  método  multicamadas  de  advecção-difusão  (ADMM)  produz  soluções  semianalíticas  precisas  dos  problemas  devalores de contorno/iniciais para equações de advecção-difusão com coeficientes variáveis que modelam a dispersão depoluentes na atmosfera, e apresenta o menor custo computacional quando comparado com outros métodos baseados emtransformadas integrais. Contudo, em situações operativas tais como desastres naturais/industriais que resultam na fugade poluentes na atmosfera, é necessário aferir rapidamente e com exatidão a distribuição da concentração dos poluentesno nível do solo para minimizar o impacto na saúde e na economia. Aqui, para acelerar a disponibilidade de resultadoscom mínima perda de precisão, o ADMM é combinado com homogeneização matemática, cujo emprego na modelagemde dispersão de poluentes parece ser novidade. A abordagem proposta é comparada com a aplicação direta do ADMM eàs  observações  do  experimento  de  Hanford  para  avaliar  a  exatidão  das  estimativas,  assim  como  sua  eficiênciacomputacional, considerando condições atmosféricas estáveis e a influência da velocidade de deposição. Os resultadosmostram que a combinação do ADMM com a homogeneização matemática apresenta uma redução significativa nocusto computacional com pouca perda de precisão.",
+              "dc:date": [
+                "2021-11-18T04:03:30Z",
+                "2021-11-18T04:03:30Z",
+                "2018"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Costa, C. P., Pérez-Fernández, L. D., Rui, K., & Bravo-Castillero, J. (2018). Combining the ADMM and mathematical homogenization for atmospherical pollutant dispersion modeling. [Combinação do ADMM com Homogeneização Matemática na Modelagem da Dispersão de Poluentes na Atmosfera] Revista Brasileira De Meteorologia, 33(2), 329-335. doi:10.1590/0102-7786332014",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART40",
+                "http://dx.doi.org/10.1590/0102-7786332014"
+              ],
+              "dc:language": "por",
+              "dc:relation": "https://www.scielo.br/j/rbmet/",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "BR",
+              "dc:publisher": "Sociedade Brasileira de Meteorologia",
+              "dc:source": "Revista Brasileira de Meteorologia (0102-7786), Vol. 33(2), 329-335, (2018)"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART14",
+            "datestamp": "2021-11-19T23:11:32Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Mediators of episodic memory decay across the adult life span",
+              "dc:creator": [
+                "Cansino, Selene",
+                "Torres-Trejo, Frine",
+                "Estrada-Manilla, Cinthya",
+                "Hernández-Ramos, Evelia",
+                "Marínez-Galindo, Joyce Graciela",
+                "Gómez-Fernández, Tania",
+                "Ayala-Hernández, Mariana",
+                "Ramírez-González, María Dolores",
+                "Ruiz-Velasco Acosta, Silvia"
+              ],
+              "dc:subject": [
+                "Human behaviour",
+                "Long-term memory",
+                "Medicina y Ciencias de la Salud"
+              ],
+              "dc:description": "The ability to remember the details of our own experiences declines gradually as we get old. The reason for this decay has been attributed to several factors besides age, such as education, nutrient intake and health status. However, the influence of these factors has mainly been examined individually and rarely together. Here we identify those factors that jointly act as mediators of episodic memory decay across the adult life span. We examined source memory in a lifespan sample of 1557 healthy adults. A total of 70 physical, biological and lifestyle variables were measured and introduced into a structural equation model as potential mediators that intervene between age and source memory. Only 14 mediator variables reliably mediated source memory decay; notably, eight of these variables have an effect on the cardiovascular system. The model unequivocally highlights that the mediators that may impair cardiovascular functioning also impact brain resources involved in episodic memory. We identified the factors that are relevant to episodic memory decline when they interact together as occurs in real life.",
+              "dc:date": [
+                "2021-11-19T23:11:32Z",
+                "2021-11-19T23:11:32Z",
+                "2018-08-02"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Cansino, S., Torres-Trejo, F., Estrada-Manilla, C. et al. Mediators of episodic memory decay across the adult life span. Sci Rep 8, 2610 (2018). doi:doi.org/10.1038/s41598-018-20884-2",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART14",
+                "http://dx.doi.org/10.1038/s41598-018-20884-2"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://www.nature.com/srep/",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "Springer Nature",
+              "dc:source": "Scientific Reports (2045-2322), Vol. 8(1), 2610, (2018)"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART49",
+            "datestamp": "2021-11-12T18:31:55Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Grounding 4E Cognition in Mexico: introduction to special issue on spotlight on 4E Cognition research in Mexico",
+              "dc:creator": [
+                "Gonzalez-Grandón, Ximena",
+                "Froese, Tom"
+              ],
+              "dc:subject": [
+                "4E Cognition",
+                "pluralism",
+                "research tradition",
+                "historical background",
+                "Cognición",
+                "Emociones y cognición",
+                "Medicina y Ciencias de la Salud",
+                "Ingeniería y Tecnología",
+                "Mexico"
+              ],
+              "dc:description": "Embodied, embedded, extended and enactive (4EC) perspectives on cognition have gained epistemic legitimacy during the last 25 years in the international arena. They have encouraged new ways to understand the mind. Mexico has not been an exception; rather, it has the potential to provide a fertile ground for the development of 4EC perspectives, as shown by the variety of contributions in this special issue. In this editorial introduction, we discuss recent concerns about a lack of coherence in the inter-relations between these perspectives, and we propose that it is more appropriate to view 4EC as an emerging pluralistic research tradition that shares crucial commitments. Furthermore, we show that this pluralistic tradition has been gaining ground in the specific research context of Mexico, because of the country's distinctive historical, scientific and philosophical development. We finish by describing the promising research potential of the current heterogeneous explanations as evidenced by the papers in this issue.",
+              "dc:date": [
+                "2021-11-12T00:20:35Z",
+                "2021-11-12T00:20:35Z",
+                "2018-09-25"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Gonzalez-Grandón X, Froese T. Grounding 4E Cognition in Mexico: introduction to special issue on spotlight on 4E Cognition research in Mexico. Adaptive Behavior. 2018;26(5):189-198. doi:10.1177/1059712318791633",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART49",
+                "http://dx.doi.org/10.1177/1059712318791633"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://journals.sagepub.com/toc/adba/26/5",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "SAGE journals",
+              "dc:source": "Adaptive Behavior (1059-7123), Vol. 26(5), 189-198 (2018)."
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART42",
+            "datestamp": "2021-11-27T23:39:36Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Incorporation of Circular Aspects into Product Design and Labelling: Consumer Preferences",
+              "dc:creator": [
+                "Bovea, María D.",
+                "Ibáñez-Forés, Valeria",
+                "Braulio-Gonzalo, Marta",
+                "Díaz-Avalos, Carlos",
+                "Juan, Pablo",
+                "Pérez-Belis, Victoria"
+              ],
+              "dc:subject": [
+                "circular economy",
+                "product requirement",
+                "consumer preference",
+                "social",
+                "statistics",
+                "Biología y Química",
+                "Ciencias Físico Matemáticas y Ciencias de la Tierra"
+              ],
+              "dc:description": "The transition to a circular economy requires a fundamental change in products and the way they meet consumer demands. In this context, the aim of this article is to analyse the level of importance that consumers attach to the fact that circular aspects were incorporated into a product design and to the need to communicate them on the product labelling. The aspects analysed in this study are related to durability, repairability, recycled material content, low environmental impact, fair working conditions and origin. To this end, a survey was designed and conducted with a representative sample. It was found that Spanish consumers are concerned mainly about fair working conditions during the product manufacturing and the durability of the products. A high degree of congruence was found between the level of importance attached to incorporating each aspect into the product design and including this information in the product labelling. In addition, multinomial regression models are applied to identify the consumer profiles (gender, age, household size, level of education, household income) that are more or less prone to prefer products that incorporate these aspects into their design and labelling. Household size and gender are the socio-economic variables that most affect consumer preferences.",
+              "dc:date": [
+                "2021-11-18T04:03:31Z",
+                "2021-11-18T04:03:31Z",
+                "2018-07-04"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Bovea, M. D., Ibanez-Fores, V., Perez-Belis, V., Juan, P., Braulio-Gonzalo, M., & Diaz-Avalos, C. (2018). Incorporation of Circular Aspects into Product Design and Labelling: Consumer Preferences. Sustainability, 10(7). doi:10.3390/su10072311",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART42",
+                "http://dx.doi.org/10.3390/su10072311"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://www.mdpi.com/2071-1050/10/7",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "MDPI",
+              "dc:source": "Sustainability (2071-1050), Vol. 10(7), 2311, (2018)."
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART29",
+            "datestamp": "2021-11-26T01:21:45Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Deliberative Self-Organizing Traffic Lights with Elementary Cellular Automata",
+              "dc:creator": [
+                "Zapotecatl, Jorge L.",
+                "Gershenson, Carlos",
+                "Rosenblueth Laguette, David Arturo"
+              ],
+              "dc:subject": [
+                "Cellular Automata",
+                "Computer simulations",
+                "Self-organizing methods",
+                "Sensors",
+                "Ciencias Físico Matemáticas y Ciencias de la Tierra"
+              ],
+              "dc:description": "Self-organizing traffic lights have shown considerable improvements compared to traditional methods in computer simulations. Self-organizing methods, however, use sophisticated sensors, increasing their cost and limiting their deployment. We propose a novel approach using simple sensors to achieve self-organizing traffic light coordination. The proposed approach involves placing a computer and a presence sensor at the beginning of each block; each such sensor detects a single vehicle. Each computer builds a virtual environment simulating vehicle movement to predict arrivals and departures at the downstream intersection. At each intersection, a computer receives information across a data network from the computers of the neighboring blocks and runs a self-organizing method to control traffic lights. Our simulations showed a superior performance for our approach compared with a traditional method (a green wave) and a similar performance (close to optimal) compared with a self-organizing method using sophisticated sensors but at a lower cost. Moreover, the developed sensing approach exhibited greater robustness against sensor failures.",
+              "dc:date": [
+                "2021-11-17T03:32:20Z",
+                "2021-11-17T03:32:20Z",
+                "2017-05-30"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Zapotecatl, J. L., Rosenblueth, D. A. & Gershenson, C. (2017). Deliberative Self-Organizing Traffic Lights with Elementary Cellular Automata. Complexity. Article ID 7691370, 15 pages. doi: 10.1155/2017/7691370",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART29",
+                "http://dx.doi.org/10.1155/2017/7691370"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://www.hindawi.com/journals/complexity/contents/year/2017/",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "Hindawi",
+              "dc:source": "Complexity (1076-2787), Article ID 7691370, 15 pages, (2017)"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART31",
+            "datestamp": "2021-11-26T01:41:39Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Where There Is Life There Is Mind: In Support of a Strong Life-Mind Continuity Thesis",
+              "dc:creator": [
+                "Kirchhoff, Michael D.",
+                "Froese, Tom"
+              ],
+              "dc:subject": [
+                "life-mind continuity",
+                "free energy principle",
+                "radical enactivism",
+                "autopoietic enactivism",
+                "Ciencias Físico Matemáticas y Ciencias de la Tierra"
+              ],
+              "dc:description": "This paper considers questions about continuity and discontinuity between life and mind. It begins by examining such questions from the perspective of the free energy principle (FEP). The FEP is becoming increasingly influential in neuroscience and cognitive science. It says that organisms act to maintain themselves in their expected biological and cognitive states, and that they can do so only by minimizing their free energy given that the long-term average of free energy is entropy. The paper then argues that there is no singular interpretation of the FEP for thinking about the relation between life and mind. Some FEP formulations express what we call an independence view of life and mind. One independence view is a cognitivist view of the FEP. It turns on information processing with semantic content, thus restricting the range of systems capable of exhibiting mentality. Other independence views exemplify what we call an overly generous non-cognitivist view of the FEP, and these appear to go in the opposite direction. That is, they imply that mentality is nearly everywhere. The paper proceeds to argue that non-cognitivist FEP, and its implications for thinking about the relation between life and mind, can be usefully constrained by key ideas in recent enactive approaches to cognitive science. We conclude that the most compelling account of the relationship between life and mind treats them as strongly continuous, and that this continuity is based on particular concepts of life (autopoiesis and adaptivity) and mind (basic and non-semantic).",
+              "dc:date": [
+                "2021-11-17T03:32:20Z",
+                "2021-11-17T03:32:20Z",
+                "2017-04-14"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Kirchhoff, M. D., & Froese, T. (2017). Where There Is Life There Is Mind: In Support of a Strong Life-Mind Continuity Thesis.Entropy, 19(4). doi:10.3390/e19040169",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART31",
+                "http://dx.doi.org/10.3390/e19040169"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://www.mdpi.com/1099-4300/19/4",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "MDPI",
+              "dc:source": "Entropy (1099-4300) Vol. 19(4), (2017)"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART18",
+            "datestamp": "2021-11-19T23:11:33Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Localization of sound sources in robotics: A review",
+              "dc:creator": [
+                "Rascon, Caleb",
+                "Meza, Ivan"
+              ],
+              "dc:subject": [
+                "Sound source localization",
+                "Direction of arrival",
+                "Distance estimation",
+                "Tracking",
+                "Ingeniería y Tecnología"
+              ],
+              "dc:description": "Sound source localization (SSL) in a robotic platform has been essential in the overall scheme of robot audition. It allows a robot to locate a sound source by sound alone. It has an important impact on other robot audition modules, such as source separation, and it enriches human robot interaction by complementing the robot's perceptual capabilities. The main objective of this review is to thoroughly map the current state of the SSL field for the reader and provide a starting point to SSL in robotics. To this effect, we present: the evolution and historical context of SSL in robotics; an extensive review and classification of SSL techniques and popular tracking methodologies; different facets of SSL as well as its state-of-the-art; evaluation methodologies used for SSL; and a set of challenges and research motivations.",
+              "dc:date": [
+                "2021-11-19T23:11:33Z",
+                "2021-11-19T23:11:33Z",
+                "2017-08-05"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Rascon, C., & Meza, I. (2017). Localization of sound sources in robotics: A review. Robotics and Autonomous Systems, 96, 184-210. doi:10.1016/j.robot.2017.07.011",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART18",
+                "http://dx.doi.org/10.1016/j.robot.2017.07.011"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://www.sciencedirect.com/journal/robotics-and-autonomous-systems",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "Elsevier B.V.",
+              "dc:source": "Robotics and Autonomous Systems (0921-8890), Vol. 96, 184-210 (2017)"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART13",
+            "datestamp": "2021-11-19T23:11:31Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Entropy Methods in Guided Self-Organisation",
+              "dc:creator": [
+                "Prokopenko, Mikhail",
+                "Gershenson, Carlos"
+              ],
+              "dc:subject": [
+                "entropy",
+                "self-organization",
+                "guided self-organisation",
+                "Ciencias Físico Matemáticas y Ciencias de la Tierra"
+              ],
+              "dc:description": "Self-organisation occurs in natural phenomena when a spontaneous increase in order is produced by the interactions of elements of a complex system. Thermodynamically, this increase must be offset by production of entropy which, broadly speaking, can be understood as a decrease in order. Ideally, self-organisation can be used to guide the system towards a desired regime or state, while \"exporting\" the entropy to the system's exterior. Thus, Guided Self-Organisation (GSO) attempts to harness the order-inducing potential of self-organisation for specific purposes. Not surprisingly, general methods developed to study entropy can also be applied to guided self-organisation. This special issue covers abroad diversity of GSO approaches which can be classified in three categories: information theory, intelligent agents, and collective behavior. The proposals make another step towards a unifying theory of GSO which promises to impact numerous research fields.",
+              "dc:date": [
+                "2021-11-19T23:11:31Z",
+                "2021-11-19T23:11:31Z",
+                "2014-10-09"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Prokopenko, M.,Gershenson, C. Entropy Methods in Guided Self-Organisation. Entropy 16(10), 5232-5241; doi:10.3390/e16105232 (2014)",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART13",
+                "http://dx.doi.org/10.3390/e16105232"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://www.mdpi.com/1099-4300/16",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "MDPI",
+              "dc:source": "Entropy (1099-4300), Vol. 16(10) 5232-5241 (2014)"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART34",
+            "datestamp": "2021-11-26T03:01:08Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "A Sensorimotor Signature of the Transition to Conscious Social Perception: Co-regulation of Active and Passive Touch",
+              "dc:creator": [
+                "Kojima, Hiroki",
+                "Froese, Tom",
+                "Oka, Mizuki",
+                "Iizuka, Hiroyuki",
+                "Ikegami, Takashi"
+              ],
+              "dc:subject": [
+                "embodied cognition",
+                "social interaction",
+                "intersubjectivity",
+                "agency detection",
+                "direct perception",
+                "Humanidades y Ciencias de la Conducta"
+              ],
+              "dc:description": "It is not yet well understood how we become conscious of the presence of other people as being other subjects in their own right. Developmental and phenomenological approaches are converging on a relational hypothesis: my perception of a \"you\" is primarily constituted by another subject's attention being directed toward \"me.\" This is particularly the case when my body is being physically explored in an intentional manner. We set out to characterize the sensorimotor signature of the transition to being aware of the other by re-analyzing time series of embodied interactions between pairs of adults (recorded during a \"perceptual crossing\" experiment). Measures of turn-taking and movement synchrony were used to quantify social coordination, and transfer entropy was used to quantify direction of influence. We found that the transition leading to one's conscious perception of the other's presence was indeed characterized by a significant increase in one's passive reception of the other's tactile stimulations. Unexpectedly, one's clear experience of such passive touch was consistently followed by a switch to active touching of the other, while the other correspondingly became more passive, which suggests that this intersubjective experience was reciprocally co-regulated by both participants.",
+              "dc:date": [
+                "2021-11-17T03:32:21Z",
+                "2021-11-17T03:32:21Z",
+                "2017-10-13"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Kojima, H., Froese, T., Oka, M., Iizuka, H., & Ikegami, T. (2017). A Sensorimotor Signature of the Transition to Conscious Social Perception: Co-regulation of Active and Passive Touch. Frontiers in Psychology, 8. doi:10.3389/fpsyg.2017.01778",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART34",
+                "http://dx.doi.org/10.3389/fpsyg.2017.01778"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01778/full",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "Frontiers Media S.A.",
+              "dc:source": "Frontiers in Psychology (1664-1078), Vol. 8:1778, (2017)"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART48",
+            "datestamp": "2021-11-19T23:11:33Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "FRNA Bacteriophages as Viral Indicators of Faecal Contamination in Mexican Tropical Aquatic Systems",
+              "dc:creator": [
+                "Arredondo-Hernandez, Luis Jose Rene",
+                "Diaz-Avalos, Carlos",
+                "Lopez-Vidal, Yolanda",
+                "Castillo-Rojas, Gonzalo",
+                "Mazari-Hiriart, Marisa"
+              ],
+              "dc:subject": [
+                "FRNA Bacteriophages",
+                "Viral Indicators",
+                "Faecal Contamination",
+                "Mexican Tropical Aquatic Systems",
+                "Ingeniería y Tecnología"
+              ],
+              "dc:description": "A particular challenge to water safety in populous intertropical regions is the lack of reliable faecal indicators to detect microbiological contamination of water, while the numerical relationships of specific viral indicators remain largely unexplored. The aim of this study was to investigate the numerical relationships of FRNA-bacteriophage genotypes, adenovirus 41, and human adenoviruses (HADV) in Mexican surface water systems to assess sewage contamination. We studied the presence of HADV, HADV41 and FRNA bacteriophage genotypes in water samples and quantified by qPCR and RT-qPCR. Virus and water quality indicator variances, as analyzed by principal component analysis and partial least squared regression, followed along the major percentiles of water faecal enterococci. FRNA bacteriophages adequately deciphered viral and point source water contamination. The strongest correlation for HADV was with FRNA bacteriophage type II, in water samples higher than the 50th percentiles of faecal enterococci, thus indicating urban pollution. FRNA bacteriophage genotypes I and III virus indicator performances were assisted by their associations with electrical conductivity and faecal enterococci. In combination, our methods are useful for inferring water quality degradation caused by sewage contamination. The methods used have potential for determining source contamination in water and, specifically, the presence of enteric viruses where clean and contaminated water have mixed.",
+              "dc:date": [
+                "2021-11-19T23:11:33Z",
+                "2021-11-19T23:11:33Z",
+                "2017-01-23"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Arredondo-Hernandez LJR, Diaz-Avalos C, Lopez-Vidal Y, Castillo-Rojas G, Mazari-Hiriart M (2017) FRNA Bacteriophages as Viral Indicators of Faecal Contamination in Mexican Tropical Aquatic Systems. PLoS ONE 12(1): e0170399. doi:10.1371/journal.pone.0170399",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART48",
+                "http://dx.doi.org/10.1371/journal.pone.0170399"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://journals.plos.org/plosone/",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "Public Library Science",
+              "dc:source": "PLoS ONE (1932-6203), 12(1), (2017)."
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART5",
+            "datestamp": "2021-11-19T02:03:08Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Griffin: A Tool for Symbolic Inference of Synchronous Boolean Molecular Networks",
+              "dc:creator": [
+                "Muñoz, Stalin",
+                "Azpeitia, Eugenio",
+                "Carrillo, Miguel",
+                "Rosenblueth Laguette, David Arturo"
+              ],
+              "dc:subject": [
+                "molecular networks",
+                "Boolean networks",
+                "model inference",
+                "Boolean satisfiability problem",
+                "clause learning",
+                "biological constraints",
+                "attractors",
+                "Biología y Química",
+                "Ingeniería y Tecnología"
+              ],
+              "dc:description": "Boolean networks are important models of biochemical systems, located at the high end of the abstraction spectrum. A number of Boolean gene networks have been inferred following essentially the same method. Such a method first considers experimental data for a typically underdetermined \"regulation\" graph. Next, Boolean networks are inferred by using biological constraints to narrow the search space, such as a desired set of (fixed-point or cyclic) attractors. We describe Griffin, a computer tool enhancing this method. Griffin incorporates a number of well-established algorithms, such as Dubrova and Teslenko's algorithm for finding attractors in synchronous Boolean networks. In addition, a formal definition of regulation allows Griffin to employ \"symbolic\" techniques, able to represent both large sets of network states and Boolean constraints. We observe that when the set of attractors is required to be an exact set, prohibiting additional attractors, a naive Boolean coding of this constraint may be unfeasible. Such cases may be intractable even with symbolic methods, as the number of Boolean constraints may be astronomically large. To overcome this problem, we employ an Artificial Intelligence technique known as \"clause learning\" considerably increasing Griffin's scalability. Without clause learning only toy examples prohibiting additional attractors are solvable: only one out of seven queries reported here is answered. With clause learning, by contrast, all seven queries are answered. We illustrate Griffin with three case studies drawn from the Arabidopsis thaliana literature. Griffin is available at: http://turing.iimas.unam.mx/griffin.",
+              "dc:date": [
+                "2021-11-13T00:01:53Z",
+                "2021-11-13T00:01:53Z",
+                "2018-03-06"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Muñoz, S., Carrillo, M., Azpeitia, E., & Rosenblueth, D. A. (2018). Griffin: A Tool for Symbolic Inference of Synchronous Boolean Molecular Networks. Frontiers in Genetics, 9. doi:10.3389/fgene.2018.00039",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART5",
+                "http://dx.doi.org/10.3389/fgene.2018.00039"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://www.frontiersin.org/journals/genetics",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "Frontiers Media S.A.",
+              "dc:source": "Frontiers in Genetics (1664-8021), 9:39, (2018)."
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART39",
+            "datestamp": "2021-11-27T21:45:14Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Self-Optimization in Continuous-Time Recurrent Neural Networks",
+              "dc:creator": [
+                "Zarco, Mario",
+                "Froese, Tom"
+              ],
+              "dc:subject": [
+                "Hopfield neural network",
+                "Hebbian learning",
+                "fixed-point attractors",
+                "optimization",
+                "modeling",
+                "Ingeniería y Tecnología"
+              ],
+              "dc:description": "recent advance in complex adaptive systems has revealed a new unsupervised learning technique called self-modeling or self-optimization. Basically, a complex network that can form an associative memory of the state configurations of the attractors on which it converges will optimize its structure: it will spontaneously generalize over these typically suboptimal attractors and thereby also reinforce more optimal attractors-even if these better solutions are normally so hard to find that they have never been previously visited. Ideally, after sufficient self-optimization the most optimal attractor dominates the state space, and the network will converge on it from any initial condition. This technique has been applied to social networks, gene regulatory networks, and neural networks, but its application to less restricted neural controllers, as typically used in evolutionary robotics, has not yet been attempted. Here we show for the first time that the self-optimization process can be implemented in a continuous-time recurrent neural network with asymmetrical connections. We discuss several open challenges that must still be addressed before this technique could be applied in actual robotic scenarios.",
+              "dc:date": [
+                "2021-11-17T03:32:22Z",
+                "2021-11-17T03:32:22Z",
+                "2018-09-21"
+              ],
+              "dc:type": [
+                "publishedVersion",
+                "article"
+              ],
+              "dc:identifier": [
+                "Zarco, M., & Froese, T. (2018). Self-Optimization in Continuous-Time Recurrent Neural Networks. Frontiers in Robotics and Ai, 5. doi:10.3389/frobt.2018.00096",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART39",
+                "http://dx.doi.org/10.3389/frobt.2018.00096"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://www.frontiersin.org/journals/robotics-and-ai",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "Frontiers Media S.A.",
+              "dc:source": "Frontiers in Robotics and AI (2296-9144), Vol. 5(96), (2018)"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART17",
+            "datestamp": "2021-11-19T23:11:32Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Towards the complete proteinaceous regulome of Acinetobacter baumannii",
+              "dc:creator": [
+                "Casella, Leila G.",
+                "Weiss, Andy",
+                "Pérez-Rueda, Ernesto",
+                "Ibarra, J. Antonio",
+                "Shaw, Lindsey N."
+              ],
+              "dc:subject": [
+                "transcription factors",
+                "two-component systems",
+                "sigma factors",
+                "genome comparison",
+                "Acinetobacter baumannii",
+                "Medicina y Ciencias de la Salud"
+              ],
+              "dc:description": "The emergence ofAcinetobacter  baumanniistrains, with broad multidrug-resistance phenotypes and novel virulence factorsunique to hypervirulent strains, presents a major threat to human health worldwide. Although a number of studies havedescribed virulence-affecting entities for this organism, very few have identified regulatory elements controlling theirexpression. Previously, our group has documented the global identification and curation of regulatory RNAs inA.  baumannii.As such, in the present study, we detail an extension of this work, the performance of an extensive bioinformatic analysis toidentify regulatory proteins in the recently annotated genome of the highly virulent AB5075 strain. In so doing, 243transcription factors, 14 two-component systems (TCSs), 2 orphan response regulators, 1 hybrid TCS and 5sfactors werefound. A comparison of these elements between AB5075 and other clinical isolates, as well as a laboratory strain, led to theidentification of several conserved regulatory elements, whilst at the same time uncovering regulators unique tohypervirulent strains. Lastly, by comparing regulatory elements compiled in this study to genes shown to be essential forAB5075 infection, we were able to highlight elements with a specific importance for pathogenic behaviour. Collectively, ourwork offers a unique insight into the regulatory network ofA.  baumanniistrains, and provides insight into the evolution ofhypervirulent lineages",
+              "dc:date": [
+                "2021-11-19T23:11:32Z",
+                "2021-11-19T23:11:32Z",
+                "2017-03-23"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Casella, L. G., Weiss, A., Pérez-Rueda, E., Ibarra, J. A., & Shaw, L. N. (2017). Towards the complete proteinaceous regulome of Acinetobacter baumannii. Microbial genomics, 3(3), mgen000107. doi:10.1099/mgen.0.000107",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART17",
+                "http://dx.doi.org/10.1099/mgen.0.000107"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://www.microbiologyresearch.org/content/journal/mgen",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "MICROBIOLOGY SOC",
+              "dc:source": "Microbial genomics (2057-5858), Vol. 3(3), (2017)"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART47",
+            "datestamp": "2021-11-19T23:11:33Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Trajectory Stability in the Traveling Salesman Problem",
+              "dc:creator": [
+                "Pineda, Carlos",
+                "Tonelli, Roberto",
+                "Sánchez, Sergio",
+                "Cocho, Germinal",
+                "Flores, Jorge",
+                "Gershenson, Carlos",
+                "Iñiguez, Gerardo"
+              ],
+              "dc:subject": [
+                "Trajectory Stability",
+                "Rank Dynamics",
+                "Ciencias Físico Matemáticas y Ciencias de la Tierra"
+              ],
+              "dc:description": "Two generalizations of the traveling salesman problem in which sites change their position in time are presented. The way the rank of different trajectory lengths changes in time is studied using the rank diversity. We analyze the statistical properties of rank distributions and rank dynamics and give evidence that the shortest and longest trajectories are more predictable and robust to change, that is, more stable.",
+              "dc:date": [
+                "2021-11-19T23:11:33Z",
+                "2021-11-19T23:11:33Z",
+                "2018-04-16"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Tonelli, R.,Sánchez, S.,Cocho, G.,Flores, J.,Gershenson, C.,Iñiguez, G.,Pineda, C.,Trajectory Stability in the Traveling Salesman Problem, Complexity, Vol. (2018), 2826082, 8 pages, doi:10.1155/2018/2826082",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART47",
+                "http://dx.doi.org/10.1155/2018/2826082"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://www.hindawi.com/journals/complexity/contents/year/2018/",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "Hindawi",
+              "dc:source": "Complexity (1076-2787), Vol. 2018, Article number: 2826082, 8 pages, (2018)"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART28",
+            "datestamp": "2021-11-29T21:50:15Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Functional Prediction of Hypothetical Transcription Factors of Escherichia coli K-12 Based on Expression Data",
+              "dc:creator": [
+                "Flores-Bautista, Emanuel",
+                "Ludeña Cronick, Carenne",
+                "Rodríguez Fersaca, Anny",
+                "Martínez-Nuñez, Mario Alberto",
+                "Pérez-Rueda, Ernesto"
+              ],
+              "dc:subject": [
+                "Transcription factor",
+                "Escherichia coli",
+                "Gene expression",
+                "Hypothetical proteins",
+                "Spectral clustering",
+                "Biología y Química"
+              ],
+              "dc:description": "The repertoire of 304DNA-binding transcription factors (TFs) in Escherichia coli K-12 has been described recently, with 196 TFs experimentally characterized and 108 proteins predicted by sequence comparisons. Based on 303 expression profile patterns retrieved from the Colombos database 12 clusters were identified, including hypothetical and experimentally characterized TFs, using a spectral clustering algorithm based on a 3NN graph built using 14 principal components that represent 65% of the variance of the expression data. In a posterior step, clusters were characterized in terms of their associated overrepresented functions, based on KEGG, Supfam annotations and Pfam assignments among other functional categories using an enrichment test, reinforcing the notion that the identified clusters are functionally similar among them. Based on these data, the we identified 12 clusters in which hypothetical and known TFs share similar regulatory and physiological functions, such as module associations of toxin-antitoxin (TA) systems with DNA repair mechanisms, amino acid biosynthesis, and carbon metabolism/transport, among others. This analysis has increased our knowledge about gene regulation in E. coli K-12 and can be further expanded to other organisms.",
+              "dc:date": [
+                "2021-11-16T15:24:55Z",
+                "2021-11-16T15:24:55Z",
+                "2018-03-27"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Flores-Bautista, E., Cronick, C. L., Fersaca, A. R., Martinez-Nunez, M. A., & Perez-Rueda, E. (2018). Functional Prediction of Hypothetical Transcription Factors of Escherichia coli K-12 Based on Expression Data. Computational and Structural Biotechnology Journal, 16, 157-166. doi:10.1016/j.csbj.2018.03.003",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART28",
+                "http://dx.doi.org/10.1016/j.csbj.2018.03.003"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://www.sciencedirect.com/journal/computational-and-structural-biotechnology-journal/vol/16/suppl/C",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "Elsevier B.V.",
+              "dc:source": "Computational and Structural Biotechnology Journal (2001-0370), Vol. 16, 157–166, (2018)"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART32",
+            "datestamp": "2021-11-26T01:51:47Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "An optimal strategy to solve the Prisoner's Dilemma",
+              "dc:creator": [
+                "Bravetti, Alessandro",
+                "Padilla, Pablo"
+              ],
+              "dc:subject": [
+                "Evolutionary theory",
+                "Population dynamics",
+                "Ciencias Físico Matemáticas y Ciencias de la Tierra"
+              ],
+              "dc:description": "Cooperation is a central mechanism for evolution. It consists of an individual paying a cost in order to benefit another individual. However, natural selection describes individuals as being selfish and in competition among themselves. Therefore explaining the origin of cooperation within the context of natural selection is a problem that has been puzzling researchers for a long time. In the paradigmatic case of the Prisoneros Dilemma (PD), several schemes for the evolution of cooperation have been proposed. Here we introduce an extension of the Replicator Equation (RE), called the Optimal Replicator Equation (ORE), motivated by the fact that evolution acts not only at the level of individuals of a population, but also among competing populations, and we show that this new model for natural selection directly leads to a simple and natural rule for the emergence of cooperation in the most basic version of the PD. Contrary to common belief, our results reveal that cooperation can emerge among selfish individuals because of selfishness itself: if the final reward for being part of a society is sufficiently appealing, players spontaneously decide to cooperate.",
+              "dc:date": [
+                "2021-11-17T03:32:21Z",
+                "2021-11-17T03:32:21Z",
+                "2018-01-31"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Bravetti, A., & Padilla, P. (2018). An optimal strategy to solve the Prisoner's Dilemma. Scientific Reports, 8.",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART32",
+                "http://dx.doi.org/10.1038/s41598-018-20426-w"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://www.nature.com/srep/",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "Springer Nature",
+              "dc:source": "Scientific Reports (2045-2322) 8, Article number: 1948 (2018)"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART44",
+            "datestamp": "2021-11-18T04:11:17Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Genetic Diversity and Distribution of Blastocystis Subtype 3 in Human Populations, with Special Reference to a Rural Population in Central Mexico",
+              "dc:creator": [
+                "Rojas-Velázquez, Liliana",
+                "Eguiarte, Luis E.",
+                "Moran, Patricia",
+                "Torres, Javier",
+                "Ximenez, Cecilia",
+                "Fernández, Leonardo D.",
+                "Piñero, Daniel",
+                "Poot-Hernández, Augusto César",
+                "Portillo Bobadilla, Tobías",
+                "Serrano Vázquez, Angelica",
+                "Pérez-Juárez, Horacio",
+                "González, Enrique",
+                "Hernández, Eric",
+                "Partida-Rodríguez, Oswaldo",
+                "Nieves-Ramírez, Miriam E.",
+                "Magaña, Ulises",
+                "Partida-Rodríguez, Oswaldo"
+              ],
+              "dc:subject": [
+                "Blastocystis Subtype 3",
+                "Distribution of Blastocystis Subtype 3",
+                "Genetic Diversity of Blastocystis Subtype 3",
+                "parasitic",
+                "Blastocystis ST3",
+                "Biología y Química",
+                "Ciencias Físico Matemáticas y Ciencias de la Tierra"
+              ],
+              "dc:description": "Blastocystis subtype 3 (ST3) is a parasitic protist found in the digestive tract of symptomatic and asymptomatic humans around the world. While this parasite exhibits a high prevalence in the human population, its true geographic distribution and global genetic diversity are still unknown. This gap in knowledge limits the understanding of the spread mechanisms, epidemiology, and impact that this parasite has on human populations. Herein, we provided new data on the geographical distribution and genetic diversity of Blastocystis ST3 from a rural human population in Mexico. To do so, we collected and targeted the SSU-rDNA region in fecal samples from this population and further compared its genetic diversity and structure with that previously observed in populations of Blastocystis ST3 from other regions of the planet. Our analyses reveled that diversity of Blastocystis ST3 showed a high haplotype diversity and genetic structure to the world level; however, they were low in the Morelos population. The haplotype network revealed a common widespread haplotype from which the others were generated recently. Finally, our results suggested a recent expansion of the diversity of Blastocystis ST3 worldwide.",
+              "dc:date": [
+                "2021-11-18T04:11:17Z",
+                "2021-11-18T04:11:17Z",
+                "2018-03-18"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Rojas-Velazquez, L., Moran, P., Serrano-Vazquez, A., Fernandez, L. D., Perez-Juarez, H., Poot-Hernandez, A. C., . . . Ximenez, C. (2018). Genetic Diversity and Distribution of Blastocystis Subtype 3 in Human Populations, with Special Reference to a Rural Population in Central Mexico. Biomed Research International. doi:10.1155/2018/3916263",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART44",
+                "http://dx.doi.org/10.1155/2018/3916263"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://www.hindawi.com/journals/bmri/contents/year/2018/",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "Hindawi",
+              "dc:source": "BioMed Research International (2314-6133), Vol. 2018, Article ID 3916263, 7 pages"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART1",
+            "datestamp": "2021-12-02T00:19:32Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "A game-theory modeling approach to utility and strength of interactions dynamics in biomedical research social networks",
+              "dc:creator": [
+                "Siqueiros García, Jesús Mario",
+                "García Herrera, Rodrigo",
+                "Hernández Lemus, Enrique",
+                "Alcalá Corona, Sergio"
+              ],
+              "dc:subject": [
+                "Collaboration networks",
+                "Social networks analysis",
+                "Biomedicine",
+                "Game theory",
+                "Ciencias Físico Matemáticas y Ciencias de la Tierra"
+              ],
+              "dc:description": "Collaboration has become a cornerstone in biomedical research today. In contrast to physics which has a long history and experience in collaborative projects, biology is only recently becoming an evermore collaborative discipline. In this article we explore the effect of a collaboration network on the distribution of players having access to certain amount of resources from other players in the network and the distribution of the strength of interactions among them. We are interested in how they affect each other in the context of a network of scientific collaboration under the idea that while researchers are interested in maximizing their utilities, they also know that it is important to invest in building collaborative relationships.",
+              "dc:date": [
+                "2021-11-18T04:03:30Z",
+                "2021-11-18T04:03:30Z",
+                "2017-05-16"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Siqueiros-Garcia, J. M., Garcia-Herrera, R., Hernandez-Lemus, E., & Alcala-Corona, S. (2017). A game-theory modeling approach to utility and strength of interactions dynamics in biomedical research social networks.Complex Adaptive Systems Modeling, 5. doi:10.1186/s40294-017-0044-0",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART1",
+                "http://dx.doi.org/10.1186/s40294-017-0044-0"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://casmodeling.springeropen.com/",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "Springer",
+              "dc:source": "Complex Adaptive Systems Modeling (2194-3206), Vol 5, (2018)"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART23",
+            "datestamp": "2021-11-27T21:37:57Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Dissecting the Repertoire of DNA-Binding Transcription Factors of the Archaeon Pyrococcus furiosus DSM 3638",
+              "dc:creator": [
+                "Denis, Antonia",
+                "Martinez Nuñez, Mario Alberto",
+                "Perez-Rueda, Ernesto",
+                "Tenorio-Salgado, Silvia"
+              ],
+              "dc:subject": [
+                "transcription factors",
+                "DNA-binding domain",
+                "regulatory interaction",
+                "archaeon",
+                "regulatory network",
+                "Biología y Química"
+              ],
+              "dc:description": "In recent years, there has been a large increase in the amount of experimental evidence for diverse archaeal organisms, and these findings allow for a comprehensive analysis of archaeal genetic organization. However, studies about regulatory mechanisms in this cellular domain are still limited. In this context, we identified a repertoire of 86 DNA-binding transcription factors (TFs) in the archaeon Pyrococcus furiosus DSM 3638, that are clustered into 32 evolutionary families. In structural terms, 45% of these proteins are composed of one structural domain, 41% have two domains, and 14% have three structural domains. The most abundant DNA-binding domain corresponds to the winged helix-turn-helix domain; with few alternative DNA-binding domains. We also identified seven regulons, which represent 13.5% (279 genes) of the total genes in this archaeon. These analyses increase our knowledge about gene regulation in P. furiosus DSM 3638 and provide additional clues for comprehensive modeling of transcriptional regulatory networks in the Archaea cellular domain.",
+              "dc:date": [
+                "2021-11-16T15:24:55Z",
+                "2021-11-16T15:24:55Z",
+                "2018-05-21"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Denis, A., Martínez-Núñez, M. A., Tenorio-Salgado, S., & Perez-Rueda, E. (2018). Dissecting the repertoire of DNA-binding transcription factors of the archaeon pyrococcus furiosus DSM 3638. Life, 8(4) doi:10.3390/life8040040",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART23",
+                "http://dx.doi.org/10.3390/life8040040"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://www.mdpi.com/2075-1729/8/4",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "MDPI",
+              "dc:source": "Life (2075-1729), Vol. 8(4), 40, (2018)"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART6",
+            "datestamp": "2021-11-19T02:32:37Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Understanding the Mechanisms Behind the Response to Environmental Perturbation in Microbial Mats: A Metagenomic-Network Based Approach",
+              "dc:creator": [
+                "De Anda, Valerie",
+                "Souza, Valeria",
+                "Zapata-Peñasco, Icoquih",
+                "Contreras-Moreira, Bruno",
+                "Eguiarte, Luis E.",
+                "Poot-Hernández, Augusto César",
+                "Blaz, Jazmín",
+                "González-Laffitte, Marcos",
+                "Gámez-Tamariz, Niza",
+                "Hernández-Rosales, Maribel"
+              ],
+              "dc:subject": [
+                "time series ecological networks",
+                "MEBS",
+                "microbial mats",
+                "network motifs",
+                "Biología y Química",
+                "Ciencias Físico Matemáticas y Ciencias de la Tierra"
+              ],
+              "dc:description": "To date, it remains unclear how anthropogenic      perturbations influence the dynamics of microbial      communities, what general patterns arise in response to      disturbance, and whether it is possible to predict them.      Here, we suggest the use o",
+              "dc:date": [
+                "2021-11-13T00:01:53Z",
+                "2021-11-13T00:01:53Z",
+                "2018-11-26"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "De Anda V, Zapata-Peñasco I, Blaz J, Poot-Hernández AC, Contreras-Moreira B, González-Laffitte M, Gámez-Tamariz N, Hernández-Rosales M, Eguiarte LE, and Souza V (2018) Understanding the Mechanisms Behind the Response to Environmental Perturbation in Microbial Mats: A Metagenomic-Network Based Approach. Front. Microbiol. 9:2606. doi: 10.3389/fmicb.2018.02606",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART6",
+                "http://dx.doi.org/10.3389/fmicb.2018.02606"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://www.frontiersin.org/journals/microbiology",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:publisher": "Frontiers Media S.A.",
+              "dc:source": [
+                "Frontiers in Microbiology (1664-302X), Vol. 9(2606), (2018).",
+                "environmental perturbation",
+                "rare biosphere"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART11",
+            "datestamp": "2021-11-19T04:07:41Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "A Package for Measuring emergence, Self-organization, and Complexity Based on Shannon entropy",
+              "dc:creator": [
+                "Santamaria-Bonfil, Guillermo",
+                "Gershenson, Carlos",
+                "Fernández, Nelson"
+              ],
+              "dc:subject": [
+                "emergence",
+                "self-organization",
+                "complexity",
+                "machine learning datasets",
+                "Ingeniería y Tecnología"
+              ],
+              "dc:description": "We present a set of Matlab/Octave functions to compute measures of emergence, self-organization, and complexity applied to discrete and continuous data. These measures are based on Shannon’s information and differential entropy. Examples from different datasets and probability distributions are provided to show how to use our proposed code.",
+              "dc:date": [
+                "2021-11-13T00:01:53Z",
+                "2021-11-13T00:01:53Z",
+                "2017-03-28"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Santamaría-Bonfil G, Gershenson C and Fernández N (2017) A Package for Measuring Emergence, Self-organization, and Complexity Based on Shannon Entropy. Front. Robot. AI 4:10. doi: 10.3389/frobt.2017.00010",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART11",
+                "http://dx.doi.org/10.3389/frobt.2017.00010"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://www.frontiersin.org/journals/robotics-and-ai",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by/4.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "Frontiers Media S.A.",
+              "dc:source": "Frontiers in Robotics and AI(2296-9144), Vol. 4(10), (2017)"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:www.ru.iimas.unam.mx:IIMAS_UNAM/ART25",
+            "datestamp": "2021-11-26T00:26:40Z",
+            "setSpec": [
+              "com_IIMAS_UNAM_1",
+              "col_IIMAS_UNAM_2"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "CTL update of Kripke models through protections",
+              "dc:creator": [
+                "Carrillo, Miguel",
+                "Rosenblueth Laguette, David Arturo"
+              ],
+              "dc:subject": [
+                "CTL model update",
+                "Model checking",
+                "Automatic synthesis",
+                "Ciencias Físico Matemáticas y Ciencias de la Tierra"
+              ],
+              "dc:description": "We present a nondeterministic, recursive algorithm for updating a Kripke model so as to satisfy a given formula of computation-tree logic (CTL). Recursive algorithms for model update face two dual difficulties: (1) Removing transitions from a Kripke model to satisfy a universal subformula may dissatisfy some existential subformulas. Conversely, (2) adding transitions to satisfy an existential subformula may dissatisfy some universal subformulas. To overcome these difficulties, we employ protections of the form (E, A, L), recording information about the satisfaction of subformulas previously treated by the algorithm. Intuitively, (1) E is the set of transitions that we cannot remove without compromising the satisfaction of previously treated subformulas. Conversely, (2) A is the set of transitions that we can add. Hence, update proceeds without diminishing E and without augmenting A. Finally, (3) L is a set of literals protecting the model labels. We illustrate our algorithm through several examples: Emerson and Clarke's mutual-exclusion problem, Clarke et. al.'s microwave-oven example, synchronous counters, and randomly generated models and formulas. In addition, we compare our method with other update approaches for either CTL or fragments of CTL. Lastly, we provide proofs of soundness and completeness and a complexity analysis. (C) 2014 Elsevier B.V. All rights reserved.",
+              "dc:date": [
+                "2021-11-16T15:24:55Z",
+                "2021-11-16T15:24:55Z",
+                "2014-03-02"
+              ],
+              "dc:type": [
+                "article",
+                "publishedVersion"
+              ],
+              "dc:identifier": [
+                "Carrillo, M., & Rosenblueth, D. A. (2014). CTL update of Kripke models through protections.Artificial Intelligence, 211, 51-74. doi:10.1016/j.artint.2014.02.005",
+                "http://www.ru.iimas.unam.mx/handle/IIMAS_UNAM/ART25",
+                "http://dx.doi.org/10.1016/j.artint.2014.02.005"
+              ],
+              "dc:language": "eng",
+              "dc:relation": "https://www.journals.elsevier.com/artificial-intelligence",
+              "dc:rights": [
+                "openAccess",
+                "http://creativecommons.org/licenses/by-nc-sa/3.0"
+              ],
+              "dc:format": [
+                "application/pdf",
+                "application/pdf"
+              ],
+              "dc:coverage": "US",
+              "dc:publisher": "Elsevier B.V.",
+              "dc:source": "Artificial Intelligence (0004-3702), Vol. 211, 51-74 (2014)"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 77,
+    "name": "Repositorio Institucional Históricas-UNAM",
+    "machine_name": "repositorio_institucional_hist_ricas_unam",
+    "url": "https://ru.historicas.unam.mx/oai/conacyt",
+    "dspace_version": "6.4",
+    "number_of_items": 3822
+  },
+  "collection_info": {
+    "timestamp": "20251113_200813",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/20251113_200813/Repositorio_Institucional_Hist_ricas-UNAM_ID_77/page_001.json"
+  ]
+}

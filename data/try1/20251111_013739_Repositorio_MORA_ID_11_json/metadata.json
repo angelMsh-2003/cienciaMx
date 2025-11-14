@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 11,
+    "name": "Repositorio MORA",
+    "machine_name": "repositorio_mora",
+    "url": "https://mora.repositorioinstitucional.mx/oai/request",
+    "dspace_version": "5.4",
+    "number_of_items": 837
+  },
+  "collection_info": {
+    "timestamp": "20251111_013739",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/try1/20251111_013739_Repositorio_MORA_ID_11_json/page_001.json"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 48,
+    "name": "Repositorio Institucional COLSON",
+    "machine_name": "repositorio_institucional_colson",
+    "url": "https://repositorio.colson.edu.mx/server/oai/request",
+    "dspace_version": "7.6.2",
+    "number_of_items": 1564
+  },
+  "collection_info": {
+    "timestamp": "20251111_014007",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/try1/20251111_014007_Repositorio_Institucional_COLSON_ID_48_json/page_001.json"
+  ]
+}

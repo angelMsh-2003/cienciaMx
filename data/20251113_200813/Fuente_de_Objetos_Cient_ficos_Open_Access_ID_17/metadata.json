@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 17,
+    "name": "Fuente de Objetos Científicos Open Access",
+    "machine_name": "fuente_de_objetos_cient_ficos_open_access",
+    "url": "https://cimav.repositorioinstitucional.mx/oai/request",
+    "dspace_version": "5.4",
+    "number_of_items": 2657
+  },
+  "collection_info": {
+    "timestamp": "20251113_200813",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/20251113_200813/Fuente_de_Objetos_Cient_ficos_Open_Access_ID_17/page_001.json"
+  ]
+}

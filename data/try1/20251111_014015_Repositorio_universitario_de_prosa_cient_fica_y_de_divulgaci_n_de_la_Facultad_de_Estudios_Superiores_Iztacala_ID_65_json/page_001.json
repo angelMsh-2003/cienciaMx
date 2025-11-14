@@ -1,0 +1,1973 @@
+{
+  "OAI-PMH": {
+    "@xmlns": "http://www.openarchives.org/OAI/2.0/",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd",
+    "responseDate": "2025-11-11T07:40:15Z",
+    "request": {
+      "@verb": "ListRecords",
+      "@metadataPrefix": "oai_dc",
+      "#text": "https://ru.iztacala.unam.mx/oai-pmh-repository/request"
+    },
+    "ListRecords": {
+      "record": [
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:2",
+            "datestamp": "2019-01-19T04:54:48Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Violencia de género: una historia de vida con voz de mujer",
+              "dc:creator": "AAMZ871113MCSBRY09|ZAYDA DEL ROSARIO ABADIA MORALES",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/abuso sexual, historia de vida, investigación feminista, violencia de género"
+              ],
+              "dc:contributor": "CVU563516=asesorTesis|MARIO FAUSTO GOMEZ LAMONT",
+              "dc:date": "2017-12",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/2",
+                "https://ru.iztacala.unam.mx/files/original/3c4b61322adcb0996997373bc04eaf9b.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779136/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "http://creativecommons.org/licenses/by-nc-nd/4.0",
+                "info:eu-repo/semantics/openAccess"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:3",
+            "datestamp": "2019-01-19T04:53:54Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Cambios en felicidad hedónica y eudemónica resultantes de una intervención de psicología positiva en adultos mayores",
+              "dc:creator": "CUMM571008MDFVRR07|MARISELA CUEVAS MARTINEZ",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/hedonismo, eudaimonía, fortalezas de carácter, felicidad, bienestar"
+              ],
+              "dc:contributor": "HEPR540207MDFRZC06=asesorTesis|MARIA DEL ROCIO HERNANDEZ POZO",
+              "dc:date": "2017-12-05",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/3",
+                "https://ru.iztacala.unam.mx/files/original/5f4c40d683e5b42de39a91ed1a687792.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779161/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:4",
+            "datestamp": "2019-01-19T04:52:37Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Acoso laboral o mobbing",
+              "dc:creator": "GOVF750809MDFNZR08|FRIDA TANIA GONZALEZ VAZQUEZ",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/mobbing, acoso laboral, ansiedad, autoestima, víctima"
+              ],
+              "dc:contributor": "CVU389345=asesorTesis|EMMANUEL ARKAD PEREZ GUZMAN",
+              "dc:date": "2017-12-07",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/4",
+                "https://ru.iztacala.unam.mx/files/original/31fa1d40833e322ca5da5d8ecd693bfc.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779190/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:5",
+            "datestamp": "2019-01-19T04:51:22Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Revisión de los principales instrumentos utilizados en orientación vocacional para la elección de profesión",
+              "dc:creator": "COMM710414MDFHRR08|MARCELA DE LOS ANGELES CHOW MARTINEZ",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/orientación vocacional, teorías de la orientación profesional, educación en México, deserción, toma de decisiones"
+              ],
+              "dc:contributor": "CVU480257=asesorTesis|JOSE MANUEL MEZA CANO",
+              "dc:date": "2017-11",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/5",
+                "https://ru.iztacala.unam.mx/files/original/eb9a909ee7a84c08e69be54b77aac8ea.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779155/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:6",
+            "datestamp": "2019-01-19T04:49:55Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Aproximación al mobbing en espacios laborales privados y gubernamentales: análisis de casos",
+              "dc:creator": "DIRO860609HOCZMS02|OSVALDO FELICIANO DIAZ ROMERO",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/mobbing, conductas instigadoras, vivencias laborales, víctimas"
+              ],
+              "dc:contributor": "CVU389345=asesorTesis|EMMANUEL ARKAD PEREZ GUZMAN",
+              "dc:date": "2017-12-06",
+              "dc:type": [
+                "Texto",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/6",
+                "https://ru.iztacala.unam.mx/files/original/9a8c9881a0668ae55abad88f8986eb0f.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779163/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:7",
+            "datestamp": "2019-01-19T04:48:42Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Competencias del psicólogo en su quehacer clínico",
+              "dc:creator": "AEDL831029MDFNZR05|LAURA GABRIELA ANGELES DIAZ",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/competencias del psicólogo, psicología clínica, habilidades, conocimientos, actitudes, entrevista"
+              ],
+              "dc:contributor": "CVU480257=asesorTesis|JOSE MANUEL MEZA CANO",
+              "dc:date": "2017-11",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/7",
+                "https://ru.iztacala.unam.mx/files/original/07a691dfbd1dd782d91849c7f2d44c72.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779145/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:8",
+            "datestamp": "2019-01-19T04:47:23Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Los mapas mentales como estrategia para favorecer las operaciones mentales básicas en niños preescolares",
+              "dc:creator": "MULM900104MTLXMR04|MIRIAM MUÑOZ LIMA",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/mapas mentales, desarrollo cognitivo, teorías de desarrollo"
+              ],
+              "dc:contributor": "MOPE820404MDFNXL04=asesorTesis|ELIZABETH MONTECILLOS PEÑA",
+              "dc:date": "2017-12",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/8",
+                "https://ru.iztacala.unam.mx/files/original/a69f1cdda5a51d8e2b7ff7cd2fb7cbea.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779245/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:9",
+            "datestamp": "2019-01-19T04:46:19Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Estilos de vida y síndrome de burnout en enfermeras de las unidades de salud de Tula Hgo",
+              "dc:creator": "MUNP810318MHGXGR00|PERLA XOCHITL MUÑIZ NOGUEZ",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/estilos de vida, síndrome de burnout, enfermería"
+              ],
+              "dc:contributor": "CVU224592=asesorTesis|OMAR MORENO ALMAZAN",
+              "dc:date": "2017-11",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/9",
+                "https://ru.iztacala.unam.mx/files/original/8a1805314f4b70ca6eec5366b04cefb2.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779244/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:10",
+            "datestamp": "2019-01-19T04:42:33Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Determinación de factores que intervienen en el bajo rendimiento escolar de los alumnos del colegio de bachilleres del estado de Hidalgo plantel Nopala",
+              "dc:creator": "MESS671128MHGJNL06|SILVIA MEJIA SANCHEZ",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/Infraestructura institucional, calidad educativa, relaciones familiares, interés por la educación, desempeño escolar."
+              ],
+              "dc:contributor": "CVU204906=asesorTesis|CRUZ EDGARDO BECERRA GONZALEZ",
+              "dc:date": "2017-10",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/10",
+                "https://ru.iztacala.unam.mx/files/original/54e0cb6e8b8b10353ed5cb7105c4624e.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779228/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:11",
+            "datestamp": "2019-01-19T04:44:02Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Medio por los que los y las psicólogas clínicos llegan a ser competentes en su área laboral y la discordancia entre su formación universitaria y las exigencias laborales para ser competente en su profesión",
+              "dc:creator": "MAMH760110MDFRRR07|HORTENSIA MARILES MARILES",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/Formación universitaria, exigencias laborales, psicólogos clínicos."
+              ],
+              "dc:contributor": "CVU480257=asesorTesis|JOSE MANUEL MEZA CANO",
+              "dc:date": "2017-11-29",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/11",
+                "https://ru.iztacala.unam.mx/files/original/3176e7ca5cb64774c09a7f21a2829e1d.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779215/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:12",
+            "datestamp": "2019-01-19T04:45:26Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Identificar competencias específicas superiores de los psicólogos en necesidades educativas especial",
+              "dc:creator": "GUBL740101MDFTXR07|MARIA DE LOURDES GUTIERREZ BOO",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/Competencias, psicólogos, necesidades educativas especiales"
+              ],
+              "dc:contributor": "CVU480257=asesorTesis|JOSE MANUEL MEZA CANO",
+              "dc:date": "2017-12-08",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/12",
+                "https://ru.iztacala.unam.mx/files/original/77f0d29ef2ebf4cd11ac76a312e2be0d.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779197/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:13",
+            "datestamp": "2019-01-19T04:46:44Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "La motivación y el rendimiento académico en estudiantes de sexto grado de primaria",
+              "dc:creator": "MASH850208MDFRNY00|HAYDEE HANNALI MARIN SANCHEZ",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/Motivación intrínseca-extrínseca, rendimiento académico y nivel básico."
+              ],
+              "dc:contributor": "CVU224592=asesorTesis|OMAR MORENO ALMAZAN",
+              "dc:date": "2018-01-08",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/13",
+                "https://ru.iztacala.unam.mx/files/original/49c6630b1ccd3acaca451ef9075686d6.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779805/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:14",
+            "datestamp": "2019-01-19T04:48:13Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Propuesta para implementar la terapia psicológica como asignatura de tutorías que favorezca al desarrollo de habilidades socioemocionales dentro del modelo educativo 2017",
+              "dc:creator": "GOCE690923MDFNRG06|MARIA EUGENIA GONZALEZ CURIEL",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/Tutor, habilidad, socioemocionales, psicólogo clínico, modelo educativo."
+              ],
+              "dc:contributor": "GOVM710326HDFNLR07=asesorTesis|MARCO ANTONIO GONZALEZ VILLA",
+              "dc:date": "2017-11-27",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/14",
+                "https://ru.iztacala.unam.mx/files/original/3f85a4609ccebdc123e2c7c860c65ea2.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779188/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:15",
+            "datestamp": "2019-01-19T04:49:15Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Inclusión de la educación socioemocional desde la perspectiva psicológica en los planes y programas de estudio a nivel primaria",
+              "dc:creator": "AAOR880123MMCNRS00|ROSA ELVIRA ANAYA ORTIZ",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/Emociones, sociabilidad, desarrollo integral, educación básica."
+              ],
+              "dc:contributor": "ROPC810420MDFSXN09=asesorTesis|CONSUELO RUBI ROSALES PIÑA",
+              "dc:date": "2017-12",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/15",
+                "https://ru.iztacala.unam.mx/files/original/4c143abf095e306d55ecaccbfd8d2984.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779144/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:16",
+            "datestamp": "2019-01-19T04:50:05Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Enseñanza de la evolución del lenguaje oral de niños preescolares a través del simulador digital Moodle",
+              "dc:creator": "COMG641210MDFNNR09|GEORGINA MAGDALENA CONTRERAS MENESES",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/TICs, simulador, software, moodle, lenguaje."
+              ],
+              "dc:contributor": "CVU224439=asesorTesis|ESPERANZA GUARNEROS REYES",
+              "dc:date": "2017-12",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/16",
+                "https://ru.iztacala.unam.mx/files/original/d61eb51443d36aebbe1183a90d5b78a0.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779156/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:17",
+            "datestamp": "2019-01-19T04:51:03Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Análisis del aprendizaje significativo en alumnos de educación preescolar",
+              "dc:creator": "MOMC900714MTLRRL01|CLAUDIA YOHUALLI MORALES MARTINEZ",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/Aprendizaje significativo, alumnos, educación preescolar."
+              ],
+              "dc:contributor": "CVU204906=asesorTesis|CRUZ EDGARDO BECERRA GONZALEZ",
+              "dc:date": "2017-11-27",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/17",
+                "https://ru.iztacala.unam.mx/files/original/3cf9dd8ab8dfd2c00ce947355b472150.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/abril/0772304/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:18",
+            "datestamp": "2019-01-19T04:52:33Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "El impacto de los hábitos alimenticios en el desempeño organizacional",
+              "dc:creator": "GAEL751106HDFMSN01|LEONARDO MARIANO GAMBORINO ESPINOSA",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/Hábitos alimenticios, desempeño organizacional,  Psicología."
+              ],
+              "dc:contributor": "CVU389345=asesorTesis|EMMANUEL ARKAD PEREZ GUZMAN",
+              "dc:date": "2017-12-07",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/18",
+                "https://ru.iztacala.unam.mx/files/original/0d740e50ebb7fd810481022b690b67e0.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779179/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:20",
+            "datestamp": "2019-01-19T04:13:12Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Emociones y bullying en adolescentes",
+              "dc:creator": "MAGA670410MDFRRR14|ARACELI MARTINEZ GARCIA",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/Comunicación asertiva, emociones, autoestima, técnicas asertivas,  relaciones interpersonales"
+              ],
+              "dc:contributor": "CVU174089=asesorTesis|RICARDO SANCHEZ MEDINA",
+              "dc:date": "2017-12",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/20",
+                "https://ru.iztacala.unam.mx/files/original/20b8452b089e4e0a99c43e93a463033d.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779220",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:21",
+            "datestamp": "2019-01-19T04:16:05Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Construcción de aplicación web para la automatización de una evaluación de regulación emocional dirigida a adolescentes",
+              "dc:creator": "DUMO800221HDFRRS03|OSCAR DUARTE MORALES",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/Regulación emocional, análisis en línea, aplicación web, automatización de pruebas psicológicas, confiabilidad."
+              ],
+              "dc:contributor": "MUMS801207MDFXLN01=asesorTesis|SANDRA IVONNE MUÑOZ MALDONADO",
+              "dc:date": "2017-12",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/21",
+                "https://ru.iztacala.unam.mx/files/original/f7090f97d7d2c12f86bd4429658e888e.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779165/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:22",
+            "datestamp": "2019-01-19T04:40:13Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Taller: prevención de abuso sexual infantil CDC Totolco Chimalhuacán",
+              "dc:creator": "JUOM730504MDFRLN03|MONICA JUAREZ OLIVERA",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/Prevención, abuso sexual infantil, intervención, estilos de crianza, sexualidad"
+              ],
+              "dc:contributor": "SAEC810228MDFNSH06=asesorTesis|CHRISTIAN SANDOVAL ESPINOZA",
+              "dc:date": "2017",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/22",
+                "https://ru.iztacala.unam.mx/files/original/e82fda283c0ab1df4fd184b50eb184e1.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779207/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:23",
+            "datestamp": "2019-01-19T04:21:41Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Habilidades de aprendizaje y motivación al estudio en un curso autogestivo en línea en estudiantes universitarios",
+              "dc:creator": "NAVB870604MDFVLT03|BEATRIZ NAVARRO VELAZQUEZ",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/Educación superior, educación a distancia, evaluación de habilidades, aprendizaje autorregulado, características del estudiante a distancia"
+              ],
+              "dc:contributor": "CVU174089=asesorTesis|RICARDO SANCHEZ MEDINA",
+              "dc:date": "2017-12",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/23",
+                "https://ru.iztacala.unam.mx/files/original/67765dae01e3f8ce265611442c8aeb38.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779248/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:25",
+            "datestamp": "2019-01-19T04:39:55Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "La depresión y la influencia del entorno geográfico sobre ella",
+              "dc:creator": "MERA600419HDFJMR05|ARTURO MEJIA RAMIREZ",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/Depresión, entorno geográfico,   estado anímico,  técnicas terapéuticas,  distimia"
+              ],
+              "dc:contributor": "DOBS810619MDFMRL06=asesorTesis|SELENE DOMINGUEZ BOER",
+              "dc:date": "2017-12",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/25",
+                "https://ru.iztacala.unam.mx/files/original/5db652345ed69ff48a31092afb63610b.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779227/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:26",
+            "datestamp": "2019-01-19T04:29:14Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Intervención cognitivo conductual basada en fortalezas de carácter para el desarrollo de conductas prosociales en estudiantes de bachillerato",
+              "dc:creator": "MAAT671013MDFRLR05|MARIA TERESA MARTOS ALONSO",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/Intervención, conductas prosociales, estudiantes, normas sociales,  desarrollo emocional."
+              ],
+              "dc:contributor": "HEPR540207MDFRZC06=asesorTesis|MARIA DEL ROCIO HERNANDEZ POZO",
+              "dc:date": "2017-12-05",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/26",
+                "https://ru.iztacala.unam.mx/files/original/6e485cf57b67f97c2edabe75d37165d0.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779225/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:27",
+            "datestamp": "2019-01-19T04:32:36Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Guía informativa de apoyo para la prevención del suicidio",
+              "dc:creator": "PEAA740906MDFRRL09|MARIA ALEJANDRA PEREZ ARROYO",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/Prevención, suicidio,  atención, intervención, orientación psicológica"
+              ],
+              "dc:contributor": "CVU224592=asesorTesis|OMAR MORENO ALMAZAN",
+              "dc:date": "2017-11-30",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/27",
+                "https://ru.iztacala.unam.mx/files/original/21aad94dd2fed05f9a47907946386d14.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779255/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:28",
+            "datestamp": "2019-01-19T04:39:37Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Autoestima y adicción a las redes sociales en adolescentes de nivel medio superior",
+              "dc:creator": "MXME890219MDFRRS06|ESTEFANIA DENISSE MARTINEZ MARTINEZ",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/TDAH, autoestima, practicas de crianza, estilos parentales, intervención cognitivo-conductual."
+              ],
+              "dc:contributor": "MOJL800213MDFRML01=asesorTesis|LILIANA MOREYRA JIMENEZ",
+              "dc:date": "2017-12-04",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/28",
+                "https://ru.iztacala.unam.mx/files/original/91119929fad6edaa7a7662aaa446df1c.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779223/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:29",
+            "datestamp": "2019-01-19T04:39:05Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Estereotipos de género asociados a la violencia en el noviazgo",
+              "dc:creator": "GAHB690127MDFLRL03|BLANCA LETICIA GALICIA HUERTA",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/Estereotipos de genero, violencia, noviazgo, salud mental."
+              ],
+              "dc:contributor": "CVU224919=asesorTesis|CLAUDIA ELISA CANTO MAYA",
+              "dc:date": "2017-11-24",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/29",
+                "https://ru.iztacala.unam.mx/files/original/f3f4848d9d0a0255053d28d9765e6354.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779178/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:30",
+            "datestamp": "2019-01-19T04:44:43Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Diseño de un caso de simulación digital en Moodle de la evolución de la conciencia fonológica",
+              "dc:creator": "AAGC800818MDFVZL08|CLAUDIA LIZBETH AVALOS GUZMAN",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/simulador, digital, moodle, conciencia fonológica, evolución"
+              ],
+              "dc:contributor": "CVU224439=asesorTesis|ESPERANZA GUARNEROS REYES",
+              "dc:date": "2017-12",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/30",
+                "https://ru.iztacala.unam.mx/files/original/d25e67e5a8f51392a23be45630a47e0d.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779147/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:31",
+            "datestamp": "2019-01-19T04:43:47Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "La banalización de la violencia: ¿patología cultural contemporánea?",
+              "dc:creator": "MOEL730510MMCRSN01|LEONOR MORALES ESPINOZA",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/violencia, agresión, poder, teorizaciones psicosociales de la violencia"
+              ],
+              "dc:contributor": "HEGA820611MDFRMD03=asesorTesis|ADRIANA IRENE HERNANDEZ GOMEZ",
+              "dc:date": "2017-12-13",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/31",
+                "https://ru.iztacala.unam.mx/files/original/935eccdfabf0a9285320f4634603ba98.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779237/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:32",
+            "datestamp": "2019-01-19T04:42:12Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Elaboración de perfiles laborales en Sportium",
+              "dc:creator": "HECC780922HMCRRR07|CARLOS MAURICIO HERNANDEZ CARRILLO",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/psicología organizacional, reclutamiento de personal, selección de personal, perfiles laborales, vida laboral"
+              ],
+              "dc:contributor": "MOGJ820123HDFNNN09=asesorTesis|JUAN MANUEL MONTIEL GENOVA",
+              "dc:date": "2017-12",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/32",
+                "https://ru.iztacala.unam.mx/files/original/3349cdb34e5913aa4ac2fbff3a4dee49.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779200/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:34",
+            "datestamp": "2019-01-19T04:35:30Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Programa de intervención cognitivo conductual en la adicción al tabaco: análisis de un caso",
+              "dc:creator": "CUCG751024MDFRDD06|MARIA GUADALUPE CRUZ CEDILLO",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/ansiedad, adicción al tabaco, intervención cognitivo-conductual"
+              ],
+              "dc:contributor": "CVU224592=asesorTesis|OMAR MORENO ALMAZAN",
+              "dc:date": "2017-11",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/34",
+                "https://ru.iztacala.unam.mx/files/original/1d9c7ab94e80f8bc2f330a9b2a20eeaa.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779159/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:35",
+            "datestamp": "2019-01-19T04:34:01Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Intervención en la autoestima en niños que presentan deficit de atención con hiperactividad en la CDMX",
+              "dc:creator": "MAGJ860519MDFRZN07|JENNY MARTINEZ GUZMAN",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/gestión de talento humano, capacitación, recursos humanos, psicología organizacional"
+              ],
+              "dc:contributor": "RORH800119MDFMML06=asesorTesis|HELENA ROMERO ROMERO",
+              "dc:date": "2017-12-14",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/35",
+                "https://ru.iztacala.unam.mx/files/original/a77303bf1e2614ef9f4d387c28c1e770.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779222/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:36",
+            "datestamp": "2019-01-19T04:32:43Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Intervención en la autoestima en niños que presentan déficit de atención con hiperactividad en Aguascalientes Ags",
+              "dc:creator": "CALA920112MMNRZN06|ANA CECILIA CARRANZA LOAIZA",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/TDAH, autoestima, prácticas de crianza, estilos parentales, enfoque cognitivo-conductual"
+              ],
+              "dc:contributor": "RORH800119MDFMML06=asesorTesis|HELENA ROMERO ROMERO",
+              "dc:date": "2017-12-14",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/36",
+                "https://ru.iztacala.unam.mx/files/original/658d25e928a96171461f38c6ca1b5c2e.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779152/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:37",
+            "datestamp": "2019-01-19T04:31:50Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Estilos parentales en las habilidades para la vida de jóvenes de educación básica nivel secundaria",
+              "dc:creator": "GOAE720512MDFNLL01|ELSA ALEJANDRA GONZALEZ ALCAZAR",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/estilo parental, autoestima, resiliencia, habilidad social, autoeficacia"
+              ],
+              "dc:contributor": "CVU174089=asesorTesis|RICARDO SANCHEZ MEDINA",
+              "dc:date": "2017-12-06",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/37",
+                "https://ru.iztacala.unam.mx/files/original/4d2c8223485fde69d04d3c6661587951.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779187/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:38",
+            "datestamp": "2019-01-19T04:31:10Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Relevancia de la reserva cognitiva en el deterioro cognitivo y la recuperación de pacientes con accidente cerebrovascular y traumatismo craneoencefálico",
+              "dc:creator": "MEGI880401MMCNLL07|ILIANA AHTENEA MENDOZA GALVEZ",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/reserva cognitiva, deterioro cognitivo, accidentes cerebrovasculares, traumatismo craneoencefálico"
+              ],
+              "dc:contributor": "REAV800326MDFYLC07=asesorTesis|VICENTA REYNOSO ALCANTARA",
+              "dc:date": "2017-12",
+              "dc:type": [
+                "Texto",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/38",
+                "https://ru.iztacala.unam.mx/files/original/68f6110ce54312eaee6c582fd0ecd21d.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779229/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:39",
+            "datestamp": "2019-01-19T04:29:16Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "La comunicación asertiva: un factor importante para lograr un mejor manejo emocional",
+              "dc:creator": "MACG751212MMNRRD08|MARIA GUADALUPE MARTINEZ CORTES",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/mujer, aborto, embarazo, artículos, estadísticas, gestación, intervención"
+              ],
+              "dc:contributor": "MOGJ820123HDFNNN09=asesorTesis|JUAN MANUEL MONTIEL GENOVA",
+              "dc:date": "2017",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/39",
+                "https://ru.iztacala.unam.mx/files/original/a12daf26e012e61a2f162f56aff95634.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779219/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:40",
+            "datestamp": "2019-01-19T04:28:15Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Modelo de selección de personal en base a perfil de competencias: una propuesta",
+              "dc:creator": "COCG770407HMCRSL00|GALLIENI CORDERO CASTAÑEDA",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/selección personal, competencias, recursos humanos, elaboración de perfil, hotel dynamics"
+              ],
+              "dc:contributor": "CAAA731116MDFRCN06=asesorTesis|ANGELICA CARLOTA CARREON ACEVEDO",
+              "dc:date": "2017-11-30",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/40",
+                "https://ru.iztacala.unam.mx/files/original/ac1e14468b4b1cc31c9f8844cd561098.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779157/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:41",
+            "datestamp": "2019-01-19T04:26:17Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Modificación de la dinámica familiar en mujeres que estudian en linea SUAyED",
+              "dc:creator": "DIVM710219MDFGLR09|MARTHA ELENA DIEGO VELASCO",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/familia, dinámica familiar, estudiantes universitarios, educación en línea"
+              ],
+              "dc:contributor": "CVU224919=asesorTesis|CLAUDIA ELISA CANTO MAYA",
+              "dc:date": "2017-11-24",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/41",
+                "https://ru.iztacala.unam.mx/files/original/eb68715108aae679201d48ebea8a0394.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779164/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:42",
+            "datestamp": "2019-01-19T04:25:10Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Creencias epistemológicas sobre el conocimiento en internet en estudiantes en tres momentos distintos de la carrera de psicología SUAyED",
+              "dc:creator": "OEMA820722MDFLRN04|ANA LETICIA OLVERA MERA",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/creencia epistemológicas, intenet, educación en línea, SUAyED"
+              ],
+              "dc:contributor": "CVU480257=asesorTesis|JOSE MANUEL MEZA CANO",
+              "dc:date": "2017-11-29",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/42",
+                "https://ru.iztacala.unam.mx/files/original/1ab86770c92d8b0af375cf3ec6ba430c.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779250/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:43",
+            "datestamp": "2019-01-19T04:23:24Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Simulación digital en Moodle para la enseñanza del desarrollo del vocabulario infantil",
+              "dc:creator": "HEVA831025MDFRVL08|ALBA SELENE HERNANDEZ VIVEROS",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/simulación digital, ramificación, decisión, vocabulario infantil"
+              ],
+              "dc:contributor": "CVU224439=asesorTesis|ESPERANZA GUARNEROS REYES",
+              "dc:date": "2017-12",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/43",
+                "https://ru.iztacala.unam.mx/files/original/77b0b5190425db96e06aec41f85188a2.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779204/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:44",
+            "datestamp": "2019-01-19T04:22:36Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Experiencas de hombres diagnosticados con el virus de papiloma humano",
+              "dc:creator": "EAGJ880701MDFSNS04|JESSICA ESCALANTE GONZALEZ",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/virus de papiloma humano, emociones negativas, apoyo social"
+              ],
+              "dc:contributor": "CVU174089=asesorTesis|RICARDO SANCHEZ MEDINA",
+              "dc:date": "2017-12",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/44",
+                "https://ru.iztacala.unam.mx/files/original/74dd10070c2d4d780d31f2901980a59e.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779168/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:45",
+            "datestamp": "2019-01-19T04:21:45Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Uso de la plataforma comunidad UNAM: en alumnos del SUAyED",
+              "dc:creator": "OOVA610617HDFRLN07|ANGEL OROZCO VALADEZ",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/educación virtual, educación en línea, sociedad de la información, TIC"
+              ],
+              "dc:contributor": "CVU120878=asesorTesis|MARCO ANTONIO GONZALEZ PEREZ",
+              "dc:date": "2017-12-14",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/45",
+                "https://ru.iztacala.unam.mx/files/original/feedc009f0f621f96c0a88900c254464.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779251/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:46",
+            "datestamp": "2019-01-19T04:20:09Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Detección e identificación de indicadores de maltrato infantil dentro del entorno familiar en menores de etapa escolar",
+              "dc:creator": "RUSM690412MDFZRR09|MARIBEL RUIZ SORIANO",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/maltrato infantil, indicadores, área familiar, área psicológico comportamental, área social, área escolar"
+              ],
+              "dc:contributor": "GUCX771015MDFTMC06=asesorTesis|XOCHITL TERESA GUTIéRREZ CAMACHO",
+              "dc:date": "2017-12-13",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/46",
+                "https://ru.iztacala.unam.mx/files/original/c7a4a81c356e67da27a3d122a716106d.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779273/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:48",
+            "datestamp": "2019-01-19T04:16:49Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Capacitación a superiores en habilidades de comunicación que favorezcan que los subordinados mejoren su desempeño laboral",
+              "dc:creator": "HEMF820801HDFRNR01|FRANCISCO JAVIER HERNANDEZ MONDRAGON",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/recursos humanos, talento, capacitación, coaching"
+              ],
+              "dc:contributor": "CVU264025=asesorTesis|GERMAN ALEJANDRO MIRANDA DIAZ",
+              "dc:date": "2017-12-04",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/48",
+                "https://ru.iztacala.unam.mx/files/original/478c4535a74167fe743255940f90b8ed.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779202/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:49",
+            "datestamp": "2019-01-19T04:15:36Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Técnicas cognitivo conductuales para crear estrategias de afrontamiento de estrés escolar en adolescentes del 3er grado de la secundaria Leona Vicario del municipio de Chimalhuacan Estado de México",
+              "dc:creator": "GARC861215MDFRBR00|CRISTINA GARCIA RUBIO",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/estrés académico, adolescencia, afrontamiento, técnicas cognitivo conductuales"
+              ],
+              "dc:contributor": "PEPL721220MOCRRR06=asesorTesis|LAURA PEREZ PEREZ",
+              "dc:date": "2018",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/49",
+                "https://ru.iztacala.unam.mx/files/original/a4c43bbc4ec14b743a5c839de2dcb09d.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779185/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:50",
+            "datestamp": "2019-01-19T04:14:44Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Proyecto de simulación digital para enseñar el desarrollo de la escritura emergente",
+              "dc:creator": "RESA731114MDFYVM02|AMELIA REYES SEVILLA",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/simulador, aprendizaje, escritura emergente, habilidades, experiencia"
+              ],
+              "dc:contributor": "CVU224439=asesorTesis|ESPERANZA GUARNEROS REYES",
+              "dc:date": "2017-12",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/50",
+                "https://ru.iztacala.unam.mx/files/original/1c8250800608bfdf5d9eb142c33e9f4f.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779263/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:51",
+            "datestamp": "2019-01-19T04:14:03Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Plan integral para la incorporación efectiva de las TIC al aula en un grupo de 4to de primaria",
+              "dc:creator": "SIMP720317MDFRDT01|PATRICIA ALEJANDRA SIERRA MEDELLIN",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/aprendizaje significativo, aprendizaje colaborativo, TICs, educación digital"
+              ],
+              "dc:contributor": "CVU120878=asesorTesis|MARCO ANTONIO GONZALEZ PEREZ",
+              "dc:date": "2017-12-14",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/51",
+                "https://ru.iztacala.unam.mx/files/original/2fb9e4958972b8cb5e9d7c3fc3508ffc.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779286/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:52",
+            "datestamp": "2019-01-19T04:12:34Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Creencias y prácticas sobre la enfermedad de la diabetes en un grupo de adultas mayores en la comunidad zapoteca San Cristobal Lachirioag",
+              "dc:creator": "AOPR800403HOCMRC05|RICARDO AMBROSIO PRADO",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/creencias, prácticas, diabetes, adultos mayores"
+              ],
+              "dc:contributor": "ROCG771022MMCDJB04=asesorTesis|GABRIELA EUGENIA RODRIGUEZ CEJA",
+              "dc:date": "2017-11-23",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/52",
+                "https://ru.iztacala.unam.mx/files/original/92a138adbd7ad27a45bb7256fb96a914.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779143/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:53",
+            "datestamp": "2019-01-19T04:11:27Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Importancia del proceso de capacitación en las organizaciones",
+              "dc:creator": "MAGA750112MDFRNN08|ANGELICA MARTINEZ GONZALEZ",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/bullying, agresores, emociones"
+              ],
+              "dc:contributor": "OIVA680115HDFRLN08=asesorTesis|JOSE ANTONIO ORTIZ VELEZ",
+              "dc:date": "2017-12-14",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/53",
+                "https://ru.iztacala.unam.mx/files/original/94768c3e3c551e07c6ea017edafd7179.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779221",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:54",
+            "datestamp": "2019-01-19T04:10:49Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Competencias específicas del área organizacional de la psicología",
+              "dc:creator": "SABI830803MDFLLN01|INGRID SALGADO BALDERAS",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/competencias profesionales, psicología organizacional"
+              ],
+              "dc:contributor": "CVU480257=asesorTesis|JOSE MANUEL MEZA CANO",
+              "dc:date": "2017-11-29",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/54",
+                "https://ru.iztacala.unam.mx/files/original/7df1165a0046b8c394c3eb341dd2cb0c.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779274/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:ru.iztacala.unam.mx:55",
+            "datestamp": "2019-01-19T04:09:55Z",
+            "setSpec": "14"
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "El uso de actividades artísticas en el desarrollo de la creatividad para potencializar el desarrollo cognitivo en las matemáticas",
+              "dc:creator": "TELI620822HDFRNG03|IGNACIO TERCERO LEON",
+              "dc:subject": [
+                "info:eu-repo/classification/cti/4",
+                "info:eu-repo/classification/creatividad, desarrollo cognitivo en matemáticas, intervención educativa, integración social, autoestima"
+              ],
+              "dc:contributor": "PAEE681028MDFRSS06=asesorTesis|ESTELA PARRA ESTRADA",
+              "dc:date": "2017-11-30",
+              "dc:type": [
+                "Manuscrito recepcional",
+                "info:eu-repo/semantics/bachelorThesis"
+              ],
+              "dc:format": "application/pdf",
+              "dc:identifier": [
+                "https://ru.iztacala.unam.mx/items/show/55",
+                "https://ru.iztacala.unam.mx/files/original/80959517a2d5f7d6cf28c65a161a2879.pdf"
+              ],
+              "dc:language": "spa",
+              "dc:relation": "info:eu-repo/semantics/altIdentifier/url/http://132.248.9.195/ptd2018/agosto/0779291/",
+              "dc:coverage": "MX",
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ]
+            }
+          }
+        }
+      ],
+      "resumptionToken": {
+        "@expirationDate": "2025-11-11T07:50:15Z",
+        "@completeListSize": "936",
+        "@cursor": "0",
+        "#text": "7352"
+      }
+    }
+  }
+}

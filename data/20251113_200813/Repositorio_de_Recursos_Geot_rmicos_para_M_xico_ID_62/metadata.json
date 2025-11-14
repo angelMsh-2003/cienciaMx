@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 62,
+    "name": "Repositorio de Recursos Geotérmicos para México",
+    "machine_name": "repositorio_de_recursos_geot_rmicos_para_m_xico",
+    "url": "http://rigeotermia.geofisica.unam.mx/oai/request",
+    "dspace_version": "6.3",
+    "number_of_items": 6196
+  },
+  "collection_info": {
+    "timestamp": "20251113_200813",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/20251113_200813/Repositorio_de_Recursos_Geot_rmicos_para_M_xico_ID_62/page_001.json"
+  ]
+}

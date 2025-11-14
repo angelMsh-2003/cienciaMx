@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 47,
+    "name": "Memoria Institucional CISAN, Repositorio Institucional, UNAM",
+    "machine_name": "memoria_institucional_cisan_repositorio_institucional_unam",
+    "url": "http://ru.micisan.unam.mx/oai/request",
+    "dspace_version": "6.3",
+    "number_of_items": 6860
+  },
+  "collection_info": {
+    "timestamp": "20251111_014007",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/try1/20251111_014007_Memoria_Institucional_CISAN_Repositorio_Institucional_UNAM_ID_47_json/page_001.json"
+  ]
+}

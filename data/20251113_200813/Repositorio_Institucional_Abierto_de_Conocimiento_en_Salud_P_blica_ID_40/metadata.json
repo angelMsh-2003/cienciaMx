@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 40,
+    "name": "Repositorio Institucional Abierto de Conocimiento en Salud Pública",
+    "machine_name": "repositorio_institucional_abierto_de_conocimiento_en_salud_p_blica",
+    "url": "http://repositorio.insp.mx:8080/oai/request",
+    "dspace_version": "6",
+    "number_of_items": 985
+  },
+  "collection_info": {
+    "timestamp": "20251113_200813",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/20251113_200813/Repositorio_Institucional_Abierto_de_Conocimiento_en_Salud_P_blica_ID_40/page_001.json"
+  ]
+}

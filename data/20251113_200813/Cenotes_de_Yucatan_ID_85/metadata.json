@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 85,
+    "name": "Cenotes de Yucatan",
+    "machine_name": "cenotes_de_yucatan",
+    "url": "https://cenoteando.org/oai/request",
+    "dspace_version": "Unknown",
+    "number_of_items": null
+  },
+  "collection_info": {
+    "timestamp": "20251113_200813",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/20251113_200813/Cenotes_de_Yucatan_ID_85/page_001.json"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 75,
+    "name": "Repositorio Institucional Zaloamati",
+    "machine_name": "repositorio_institucional_zaloamati",
+    "url": "https://zaloamati.azc.uam.mx/server/oai/request",
+    "dspace_version": "8",
+    "number_of_items": 11945
+  },
+  "collection_info": {
+    "timestamp": "20251113_200813",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/20251113_200813/Repositorio_Institucional_Zaloamati_ID_75/page_001.json"
+  ]
+}

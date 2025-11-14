@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 44,
+    "name": "Aggregator of Repositorio Nacional",
+    "machine_name": "aggregator_of_repositorio_nacional_44",
+    "url": "https://oai-pmh.repositorionacionalcti.mx/resource/oai-pmh",
+    "dspace_version": "Unknown",
+    "number_of_items": null
+  },
+  "collection_info": {
+    "timestamp": "20251111_014005",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/try1/20251111_014005_Aggregator_of_Repositorio_Nacional_ID_44_json/page_001.json"
+  ]
+}

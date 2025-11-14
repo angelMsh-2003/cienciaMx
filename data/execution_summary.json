@@ -1,0 +1,533 @@
+{
+  "execution_info": {
+    "start_time": "2025-11-13 20:08:13",
+    "end_time": "2025-11-13 20:11:10",
+    "execution_time_seconds": 176.88,
+    "execution_time_formatted": "2m 56s"
+  },
+  "summary": {
+    "total_endpoints": 87,
+    "successful": 76,
+    "failed": 11,
+    "success_rate": "87.4%"
+  },
+  "statistics": {
+    "total_pages_retrieved": 76,
+    "total_files_created": 76
+  },
+  "successful_endpoints": [
+    {
+      "name": "Aggregator of Repositorio Nacional",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Aggregator_of_Repositorio_Nacional_ID_1"
+    },
+    {
+      "name": "Repositorio Institucional de INFOTEC",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_de_INFOTEC_ID_2"
+    },
+    {
+      "name": "Repositorio Digital CIDE",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Digital_CIDE_ID_3"
+    },
+    {
+      "name": "REPOSITORIO INSTITUCIONAL DEL CIESAS",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/REPOSITORIO_INSTITUCIONAL_DEL_CIESAS_ID_5"
+    },
+    {
+      "name": "Repositorio Institucional CIATEC",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_CIATEC_ID_6"
+    },
+    {
+      "name": "Repositorio IPICYT",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_IPICYT_ID_7"
+    },
+    {
+      "name": "Repositorio COLSAN",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_COLSAN_ID_8"
+    },
+    {
+      "name": "Repositorio Institucional INECOL",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_INECOL_ID_9"
+    },
+    {
+      "name": "Repositorio Institucional CICY",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_CICY_ID_10"
+    },
+    {
+      "name": "Repositorio MORA",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_MORA_ID_11"
+    },
+    {
+      "name": "Aggregator of Repositorio Nacional",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Aggregator_of_Repositorio_Nacional_ID_12"
+    },
+    {
+      "name": "Repositorio Institucional del Centro de Investigación en Química Aplicada",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_del_Centro_de_Investigaci_n_en_Qu_mica_Aplicada_ID_13"
+    },
+    {
+      "name": "Repositorio Institucional del INAOE",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_del_INAOE_ID_14"
+    },
+    {
+      "name": "Repositorio Institucional FLACSO México",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_FLACSO_M_xico_ID_15"
+    },
+    {
+      "name": "COMIMSA",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/COMIMSA_ID_16"
+    },
+    {
+      "name": "Fuente de Objetos Científicos Open Access",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Fuente_de_Objetos_Cient_ficos_Open_Access_ID_17"
+    },
+    {
+      "name": "Repositorio Institucional CICESE",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_CICESE_ID_18"
+    },
+    {
+      "name": "Repositorio Institucional CIDESI",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_CIDESI_ID_19"
+    },
+    {
+      "name": "REPOSITORIO INSTITUCIONAL CIDETEQ",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/REPOSITORIO_INSTITUCIONAL_CIDETEQ_ID_20"
+    },
+    {
+      "name": "Aggregator of Repositorio Nacional",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Aggregator_of_Repositorio_Nacional_ID_21"
+    },
+    {
+      "name": "Repositorio Institucional de COLMICH",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_de_COLMICH_ID_22"
+    },
+    {
+      "name": "Repositorio Institucional de CENTROGEO",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_de_CENTROGEO_ID_23"
+    },
+    {
+      "name": "REPOSITORIO INSTITUCIONAL DEL CIO",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/REPOSITORIO_INSTITUCIONAL_DEL_CIO_ID_24"
+    },
+    {
+      "name": "Repositorio Institucional CIMAT",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_CIMAT_ID_25"
+    },
+    {
+      "name": "Repositorio Institucional de ECOSUR",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_de_ECOSUR_ID_26"
+    },
+    {
+      "name": "Repositorio institucional del CIAD, A.C.",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_institucional_del_CIAD_A_C__ID_27"
+    },
+    {
+      "name": "Repositorio Institucional de El Colegio de la Frontera Norte",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_de_El_Colegio_de_la_Frontera_Norte_ID_28"
+    },
+    {
+      "name": "CIATEQ Digital",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/CIATEQ_Digital_ID_29"
+    },
+    {
+      "name": "Aggregator of Repositorio Nacional",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Aggregator_of_Repositorio_Nacional_ID_32"
+    },
+    {
+      "name": "Repositorio Institucional de la Universidad Autónoma de Ciudad Juárez",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_de_la_Universidad_Aut_noma_de_Ciudad_Ju_rez_ID_33"
+    },
+    {
+      "name": "Repositorio Institucional de la Universidad Autónoma de Tamaulipas",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_de_la_Universidad_Aut_noma_de_Tamaulipas_ID_34"
+    },
+    {
+      "name": "Repositorio Institucional Aramara",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_Aramara_ID_35"
+    },
+    {
+      "name": "Repositorio Institucional Caxcán",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_Caxc_n_ID_36"
+    },
+    {
+      "name": "Repositorio de información académica, científica tecnológica y de innovación RIACTis UANL",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_de_informaci_n_acad_mica_cient_fica_tecnol_gica_y_de_innovaci_n_RIACTis_UANL_ID_37"
+    },
+    {
+      "name": "Aggregator of Repositorio Nacional",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Aggregator_of_Repositorio_Nacional_ID_38"
+    },
+    {
+      "name": "COLECCIONES DIGITALES COLMEX",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/COLECCIONES_DIGITALES_COLMEX_ID_39"
+    },
+    {
+      "name": "Repositorio Institucional Abierto de Conocimiento en Salud Pública",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_Abierto_de_Conocimiento_en_Salud_P_blica_ID_40"
+    },
+    {
+      "name": "Repositorio Institucional de Acceso Abierto de la Universidad Autónoma del Estado de Morelos",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_de_Acceso_Abierto_de_la_Universidad_Aut_noma_del_Estado_de_Morelos_ID_41"
+    },
+    {
+      "name": "Repositorio  Institucional de datos científicos geoespaciales del Centro de Ciencias de la Atmósfera de la UNAM",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_de_datos_cient_ficos_geoespaciales_del_Centro_de_Ciencias_de_la_Atm_sfera_de_la_UNAM_ID_42"
+    },
+    {
+      "name": "Repositorio de datos ecológicos",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_de_datos_ecol_gicos_ID_43"
+    },
+    {
+      "name": "Aggregator of Repositorio Nacional",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Aggregator_of_Repositorio_Nacional_ID_44"
+    },
+    {
+      "name": "Concentración de Recursos de Información Científica y Académica, UAM Cuajimalpa",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Concentraci_n_de_Recursos_de_Informaci_n_Cient_fica_y_Acad_mica_UAM_Cuajimalpa_ID_45"
+    },
+    {
+      "name": "Repositorio Digital CID-UAAAN",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Digital_CID-UAAAN_ID_46"
+    },
+    {
+      "name": "Memoria Institucional CISAN, Repositorio Institucional, UNAM",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Memoria_Institucional_CISAN_Repositorio_Institucional_UNAM_ID_47"
+    },
+    {
+      "name": "Repositorio Institucional COLSON",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_COLSON_ID_48"
+    },
+    {
+      "name": "COLPOS DIGITAL",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/COLPOS_DIGITAL_ID_50"
+    },
+    {
+      "name": "Aggregator of Repositorio Nacional",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Aggregator_of_Repositorio_Nacional_ID_51"
+    },
+    {
+      "name": "Repositorio Institucional de la Universidad Juárez Autónoma de Tabasco",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_de_la_Universidad_Ju_rez_Aut_noma_de_Tabasco_ID_52"
+    },
+    {
+      "name": "Repositorio de datos del Servicio Sismológico Nacional",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_de_datos_del_Servicio_Sismol_gico_Nacional_ID_53"
+    },
+    {
+      "name": "Aggregator of Repositorio Nacional",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Aggregator_of_Repositorio_Nacional_ID_54"
+    },
+    {
+      "name": "Repositorio Institucional del Centro de Ciencias de la Atmósfera de la UNAM",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_del_Centro_de_Ciencias_de_la_Atm_sfera_de_la_UNAM_ID_55"
+    },
+    {
+      "name": "Repositorio Digital Institucional de la Universidad Autónoma de Yucatán",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Digital_Institucional_de_la_Universidad_Aut_noma_de_Yucat_n_ID_56"
+    },
+    {
+      "name": "Repositorio Institucional de la Universidad Autónoma Metropolitana Unidad Iztapalapa",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_de_la_Universidad_Aut_noma_Metropolitana_Unidad_Iztapalapa_ID_58"
+    },
+    {
+      "name": "Repositorio Institucional del Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_del_Instituto_de_Investigaciones_en_Matem_ticas_Aplicadas_y_en_Sistemas_ID_59"
+    },
+    {
+      "name": "REPOSITORIO INSTITUCIONAL DE CONOCIMIENTO GENÓMICO",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/REPOSITORIO_INSTITUCIONAL_DE_CONOCIMIENTO_GEN_MICO_ID_60"
+    },
+    {
+      "name": "Repositorio Institucional del Tecnológico de Monterrey",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_del_Tecnol_gico_de_Monterrey_ID_61"
+    },
+    {
+      "name": "Repositorio de Recursos Geotérmicos para México",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_de_Recursos_Geot_rmicos_para_M_xico_ID_62"
+    },
+    {
+      "name": "Aggregator of Repositorio Nacional",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Aggregator_of_Repositorio_Nacional_ID_63"
+    },
+    {
+      "name": "Repositorio Institucional NINIVE",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_NINIVE_ID_64"
+    },
+    {
+      "name": "Repositorio Institucional SISBIUQROO",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_SISBIUQROO_ID_67"
+    },
+    {
+      "name": "Repositorio Institucional UnADM",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_UnADM_ID_68"
+    },
+    {
+      "name": "Repositorio Institucional de Acceso Abierto RIAA-BUAP",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_de_Acceso_Abierto_RIAA-BUAP_ID_69"
+    },
+    {
+      "name": "Aggregator of Repositorio Nacional",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Aggregator_of_Repositorio_Nacional_ID_70"
+    },
+    {
+      "name": "Repositorio Institucional de Ciencia Abierta de la Universidad Autónoma de Guerrero",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_de_Ciencia_Abierta_de_la_Universidad_Aut_noma_de_Guerrero_ID_72"
+    },
+    {
+      "name": "Repositorio Institucional Zaloamati",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_Zaloamati_ID_75"
+    },
+    {
+      "name": "Repositorio Institucional UTM",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_UTM_ID_76"
+    },
+    {
+      "name": "Repositorio Institucional Históricas-UNAM",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_Hist_ricas-UNAM_ID_77"
+    },
+    {
+      "name": "Repositorio Institucional de la Facultad de Medicina,UNAM.Departamento de Microbiologia y Parasitologia",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_de_la_Facultad_de_Medicina_UNAM_Departamento_de_Microbiologia_y_Parasitologia_ID_78"
+    },
+    {
+      "name": "Aggregator of Repositorio Nacional",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Aggregator_of_Repositorio_Nacional_ID_80"
+    },
+    {
+      "name": "REPOSITORIO INSTITUCIONAL DEL TECNOLÓGICO NACIONAL DE MÉXICO",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/REPOSITORIO_INSTITUCIONAL_DEL_TECNOLO_GICO_NACIONAL_DE_ME_XICO_ID_81"
+    },
+    {
+      "name": "RI-UPPue: repositorio institucional de la Universidad Politécnica de Puebla",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/RI-UPPue_repositorio_institucional_de_la_Universidad_Polit_cnica_de_Puebla_ID_82"
+    },
+    {
+      "name": "Repositorio de la Facultad de Ciencias UNAM",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_de_la_Facultad_de_Ciencias_UNAM_ID_83"
+    },
+    {
+      "name": "Repositorio Institucional UNICACH",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_Institucional_UNICACH_ID_84"
+    },
+    {
+      "name": "Cenotes de Yucatan",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Cenotes_de_Yucatan_ID_85"
+    },
+    {
+      "name": "Repositorio de Literatura del Servicio Sismológico Nacional",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/Repositorio_de_Literatura_del_Servicio_Sismol_gico_Nacional_ID_86"
+    },
+    {
+      "name": "XPLORA",
+      "pages": 1,
+      "files": 1,
+      "output_directory": "../data/20251113_200813/XPLORA_ID_87"
+    }
+  ],
+  "failed_endpoints": [
+    {
+      "name": "Ameyalli - Repositorio Universitario Especializado en Comunicación Pública de la Ciencia",
+      "error": "Unknown error",
+      "message": "No data retrieved"
+    },
+    {
+      "name": "Ameyalli - Repositorio Universitario Especializado en Comunicación Pública de la Ciencia de la DGDC, UNAM",
+      "error": "Unknown error",
+      "message": "No data retrieved"
+    },
+    {
+      "name": "Athenea Digital FFyL",
+      "error": "Unknown error",
+      "message": "No data retrieved"
+    },
+    {
+      "name": "XOGI REPOSITORIO INSTITUCIONAL UAM LERMA",
+      "error": "Unknown error",
+      "message": "No data retrieved"
+    },
+    {
+      "name": "Repositorio Institucional del Instituto de Investigaciones Bibliotecológicas y de la Información de la Universidad Nacional Autónoma de México",
+      "error": "Unknown error",
+      "message": "No data retrieved"
+    },
+    {
+      "name": "Repositorio universitario de prosa científica y de divulgación de la Facultad de Estudios Superiores Iztacala",
+      "error": "Unknown error",
+      "message": "No data retrieved"
+    },
+    {
+      "name": "Repositorio Institucional RUTIC",
+      "error": "Unknown error",
+      "message": "No data retrieved"
+    },
+    {
+      "name": "Repositorio Institucional Universidad Iberoamericana Ciudad de México",
+      "error": "Unknown error",
+      "message": "No data retrieved"
+    },
+    {
+      "name": "Repositorio Institucional de Literatura del IPN-CIIDIR Unidad Oaxaca",
+      "error": "Unknown error",
+      "message": "No data retrieved"
+    },
+    {
+      "name": "Repositorio Institucional de Colecciones Científicas del IPN-CIIDIR Unidad Oaxaca",
+      "error": "Unknown error",
+      "message": "No data retrieved"
+    },
+    {
+      "name": "Repositorio Nacional",
+      "error": "Unknown error",
+      "message": "No data retrieved"
+    }
+  ]
+}

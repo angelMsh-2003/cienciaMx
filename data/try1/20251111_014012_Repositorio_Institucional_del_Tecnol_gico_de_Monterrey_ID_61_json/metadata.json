@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 61,
+    "name": "Repositorio Institucional del Tecnológico de Monterrey",
+    "machine_name": "repositorio_institucional_del_tecnol_gico_de_monterrey",
+    "url": "https://repositorio.tec.mx/server/oai/request",
+    "dspace_version": "8",
+    "number_of_items": 85026
+  },
+  "collection_info": {
+    "timestamp": "20251111_014012",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/try1/20251111_014012_Repositorio_Institucional_del_Tecnol_gico_de_Monterrey_ID_61_json/page_001.json"
+  ]
+}

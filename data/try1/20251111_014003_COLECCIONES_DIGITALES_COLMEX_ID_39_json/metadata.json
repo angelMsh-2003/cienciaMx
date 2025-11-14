@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 39,
+    "name": "COLECCIONES DIGITALES COLMEX",
+    "machine_name": "colecciones_digitales_colmex",
+    "url": "https://repositorio.colmex.mx/conacyt/oai/oai2.php",
+    "dspace_version": "7.x",
+    "number_of_items": 2913
+  },
+  "collection_info": {
+    "timestamp": "20251111_014003",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/try1/20251111_014003_COLECCIONES_DIGITALES_COLMEX_ID_39_json/page_001.json"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 84,
+    "name": "Repositorio Institucional UNICACH",
+    "machine_name": "repositorio_institucional_unicach",
+    "url": "https://repositorio.unicach.mx/oai/conacyt",
+    "dspace_version": "6.3",
+    "number_of_items": 100
+  },
+  "collection_info": {
+    "timestamp": "20251111_014022",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/try1/20251111_014022_Repositorio_Institucional_UNICACH_ID_84_json/page_001.json"
+  ]
+}

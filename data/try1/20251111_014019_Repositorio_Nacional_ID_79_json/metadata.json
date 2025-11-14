@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 79,
+    "name": "Repositorio Nacional",
+    "machine_name": "repositorio_nacional",
+    "url": "https://conahcyt.repositorioinstitucional.mx/oai/request",
+    "dspace_version": "5.4",
+    "number_of_items": 16
+  },
+  "collection_info": {
+    "timestamp": "20251111_014019",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/try1/20251111_014019_Repositorio_Nacional_ID_79_json/page_001.json"
+  ]
+}

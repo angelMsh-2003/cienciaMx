@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 3,
+    "name": "Repositorio Digital CIDE",
+    "machine_name": "repositorio_digital_cide",
+    "url": "https://cide.repositorioinstitucional.mx/oai/request",
+    "dspace_version": "5.4",
+    "number_of_items": 947
+  },
+  "collection_info": {
+    "timestamp": "20251111_013647",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/try1/20251111_013647_Repositorio_Digital_CIDE_ID_3_json/page_001.json"
+  ]
+}

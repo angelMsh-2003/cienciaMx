@@ -1,0 +1,1495 @@
+{
+  "OAI-PMH": {
+    "@xmlns": "http://www.openarchives.org/OAI/2.0/",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd",
+    "responseDate": "2025-11-11T07:40:14Z",
+    "request": {
+      "@verb": "ListRecords",
+      "@metadataPrefix": "oai_dc",
+      "#text": "http://rigeofisica.ssn.unam.mx/oai/literatura"
+    },
+    "ListRecords": {
+      "record": [
+        {
+          "header": {
+            "identifier": "oai:rigeofisica.ssn.unam.mx:ssnmx/44",
+            "datestamp": "2021-10-20T16:26:27Z",
+            "setSpec": [
+              "com_ssnmx_3",
+              "col_ssnmx_26"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "A 3-D shear velocity model of the southern North American and Caribbean plates from ambient noise and earthquake tomography.",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0000-0002-7542-8795",
+                "#text": "BEATRIZ GAITE"
+              },
+              "dc:subject": [
+                "RUIDO AMBIENTAL",
+                "PLACA DEL CARIBE",
+                "PLACA DE AMÉRICA DEL NORTE",
+                "OLA DE RAYLEIGH",
+                "ONDA S",
+                "ZONA DE  de SUBDUCCIÓN",
+                "EVOLUCIÓN TECTÓNICA",
+                "TOMOGRAFÍA",
+                "VELOCIDAD DE ONDA",
+                "info:eu-repo/classification/LCC/Wave translator",
+                "info:eu-repo/classification/LCC/SUBDUCTION AREA",
+                "info:eu-repo/classification/LCC/TECTONIC EVOLUTION",
+                "info:eu-repo/classification/LCC/NORTH AMERICA PLATE",
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/2507",
+                "info:eu-repo/classification/cti/250705",
+                "info:eu-repo/classification/UNESCO/concept8601",
+                "info:eu-repo/classification/GeoRef/Seismology"
+              ],
+              "dc:description": "We use group velocities from earthquake tomography together with group and phase velocities from ambient noise tomography (ANT) of Rayleigh waves to invert for the 3-D shear-wave velocity structure (5-70 km) of the Caribbean (CAR) and southern North American (NAM) plates. The lithospheric model proposed offers a complete image of the crust and uppermost-mantle with imprints of the tectonic evolution. One of the most striking features inferred is the main role of the Ouachita-Marathon-Sonora orogeny front on the crustal seismic structure of the NAM plate. A new imaged feature is the low crustal velocities along the USA-Mexico border. The model also shows a break of the east-west mantle velocity dichotomy of the NAM and CAR plates beneath the Isthmus of the Tehuantepec and the Yucatan Block. High upper-mantle velocities along the Mesoamerican Subduction Zone coincide with inactive volcanic areas while the lowest velocities correspond to active volcanic arcs and thin lithospheric mantle regions.",
+              "dc:date": [
+                "info:eu-repo/date/embargoEnd/2025-01-29",
+                "2015-12-29"
+              ],
+              "dc:type": [
+                "info:eu-repo/semantics/publishedVersion",
+                "info:eu-repo/semantics/article"
+              ],
+              "dc:identifier": [
+                "Gaite, B.; A. Villasenor; A. Iglesias; M. Herraiz and I. Jimenez-Munt. 2015. \"A 3-D Shear Velocity Model of the Southern North American and Caribbean Plates from Ambient Noise and Earthquake Tomography.\" Solid Earth, 6(1), 271-284. http://dx.doi.org/10.5194/se-6-271-2015",
+                "http://rigeofisica.ssn.unam.mx/jspui/handle/ssnmx/44"
+              ],
+              "dc:language": "eng",
+              "dc:relation": [
+                "Solid Earth",
+                "1869-9510"
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/embargoedAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:format": "pdf",
+              "dc:publisher": "Copernicus GmbH",
+              "dc:source": "https://www.solid-earth.net/6/271/2015/"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:rigeofisica.ssn.unam.mx:ssnmx/42",
+            "datestamp": "2021-10-20T16:26:43Z",
+            "setSpec": [
+              "com_ssnmx_3",
+              "col_ssnmx_26"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Reply to \"comment on ‘estimation of ground motion in Mexico city from a repeat of the M ∼ 7:0 acambay earthquake of 1912\"",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0000-0002-0219-9813",
+                "#text": "Shri Krishna Singh"
+              },
+              "dc:subject": [
+                "TERREMOTOS",
+                "GROUND MOTION",
+                "ACAMBAY EARTHQUAKE",
+                "info:eu-repo/classification/LCC/ACAMBAY EARTHQUAKE",
+                "info:eu-repo/classification/LCC/GROUND MOTION",
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/2507",
+                "info:eu-repo/classification/cti/250705",
+                "info:eu-repo/classification/UNESCO/concept8601",
+                "info:eu-repo/classification/GeoRef/Seismology"
+              ],
+              "dc:date": [
+                "info:eu-repo/date/embargoEnd/2025-09-09",
+                "2014-09-09"
+              ],
+              "dc:type": [
+                "info:eu-repo/semantics/article",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:identifier": [
+                "Singh, S. K.; A. Iglesias; M. Ordaz; X. Perez-Campos and L. Quintanar. 2014. \"Reply to \"Comment on 'Estimation of Ground Motion in Mexico City from a Repeat of the M Similar to 7.0 Acambay Earthquake of 1912' by S. K. Singh, A. Iglesias, M. Ordaz, X. Perez-Campos, and L. Quintanar\" by M. Suter.\" Bulletin of the Seismological Society of America, 104(5), 2565-2566. http://dx.doi.org/10.1785/0120140217",
+                "http://rigeofisica.ssn.unam.mx/jspui/handle/ssnmx/42"
+              ],
+              "dc:language": "eng",
+              "dc:relation": [
+                "Bulletin of the Seismological Society of America",
+                "1943-3573"
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/embargoedAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:format": "pdf",
+              "dc:publisher": "Seismological Society of America",
+              "dc:source": "https://pubs.geoscienceworld.org/ssa/bssa/article/104/5/2565/351527"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:rigeofisica.ssn.unam.mx:ssnmx/41",
+            "datestamp": "2021-10-20T16:16:01Z",
+            "setSpec": [
+              "com_ssnmx_3",
+              "col_ssnmx_26"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Intraslab versus interplate earthquakes as recorded in Mexico City: implications for seismic hazard",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0000-0002-0219-9813",
+                "#text": "Shri Krishna Singh"
+              },
+              "dc:subject": [
+                "TERREMOTOS DE PROFUNDIDAD INTERMEDIA",
+                "ZONAS DE SUBDUCCIÓN ACOPLADAS",
+                "TERREMOTOS INSLAB",
+                "VARIACIÓN TEMPORAL",
+                "TRANSFERENCIA DE ESTRÉS",
+                "SPECTRA",
+                "CICLO",
+                "info:eu-repo/classification/LCC/TEMPORARY VARIATION",
+                "info:eu-repo/classification/LCC/COUPLED SUBDUCTION ZONES",
+                "info:eu-repo/classification/LCC/INTERMEDIATE DEPTH EARTHQUAKES",
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/2507",
+                "info:eu-repo/classification/cti/250705",
+                "info:eu-repo/classification/UNESCO/concept8601",
+                "info:eu-repo/classification/GeoRef/Seismology"
+              ],
+              "dc:description": "We study the relative importance of interplate and intraslab earthquakes in the seismic hazard of Mexico City by analyzing accelerograms recorded at the hill-zone site of CU (1964-2012) and the lake-bed site of SCT (1985-2012). A(max) exceeded 6 gal during 20 earthquakes at CU during this period. Of these, eight were intraslab events so that the exceedance rate of A(max) >= 6 gal from both types of earthquakes is roughly about the same. The estimated return period of A(max) of 30 gal from the two types of earthquakes is similar to 100 yrs. If we consider high-frequency (2.5-8.5 Hz) acceleration (A(max)(HF)) at CU, then the top 7 out of the 20 events are all intraslab earthquakes. Even at the lake-bed site of SCT, the A(max)(HF) values are, generally, associated with intraslab earthquakes. It follows that the risk from both types of earthquakes to low-rise construction in the city needs careful assessment.",
+              "dc:date": [
+                "info:eu-repo/date/embargoEnd/2025-12-19",
+                "2013-10-17"
+              ],
+              "dc:type": [
+                "info:eu-repo/semantics/article",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:identifier": [
+                "Singh, S. K.; M. Ordaz; X. Perez-Campos and A. Iglesias. 2015. \"Intraslab Versus Interplate Earthquakes as Recorded in Mexico City: Implications for Seismic Hazard.\" Earthquake Spectra, 31(2), 795-812. http://dx.doi.org/10.1193/110612EQS324M",
+                "http://rigeofisica.ssn.unam.mx/jspui/handle/ssnmx/41"
+              ],
+              "dc:language": "eng",
+              "dc:relation": [
+                "EARTHQUAKE SPECTRA",
+                "1944-8201"
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/embargoedAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:format": "pdf",
+              "dc:publisher": "EARTHQUAKE ENGINEERING RESEARCH INST",
+              "dc:source": "https://journals.sagepub.com/doi/full/10.1193/110612EQS324M"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:rigeofisica.ssn.unam.mx:ssnmx/31",
+            "datestamp": "2021-10-20T16:16:45Z",
+            "setSpec": [
+              "com_ssnmx_3",
+              "col_ssnmx_26"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Interaction of Cocos and rivera plates with the upper-mantle transition zone underneath central Mexico.",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0000-0001-8970-7966",
+                "#text": "XYOLI PEREZ CAMPOS"
+              },
+              "dc:subject": [
+                "MANTO DE PROCESOS",
+                "TRANSICIONES DE FASE",
+                "NORTEAMÉRICA",
+                "info:eu-repo/classification/LCC/Volcanic Belt",
+                "info:eu-repo/classification/LCC/Shallow earthquakes",
+                "info:eu-repo/classification/LCC/Waves",
+                "info:eu-repo/classification/GeoRef/Seismology",
+                "info:eu-repo/classification/UNESCO/concept8601",
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/2507",
+                "info:eu-repo/classification/cti/250705"
+              ],
+              "dc:description": "Receiver functions (RFs) from 224 permanent and temporary stations in central and southern Mexico were used to characterize the upper-mantle transition zone in that region. Discontinuities at 410 and 660 km depth are both deeper compared to iasp91, which reflects a slow velocity anomaly in the upper mantle. They show topography on the interfaces that is consistent with the interaction of the subducted slab or its broken off extension. A low-velocity layer on top of the 410 is identified mainly on the continental side of where the slab pierces it (i.e. in the lee of the slab roll-back). In general the RFs show a complex behaviour where the mantle has been disturbed by the lateral motion of the subducted slab, and are simple where it has not. Complexity on the 660 coincides with the place where the broken off portion of the Farallon Plate would have penetrated this interface or is possibly lying on top of it.",
+              "dc:date": [
+                "info:eu-repo/date/embargoEnd/2025-04-01",
+                "2014-04-02"
+              ],
+              "dc:type": [
+                "info:eu-repo/semantics/publishedVersion",
+                "info:eu-repo/semantics/article"
+              ],
+              "dc:identifier": [
+                "Perez-Campos, X. and R. W. Clayton. 2014. \"Interaction of Cocos and Rivera Plates with the Upper-Mantle Transition Zone Underneath Central Mexico.\" Geophysical Journal International, 197(3), 1763-1769. http://dx.doi.org/10.1093/gji/ggu087",
+                "http://rigeofisica.ssn.unam.mx/jspui/handle/ssnmx/31"
+              ],
+              "dc:language": "eng",
+              "dc:relation": [
+                "GEOPHYSICAL JOURNAL INTERNATIONAL",
+                "1365-246X"
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/embargoedAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:format": "pdf",
+              "dc:publisher": "OXFORD UNIVERSITY PRESS",
+              "dc:source": "https://academic.oup.com/gji/article/197/3/1763/656201"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:rigeofisica.ssn.unam.mx:ssnmx/14566",
+            "datestamp": "2021-10-20T16:27:49Z",
+            "setSpec": [
+              "com_ssnmx_3",
+              "col_ssnmx_26"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "TRANSIENT ELECTROMAGNETIC RESPONSE OF A CONDUCTING INFINITE CYLINDER EMBEDDEN IN A CONDUCTING MEDIUM",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0000-0002-0219-9813",
+                "#text": "Shri Krishna Singh"
+              },
+              "dc:subject": [
+                "Transient Electromagnetic Response",
+                "Conducting Cylinder",
+                "info:eu-repo/classification/LCC/Transient Electromagnetic Response",
+                "info:eu-repo/classification/LCC/Conducting Cylinder",
+                "info:eu-repo/classification/LCC/Seismology",
+                "info:eu-repo/classification/UNESCO/concept8601",
+                "info:eu-repo/classification/GeoRef/Seismology",
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/2507",
+                "info:eu-repo/classification/cti/250705"
+              ],
+              "dc:description": "Transient electromagnetic response of a conducting permeable cylinder embedded in a conducting infinite space is obtained in the form of definite integrals. The source is an infinite insulated cable which ties outside the cylinder and carries a Heaviside current. The displacement currents have been neglected. Expression for transient response function under quasi-static approximation is also given.",
+              "dc:date": [
+                "1972",
+                "1972-01-01"
+              ],
+              "dc:type": [
+                "info:eu-repo/semantics/article",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:identifier": [
+                "Singh, S. K. (1972). TRANSIENT ELECTROMAGNETIC RESPONSE OF A CONDUCTING INFINITE CYLINDER EMBEDDEN IN A CONDUCTING MEDIUM. Geofísica Internacional, 12(1), 7-21. http://dx.doi.org/10.22201/igeof.00167169p.1972.12.1.989",
+                "http://rigeofisica.ssn.unam.mx/jspui/handle/ssnmx/14566"
+              ],
+              "dc:language": "eng",
+              "dc:relation": [
+                "Geofísica Internacional",
+                "0016-7169"
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:format": "pdf",
+              "dc:publisher": "UNAM, Instituto de Geofísica",
+              "dc:source": "http://revistagi.geofisica.unam.mx/index.php/RGI/article/view/989"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:rigeofisica.ssn.unam.mx:ssnmx/45",
+            "datestamp": "2021-10-20T16:28:11Z",
+            "setSpec": [
+              "com_ssnmx_3",
+              "col_ssnmx_26"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Estimation of ground motion in Mexico City from a repeat of the m ~ 7:0 acambay earthquake of 1912",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0000-0002-0219-9813",
+                "#text": "Shri Krishna Singh"
+              },
+              "dc:subject": [
+                "CINTURION VOLCÁNICO",
+                "TERREMOTO POCO PROFUNDOS",
+                "EXTENSIÓN",
+                "MAGNITUD",
+                "OLAS",
+                "ATENUACIÓN",
+                "PREDICCIÓN",
+                "GRABEN",
+                "info:eu-repo/classification/LCC/Waves",
+                "info:eu-repo/classification/LCC/Attenuation",
+                "info:eu-repo/classification/LCC/Shallow",
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/2507",
+                "info:eu-repo/classification/cti/250705",
+                "info:eu-repo/classification/UNESCO/concept8601",
+                "info:eu-repo/classification/GeoRef/Seismology"
+              ],
+              "dc:description": "The Acambay earthquake of 1912 (M ~ 7:0), which occurred in the central Trans-Mexican Volcanic Belt (CTMVB) about 100 km west-northwest of Mexico City, has been thought to be a critical scenario event in the estimation of seismic hazard of the city.We use seismograms of two small earthquakes located near Actopan (15 December 2003; 18 May 2010) and recorded at station CUIG, a hill-zone site in Mexico City, as empirical Green's functions (EGFs) for the Acambay region. Because Actopan, like Acambay, is situated in the CTMVB and both are located at about the same distance from CUIG, the use of the recordings of the Actopan earthquakes as EGFs is partly justified. We first analyze data of the two small earthquakes at a local station, DHIG, to estimate their seismic moment and stress drop. As there is considerable uncertainty in the estimated stress drops of the two events, we choose a reasonable range of values for them and apply a technique of random summation of EGFs to simulate ground motion at CUIG from a postulated Mw 7 earthquake. The estimated geometric mean horizontal peak ground acceleration (PGA) and peak ground velocity (PGV) at CUIG range from 2.7 to 9:7 cm=s2 and from 1.1 to 3:0 cm=s, respectively. Ground-motion maps for the entire city are presented using a simulated trace at CUIG and the known transfer functions of many sites within the city. The results are consistent with reported seismic intensities in Mexico City, and PGA and peak ground displacement (PGD) at a 2-s period at the seismic station of Tacubaya during the Acambay earthquake. Estimated ground motions suggest that a repeat of the event does not present significant hazard to Mexico City.",
+              "dc:date": [
+                "info:eu-repo/date/embargoEnd/2025-10-01",
+                "2011-10-01"
+              ],
+              "dc:type": [
+                "info:eu-repo/semantics/publishedVersion",
+                "info:eu-repo/semantics/article"
+              ],
+              "dc:identifier": [
+                "Singh, S. K.; A. Iglesias; M. Ordaz; X. Perez-Campos and L. Quintanar. 2011. \"Estimation of Ground Motion in Mexico City from a Repeat of the M Similar to 7.0 Acambay Earthquake of 1912.\" Bulletin of the Seismological Society of America, 101(5), 2015-2028. http://dx.doi.org/10.1785/0120100317",
+                "http://rigeofisica.ssn.unam.mx/jspui/handle/ssnmx/45"
+              ],
+              "dc:language": "eng",
+              "dc:relation": [
+                "Bulletin of the Seismological Society of America",
+                "0037-1106"
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/embargoedAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:format": "pdf",
+              "dc:publisher": "Seismological Society of America",
+              "dc:source": "https://pubs.geoscienceworld.org/ssa/bssa/article/101/5/2015/326352"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:rigeofisica.ssn.unam.mx:ssnmx/14565",
+            "datestamp": "2021-10-20T16:28:53Z",
+            "setSpec": [
+              "com_ssnmx_3",
+              "col_ssnmx_26"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "PREMONITORY ELEVATION CHANGE BEFORE AN EARTHQUAKE BASED ON DILATANCY-DIFFUSION MODEL",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0000-0002-0219-9813",
+                "#text": "Shri Krishna Singh"
+              },
+              "dc:subject": [
+                "Premonitory Elevation Change",
+                "Earthquake",
+                "Dilatancy-Diffusion Model",
+                "info:eu-repo/classification/LCC/Premonitory Elevation Change",
+                "info:eu-repo/classification/LCC/Earthquake",
+                "info:eu-repo/classification/LCC/Dilatancy-Diffusion Model",
+                "info:eu-repo/classification/LCC/Seismology",
+                "info:eu-repo/classification/UNESCO/concept8601",
+                "info:eu-repo/classification/GeoRef/Seismology",
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/2507",
+                "info:eu-repo/classification/cti/250705"
+              ],
+              "dc:description": "The dilatancy-diffusion model, recently proposed to explain premonitory changes in geo-physical and geochemical fields before several shallow earthquakes, implies uplift of the epicentral region. Based on a dilating sphere in an elastic half-space, simple formulas and a graph are presented which could be used to predict the magnitude and depth of the focus of a future earthquake if the magnitude of the dilatancy were known. Alternatively an estímate of the magnitude of the dilatancy can be made with the help of the graph by compiling information on maximum vertical displacement, depth of the center and the radius of the dilating sphere for earthquakes that are preceded by dilatancy.",
+              "dc:date": [
+                "1973",
+                "1973-07-01"
+              ],
+              "dc:type": [
+                "info:eu-repo/semantics/article",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:identifier": [
+                "Singh, S. K. (1973). PREMONITORY ELEVATION CHANGE BEFORE AN EARTHQUAKE BASED ON DILATANCY-DIFFUSION MODEL. Geofísica Internacional, 13(3), 279-289. http://dx.doi.org/10.22201/igeof.00167169p.1973.13.3.959",
+                "http://rigeofisica.ssn.unam.mx/jspui/handle/ssnmx/14565"
+              ],
+              "dc:language": "eng",
+              "dc:relation": [
+                "Geofísica Internacional",
+                "0016-7169"
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:format": "pdf",
+              "dc:publisher": "UNAM, Instituto de Geofísica",
+              "dc:source": "http://revistagi.geofisica.unam.mx/index.php/RGI/article/view/959"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:rigeofisica.ssn.unam.mx:ssnmx/14561",
+            "datestamp": "2021-10-20T16:29:26Z",
+            "setSpec": [
+              "com_ssnmx_3",
+              "col_ssnmx_26"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "The earthquake of 16 November, 1925 (Ms=7.0) and the reported tsunami in Zihuatanejo, Mexico",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0000-0002-0219-9813",
+                "#text": "Shri Krishna Singh"
+              },
+              "dc:subject": [
+                "Tsunami of 1925",
+                "Tsunami in Zihuatanejo",
+                "Earthquake",
+                "info:eu-repo/classification/LCC/Tsunami of 1925",
+                "info:eu-repo/classification/LCC/Tsunami in Zihuatanejo",
+                "info:eu-repo/classification/LCC/Earthquake",
+                "info:eu-repo/classification/LCC/Seismology",
+                "info:eu-repo/classification/UNESCO/concept8601",
+                "info:eu-repo/classification/GeoRef/Seismology",
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/2507",
+                "info:eu-repo/classification/cti/250705"
+              ],
+              "dc:description": "A feasibility study to develop a tsunami alert system for Mexican earthquakes, using broadband seismograms from the National Seismological Service, is currently under way. A first step in this direction is a revision of the Mexican tsunami catalogs. In these catalogs, one of the largest tsunamis of this century is reported in the Port of Zihuatanejo and has been re- lated to an earthquake which occurred on November 16, 1925. This earthquake was located at a distance of about 600 km from Zihuatanejo and had a surface-wave magnitude, Ms, of 7.0. In developing a tsunami alert system, it is important t o know if the tsunami was indeed related to the earthquake of 1925. In this note we examine available evidence and find thatthe tsunami was not related to the earthquake. There is no evidence of a local earthquake near Zihuatanejo which may have resulted in the tsunami. We conclude that the tsunami was either caused by slumping of the sea floor near Zihuatanejo or by a meteorological phenomenon in the region.",
+              "dc:date": [
+                "1998",
+                "1998-01-01"
+              ],
+              "dc:type": [
+                "info:eu-repo/semantics/article",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:identifier": [
+                "Singh, S. K., Pacheco, J., & Shapiro, N. (1998). The earthquake of 16 November, 1925 (Ms=7.0) and the reported tsunami in Zihuatanejo, Mexico. Geofísica Internacional, 37(1), 49-52. http://dx.doi.org/10.22201/igeof.00167169p.1998.37.1.2160",
+                "http://rigeofisica.ssn.unam.mx/jspui/handle/ssnmx/14561"
+              ],
+              "dc:language": "eng",
+              "dc:relation": [
+                "Geofísica Internacional",
+                "0016-7169"
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:format": "pdf",
+              "dc:publisher": "UNAM, Instituto de Geofísica",
+              "dc:source": "http://revistagi.geofisica.unam.mx/index.php/RGI/article/view/2160"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:rigeofisica.ssn.unam.mx:ssnmx/43",
+            "datestamp": "2021-10-20T16:30:17Z",
+            "setSpec": [
+              "com_ssnmx_3",
+              "col_ssnmx_26"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Intraslab earthquake of 16 june 2013 (M-w 5.9), one of the closest such events to Mexico City",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0000-0002-0219-9813",
+                "#text": "Shri Krishna Singh"
+              },
+              "dc:subject": [
+                "FUENTE SPECTRA",
+                "TERREMOTOS INSLAB",
+                "NORTEAMÉRICA",
+                "FUERTE MOVIMIENTO",
+                "ZONA",
+                "AMPLIFICACIÓN",
+                "ATENUACIÓN",
+                "SUBDUCCIÓN",
+                "GEOMETRÍA",
+                "info:eu-repo/classification/LCC/Seismology",
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/2507",
+                "info:eu-repo/classification/cti/250705",
+                "info:eu-repo/classification/GeoRef/Seismology",
+                "info:eu-repo/classification/UNESCO/concept8601"
+              ],
+              "dc:date": [
+                "info:eu-repo/date/embargoEnd/2025-03-01",
+                "2014-03-01"
+              ],
+              "dc:type": [
+                "info:eu-repo/semantics/article",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:identifier": [
+                "Singh, S. K.; X. Perez-Campos; V. H. Espindola; V. M. Cruz-Atienza and A. Iglesias. 2014. \"Intraslab Earthquake of 16 June 2013 (M-W 5.9), One of the Closest Such Events to Mexico City.\" Seismological Research Letters, 85(2), 268-277. http://dx.doi.org/10.1785/0220130179",
+                "http://rigeofisica.ssn.unam.mx/jspui/handle/ssnmx/43"
+              ],
+              "dc:language": "eng",
+              "dc:relation": [
+                "SEISMOLOGICAL RESEARCH LETTERS",
+                "0895-0695"
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/embargoedAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:format": "pdf",
+              "dc:publisher": "Seismological Society of America",
+              "dc:source": "https://pubs.geoscienceworld.org/ssa/srl/article/85/2/268/315346"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:rigeofisica.ssn.unam.mx:ssnmx/14570",
+            "datestamp": "2021-11-07T04:49:03Z",
+            "setSpec": [
+              "com_ssnmx_3",
+              "col_ssnmx_26"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Moment Tensor Catalog for Mexican Earthquakes: Almost Two Decades of Seismicity.",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0000-0001-5151-8211",
+                "#text": "Sara Franco"
+              },
+              "dc:subject": [
+                "Moment Tensor Catalog",
+                "Mexican Earthquakes",
+                "Seismicity",
+                "info:eu-repo/classification/LCC/Moment Tensor Catalog",
+                "info:eu-repo/classification/LCC/Mexican Earthquakes",
+                "info:eu-repo/classification/LCC/Seismology",
+                "info:eu-repo/classification/UNESCO/concept8601",
+                "info:eu-repo/classification/GeoRef/Seismology",
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/2507",
+                "info:eu-repo/classification/cti/250705"
+              ],
+              "dc:description": "In this work we used waveforms and the catalog of National Seismological Service(SSN) to analyze more than 20,000 events with M>= 4.0 for the period2000-2018 with the goal of determining their moment tensor solutions. Because oflarge number of events, we automatize the process based on a set criteria. Usingepicentral location and magnitude of each earthquake reported by the SSN, a setof valid stations to be used for the moment solution, the length of time series,and the filter band for data and synthetics are automatically selected. Toexpedite calculations a pre-computed library of Green functions is used.\r\nThrough a linear inversion, for three-station combinations, the observed data andthe corresponding Green functions are used to determine the seismic momenttensor (with null isotropic component). To reduce a possible bias related to thestation distribution, each solution is weightened as a function of the azimuthalcoverage of the stations used. After the automatic process solutions of only8,000 earthquakes could be obtained; other events were rejected because ofincomplete length of the data segment and/or its integrity.\r\nThe solution quality is measured by the variance reduction value (VR). Astatistical analysis of quality allows us to establish a VR value of ≥ 50% asreasonable threshold for reliable solutions. With these criteria a catalog of ~1,500 events have been compiled, including some small events (Mw < 4.0).\r\nThere is evidence that show that the location of the well-solved events matchesthe areas of higher density of seismologic stations, and the limits of tectonicplates as well. A comparison between the catalog here obtained and the GlobalCentroid Moment Tensor (GCMT) catalog shows similarities. However, the magnitudereported in our catalog is systematically smaller than those reported byGCMT.\r\nThe moment tensor solution catalog is available online in a public database(132.248.6.13/~cmt). This work is the first in Mexico in which a database ofthis kind is presented.",
+              "dc:date": [
+                "2020",
+                "2020-06-27"
+              ],
+              "dc:type": [
+                "info:eu-repo/semantics/article",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:identifier": [
+                "Franco, S. I., Iglesias, A., & Fukuyama, E. (2020). Moment Tensor Catalog for Mexican Earthquakes: Almost Two Decades of Seismicity. Geofísica Internacional, 59(2), 54-80. http://dx.doi.org/10.22201/igeof.00167169p.2020.59.2.2081",
+                "http://rigeofisica.ssn.unam.mx/jspui/handle/ssnmx/14570"
+              ],
+              "dc:language": "eng",
+              "dc:relation": [
+                "Geofísica Internacional",
+                "0016-7169"
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:format": "pdf",
+              "dc:publisher": "UNAM, Instituto de Geofísica",
+              "dc:source": "http://revistagi.geofisica.unam.mx/index.php/RGI/article/view/2081/1709"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:rigeofisica.ssn.unam.mx:ssnmx/14564",
+            "datestamp": "2021-10-20T16:33:21Z",
+            "setSpec": [
+              "com_ssnmx_3",
+              "col_ssnmx_26"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "SHALLOW CRUSTAL STRUCTURE BELOW MEXICO CITY",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0000-0002-0219-9813",
+                "#text": "Shri Krishna Singh"
+              },
+              "dc:subject": [
+                "Shallow Crustal Structure",
+                "info:eu-repo/classification/LCC/Shallow Crustal Structure",
+                "info:eu-repo/classification/LCC/Seismology",
+                "info:eu-repo/classification/UNESCO/concept8601",
+                "info:eu-repo/classification/GeoRef/Seismology",
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/2507",
+                "info:eu-repo/classification/cti/250705"
+              ],
+              "dc:description": "From unreversed seismic refraction profiles, using quarry blasts as source, a 2-layer upper crustal structure below México City is obtained: for the first layer (2 km thick) Î±1 (the compressional wave velocity) =2.9 km/sec, for the second layer Î±2=4.7 km/sec. These values compare reasonably well the values obtained in the lake of Texcoco from short reversed refraction profiles.",
+              "dc:date": [
+                "1978",
+                "1978-04-01"
+              ],
+              "dc:type": [
+                "info:eu-repo/semantics/article",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:identifier": [
+                "Havskov, J., & Singh, S. K. (1978). SHALLOW CRUSTAL STRUCTURE BELOW MEXICO CITY. Geofísica Internacional, 17(2), 223-229. http://dx.doi.org/10.22201/igeof.00167169p.1978.17.2.935",
+                "http://rigeofisica.ssn.unam.mx/jspui/handle/ssnmx/14564"
+              ],
+              "dc:language": "eng",
+              "dc:relation": [
+                "Geofísica Internacional",
+                "0016-7169"
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:format": "pdf",
+              "dc:publisher": "UNAM, Instituto de Geofísica",
+              "dc:source": "http://revistagi.geofisica.unam.mx/index.php/RGI/article/view/935"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:rigeofisica.ssn.unam.mx:ssnmx/47",
+            "datestamp": "2021-10-20T16:33:48Z",
+            "setSpec": [
+              "com_ssnmx_3",
+              "col_ssnmx_26"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "The mexican national seismological service: an overview",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0000-0001-8970-7966",
+                "#text": "XYOLI PEREZ CAMPOS"
+              },
+              "dc:subject": [
+                "REDE DE BANDA ANCHA",
+                "GEOFÍSICA",
+                "SISTEMA DE POSICIONAMIENTO GLOBAL",
+                "ALCANTARILLADO SANITARIO",
+                "SISMOLOGÍA",
+                "info:eu-repo/classification/LCC/Broadband networks",
+                "info:eu-repo/classification/LCC/Geophysics",
+                "info:eu-repo/classification/LCC/Global positioning system",
+                "info:eu-repo/classification/LCC/Sanitary sewer",
+                "info:eu-repo/classification/UNESCO/concept8601",
+                "info:eu-repo/classification/GeoRef/Seismology",
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/2507",
+                "info:eu-repo/classification/cti/250705"
+              ],
+              "dc:description": "The Servicio Sismológico Nacional (SSN, Mexican National Seismological Service) has a history of 107 yrs. In the last 13 yrs, the SSN has gone through a significant modernization process, involving the installation of new broadband stations with colocalized accelerometers, seismometers, and Global Positioning System (GPS) receivers. New collaborations with other Mexican regional networks helped increase the number of stations from which the SSN receives data. In this article, we present the current backbone broadband network configuration; data flow from the stations to the automatic and manual publication of the earthquake location and magnitude; and the seismic catalog, which includes more than 105,000 events since 1900. A clear example of the successful performance of this network is the recording of the 8 September 2017 Mw 8.2 earthquake, located in the Gulf of Tehuantepec. We present the signals of 52 of the 63 SSN broadband stations that recorded the event in real time. This earthquake represents the largest recorded in Mexico by a comprehensive national network. © Copyright 2018 Seismological Society of America.",
+              "dc:date": [
+                "info:eu-repo/date/embargoEnd/2025-02-07",
+                "2018-02-07"
+              ],
+              "dc:type": [
+                "info:eu-repo/semantics/publishedVersion",
+                "info:eu-repo/semantics/article"
+              ],
+              "dc:identifier": [
+                "Pérez-Campos, X.; V. H. Espíndola; J. Pérez; J. A. Estrada; C. C. Monroy; D. Bello; A. González-López; D. G. Ávila; M. G. C. R. Esparza; R. Maldonado, et al. 2018. \"The Mexican National Seismological Service: An Overview.\" Seismological Research Letters, 89(2A), 318-323. http://dx.doi.org/10.1785/0220170186",
+                "http://rigeofisica.ssn.unam.mx/jspui/handle/ssnmx/47"
+              ],
+              "dc:language": "eng",
+              "dc:relation": [
+                "Seismological Research Letters",
+                "0895-0695"
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/embargoedAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:format": "pdf",
+              "dc:publisher": "Seismological Society of America",
+              "dc:source": "https://pubs.geoscienceworld.org/ssa/srl/article/89/2A/318/527312"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:rigeofisica.ssn.unam.mx:ssnmx/38",
+            "datestamp": "2021-10-20T16:34:37Z",
+            "setSpec": [
+              "com_ssnmx_3",
+              "col_ssnmx_26"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Application of the ESI 2007 scale to two large earthquakes: South Island, New Zealand (2010 mw7.1), and Tohoku, Japan (2011 mw9.0)",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0000-0002-9024-7554",
+                "#text": "John Jairo Sanchez Aguilar"
+              },
+              "dc:subject": [
+                "TERREMOTOS EN NUEVA ZELANDA",
+                "ISLA DEL SUR",
+                "NUEVA ZELANDA",
+                "CONFIGURACIONES TECTÓNICAS",
+                "TERREMOTOS EN JAPÓN",
+                "info:eu-repo/classification/LCC/Terremotos en Nueva Zelanda",
+                "info:eu-repo/classification/UNESCO/concept8601",
+                "info:eu-repo/classification/GeoRef/Seismology",
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/250705",
+                "info:eu-repo/classification/LCC/Terremotos en Japón",
+                "info:eu-repo/classification/LCC/Configuraciones tectónicas"
+              ],
+              "dc:description": "Application of the ESI 2007 Scale is implemented by compilation of reports and quantification of the surface effects on the geological environment (i.e., length and width of ground fractures, width of lateral spreading, diameter of mud/ sand/gravel boils) during two recent large earthquakes: South Island, New Zealand (3 September 2010 Mw7.1, referred to here as the New Zealand earthquake [NZE]) and Tohoku, Japan (11 March 2011 Mw9.0, referred to here as the Japan earthquake [JPE]). These two earthquakes occurred on different types of faults and in different geological and tectonic settings: the NPE was oblique to the Alpine fault, a strike-slip fault segment that is part of the tectonics between the Australian and Pacific plates that involves compressional regime and dextral component of motion, and the JPE occurred along the subduction zone between the Pacific and Okhotsk plates at the latitude of the Japan trench. From secondary information mined from various sources (including reports of reconnaissance campaigns, published papers, satellite imagery and photographs, and local reports from the affected areas), a database was compiled containing surface environmental effects of the two earthquakes to determine intensity levels and to construct preliminary isoseismal maps. In the case of NZE, intensities reached degree XI and reports were concentrated in the surroundings of the Christchurch district, whereas, in the case of JPE, reports were distributed along the Tohoku and Kanto regions in northeastern Honshu and intensities reached degree XII. The isoseismal maps constructed based solely on the environmental effects are a good complement to other estimates of intensity for both earthquakes.",
+              "dc:date": [
+                "info:eu-repo/date/embargoEnd/2025-05-24",
+                "2016-03-11"
+              ],
+              "dc:type": [
+                "info:eu-repo/semantics/publishedVersion",
+                "info:eu-repo/semantics/article"
+              ],
+              "dc:identifier": [
+                "Sanchez, J. J. and R. F. Maldonado. 2016. \"Application of the Esi 2007 Scale to Two Large Earthquakes: South Island, New Zealand (2010 M-W 7.1), and Tohoku, Japan (2011 M-W 9.0).\" Bulletin of the Seismological Society of America, 106(3), 1151-1161. http://dx.doi.org/10.1785/0120150188",
+                "http://rigeofisica.ssn.unam.mx/jspui/handle/ssnmx/38"
+              ],
+              "dc:language": "eng",
+              "dc:relation": [
+                "Bulletin of the Seismological Society of America",
+                "1943-3573"
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/embargoedAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:format": "pdf",
+              "dc:publisher": "Seismological Society of America",
+              "dc:source": "https://pubs.geoscienceworld.org/ssa/bssa/article/106/3/1151/332301"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:rigeofisica.ssn.unam.mx:ssnmx/14569",
+            "datestamp": "2021-10-20T16:36:25Z",
+            "setSpec": [
+              "com_ssnmx_3",
+              "col_ssnmx_26"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "SOURCE PARAMETERS OF THE ORIZABA EARTHQUAKE OF AUGUST 28, 1973",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0000-0002-0219-9813",
+                "#text": "Shri Krishna Singh"
+              },
+              "dc:subject": [
+                "Source Parameters, Orizaba Earthquake",
+                "info:eu-repo/classification/LCC/Source Parameters",
+                "info:eu-repo/classification/LCC/Orizaba Earthquake",
+                "info:eu-repo/classification/LCC/Seismology",
+                "info:eu-repo/classification/UNESCO/concept8601",
+                "info:eu-repo/classification/GeoRef/Seismology",
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/2507",
+                "info:eu-repo/classification/cti/250705"
+              ],
+              "dc:description": "The theory and method by which the source parameters of an earthquake can be derived from seismic signals in reviewed. 11 P-wave spectra (short and long period records for each station) are averaged and combined with 11G2 wave spectra to define the average source spectrum of the Orizaba earthquake between periods of 200 sec and 0.5 sec. the seismic moment of this () earthquake is determined as 4.8dyne cm. The corner frequency is 0.1 cps, from wich the source radius is estimated to have been 13 km, with a stress drop of 95 bars.",
+              "dc:date": [
+                "1976",
+                "1976-07-01"
+              ],
+              "dc:type": [
+                "info:eu-repo/semantics/article",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:identifier": [
+                "Singh, S. K., & Wyss, M. (1976). SOURCE PARAMETERS OF THE ORIZABA EARTHQUAKE OF AUGUST 28, 1973. Geofísica Internacional, 16(3), 165-184. http://dx.doi.org/10.22201/igeof.00167169p.1976.16.3.1119",
+                "http://rigeofisica.ssn.unam.mx/jspui/handle/ssnmx/14569"
+              ],
+              "dc:language": "eng",
+              "dc:relation": [
+                "Geofísica Internacional",
+                "0016-7169"
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:format": "pdf",
+              "dc:publisher": "UNAM, Instituto de Geofísica",
+              "dc:source": "http://revistagi.geofisica.unam.mx/index.php/RGI/article/view/1119"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:rigeofisica.ssn.unam.mx:ssnmx/48",
+            "datestamp": "2021-10-20T16:37:22Z",
+            "setSpec": [
+              "com_ssnmx_3",
+              "col_ssnmx_26"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "A seismic network for the valley of Mexico: present status and perspectives",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0000-0003-1035-1106",
+                "#text": "VICTOR HUGO ESPINDOLA CASTRO"
+              },
+              "dc:subject": [
+                "REDES DE COMUNICACIÓN",
+                "SISMOLOGÍA",
+                "RED SISMICA - VALLE DE MÉXICO",
+                "info:eu-repo/classification/LCC/SEISMOLOGY",
+                "info:eu-repo/classification/LCC/Seismic Network",
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/2507",
+                "info:eu-repo/classification/cti/250705",
+                "info:eu-repo/classification/GeoRef/Seismology",
+                "info:eu-repo/classification/UNESCO/concept8601"
+              ],
+              "dc:description": "Valley of Mexico (VM) Seismic Network-Red Sísmica del Valle de México (RSVM) is a regional digital network deployed by Instituto de Geofísica, Universidad Nacional Autónoma de México (UNAM). It started at 1996 with some vertical shortperiod instruments scattered across the valley, which since 2006 were gradually replaced by three-component intermediate, broadband, and more recently accelerographic instruments. It presently counts 28 stations, representing a contribution to the new generation of regional seismic networks in Mexico with the goal of densifying the coverage throughout the known seismic zones in the country. Along 11 yrs of operation with threecomponent sensors, this network has recorded numerous local and regional earthquakes. Seismicity recorded by RSVM has illuminated major seismic areas inside the valley and the style of faulting of this activity, having for the first time a focal mechanism catalog of this zone of the country. The recent upgrading of 16 out of 31 stations with accelerometers has provided, in real time, the strong ground motion in Mexico City generated by great earthquakes (M > 7) that occurred outside of the valley, having important implications to civil protection purposes. The results obtained up to now highlight the need to complete the upgrade of the rest of the stations, as well as densifying the network to deepen our knowledge of the structure of VM. © Copyright 2018 Seismological Society of America.",
+              "dc:date": [
+                "info:eu-repo/date/embargoEnd/2025-02-14",
+                "2018-02-14"
+              ],
+              "dc:type": [
+                "info:eu-repo/semantics/article",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:identifier": [
+                "Luis Quintanar, A. , Cárdenas‐Ramírez, D. I. , Bello‐Segura, V. H. , Espíndola, J. A. , Pérez‐Santana, C. , Cárdenas‐Monroy, A. L. , Carmona Gallegos, I. and I. Rodríguez‐Rasilla. (2018). A Seismic Network for the Valley of Mexico: Present Status and Perspectives. Seismological Research Letters, 89(2A), 356-362. http://dx.doi.org/10.1785/0220170198",
+                "http://rigeofisica.ssn.unam.mx/jspui/handle/ssnmx/48"
+              ],
+              "dc:language": "eng",
+              "dc:relation": [
+                "Seismological Research Letters",
+                "0895-0695"
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/embargoedAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:format": "pdf",
+              "dc:publisher": "Seismological Society of America",
+              "dc:source": "https://pubs.geoscienceworld.org/ssa/srl/article/89/2A/356/528201"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:rigeofisica.ssn.unam.mx:ssnmx/14568",
+            "datestamp": "2021-10-20T16:38:21Z",
+            "setSpec": [
+              "com_ssnmx_3",
+              "col_ssnmx_26"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Magnitude and Epicenter Estimations of Mexican Earthquakes form Isoseismic Maps",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0000-0002-0219-9813",
+                "#text": "Shri Krishna Singh"
+              },
+              "dc:subject": [
+                "Magnitude",
+                "Epicenter",
+                "Mexican Earthquakes",
+                "Isoseismic Maps",
+                "info:eu-repo/classification/LCC/Magnitude",
+                "info:eu-repo/classification/LCC/Epicenter",
+                "info:eu-repo/classification/LCC/Mexican Earthquakes",
+                "info:eu-repo/classification/LCC/Isoseismic Maps",
+                "info:eu-repo/classification/UNESCO/concept8601",
+                "info:eu-repo/classification/GeoRef/Seismology",
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/2507",
+                "info:eu-repo/classification/cti/250705"
+              ],
+              "dc:description": "Relationships between magnitude, M, and areas, Ai, of modified intensity contours IV, V and VI of the form M = Î»i log Ai + Âµi are derived from Mexican earthquakes. Due to insufficient data, Î»i has been fixed to 1. Events have been grouped broadly as interplate and intraplate events. Within the range of their validity (7.0â‰¤ M â‰¤8.2 for interplate; 6.4 â‰¤ M â‰¤ 7.1 for intraplate) the relations would give estimate of M to within Â± 0.3 to Â± 0.4 unit ( one standard deviation) of magnitude. The attenuation of intensity for interplate earthquakes is higher than that for intraplate earthquakes. The attenuation for interplate earthquakes is comparable to or greater than for Southern California earthquakes. Epicenters estimated at the center of maximum intensity contours differ from instrumental epicenter bye 48 Â± 22 km.",
+              "dc:date": [
+                "1980",
+                "1980-10-01"
+              ],
+              "dc:type": [
+                "info:eu-repo/semantics/article",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:identifier": [
+                "Singh, S. K., Reichle, M., & Havskov, J. (1980). Magnitude and Epicenter Estimations of Mexican Earthquakes form Isoseismic Maps. Geofísica Internacional, 19(4), 269-284. http://dx.doi.org/10.22201/igeof.00167169p.1980.19.4.914",
+                "http://rigeofisica.ssn.unam.mx/jspui/handle/ssnmx/14568"
+              ],
+              "dc:language": "eng",
+              "dc:relation": [
+                "Geofísica Internacional",
+                "0016-7169"
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:format": "pdf",
+              "dc:publisher": "UNAM, Instituto de Geofísica",
+              "dc:source": "http://revistagi.geofisica.unam.mx/index.php/RGI/article/view/914"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:rigeofisica.ssn.unam.mx:ssnmx/14562",
+            "datestamp": "2021-10-20T16:39:58Z",
+            "setSpec": [
+              "com_ssnmx_3",
+              "col_ssnmx_26"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "TRANSIENT ELECTROMAGNETIC RESPOONSE OF A CONDUCTING CYLINDER IN A CONDUCTING MEDIUM: NUMERICAL RESULTS",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0000-0002-0219-9813",
+                "#text": "Shri Krishna Singh"
+              },
+              "dc:subject": [
+                "Transient Electromagnetic Respoonse",
+                "Cylinder In A Conducting",
+                "info:eu-repo/classification/LCC/Transient Electromagnetic Respoonse",
+                "info:eu-repo/classification/LCC/Cylinder In A Conducting",
+                "info:eu-repo/classification/LCC/Seismology",
+                "info:eu-repo/classification/UNESCO/concept8601",
+                "info:eu-repo/classification/GeoRef/Seismology",
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/2507",
+                "info:eu-repo/classification/cti/250705"
+              ],
+              "dc:description": "Numerical results for the transient electromagnetic response of a conducting infinite cylinder embedded in a conducting medium excited by a infinite line source are presented. The input current is a Heaviside function of time. The displacement currents are summed to be negligible in comparison with the conduction currents. The contribution of n = 0 term (induced line current in the cylinder) is shown to predominate over the higher multipoles .As a rough rule the effect of the outer conductivity must be taken into consideration if it is more than 10 -2 times the conductivity of the cylinder.",
+              "dc:date": [
+                "1972",
+                "1972-10-01"
+              ],
+              "dc:type": [
+                "info:eu-repo/semantics/article",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:identifier": [
+                "Singh, S. K. (1972). TRANSIENT ELECTROMAGNETIC RESPOONSE OF A CONDUCTING CYLINDER IN A CONDUCTING MEDIUM: NUMERICAL RESULTS. Geofísica Internacional, 12(4), 267-279. http://dx.doi.org/10.22201/igeof.00167169p.1972.12.4.1007",
+                "http://rigeofisica.ssn.unam.mx/jspui/handle/ssnmx/14562"
+              ],
+              "dc:language": "eng",
+              "dc:relation": [
+                "Geofísica Internacional",
+                "0016-7169"
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:format": "pdf",
+              "dc:publisher": "UNAM, Instituto de Geofísica",
+              "dc:source": "http://revistagi.geofisica.unam.mx/index.php/RGI/article/view/1007"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:rigeofisica.ssn.unam.mx:ssnmx/14560",
+            "datestamp": "2021-10-20T16:40:52Z",
+            "setSpec": [
+              "com_ssnmx_3",
+              "col_ssnmx_26"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Magnitude determination of Mexican earthquakes",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0000-0002-0219-9813",
+                "#text": "Shri Krishna Singh"
+              },
+              "dc:subject": [
+                "Magnitude scále",
+                "Seismic energy",
+                "Amplitude",
+                "Escala de magnitud",
+                "Energía sísmica",
+                "Amplitud",
+                "info:eu-repo/classification/LCC/Magnitude scále",
+                "info:eu-repo/classification/LCC/Seismic energy",
+                "info:eu-repo/classification/LCC/Amplitude",
+                "info:eu-repo/classification/LCC/Seismology",
+                "info:eu-repo/classification/UNESCO/concept8601",
+                "info:eu-repo/classification/GeoRef/Seismology",
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/2507",
+                "info:eu-repo/classification/cti/250705"
+              ],
+              "dc:description": "We explore two altemative magnitude scales, MA and ME, for quasi-real time estimate of magnitude of moderate and large Mexican earthquakes using broadband recordings at Ciudad Universitaria (CU), Mexico D.F., Mexico. MA and Me are based on amplitude of band-pass filtered (between 15 and 30 sec) velocity traces and estimate of radiated seismic energy, respectively. Both scales are tied to the moment magnitude, MW. MA is adequate for shallow, moderate, and large earthquakes, but appears to saturate for major and great earthquakes. ME, on the other hand, does not suffer from saturation and should be valid for events of all depths. In as much as MA measures long-period characteristics of an event while the contribution to ME mostly comes from frequencies near the comer frequency of the event, the magnitude on the two scales may differ for the same earthquake, even if MA has not saturated. Since a large disparity in the two magnitudes may be indicative of anomalous nature of an earthquake, we recommend the use of both scales whenever possible.",
+              "dc:date": [
+                "1994",
+                "1994-04-01"
+              ],
+              "dc:type": [
+                "info:eu-repo/semantics/article",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:identifier": [
+                "Singh, S. K., & Pacheco, J. F. (1994). Magnitude determination of Mexican earthquakes. Geofísica Internacional, 33(2), 189-198. http://dx.doi.org/10.22201/igeof.00167169p.1994.33.2.468",
+                "http://rigeofisica.ssn.unam.mx/jspui/handle/ssnmx/14560"
+              ],
+              "dc:language": "eng",
+              "dc:relation": [
+                "Geofísica Internacional",
+                "0016-7169"
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:format": "pdf",
+              "dc:publisher": "UNAM, Instituto de Geofísica",
+              "dc:source": "http://revistagi.geofisica.unam.mx/index.php/RGI/article/view/468"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:rigeofisica.ssn.unam.mx:ssnmx/39",
+            "datestamp": "2021-10-20T16:41:37Z",
+            "setSpec": [
+              "com_ssnmx_3",
+              "col_ssnmx_26"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Estimation of radiated energy using the EGF technique: what should be the upper limit of integration in the frequency domain?",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0000-0002-0219-9813",
+                "#text": "Shri Krishna Singh"
+              },
+              "dc:subject": [
+                "TERREMOTOS",
+                "ANÁLISIS EMPÍRICO",
+                "MÉTODO DE ESTIMACIÓN",
+                "FUNCIÓN VERDE",
+                "ANÁLISIS DE FIABILIDAD",
+                "SISMICIDAD",
+                "info:eu-repo/classification/LCC/Earthquake",
+                "info:eu-repo/classification/LCC/Empirical analysis",
+                "info:eu-repo/classification/LCC/Estimation method",
+                "info:eu-repo/classification/LCC/Green function",
+                "info:eu-repo/classification/LCC/Reliability analysis",
+                "info:eu-repo/classification/LCC/Seismicity",
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/2507",
+                "info:eu-repo/classification/cti/250705",
+                "info:eu-repo/classification/UNESCO/concept8601",
+                "info:eu-repo/classification/GeoRef/Seismology"
+              ],
+              "dc:description": "The empirical Green's function (EGF) technique is frequently used to estimate the radiated seismic energy, ER, of an earthquake. An approximation of the moment-rate spectrum, M0(f), of the target earthquake is obtained from the ratio of the spectrum of the target earthquake to the spectrum of the EGF earthquake, and the radiated seismic energy is computed by integrating f2M0 2(f) over frequency f. The choice of the upper limit of integration, fu, is critical. In this note we show that the optimum choice of fu, for the ω2-source model is given by fu/fc1∼ fc2/fc1, where fc1 and fc2 are the corner frequencies of the target and the EGF earthquakes, respectively. This result provides a useful guide in the application of the EGF technique to obtain a reliable estimate of the radiated seismic energy.",
+              "dc:date": [
+                "info:eu-repo/date/embargoEnd/2025-11-19",
+                "2007-08-01"
+              ],
+              "dc:type": [
+                "info:eu-repo/semantics/article",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:identifier": [
+                "Iglesias, A. and S. K. Singh. 2007. \"Estimation of Radiated Energy Using the Egf Technique: What Should Be the Upper Limit of Integration in the Frequency Domain?\" Bulletin of the Seismological Society of America, 97(4), 1346-1349. http://dx.doi.org/10.1785/0120060204",
+                "http://rigeofisica.ssn.unam.mx/jspui/handle/ssnmx/39"
+              ],
+              "dc:language": "eng",
+              "dc:relation": [
+                "Bulletin of the Seismological Society of America",
+                "0037-1106"
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/embargoedAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:format": "pdf",
+              "dc:publisher": "Seismological Society of America",
+              "dc:source": "https://pubs.geoscienceworld.org/ssa/bssa/article/97/4/1346/146503"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:rigeofisica.ssn.unam.mx:ssnmx/14563",
+            "datestamp": "2021-10-20T16:42:44Z",
+            "setSpec": [
+              "com_ssnmx_3",
+              "col_ssnmx_26"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "AFTHERSHOCKS INT THE FIRST 32 HOURS FOLLOWING OAXACA EARTHQUAKE OF 29 NOVEMBER, 1978 DETERMINED FROM SISMEX NETWORK",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0000-0002-0219-9813",
+                "#text": "Shri Krishna Singh"
+              },
+              "dc:subject": [
+                "Oaxaca Earthquake",
+                "Sismex Network",
+                "info:eu-repo/classification/LCC/Oaxaca Earthquake",
+                "info:eu-repo/classification/LCC/Sismex Network",
+                "info:eu-repo/classification/LCC/Seismology",
+                "info:eu-repo/classification/UNESCO/concept8601",
+                "info:eu-repo/classification/GeoRef/Seismology",
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/2507",
+                "info:eu-repo/classification/cti/250705"
+              ],
+              "dc:description": "Se han localizado 15 réplicas (3.5 < M < 4.5) ocurridas durante las primeras 32 horas del temblor principal de Oaxaca a partir de los datos de Ia red SISMEX. El área estimada de estas réplicas corresponde al 60% del área estimada para las réplicas registradas en el campo del 1o. al 12 de diciembre de 1978",
+              "dc:date": [
+                "1978",
+                "1978-07-01"
+              ],
+              "dc:type": [
+                "info:eu-repo/semantics/article",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:identifier": [
+                "Havskov, J., Singh, S. K., & Espinosa, J. M. (1978). AFTHERSHOCKS INT THE FIRST 32 HOURS FOLLOWING OAXACA EARTHQUAKE OF 29 NOVEMBER, 1978 DETERMINED FROM SISMEX NETWORK. Geofísica Internacional, 17(3), 327-334.  http://dx.doi.org/10.22201/igeof.00167169p.1978.17.3.1053",
+                "http://rigeofisica.ssn.unam.mx/jspui/handle/ssnmx/14563"
+              ],
+              "dc:language": "eng",
+              "dc:relation": [
+                "Geofísica Internacional",
+                "0016-7169"
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:format": "pdf",
+              "dc:publisher": "UNAM, Instituto de Geofísica",
+              "dc:source": "http://revistagi.geofisica.unam.mx/index.php/RGI/article/view/1053"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:rigeofisica.ssn.unam.mx:ssnmx/46",
+            "datestamp": "2021-10-20T16:45:49Z",
+            "setSpec": [
+              "com_ssnmx_3",
+              "col_ssnmx_26"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "The silent earthquake of 2002 in the Guerrero seismic gap, Mexico (Mw=7.6): inversion of slip on the plate interface and some implications",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0000-0002-8630-0164",
+                "#text": "Arturo Iglesias"
+              },
+              "dc:subject": [
+                "GPS",
+                "BRECHA SÍSMICA DE GUERRERO",
+                "TERREMOTOS",
+                "info:eu-repo/classification/LCC/North America",
+                "info:eu-repo/classification/LCC/GUERRERO SEISMIC GAP",
+                "info:eu-repo/classification/LCC/GPS",
+                "info:eu-repo/classification/LCC/Earthquake",
+                "info:eu-repo/classification/UNESCO/concept8601",
+                "info:eu-repo/classification/GeoRef/Seismology",
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/2507",
+                "info:eu-repo/classification/cti/250705"
+              ],
+              "dc:description": "We invert GPS position data to map the slip on the plate interface during an aseismic, slow-slip event, which occurred in 2002 in the Guerrero seismic gap of the Mexican subduction zone, lasted for ∼4 months, and was detected by 7 continuous GPS receivers located over an area of ∼550×250 km2. Our best model, under physically reasonable constraints, shows that the slow slip occurred on the transition zone at a distance range of 100 to 170 km from the trench. The average slip was about 22.5 cm (Mo∼2.97 ×1027 dyne-cm, Mw=7.6). This model implies an increased shear stress at the bottom of the locked, seismogenic part of the interface which lies updip from the transition zone, and, hence. an enhanced seismic hazard. The results from other similar subduction zones also favor this model. However, we cannot rule out an alternative model that requires slow slip to invade the seismogenic zone as well. A definitive answer to this critical issue would require more GPS stations and long-term monitoring.",
+              "dc:date": [
+                "2004-03-17",
+                "2003-03-15"
+              ],
+              "dc:type": [
+                "info:eu-repo/semantics/publishedVersion",
+                "info:eu-repo/semantics/article"
+              ],
+              "dc:identifier": [
+                "Iglesias, A.; S. K. Singh; A. R. Lowry; M. Santoyo; V. Kostoglodov; K. M. Larson and S. I. Franco-Sánchez. 2004. \"The Silent Earthquake of 2002 in the Guerrero Seismic Gap, Mexico (Mw=7.6): Inversion of Slip on the Plate Interface and Some Implications.\" Geofisica Internacional, 43(3), 309-317. http://bcct.unam.mx/ftpbcct/GI-Iglesias2004.pdf",
+                "http://rigeofisica.ssn.unam.mx/jspui/handle/ssnmx/46"
+              ],
+              "dc:language": "eng",
+              "dc:relation": [
+                "Geofísica Internacional",
+                "0016-7169"
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:format": "pdf",
+              "dc:publisher": "UNAM, Instituto de Geofísica",
+              "dc:source": "http://bcct.unam.mx/ftpbcct/GI-Iglesias2004.pdf"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:rigeofisica.ssn.unam.mx:ssnmx/14567",
+            "datestamp": "2021-10-20T16:46:37Z",
+            "setSpec": [
+              "com_ssnmx_3",
+              "col_ssnmx_26"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "MISLOCATION OF MEXICAN EARTHQUAKES AS REPORTED IN INTERNATIONAL BULLETINS",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0000-0002-0219-9813",
+                "#text": "Shri Krishna Singh"
+              },
+              "dc:subject": [
+                "Mexican Earthquakes",
+                "info:eu-repo/classification/LCC/Mexican Earthquakes",
+                "info:eu-repo/classification/LCC/Seismology",
+                "info:eu-repo/classification/UNESCO/concept8601",
+                "info:eu-repo/classification/GeoRef/Seismology",
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/2507",
+                "info:eu-repo/classification/cti/250705"
+              ],
+              "dc:description": "Comparison of locations of earthquakes determined from field seismographs or from special studies with those reported in PDE and ISC bulletins suggests that shallow coastal earthquakes in Mexico are systematically mislocated in these bulletins. In general the epicenters are shifted about 35 km towards N 35°-45°E. ISC, more often than PDE, reports depths based on depth phases. These depths, although slightly greater than the depths estimated from synthetic modeling or field data, are more accurate than the PDE depths. However, there is little to choose between the two bulletins as far as epicentral locations are concerned. A modest increase in the number of Mexican stations sending readings to PDE and ISC appears to improve the locations by about 10 km or so. The mislocations are most probably due to higher velocity of the Cocos plate below Mexico. The systematic mislocation should be taken into account in the use of PDE and ISC bulletins.",
+              "dc:date": [
+                "1985",
+                "1985-04-01"
+              ],
+              "dc:type": [
+                "info:eu-repo/semantics/article",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:identifier": [
+                "Singh, S. K., & Lermo, J. (1985). MISLOCATION OF MEXICAN EARTHQUAKES AS REPORTED IN INTERNATIONAL BULLETINS. Geofísica Internacional, 24(2), 333-351. http://dx.doi.org/10.22201/igeof.00167169p.1985.24.2.1047",
+                "http://rigeofisica.ssn.unam.mx/jspui/handle/ssnmx/14567"
+              ],
+              "dc:language": "eng",
+              "dc:relation": [
+                "Geofísica Internacional",
+                "0016-7169"
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/openAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:format": "pdf",
+              "dc:publisher": "UNAM, Instituto de Geofísica",
+              "dc:source": "http://revistagi.geofisica.unam.mx/index.php/RGI/article/view/1047"
+            }
+          }
+        },
+        {
+          "header": {
+            "identifier": "oai:rigeofisica.ssn.unam.mx:ssnmx/40",
+            "datestamp": "2021-10-20T16:47:19Z",
+            "setSpec": [
+              "com_ssnmx_3",
+              "col_ssnmx_26"
+            ]
+          },
+          "metadata": {
+            "oai_dc:dc": {
+              "@xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/",
+              "@xmlns:doc": "http://www.lyncode.com/xoai",
+              "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+              "@xsi:schemaLocation": "http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+              "dc:title": "Crustal structure beneath Mexico from receiver functions",
+              "dc:creator": {
+                "@id": "info:eu-repo/dai/mx/orcid/0000-0003-1035-1106",
+                "#text": "VICTOR HUGO ESPINDOLA CASTRO"
+              },
+              "dc:subject": [
+                "TERREMOTOS DE PROFUNDIDAD INTERMEDIA",
+                "ZONAS DE SUBDUCCIÓN ACOPLADAS",
+                "TERREMOTOS INSLAB",
+                "VARIACIÓN TEMPORAL",
+                "TRANSFERENCIA DE ESTRÉS",
+                "SPECTRA",
+                "CICLO",
+                "info:eu-repo/classification/LCC/SPECTRA",
+                "info:eu-repo/classification/LCC/INSLAB EARTHQUAKES",
+                "info:eu-repo/classification/LCC/TEMPORARY VARIATION",
+                "info:eu-repo/classification/LCC/INTERMEDIATE DEPTH EARTHQUAKES",
+                "info:eu-repo/classification/cti/1",
+                "info:eu-repo/classification/cti/25",
+                "info:eu-repo/classification/cti/2507",
+                "info:eu-repo/classification/cti/250705",
+                "info:eu-repo/classification/UNESCO/concept8601",
+                "info:eu-repo/classification/GeoRef/Seismology"
+              ],
+              "dc:description": "We present the main characteristics of the crust in the Mexican territory as inferred from analysis of converted teleseismic waves. Teleseismic signals registered at 33 stations of Mexico's National Seismological Service (Servicio Sismologico Nacional) broadband network were collected and processed to obtain receiver functions (RFs). The RFs were analyzed to get optimal depth values of the major litho-logical interfaces and velocity ratios (kappa = V-P/V-S) under the seismic stations. Through stacking of the RFs and comparison with the individual signals, we obtained estimates of the depth of the Moho with average uncertainties of similar to 3.8 km, the depth of a prominent intracrustal interface, and in some cases, the depth of the base of the oceanic crust. The crustal thickness varies from 11 to 42 km and the velocity ratios (V-P/V-S) from 1.60 to 2.10 along the country.",
+              "dc:date": [
+                "info:eu-repo/date/embargoEnd/2025-09-25",
+                "2017-09-25"
+              ],
+              "dc:type": [
+                "info:eu-repo/semantics/article",
+                "info:eu-repo/semantics/publishedVersion"
+              ],
+              "dc:identifier": [
+                "Espindola, V. H.; L. Quintanar and J. M. Espindola. 2017. \"Crustal Structure beneath Mexico from Receiver Functions.\" Bulletin of the Seismological Society of America, 107(5), 2427-2442. http://dx.doi.org/10.1785/0120160152",
+                "http://rigeofisica.ssn.unam.mx/jspui/handle/ssnmx/40"
+              ],
+              "dc:language": "eng",
+              "dc:relation": [
+                "BULLETIN OF THE SEISMOLOGICAL SOCIETY OF AMERICA",
+                "1943-3573"
+              ],
+              "dc:rights": [
+                "info:eu-repo/semantics/embargoedAccess",
+                "http://creativecommons.org/licenses/by-nc-nd/4.0"
+              ],
+              "dc:format": "pdf",
+              "dc:publisher": "Seismological Society of America",
+              "dc:source": "https://pubs.geoscienceworld.org/ssa/bssa/article/107/5/2427/506671"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

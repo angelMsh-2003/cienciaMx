@@ -1,0 +1,20 @@
+{
+  "endpoint_info": {
+    "id": 45,
+    "name": "Concentración de Recursos de Información Científica y Académica, UAM Cuajimalpa",
+    "machine_name": "concentraci_n_de_recursos_de_informaci_n_cient_fica_y_acad_mica_uam_cuajimalpa",
+    "url": "http://ilitia.cua.uam.mx:8080/oai/request",
+    "dspace_version": "6.2",
+    "number_of_items": 1225
+  },
+  "collection_info": {
+    "timestamp": "20251113_200813",
+    "total_pages": 1,
+    "metadata_prefix": "oai_dc",
+    "total_files_created": 1,
+    "xmltodict_available": true
+  },
+  "files": [
+    "../data/20251113_200813/Concentraci_n_de_Recursos_de_Informaci_n_Cient_fica_y_Acad_mica_UAM_Cuajimalpa_ID_45/page_001.json"
+  ]
+}
