@@ -29,4 +29,5 @@ src/sandbox/
 
 # Meilisearch 
 meilisearch/meili_data/
+meilisearch/prod_data/consolidated_data.json
 meilisearch/data/
