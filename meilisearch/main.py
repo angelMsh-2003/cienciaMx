@@ -6,7 +6,7 @@ from contextlib import asynccontextmanager
 import load_data
 
 # MeiliSearch client
-client = Client('http://demos-meilisearch-6q6cgd-4f9541-217-196-48-210.traefik.me/')
+client = Client('http://localhost:7700')
 
 # Index name
 INDEX_NAME = 'documents'

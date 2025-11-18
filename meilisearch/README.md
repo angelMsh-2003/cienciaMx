@@ -36,7 +36,7 @@ This project provides a FastAPI application with MeiliSearch integration for sea
    docker-compose down
    ```
 
-The app will load the mock data from `data/mock_data.json` into MeiliSearch on startup.
+The app will load the data from `prod_data/consolidated_data.json` into MeiliSearch on startup.
 
 ## Endpoints
 
@@ -49,7 +49,7 @@ The app will load the mock data from `data/mock_data.json` into MeiliSearch on s
 Mock data is stored in `data/mock_data.json`.
 
 ### Datos de producción
-Los datos de producción se encuentran en archivos JSON dentro de `data/20251113_200813/`.
+Los datos de producción se encuentran en archivos JSON dentro de `prod_data/consolidated_data.json`.
 
 Para procesar y consolidar todos los datos:
 ```bash
