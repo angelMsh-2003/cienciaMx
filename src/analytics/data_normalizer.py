@@ -18,7 +18,7 @@ UNKNOWN_VALUE = "Desconocido"
 # Input / output directories
 INPUT_DIR = "data/output/data"
 OUTPUT_DIR = "data/output"
-# Normalized outputs live in a dedicated `normalized` subfolder
+
 NORMALIZED_DIR = os.path.join(OUTPUT_DIR, "normalized")
 MULTITITLE_DIR = os.path.join(OUTPUT_DIR, "multititle")
 
@@ -330,69 +330,63 @@ def normalize_subject(subject_list: Any) -> Optional[List[str]]:
 
     Returns `None` when nothing matches the allowed subjects.
     """
+    """
+    Improved subject normalization:
+    - If DC subject contains CTI classification codes, map them to labels.
+    - Otherwise keep the literal subject (uppercased, cleaned).
+    - Preserve multiple values and remove duplicates while keeping order.
+    """
     if not subject_list:
         return None
-    main_vals: List[str] = []
-    other_vals: List[str] = []
-    main_classif = set(nm.cti_area_mapping.values())
+
+    out: List[str] = []
+    seen = set()
+
     for s in ensure_list(subject_list):
         if not s or not isinstance(s, str):
             continue
         s_clean = s.strip()
+
+        # Skip URLs or technical identifiers
+        if s_clean.lower().startswith("http"):
+            continue
+
+        # CTI classification mapping
         if "info:eu-repo/classification/cti/" in s_clean:
             m = re.search(r"info:eu-repo/classification/cti/(\d+)", s_clean)
             if m:
                 code = m.group(1)
+                label = None
                 if len(code) == 4 and code in nm.cti_discipline_mapping:
-                    other_vals.append(nm.cti_discipline_mapping[code])
+                    label = nm.cti_discipline_mapping[code]
+                elif len(code) == 2 and code in nm.cti_field_mapping:
+                    label = nm.cti_field_mapping[code]
+                elif len(code) == 1 and code in nm.cti_area_mapping:
+                    label = nm.cti_area_mapping[code]
+                if label:
+                    v = clean_text_strict(label).upper()
+                    if v and v not in seen:
+                        out.append(v)
+                        seen.add(v)
                     continue
-                if len(code) == 2 and code in nm.cti_field_mapping:
-                    other_vals.append(nm.cti_field_mapping[code])
-                    continue
-                if len(code) == 1 and code in nm.cti_area_mapping:
-                    main_vals.append(nm.cti_area_mapping[code].upper())
-                    continue
-        if s_clean in main_classif:
-            main_vals.append(s_clean.upper())
-            continue
-        if "info:eu-repo/classification/librunam/" in s_clean:
-            extracted = s_clean.split("info:eu-repo/classification/librunam/")[-1].strip()
-            if extracted:
-                other_vals.append(extracted.upper())
-                continue
+
+        # Librunam or other classification: take the last path segment
         if "info:eu-repo/classification/" in s_clean:
-            parts = s_clean.split("/")
-            if parts:
-                other_vals.append(parts[-1].strip().upper())
+            seg = s_clean.split("/")[-1].strip()
+            if seg:
+                v = clean_text_strict(seg).upper()
+                if v and v not in seen:
+                    out.append(v)
+                    seen.add(v)
                 continue
-        other_vals.append(s_clean.upper())
 
-    # Build whitelist and filter
-    allowed = set()
-    allowed.update(nm.cti_area_mapping.values())
-    allowed.update(nm.cti_field_mapping.values())
-    allowed.update(nm.cti_discipline_mapping.values())
+        # Generic subject: keep cleaned uppercased value
+        v = clean_text_strict(s_clean).upper()
+        if v and v not in seen:
+            out.append(v)
+            seen.add(v)
 
-    final_main: List[str] = []
-    seen_main = set()
-    for v in main_vals:
-        c = clean_text_strict(v).upper()
-        if c and c not in seen_main and c in allowed:
-            final_main.append(c)
-            seen_main.add(c)
-
-    final_other: List[str] = []
-    seen_other = set()
-    for v in other_vals:
-        if v.startswith("http"):
-            continue
-        c = clean_text_strict(v).upper()
-        if c and c not in seen_other and c not in seen_main and c in allowed:
-            final_other.append(c)
-            seen_other.add(c)
-
-    result = final_main + sorted(final_other)
-    return result if result else None
+    return out if out else None
 
 
 def normalize_language(lang_input: Any) -> Optional[Union[str, List[str]]]:
