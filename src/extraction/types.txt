@@ -1,0 +1,66 @@
+Anotación
+Artículo
+Book chapter
+Capítulo de libro
+Capítulo de libro/Book Part
+Cartel
+Documento de trabajo
+Ebook
+Image
+Informe
+Learning Object
+Libro
+Libro/Book
+Map
+Memoria de congreso
+Memorias
+Presentation
+Póster de congreso
+Reporte
+Revista
+Revista UASLP
+Technical Report
+Tesis
+Tesis de Doctorado
+Tesis de Licenciatura
+Tesis de Maestria
+Tesis de Maestría
+Tesis de doctorado
+Tesis de especialidad
+Tesis de licenciatura
+Tesis de maestria
+Tesis de maestría
+Thesis
+Video
+Working Paper
+academicSpecialization
+annotation
+article
+article/doctoralThesis
+article/masterThesis
+bachelorThesis
+bachelorThesis - Tesis de licenciatura
+book
+bookPart
+conferenceContribution
+conferenceObject
+conferencePaper
+conferencePoster
+conferencePoster - Póster de congreso
+conferenceProceedings
+conferenceProceedings - Memoria de congreso
+contributionToPeriodical - Contribución a publicación periódica
+doctoralDegreeWork
+doctoralThesis
+lecture
+masterDegreeWork
+masterThesis
+nfo:eu-repo/semantics/article/doctoralThesis
+other
+patent
+preprint
+report
+report - Reporte
+technicalDocumentation
+technicalDocumentation - Documentación técnica
+workingPaper
